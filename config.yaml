@@ -29,8 +29,8 @@ keywords:
                   "Point Cloud Upsampling", 
                   "Point Cloud Geometry Compression",
                   "Point Cloud Geometry Coding",
-                  "Point Cloud Super Resolution",,
-                  "Point Cloud Interpolation"
+                  "Point Cloud Super Resolution",
+                  "Point Cloud Interpolation",
                   "Point Cloud Attribute Compression",
                   "Point Cloud Attribute Coding"]
     "Compression":

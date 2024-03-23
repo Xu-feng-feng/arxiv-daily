@@ -52,7 +52,7 @@ This codebase is composed of the following parts:
 - [x] Configuration file
 - [x] Update code link
 - [ ] Subscribe & Update alerting
-- [ ] Support more `arxiv` filters
+- [ ] Support more `arxiv` filters for Advanced Search (It seems the query results are not up-to-date or incomplete as compared to Advanced Search.)
 - [ ] Archive old papers
 - [ ] Language translation ([`ChatGPT`](https://chat.openai.com/chat))
 - [ ] Usefull comments

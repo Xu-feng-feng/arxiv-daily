@@ -416,8 +416,7 @@ def demo(**config):
         else:    
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            to_web = True, show_badge = show_badge, use_b2t=False) # use_tc=False
 
     # 3. Update docs/wechat.md file
     if publish_wechat:

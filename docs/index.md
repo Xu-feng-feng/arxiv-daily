@@ -10,17 +10,6 @@ layout: default
 ## Updated on 2024.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#point-cloud-compression>Point Cloud Compression</a></li>
-    <li><a href=#compression>Compression</a></li>
-    <li><a href=#quality-assessment>Quality Assessment</a></li>
-    <li><a href=#super-resolution>Super Resolution</a></li>
-    <li><a href=#remote-sensing>Remote Sensing</a></li>
-  </ol>
-</details>
-
 ## Point Cloud Compression
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -514,7 +503,7 @@ layout: default
 |**2024-03-17**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|null|
 |**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
 |**2024-03-08**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados et.al.|[2403.04508](http://arxiv.org/abs/2403.04508)|null|
-|**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|null|
+|**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|**[link](https://github.com/fanyihua0309/friendnet)**|
 |**2024-03-07**|**MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment**|Kanglei Zhou et.al.|[2403.04398](http://arxiv.org/abs/2403.04398)|null|
 |**2024-03-07**|**Self-Evaluation of Large Language Model based on Glass-box Features**|Hui Huang et.al.|[2403.04222](http://arxiv.org/abs/2403.04222)|null|
 |**2024-03-06**|**Unifying Generation and Compression: Ultra-low bitrate Image Coding Via Multi-stage Transformer**|Naifu Xue et.al.|[2403.03736](http://arxiv.org/abs/2403.03736)|null|

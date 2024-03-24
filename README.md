@@ -618,7 +618,7 @@
 |**2024-03-18**|**PAON: A New Neuron Model using Padé Approximants**|Onur Keleş et.al.|[2403.11791](http://arxiv.org/abs/2403.11791)|null|
 |**2024-03-18**|**CasSR: Activating Image Power for Real-World Image Super-Resolution**|Haolan Chen et.al.|[2403.11451](http://arxiv.org/abs/2403.11451)|null|
 |**2024-03-18**|**VmambaIR: Visual State Space Model for Image Restoration**|Yuan Shi et.al.|[2403.11423](http://arxiv.org/abs/2403.11423)|**[link](https://github.com/alphacatplus/vmambair)**|
-|**2024-03-17**|**Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Jialu Sui et.al.|[2403.11078](http://arxiv.org/abs/2403.11078)|null|
+|**2024-03-17**|**Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Jialu Sui et.al.|[2403.11078](http://arxiv.org/abs/2403.11078)|**[link](https://github.com/littlebeen/asddpm-adaptive-semantic-enhanced-ddpm)**|
 |**2024-03-16**|**Boosting Flow-based Generative Super-Resolution Models via Learned Prior**|Li-Yuan Tsao et.al.|[2403.10988](http://arxiv.org/abs/2403.10988)|**[link](https://github.com/liyuantsao/flowsr-lp)**|
 |**2024-03-16**|**Learning Dual-Level Deformable Implicit Representation for Real-World Scale Arbitrary Super-Resolution**|Zhiheng Li et.al.|[2403.10925](http://arxiv.org/abs/2403.10925)|null|
 |**2024-03-15**|**A General Method to Incorporate Spatial Information into Loss Functions for GAN-based Super-resolution Models**|Xijun Wang et.al.|[2403.10589](http://arxiv.org/abs/2403.10589)|null|
@@ -823,14 +823,14 @@
 |**2024-03-21**|**Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis -- A Proof-of-Concept**|Thanh Huy Nguyen et.al.|[2403.14394](http://arxiv.org/abs/2403.14394)|null|
 |**2024-03-21**|**Impact Assessment of Missing Data in Model Predictions for Earth Observation Applications**|Francisco Mena et.al.|[2403.14297](http://arxiv.org/abs/2403.14297)|**[link](https://github.com/fmenat/missingviews-study-eo)**|
 |**2024-03-21**|**HySim: An Efficient Hybrid Similarity Measure for Patch Matching in Image Inpainting**|Saad Noufel et.al.|[2403.14292](http://arxiv.org/abs/2403.14292)|null|
-|**2024-03-21**|**Training point-based deep learning networks for forest segmentation with synthetic data**|Francisco Raverta Capua et.al.|[2403.14115](http://arxiv.org/abs/2403.14115)|null|
+|**2024-03-21**|**Training point-based deep learning networks for forest segmentation with synthetic data**|Francisco Raverta Capua et.al.|[2403.14115](http://arxiv.org/abs/2403.14115)|**[link](https://github.com/lrse/forest-simulator)**|
 |**2024-03-20**|**Leveraging feature communication in federated learning for remote sensing image classification**|Anh-Kiet Duong et.al.|[2403.13575](http://arxiv.org/abs/2403.13575)|null|
 |**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430](http://arxiv.org/abs/2403.13430)|**[link](https://github.com/vitae-transformer/mtp)**|
 |**2024-03-20**|**Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images**|Jiawei Zhou et.al.|[2403.13375](http://arxiv.org/abs/2403.13375)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 |**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|**[link](https://github.com/zcablii/lsknet)**|
 |**2024-03-18**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Datao Tang et.al.|[2403.11614](http://arxiv.org/abs/2403.11614)|null|
-|**2024-03-17**|**Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Jialu Sui et.al.|[2403.11078](http://arxiv.org/abs/2403.11078)|null|
+|**2024-03-17**|**Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Jialu Sui et.al.|[2403.11078](http://arxiv.org/abs/2403.11078)|**[link](https://github.com/littlebeen/asddpm-adaptive-semantic-enhanced-ddpm)**|
 |**2024-03-16**|**LuoJiaHOG: A Hierarchy Oriented Geo-aware Image Caption Dataset for Remote Sensing Image-Text Retrival**|Yuanxin Zhao et.al.|[2403.10887](http://arxiv.org/abs/2403.10887)|null|
 |**2024-03-14**|**Uncertainty estimation in spatial interpolation of satellite precipitation with ensemble learning**|Georgia Papacharalampous et.al.|[2403.10567](http://arxiv.org/abs/2403.10567)|null|
 |**2024-03-14**|**DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification**|Qianqian Wu et.al.|[2403.09367](http://arxiv.org/abs/2403.09367)|null|

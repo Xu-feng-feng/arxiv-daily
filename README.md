@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -190,7 +190,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20240324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240325>back to top</a>)</p>
 
 ## Compression
 
@@ -205,7 +205,7 @@
 |**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401](http://arxiv.org/abs/2403.12401)|**[link](https://github.com/magicffourier/vq-nerv)**|
 |**2024-03-18**|**Encoding of linear kinetic plasma problems in quantum circuits via data compression**|Ivan Novikau et.al.|[2403.11989](http://arxiv.org/abs/2403.11989)|null|
 |**2024-03-18**|**Object Segmentation-Assisted Inter Prediction for Versatile Video Coding**|Zhuoyuan Li et.al.|[2403.11694](http://arxiv.org/abs/2403.11694)|null|
-|**2024-03-18**|**Overfitted image coding at reduced complexity**|Théophile Blard et.al.|[2403.11651](http://arxiv.org/abs/2403.11651)|null|
+|**2024-03-18**|**Overfitted image coding at reduced complexity**|Théophile Blard et.al.|[2403.11651](http://arxiv.org/abs/2403.11651)|**[link](https://github.com/orange-opensource/cool-chic)**|
 |**2024-03-18**|**Hierarchical Frequency-based Upsampling and Refining for Compressed Video Quality Enhancement**|Qianyu Zhang et.al.|[2403.11556](http://arxiv.org/abs/2403.11556)|null|
 |**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434](http://arxiv.org/abs/2403.11434)|null|
 |**2024-03-17**|**Fidelity-preserving Learning-Based Image Compression: Loss Function and Subjective Evaluation Methodology**|Shima Mohammadi et.al.|[2403.11241](http://arxiv.org/abs/2403.11241)|**[link](https://github.com/shimamohammadi/vcip2023)**|
@@ -397,7 +397,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20240324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240325>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -604,7 +604,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20240324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240325>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -811,7 +811,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20240324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240325>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -828,7 +828,7 @@
 |**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430](http://arxiv.org/abs/2403.13430)|**[link](https://github.com/vitae-transformer/mtp)**|
 |**2024-03-20**|**Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images**|Jiawei Zhou et.al.|[2403.13375](http://arxiv.org/abs/2403.13375)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
-|**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|**[link](https://github.com/zcablii/lsknet)**|
+|**2024-03-22**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|**[link](https://github.com/zcablii/lsknet)**|
 |**2024-03-18**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Datao Tang et.al.|[2403.11614](http://arxiv.org/abs/2403.11614)|null|
 |**2024-03-17**|**Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Jialu Sui et.al.|[2403.11078](http://arxiv.org/abs/2403.11078)|**[link](https://github.com/littlebeen/asddpm-adaptive-semantic-enhanced-ddpm)**|
 |**2024-03-16**|**LuoJiaHOG: A Hierarchy Oriented Geo-aware Image Caption Dataset for Remote Sensing Image-Text Retrival**|Yuanxin Zhao et.al.|[2403.10887](http://arxiv.org/abs/2403.10887)|null|
@@ -1018,7 +1018,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20240324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240325>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

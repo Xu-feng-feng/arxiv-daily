@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -196,7 +196,7 @@ layout: default
 |**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401](http://arxiv.org/abs/2403.12401)|**[link](https://github.com/magicffourier/vq-nerv)**|
 |**2024-03-18**|**Encoding of linear kinetic plasma problems in quantum circuits via data compression**|Ivan Novikau et.al.|[2403.11989](http://arxiv.org/abs/2403.11989)|null|
 |**2024-03-18**|**Object Segmentation-Assisted Inter Prediction for Versatile Video Coding**|Zhuoyuan Li et.al.|[2403.11694](http://arxiv.org/abs/2403.11694)|null|
-|**2024-03-18**|**Overfitted image coding at reduced complexity**|Théophile Blard et.al.|[2403.11651](http://arxiv.org/abs/2403.11651)|null|
+|**2024-03-18**|**Overfitted image coding at reduced complexity**|Théophile Blard et.al.|[2403.11651](http://arxiv.org/abs/2403.11651)|**[link](https://github.com/orange-opensource/cool-chic)**|
 |**2024-03-18**|**Hierarchical Frequency-based Upsampling and Refining for Compressed Video Quality Enhancement**|Qianyu Zhang et.al.|[2403.11556](http://arxiv.org/abs/2403.11556)|null|
 |**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434](http://arxiv.org/abs/2403.11434)|null|
 |**2024-03-17**|**Fidelity-preserving Learning-Based Image Compression: Loss Function and Subjective Evaluation Methodology**|Shima Mohammadi et.al.|[2403.11241](http://arxiv.org/abs/2403.11241)|**[link](https://github.com/shimamohammadi/vcip2023)**|
@@ -813,7 +813,7 @@ layout: default
 |**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430](http://arxiv.org/abs/2403.13430)|**[link](https://github.com/vitae-transformer/mtp)**|
 |**2024-03-20**|**Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images**|Jiawei Zhou et.al.|[2403.13375](http://arxiv.org/abs/2403.13375)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
-|**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|**[link](https://github.com/zcablii/lsknet)**|
+|**2024-03-22**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|**[link](https://github.com/zcablii/lsknet)**|
 |**2024-03-18**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Datao Tang et.al.|[2403.11614](http://arxiv.org/abs/2403.11614)|null|
 |**2024-03-17**|**Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Jialu Sui et.al.|[2403.11078](http://arxiv.org/abs/2403.11078)|**[link](https://github.com/littlebeen/asddpm-adaptive-semantic-enhanced-ddpm)**|
 |**2024-03-16**|**LuoJiaHOG: A Hierarchy Oriented Geo-aware Image Caption Dataset for Remote Sensing Image-Text Retrival**|Yuanxin Zhao et.al.|[2403.10887](http://arxiv.org/abs/2403.10887)|null|

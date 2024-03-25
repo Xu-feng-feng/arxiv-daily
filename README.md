@@ -196,7 +196,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-21**|**S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**|Yongqiang Wang et.al.|[2403.14471](http://arxiv.org/abs/2403.14471)|null|
+|**2024-03-21**|**S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**|Yongqiang Wang et.al.|[2403.14471](http://arxiv.org/abs/2403.14471)|**[link](https://github.com/wyq2021/s2lic)**|
 |**2024-03-21**|**Tensor network compressibility of convolutional models**|Sukhbinder Singh et.al.|[2403.14379](http://arxiv.org/abs/2403.14379)|null|
 |**2024-03-21**|**Powerful Lossy Compression for Noisy Images**|Shilv Cai et.al.|[2403.14135](http://arxiv.org/abs/2403.14135)|null|
 |**2024-03-20**|**String attractors and bi-infinite words**|Pierre Béaur et.al.|[2403.13449](http://arxiv.org/abs/2403.13449)|null|
@@ -403,6 +403,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Time-efficient, high-resolution 3T whole-brain relaxometry using Cartesian 3D MR-STAT with CSF suppression**|Hongyan Liu et.al.|[2403.15379](http://arxiv.org/abs/2403.15379)|null|
+|**2024-03-22**|**Ultrasound Imaging based on the Variance of a Diffusion Restoration Model**|Yuxin Zhang et.al.|[2403.15316](http://arxiv.org/abs/2403.15316)|null|
+|**2024-03-22**|**Subjective Quality Assessment of Compressed Tone-Mapped High Dynamic Range Videos**|Abhinau K. Venkataramanan et.al.|[2403.15061](http://arxiv.org/abs/2403.15061)|null|
+|**2024-03-21**|**On the exploitation of DCT statistics for cropping detectors**|Claudio Vittorio Ragaglia et.al.|[2403.14789](http://arxiv.org/abs/2403.14789)|null|
 |**2024-03-21**|**From Handcrafted Features to LLMs: A Brief Survey for Machine Translation Quality Estimation**|Haofei Zhao et.al.|[2403.14118](http://arxiv.org/abs/2403.14118)|null|
 |**2024-03-20**|**Multi-criteria approach for selecting an explanation from the set of counterfactuals produced by an ensemble of explainers**|Ignacy Stępka et.al.|[2403.13940](http://arxiv.org/abs/2403.13940)|**[link](https://github.com/istepka/mcsece)**|
 |**2024-03-20**|**Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models**|Richard Osuala et.al.|[2403.13890](http://arxiv.org/abs/2403.13890)|**[link](https://github.com/richardobi/ccnet)**|
@@ -610,6 +614,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Deep Generative Model based Rate-Distortion for Image Downscaling Assessment**|Yuanbang Liang et.al.|[2403.15139](http://arxiv.org/abs/2403.15139)|null|
+|**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/abs/2403.14839)|null|
 |**2024-03-21**|**QSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping**|Zhuang Xiong et.al.|[2403.14070](http://arxiv.org/abs/2403.14070)|null|
 |**2024-03-20**|**Multi-photon super-linear image scanning microscopy using upconversion nanoparticles**|Yao Wang et.al.|[2403.13436](http://arxiv.org/abs/2403.13436)|null|
 |**2024-03-20**|**Efficient scene text image super-resolution with semantic guidance**|LeoWu TomyEnrique et.al.|[2403.13330](http://arxiv.org/abs/2403.13330)|**[link](https://github.com/sijieliu518/sgenet)**|
@@ -817,6 +823,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Federated Bayesian Deep Learning: The Application of Statistical Aggregation Methods to Bayesian Models**|John Fischer et.al.|[2403.15263](http://arxiv.org/abs/2403.15263)|null|
+|**2024-03-22**|**An Integrated Neighborhood and Scale Information Network for Open-Pit Mine Change Detection in High-Resolution Remote Sensing Images**|Zilin Xie et.al.|[2403.15032](http://arxiv.org/abs/2403.15032)|null|
+|**2024-03-15**|**A2CI: A Cloud-based, Service-oriented Geospatial Cyberinfrastructure to Support Atmospheric Research**|Wenwen Li et.al.|[2403.14693](http://arxiv.org/abs/2403.14693)|null|
 |**2024-03-21**|**Global, robust and comparable digital carbon assets**|Sadiq Jaffer et.al.|[2403.14581](http://arxiv.org/abs/2403.14581)|null|
 |**2024-03-21**|**Estimating Physical Information Consistency of Channel Data Augmentation for Remote Sensing Images**|Tom Burgert et.al.|[2403.14547](http://arxiv.org/abs/2403.14547)|null|
 |**2024-03-21**|**Early Flood Warning Using Satellite-Derived Convective System and Precipitation Data -- A Retrospective Case Study of Central Vietnam**|Tran-Vu La et.al.|[2403.14395](http://arxiv.org/abs/2403.14395)|null|

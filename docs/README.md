@@ -52,8 +52,9 @@ This codebase is composed of the following parts:
 - [x] Configuration file
 - [x] Update code link
 - [ ] Subscribe & Update alerting
-- [ ] Support more `arxiv` filters for Advanced Search (It seems the query results are not up-to-date or incomplete as compared to Advanced Search.)
+- [ ] Support more `arxiv` filters for Advanced Search (It seems the query results are not up-to-date or incomplete as compared to Advanced/Basic Search on the web.)
 - [ ] Archive old papers
 - [ ] Language translation ([`ChatGPT`](https://chat.openai.com/chat))
-- [ ] Usefull comments
+- [ ] Useful comments
 - [ ] ...
+- [ ] **TODO**: The `arxiv` package did not return the up-to-date results provided by the API, and the API did not return up-to-date results compared to the web results.

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -623,7 +623,7 @@ layout: default
 |**2024-03-23**|**Adaptive Super Resolution For One-Shot Talking-Head Generation**|Luchuan Song et.al.|[2403.15944](http://arxiv.org/abs/2403.15944)|**[link](https://github.com/songluchuan/adasr-talkinghead)**|
 |**2024-03-23**|**Time-series Initialization and Conditioning for Video-agnostic Stabilization of Video Super-Resolution using Recurrent Networks**|Hiroshi Mori et.al.|[2403.15832](http://arxiv.org/abs/2403.15832)|null|
 |**2024-03-20**|**Using Super-Resolution Imaging for Recognition of Low-Resolution Blurred License Plates: A Comparative Study of Real-ESRGAN, A-ESRGAN, and StarSRGAN**|Ching-Hsiang Wang et.al.|[2403.15466](http://arxiv.org/abs/2403.15466)|null|
-|**2024-03-22**|**Deep Generative Model based Rate-Distortion for Image Downscaling Assessment**|Yuanbang Liang et.al.|[2403.15139](http://arxiv.org/abs/2403.15139)|null|
+|**2024-03-22**|**Deep Generative Model based Rate-Distortion for Image Downscaling Assessment**|Yuanbang Liang et.al.|[2403.15139](http://arxiv.org/abs/2403.15139)|**[link](https://github.com/byronliang8/ida-rd)**|
 |**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/abs/2403.14839)|null|
 |**2024-03-21**|**QSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping**|Zhuang Xiong et.al.|[2403.14070](http://arxiv.org/abs/2403.14070)|null|
 |**2024-03-20**|**Multi-photon super-linear image scanning microscopy using upconversion nanoparticles**|Yao Wang et.al.|[2403.13436](http://arxiv.org/abs/2403.13436)|null|

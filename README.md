@@ -413,6 +413,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction**|Yiyao Zhang et.al.|[2403.18776](http://arxiv.org/abs/2403.18776)|null|
+|**2024-03-27**|**Bringing Textual Prompt to AI-Generated Image Quality Assessment**|Bowen Qu et.al.|[2403.18714](http://arxiv.org/abs/2403.18714)|null|
+|**2024-03-27**|**qIoV: A Quantum-Driven Internet-of-Vehicles-Based Approach for Environmental Monitoring and Rapid Response Systems**|Ankur Nahar et.al.|[2403.18622](http://arxiv.org/abs/2403.18622)|null|
+|**2024-03-27**|**Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review**|Mohammadreza Amirian et.al.|[2403.18565](http://arxiv.org/abs/2403.18565)|null|
+|**2024-03-27**|**Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting**|Haiwei Chen et.al.|[2403.18186](http://arxiv.org/abs/2403.18186)|null|
+|**2024-03-26**|**Pseudo-MRI-Guided PET Image Reconstruction Method Based on a Diffusion Probabilistic Model**|Weijie Gan et.al.|[2403.18139](http://arxiv.org/abs/2403.18139)|null|
+|**2024-03-26**|**TDIP: Tunable Deep Image Processing, a Real Time Melt Pool Monitoring Solution**|Javid Akhavan et.al.|[2403.18117](http://arxiv.org/abs/2403.18117)|null|
+|**2024-03-26**|**Cross-system biological image quality enhancement based on the generative adversarial network as a foundation for establishing a multi-institute microscopy cooperative network**|Dominik Panek et.al.|[2403.18026](http://arxiv.org/abs/2403.18026)|null|
 |**2024-03-26**|**Improving Text-to-Image Consistency via Automatic Prompt Optimization**|Oscar Mañas et.al.|[2403.17804](http://arxiv.org/abs/2403.17804)|null|
 |**2024-03-26**|**Can patient-specific acquisition protocol improve performance on defect detection task in myocardial perfusion SPECT?**|Nu Ri Choi et.al.|[2403.17764](http://arxiv.org/abs/2403.17764)|null|
 |**2024-03-26**|**Panonut360: A Head and Eye Tracking Dataset for Panoramic Video**|Yutong Xu et.al.|[2403.17708](http://arxiv.org/abs/2403.17708)|null|
@@ -648,6 +656,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction**|Yiyao Zhang et.al.|[2403.18776](http://arxiv.org/abs/2403.18776)|null|
+|**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370](http://arxiv.org/abs/2403.18370)|**[link](https://github.com/luigisigillo/shipinsight)**|
+|**2024-03-27**|**Super-Resolution of SOHO/MDI Magnetograms of Solar Active Regions Using SDO/HMI Data and an Attention-Aided Convolutional Neural Network**|Chunhui Xu et.al.|[2403.18302](http://arxiv.org/abs/2403.18302)|null|
 |**2024-03-26**|**Climate Downscaling: A Deep-Learning Based Super-resolution Model of Precipitation Data with Attention Block and Skip Connections**|Chia-Hao Chiang et.al.|[2403.17847](http://arxiv.org/abs/2403.17847)|null|
 |**2024-03-26**|**Algorithmic unfolding for image reconstruction and localization problems in fluorescence microscopy**|Silvia Bonettini et.al.|[2403.17506](http://arxiv.org/abs/2403.17506)|null|
 |**2024-03-26**|**SeNM-VAE: Semi-Supervised Noise Modeling with Hierarchical Variational Autoencoder**|Dihan Zheng et.al.|[2403.17502](http://arxiv.org/abs/2403.17502)|null|
@@ -870,6 +881,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711](http://arxiv.org/abs/2403.18711)|null|
+|**2024-03-27**|**Energy-ordered resource stratification as an agnostic signature of life**|Akshit Goyal et.al.|[2403.18614](http://arxiv.org/abs/2403.18614)|null|
+|**2024-03-27**|**Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding**|Run Shao et.al.|[2403.18593](http://arxiv.org/abs/2403.18593)|**[link](https://github.com/geox-lab/hook)**|
+|**2024-03-27**|**TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes**|Liangyu Xu et.al.|[2403.18238](http://arxiv.org/abs/2403.18238)|null|
 |**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909](http://arxiv.org/abs/2403.17909)|**[link](https://github.com/techmn/elgcnet)**|
 |**2024-03-26**|**Sen2Fire: A Challenging Benchmark Dataset for Wildfire Detection using Sentinel Data**|Yonghao Xu et.al.|[2403.17884](http://arxiv.org/abs/2403.17884)|null|
 |**2024-03-26**|**Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model**|Runmin Dong et.al.|[2403.17460](http://arxiv.org/abs/2403.17460)|**[link](https://github.com/dongrunmin/refdiff)**|

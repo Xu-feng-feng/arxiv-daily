@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -416,7 +416,7 @@ layout: default
 |**2024-03-25**|**Towards Low-Latency and Energy-Efficient Hybrid P2P-CDN Live Video Streaming**|Reza Farahani et.al.|[2403.16985](http://arxiv.org/abs/2403.16985)|null|
 |**2024-03-25**|**INPC: Implicit Neural Point Clouds for Radiance Field Rendering**|Florian Hahlbohm et.al.|[2403.16862](http://arxiv.org/abs/2403.16862)|null|
 |**2024-03-25**|**C-arm inverse geometry CT for 3D cardiac chamber mapping**|Jordan M. Slagowski et.al.|[2403.16779](http://arxiv.org/abs/2403.16779)|null|
-|**2024-03-25**|**FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression**|Alireza Furutanpey et.al.|[2403.16677](http://arxiv.org/abs/2403.16677)|null|
+|**2024-03-25**|**FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression**|Alireza Furutanpey et.al.|[2403.16677](http://arxiv.org/abs/2403.16677)|**[link](https://github.com/rezafuru/the-fool)**|
 |**2024-03-25**|**Enhancing Cross-Dataset EEG Emotion Recognition: A Novel Approach with Emotional EEG Style Transfer Network**|Yijin Zhou et.al.|[2403.16540](http://arxiv.org/abs/2403.16540)|null|
 |**2024-03-25**|**Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**|Ziyao Huang et.al.|[2403.16510](http://arxiv.org/abs/2403.16510)|**[link](https://github.com/ictmcg/make-your-anchor)**|
 |**2024-03-25**|**Plaintext-Free Deep Learning for Privacy-Preserving Medical Image Analysis via Frequency Information Embedding**|Mengyu Sun et.al.|[2403.16473](http://arxiv.org/abs/2403.16473)|null|

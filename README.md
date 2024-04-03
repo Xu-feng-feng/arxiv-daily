@@ -196,10 +196,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-01**|**The Rate-Distortion-Perception Trade-off: The Role of Private Randomness**|Yassine Hamdi et.al.|[2404.01111](http://arxiv.org/abs/2404.01111)|null|
+|**2024-03-31**|**Metric dimensions of generalized Sierpiński graphs over squares**|Savari Prabhu et.al.|[2404.00771](http://arxiv.org/abs/2404.00771)|null|
 |**2024-03-27**|**Computationally and Memory-Efficient Robust Predictive Analytics Using Big Data**|Daniel Menges et.al.|[2403.19721](http://arxiv.org/abs/2403.19721)|null|
 |**2024-03-28**|**RootInteractive tool for multidimensional statistical analysis, machine learning and analytical model validation**|Marian Invanov et.al.|[2403.19330](http://arxiv.org/abs/2403.19330)|null|
 |**2024-03-28**|**Uncertainty-Aware Deep Video Compression with Ensembles**|Wufei Ma et.al.|[2403.19158](http://arxiv.org/abs/2403.19158)|null|
-|**2024-03-26**|**Compressed Multi-task embeddings for Data-Efficient Downstream training and inference in Earth Observation**|Carlos Gomes et.al.|[2403.17886](http://arxiv.org/abs/2403.17886)|null|
+|**2024-04-02**|**Neural Embedding Compression For Efficient Multi-Task Earth Observation Modelling**|Carlos Gomes et.al.|[2403.17886](http://arxiv.org/abs/2403.17886)|null|
 |**2024-03-26**|**Low-Latency Neural Stereo Streaming**|Qiqi Hou et.al.|[2403.17879](http://arxiv.org/abs/2403.17879)|null|
 |**2024-03-26**|**Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**|Kai Yuan et.al.|[2403.17607](http://arxiv.org/abs/2403.17607)|**[link](https://github.com/intel/tiny-dpcpp-nn)**|
 |**2024-03-25**|**Neural Image Compression with Quantization Rectifier**|Wei Luo et.al.|[2403.17236](http://arxiv.org/abs/2403.17236)|null|
@@ -416,6 +418,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**DSGNN: A Dual-View Supergrid-Aware Graph Neural Network for Regional Air Quality Estimation**|Xin Zhang et.al.|[2404.01975](http://arxiv.org/abs/2404.01975)|null|
+|**2024-04-02**|**Event-assisted Low-Light Video Object Segmentation**|Hebei Li et.al.|[2404.01945](http://arxiv.org/abs/2404.01945)|null|
+|**2024-04-02**|**PATCH -- Psychometrics-AssisTed benCHmarking of Large Language Models: A Case Study of Mathematics Proficiency**|Qixiang Fang et.al.|[2404.01799](http://arxiv.org/abs/2404.01799)|null|
+|**2024-04-02**|**Super-Resolution Analysis for Landfill Waste Classification**|Matias Molina et.al.|[2404.01790](http://arxiv.org/abs/2404.01790)|null|
+|**2024-04-02**|**Upsample Guidance: Scale Up Diffusion Models without Training**|Juno Hwang et.al.|[2404.01709](http://arxiv.org/abs/2404.01709)|null|
+|**2024-04-02**|**Boosting Visual Recognition for Autonomous Driving in Real-world Degradations with Deep Channel Prior**|Zhanwen Liu et.al.|[2404.01703](http://arxiv.org/abs/2404.01703)|null|
+|**2024-04-02**|**A CT Image Denoising Method with Residual Encoder-Decoder Network**|Helena Shawn et.al.|[2404.01553](http://arxiv.org/abs/2404.01553)|null|
+|**2024-04-01**|**MagicMirror: Fast and High-Quality Avatar Generation with a Constrained Search Space**|Armand Comas-Massagué et.al.|[2404.01296](http://arxiv.org/abs/2404.01296)|null|
+|**2024-04-01**|**New infrared camera of the Caucasian Mountain Observatory of the SAI MSU: design, main parameters, and first light**|S. G. Zheltoukhov et.al.|[2404.01246](http://arxiv.org/abs/2404.01246)|null|
+|**2024-04-01**|**The Rate-Distortion-Perception Trade-off: The Role of Private Randomness**|Yassine Hamdi et.al.|[2404.01111](http://arxiv.org/abs/2404.01111)|null|
+|**2024-04-01**|**AIGCOIQA2024: Perceptual Quality Assessment of AI Generated Omnidirectional Images**|Liu Yang et.al.|[2404.01024](http://arxiv.org/abs/2404.01024)|null|
+|**2024-04-01**|**Digital Twins for Supporting AI Research with Autonomous Vehicle Networks**|Anıl Gürses et.al.|[2404.00954](http://arxiv.org/abs/2404.00954)|null|
+|**2024-04-01**|**Towards Memorization-Free Diffusion Models**|Chen Chen et.al.|[2404.00922](http://arxiv.org/abs/2404.00922)|null|
+|**2024-04-01**|**Model-Agnostic Human Preference Inversion in Diffusion Models**|Jeeyung Kim et.al.|[2404.00879](http://arxiv.org/abs/2404.00879)|null|
+|**2024-03-31**|**GAMA-IR: Global Additive Multidimensional Averaging for Fast Image Restoration**|Youssef Mansour et.al.|[2404.00807](http://arxiv.org/abs/2404.00807)|null|
+|**2024-03-31**|**Personalized Neural Speech Codec**|Inseon Jang et.al.|[2404.00791](http://arxiv.org/abs/2404.00791)|null|
+|**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722](http://arxiv.org/abs/2404.00722)|null|
+|**2024-03-30**|**Classification of Short Segment Pediatric Heart Sounds Based on a Transformer-Based Convolutional Neural Network**|Md Hassanuzzaman et.al.|[2404.00470](http://arxiv.org/abs/2404.00470)|null|
+|**2024-03-30**|**Harmonizing Light and Darkness: A Symphony of Prior-guided Data Synthesis and Adaptive Focus for Nighttime Flare Removal**|Lishen Qu et.al.|[2404.00313](http://arxiv.org/abs/2404.00313)|null|
+|**2024-03-30**|**Learned Scanpaths Aid Blind Panoramic Video Quality Assessment**|Kanglong Fan et.al.|[2404.00252](http://arxiv.org/abs/2404.00252)|null|
 |**2024-03-29**|**Evolving Semantic Communication with Generative Model**|Shunpu Tang et.al.|[2403.20237](http://arxiv.org/abs/2403.20237)|null|
 |**2024-03-29**|**Exploring Pathological Speech Quality Assessment with ASR-Powered Wav2Vec2 in Data-Scarce Context**|Tuan Nguyen et.al.|[2403.20184](http://arxiv.org/abs/2403.20184)|null|
 |**2024-03-29**|**Unsupervised Tumor-Aware Distillation for Multi-Modal Brain Image Translation**|Chuan Huang et.al.|[2403.20168](http://arxiv.org/abs/2403.20168)|**[link](https://github.com/scut-hc/utad-net)**|
@@ -668,6 +690,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Super-Resolution Analysis for Landfill Waste Classification**|Matias Molina et.al.|[2404.01790](http://arxiv.org/abs/2404.01790)|null|
+|**2024-04-02**|**AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation**|Rui Xie et.al.|[2404.01717](http://arxiv.org/abs/2404.01717)|null|
+|**2024-04-02**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692](http://arxiv.org/abs/2404.01692)|null|
+|**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690](http://arxiv.org/abs/2404.01690)|null|
+|**2024-04-01**|**Video Interpolation with Diffusion Models**|Siddhant Jain et.al.|[2404.01203](http://arxiv.org/abs/2404.01203)|null|
+|**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874](http://arxiv.org/abs/2404.00874)|null|
+|**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722](http://arxiv.org/abs/2404.00722)|null|
+|**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661](http://arxiv.org/abs/2404.00661)|null|
+|**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349](http://arxiv.org/abs/2404.00349)|null|
+|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260](http://arxiv.org/abs/2404.00260)|null|
 |**2024-03-28**|**Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality**|Kyotaro Tokoro et.al.|[2403.19428](http://arxiv.org/abs/2403.19428)|**[link](https://github.com/placerkyo/bsrd)**|
 |**2024-03-28**|**Structured illumination microscopy with extreme ultraviolet pulses**|R. Mincigrucci et.al.|[2403.19382](http://arxiv.org/abs/2403.19382)|null|
 |**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922](http://arxiv.org/abs/2403.18922)|null|
@@ -896,6 +928,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**ResNet with Integrated Convolutional Block Attention Module for Ship Classification Using Transfer Learning on Optical Satellite Imagery**|Ryan Donghan Kwon et.al.|[2404.02135](http://arxiv.org/abs/2404.02135)|null|
+|**2024-04-02**|**Satellite Federated Edge Learning: Architecture Design and Convergence Analysis**|Yuanming Shi et.al.|[2404.01875](http://arxiv.org/abs/2404.01875)|null|
+|**2024-04-02**|**Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning**|Joshua Dimasaka et.al.|[2404.01748](http://arxiv.org/abs/2404.01748)|null|
+|**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705](http://arxiv.org/abs/2404.01705)|null|
+|**2024-04-02**|**LR-FPN: Enhancing Remote Sensing Object Detection with Location Refined Feature Pyramid Network**|Hanqian Li et.al.|[2404.01614](http://arxiv.org/abs/2404.01614)|null|
+|**2024-04-01**|**CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening**|Wen-Jie Shu et.al.|[2404.01121](http://arxiv.org/abs/2404.01121)|null|
+|**2024-04-01**|**S2RC-GCN: A Spatial-Spectral Reliable Contrastive Graph Convolutional Network for Complex Land Cover Classification Using Hyperspectral Images**|Renxiang Guan et.al.|[2404.00964](http://arxiv.org/abs/2404.00964)|null|
+|**2024-04-01**|**A Novel Algorithm for Digital Lithological Mapping-Case Studies in Sri Lanka's Mineral Exploration**|R. M. L. S. Ramanayake et.al.|[2404.00896](http://arxiv.org/abs/2404.00896)|null|
+|**2024-03-31**|**Denoising Low-dose Images Using Deep Learning of Time Series Images**|Yang Shao et.al.|[2404.00510](http://arxiv.org/abs/2404.00510)|null|
+|**2024-03-30**|**HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification**|Judy X Yang et.al.|[2404.00272](http://arxiv.org/abs/2404.00272)|null|
+|**2024-03-29**|**Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels**|Hannah Kerner et.al.|[2404.00179](http://arxiv.org/abs/2404.00179)|null|
 |**2024-03-29**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Chao Pang et.al.|[2403.20213](http://arxiv.org/abs/2403.20213)|**[link](https://github.com/opendatalab/h2rsvlm)**|
 |**2024-03-28**|**Dual-Frequency Radar Wave-Inversion for Sub-Surface Material Characterization**|Ishfaq Aziz et.al.|[2403.19853](http://arxiv.org/abs/2403.19853)|null|
 |**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654](http://arxiv.org/abs/2403.19654)|**[link](https://github.com/KyanChen/RSMamba)**|

@@ -196,6 +196,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Training LLMs over Neurally Compressed Text**|Brian Lester et.al.|[2404.03626](http://arxiv.org/abs/2404.03626)|null|
+|**2024-04-04**|**Leveraging Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning**|Tyler Chang et.al.|[2404.03586](http://arxiv.org/abs/2404.03586)|**[link](https://github.com/llnl/interpml)**|
+|**2024-04-04**|**Semantic Compression with Information Lattice Learning**|Haizi Yu et.al.|[2404.03131](http://arxiv.org/abs/2404.03131)|null|
+|**2024-04-01**|**Accounting for contact network uncertainty in epidemic inferences with Approximate Bayesian Computation**|Maxwell H. Wang et.al.|[2404.02924](http://arxiv.org/abs/2404.02924)|null|
 |**2024-04-03**|**Building test batteries based on analysing random number generator tests within the framework of algorithmic information theory**|Boris Ryabko et.al.|[2404.02708](http://arxiv.org/abs/2404.02708)|null|
 |**2024-04-03**|**Optimizing traffic signs and lights visibility for the teleoperation of autonomous vehicles through ROI compression**|I. Dror et.al.|[2404.02481](http://arxiv.org/abs/2404.02481)|null|
 |**2024-04-03**|**MOPAR: A Model Partitioning Framework for Deep Learning Inference Services on Serverless Platforms**|Jiaang Duan et.al.|[2404.02445](http://arxiv.org/abs/2404.02445)|null|
@@ -422,6 +426,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
+|**2024-04-04**|**AIGIQA-20K: A Large Database for AI-Generated Image Quality Assessment**|Chunyi Li et.al.|[2404.03407](http://arxiv.org/abs/2404.03407)|null|
+|**2024-04-04**|**DI-Retinex: Digital-Imaging Retinex Theory for Low-Light Image Enhancement**|Shangquan Sun et.al.|[2404.03327](http://arxiv.org/abs/2404.03327)|null|
+|**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209](http://arxiv.org/abs/2404.03209)|null|
+|**2024-04-02**|**Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models**|Jiachen Ma et.al.|[2404.02928](http://arxiv.org/abs/2404.02928)|null|
 |**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905](http://arxiv.org/abs/2404.02905)|**[link](https://github.com/FoundationVision/VAR)**|
 |**2024-04-03**|**Optimizing traffic signs and lights visibility for the teleoperation of autonomous vehicles through ROI compression**|I. Dror et.al.|[2404.02481](http://arxiv.org/abs/2404.02481)|null|
 |**2024-04-03**|**Imaging transformer for MRI denoising with the SNR unit training: enabling generalization across field-strengths, imaging contrasts, and anatomy**|Hui Xue et.al.|[2404.02382](http://arxiv.org/abs/2404.02382)|null|
@@ -697,13 +706,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-03**|**Quantum enhanced mechanical rotation sensing using wavefront photonic gears**|Ofir Yesharim Guy Tshuva et.al.|[2404.02797](http://arxiv.org/abs/2404.02797)|null|
+|**2024-04-04**|**AdaBM: On-the-Fly Adaptive Bit Mapping for Image Super-Resolution**|Cheeun Hong et.al.|[2404.03296](http://arxiv.org/abs/2404.03296)|**[link](https://github.com/Cheeun/AdaBM)**|
+|**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209](http://arxiv.org/abs/2404.03209)|null|
+|**2024-04-04**|**Quantum enhanced mechanical rotation sensing using wavefront photonic gears**|Ofir Yesharim et.al.|[2404.02797](http://arxiv.org/abs/2404.02797)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
 |**2024-04-03**|**Two-Stage Super-Resolution Simulation Method for Three-Dimensional Flow Fields Around Buildings for Real-Time Prediction of Urban Micrometeorology**|Yuki Yasuda et.al.|[2404.02631](http://arxiv.org/abs/2404.02631)|null|
 |**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573](http://arxiv.org/abs/2404.02573)|null|
 |**2024-04-02**|**Super-Resolution Analysis for Landfill Waste Classification**|Matias Molina et.al.|[2404.01790](http://arxiv.org/abs/2404.01790)|null|
 |**2024-04-03**|**AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation**|Rui Xie et.al.|[2404.01717](http://arxiv.org/abs/2404.01717)|null|
-|**2024-04-04**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692](http://arxiv.org/abs/2404.01692)|null|
+|**2024-04-04**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692](http://arxiv.org/abs/2404.01692)|**[link](https://github.com/jaehakim97/sr4ir)**|
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690](http://arxiv.org/abs/2404.01690)|null|
 |**2024-04-01**|**Video Interpolation with Diffusion Models**|Siddhant Jain et.al.|[2404.01203](http://arxiv.org/abs/2404.01203)|null|
 |**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874](http://arxiv.org/abs/2404.00874)|null|
@@ -939,6 +950,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425](http://arxiv.org/abs/2404.03425)|**[link](https://github.com/chenhongruixuan/mambacd)**|
+|**2024-04-04**|**Spatio-Spectral Structure Tensor Total Variation for Hyperspectral Image Denoising and Destriping**|Shingo Takemoto et.al.|[2404.03313](http://arxiv.org/abs/2404.03313)|null|
+|**2024-04-03**|**Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape**|Nafaa Nacereddine et.al.|[2404.03043](http://arxiv.org/abs/2404.03043)|null|
 |**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877](http://arxiv.org/abs/2404.02877)|null|
 |**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668](http://arxiv.org/abs/2404.02668)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
 |**2024-04-03**|**RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation**|Xianping Ma et.al.|[2404.02457](http://arxiv.org/abs/2404.02457)|**[link](https://github.com/sstary/ssrs)**|

@@ -394,7 +394,7 @@ layout: default
 |**2023-12-16**|**Statistical Analysis of Inter Coding in VVC Test Model (VTM)**|Yiqun Liu et.al.|[2312.10406](http://arxiv.org/abs/2312.10406)|null|
 |**2023-12-15**|**IQNet: Image Quality Assessment Guided Just Noticeable Difference Prefiltering For Versatile Video Coding**|Yu-Han Sun et.al.|[2312.09799](http://arxiv.org/abs/2312.09799)|null|
 |**2023-12-15**|**Towards Neuromorphic Compression based Neural Sensing for Next-Generation Wireless Implantable Brain Machine Interface**|Vivek Mohan et.al.|[2312.09503](http://arxiv.org/abs/2312.09503)|null|
-|**2023-12-14**|**Geometry-Corrected Geodesic Motion Modeling with Per-Frame Camera Motion for 360-Degree Video Compression**|Andy Regensky et.al.|[2312.09266](http://arxiv.org/abs/2312.09266)|null|
+|**2023-12-14**|**Geometry-Corrected Geodesic Motion Modeling with Per-Frame Camera Motion for 360-Degree Video Compression**|Andy Regensky et.al.|[2312.09266](http://arxiv.org/abs/2312.09266)|**[link](https://github.com/fau-lms/vvc-extension-ged)**|
 |**2023-12-14**|**Efficient Online Learning of Contact Force Models for Connector Insertion**|Kevin Tracy et.al.|[2312.09190](http://arxiv.org/abs/2312.09190)|null|
 |**2023-12-13**|**Balanced and Deterministic Weight-sharing Helps Network Performance**|Oscar Chang et.al.|[2312.08401](http://arxiv.org/abs/2312.08401)|null|
 |**2023-12-13**|**Preparing VVC for Streaming: A Fast Multi-Rate Encoding Approach**|Yiqun Liu et.al.|[2312.08330](http://arxiv.org/abs/2312.08330)|null|
@@ -442,8 +442,8 @@ layout: default
 |**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722](http://arxiv.org/abs/2404.00722)|null|
 |**2024-03-30**|**Classification of Short Segment Pediatric Heart Sounds Based on a Transformer-Based Convolutional Neural Network**|Md Hassanuzzaman et.al.|[2404.00470](http://arxiv.org/abs/2404.00470)|null|
 |**2024-03-30**|**Harmonizing Light and Darkness: A Symphony of Prior-guided Data Synthesis and Adaptive Focus for Nighttime Flare Removal**|Lishen Qu et.al.|[2404.00313](http://arxiv.org/abs/2404.00313)|null|
-|**2024-03-30**|**Learned Scanpaths Aid Blind Panoramic Video Quality Assessment**|Kanglong Fan et.al.|[2404.00252](http://arxiv.org/abs/2404.00252)|null|
-|**2024-03-29**|**Evolving Semantic Communication with Generative Model**|Shunpu Tang et.al.|[2403.20237](http://arxiv.org/abs/2403.20237)|null|
+|**2024-03-30**|**Learned Scanpaths Aid Blind Panoramic Video Quality Assessment**|Kanglong Fan et.al.|[2404.00252](http://arxiv.org/abs/2404.00252)|**[link](https://github.com/kalofan/autoscanpathqa)**|
+|**2024-03-29**|**Evolving Semantic Communication with Generative Model**|Shunpu Tang et.al.|[2403.20237](http://arxiv.org/abs/2403.20237)|**[link](https://github.com/recusant7/gan_secom)**|
 |**2024-03-29**|**Exploring Pathological Speech Quality Assessment with ASR-Powered Wav2Vec2 in Data-Scarce Context**|Tuan Nguyen et.al.|[2403.20184](http://arxiv.org/abs/2403.20184)|null|
 |**2024-03-29**|**Unsupervised Tumor-Aware Distillation for Multi-Modal Brain Image Translation**|Chuan Huang et.al.|[2403.20168](http://arxiv.org/abs/2403.20168)|**[link](https://github.com/scut-hc/utad-net)**|
 |**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/abs/2403.20013)|null|
@@ -635,7 +635,7 @@ layout: default
 |**2024-03-01**|**Deep-learning-based Magnetic Resonance Simultaneous Multislice Imaging Using Holographic Image Decoding**|Satoshi Ito et.al.|[2403.00220](http://arxiv.org/abs/2403.00220)|null|
 |**2024-03-03**|**RoadRunner - Learning Traversability Estimation for Autonomous Off-road Driving**|Jonas Frey et.al.|[2402.19341](http://arxiv.org/abs/2402.19341)|null|
 |**2024-02-29**|**Integral field spectroscopy supports atmospheric optics to reveal the finite outer scale of the turbulence**|Begoña García-Lorenzo et.al.|[2402.19337](http://arxiv.org/abs/2402.19337)|null|
-|**2024-03-13**|**Modular Blind Video Quality Assessment**|Wen Wen et.al.|[2402.19276](http://arxiv.org/abs/2402.19276)|null|
+|**2024-03-13**|**Modular Blind Video Quality Assessment**|Wen Wen et.al.|[2402.19276](http://arxiv.org/abs/2402.19276)|**[link](https://github.com/winwinwenwen77/modularbvqa)**|
 |**2024-02-29**|**Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts**|Cansu Korkmaz et.al.|[2402.19215](http://arxiv.org/abs/2402.19215)|**[link](https://github.com/mandalinadagi/wgsr)**|
 |**2024-02-29**|**Disentangling representations of retinal images with generative models**|Sarah Müller et.al.|[2402.19186](http://arxiv.org/abs/2402.19186)|null|
 |**2024-02-29**|**Trajectory Consistency Distillation**|Jianbin Zheng et.al.|[2402.19159](http://arxiv.org/abs/2402.19159)|**[link](https://github.com/jabir-zheng/TCD)**|
@@ -664,7 +664,7 @@ layout: default
 |**2024-03-04**|**Towards Open-ended Visual Quality Comparison**|Haoning Wu et.al.|[2402.16641](http://arxiv.org/abs/2402.16641)|null|
 |**2024-02-26**|**Distortion-Controlled Dithering with Reduced Recompression Rate**|Morriel Kasher et.al.|[2402.16447](http://arxiv.org/abs/2402.16447)|null|
 |**2024-02-26**|**Audio-Visual Speech Enhancement in Noisy Environments via Emotion-Based Contextual Cues**|Tassadaq Hussain et.al.|[2402.16394](http://arxiv.org/abs/2402.16394)|null|
-|**2024-02-26**|**Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech**|Szu-Wei Fu et.al.|[2402.16321](http://arxiv.org/abs/2402.16321)|null|
+|**2024-02-26**|**Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech**|Szu-Wei Fu et.al.|[2402.16321](http://arxiv.org/abs/2402.16321)|**[link](https://github.com/JasonSWFu/VQscore)**|
 |**2024-02-24**|**Design, Implementation and Analysis of a Compressed Sensing Photoacoustic Projection Imaging System**|Markus Haltmeier et.al.|[2402.15750](http://arxiv.org/abs/2402.15750)|null|
 |**2024-02-23**|**Benchmarking the Robustness of Panoptic Segmentation for Automated Driving**|Yiting Wang et.al.|[2402.15469](http://arxiv.org/abs/2402.15469)|null|
 |**2024-02-23**|**Ten computational challenges in human virome studies**|Yifan Wu et.al.|[2402.15186](http://arxiv.org/abs/2402.15186)|null|
@@ -786,7 +786,7 @@ layout: default
 |**2024-03-01**|**Data-driven nonlinear turbulent flow scaling with Buckingham Pi variables**|Kai Fukami et.al.|[2402.17990](http://arxiv.org/abs/2402.17990)|null|
 |**2024-02-27**|**Thermodynamics-informed super-resolution of scarce temporal dynamics data**|Carlos Bermejo-Barbanoj et.al.|[2402.17506](http://arxiv.org/abs/2402.17506)|null|
 |**2024-02-27**|**Spatial super-resolution in nanosensing with blinking emitters**|Alexander Mikhalychev et.al.|[2402.17391](http://arxiv.org/abs/2402.17391)|null|
-|**2024-02-27**|**Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network**|Zhaoyang Wang et.al.|[2402.17285](http://arxiv.org/abs/2402.17285)|null|
+|**2024-02-27**|**Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network**|Zhaoyang Wang et.al.|[2402.17285](http://arxiv.org/abs/2402.17285)|**[link](https://github.com/handsomewzy/HSI-DMGASR)**|
 |**2024-02-27**|**SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution**|Chengcheng Wang et.al.|[2402.17133](http://arxiv.org/abs/2402.17133)|**[link](https://github.com/lose4578/SAM-DiffSR)**|
 |**2024-02-26**|**Generative AI in Vision: A Survey on Models, Metrics and Applications**|Gaurav Raut et.al.|[2402.16369](http://arxiv.org/abs/2402.16369)|null|
 |**2024-02-25**|**Photon-counting CT using a Conditional Diffusion Model for Super-resolution and Texture-preservation**|Christopher Wiedeman et.al.|[2402.16212](http://arxiv.org/abs/2402.16212)|null|
@@ -847,7 +847,7 @@ layout: default
 |**2024-01-22**|**3D orientation super-resolution spatial-frequency-shift microscopy**|Xiaowei Liu et.al.|[2401.09085](http://arxiv.org/abs/2401.09085)|null|
 |**2024-01-17**|**Efficient Image Super-Resolution via Symmetric Visual Attention Network**|Chengxu Wu et.al.|[2401.08913](http://arxiv.org/abs/2401.08913)|null|
 |**2024-01-16**|**Robust DOA estimation using deep acoustic imaging**|Adrian S. Roman et.al.|[2401.08717](http://arxiv.org/abs/2401.08717)|**[link](https://github.com/adriansroman/deepwavedoa)**|
-|**2024-01-20**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503](http://arxiv.org/abs/2401.08503)|null|
+|**2024-01-20**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503](http://arxiv.org/abs/2401.08503)|**[link](https://github.com/yerfor/Real3DPortrait)**|
 |**2024-01-16**|**Physics-informed Meta-instrument for eXperiments (PiMiX) with applications to fusion energy**|Zhehui Wang et.al.|[2401.08390](http://arxiv.org/abs/2401.08390)|null|
 |**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209](http://arxiv.org/abs/2401.08209)|**[link](https://github.com/labshuhanggu/adaptive-token-dictionary)**|
 |**2024-01-16**|**The Devil is in the Details: Boosting Guided Depth Super-Resolution via Rethinking Cross-Modal Alignment and Aggregation**|Xinni Jiang et.al.|[2401.08123](http://arxiv.org/abs/2401.08123)|**[link](https://github.com/jiangxinni/d2a2)**|
@@ -926,7 +926,7 @@ layout: default
 |**2023-12-11**|**Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution**|Binxiao Huang et.al.|[2312.06101](http://arxiv.org/abs/2312.06101)|null|
 |**2024-03-20**|**Precipitation Downscaling with Spatiotemporal Video Diffusion**|Prakhar Srivastava et.al.|[2312.06071](http://arxiv.org/abs/2312.06071)|null|
 |**2023-12-10**|**Study of Multiuser Multiple-Antenna Wireless Communications Systems Based on Super-Resolution Arrays**|S. Pinto et.al.|[2312.06033](http://arxiv.org/abs/2312.06033)|null|
-|**2023-12-10**|**Transformer-based Selective Super-Resolution for Efficient Image Refinement**|Tianyi Zhang et.al.|[2312.05803](http://arxiv.org/abs/2312.05803)|null|
+|**2023-12-10**|**Transformer-based Selective Super-Resolution for Efficient Image Refinement**|Tianyi Zhang et.al.|[2312.05803](http://arxiv.org/abs/2312.05803)|**[link](https://github.com/destiny301/ssr)**|
 |**2023-12-13**|**SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2312.05799](http://arxiv.org/abs/2312.05799)|**[link](https://github.com/yanzq95/sgnet)**|
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
@@ -1031,7 +1031,7 @@ layout: default
 |**2024-02-28**|**SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**|Feiya Li et.al.|[2402.18318](http://arxiv.org/abs/2402.18318)|null|
 |**2024-02-28**|**Infrared Small Target Detection via tensor $L_{2,1}$ norm minimization and ASSTV regularization: A Novel Tensor Recovery Approach**|Jiqian Zhao et.al.|[2402.18003](http://arxiv.org/abs/2402.18003)|null|
 |**2024-02-27**|**Physics-Informed Machine Learning for the Inverse Design of Wave Scattering Clusters**|Joshua R. Tempelman et.al.|[2402.17816](http://arxiv.org/abs/2402.17816)|null|
-|**2024-02-27**|**Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network**|Zhaoyang Wang et.al.|[2402.17285](http://arxiv.org/abs/2402.17285)|null|
+|**2024-02-27**|**Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network**|Zhaoyang Wang et.al.|[2402.17285](http://arxiv.org/abs/2402.17285)|**[link](https://github.com/handsomewzy/HSI-DMGASR)**|
 |**2024-02-27**|**Fibre-integrated van der Waals quantum sensor with an optimal cavity interface**|Jong Sung Moon et.al.|[2402.17095](http://arxiv.org/abs/2402.17095)|null|
 |**2024-02-26**|**Automated Floodwater Depth Estimation Using Large Multimodal Model for Rapid Flood Mapping**|Temitope Akinboyewa et.al.|[2402.16684](http://arxiv.org/abs/2402.16684)|null|
 |**2024-02-26**|**Quick unsupervised hyperspectral dimensionality reduction for earth observation: a comparison**|Daniela Lupu et.al.|[2402.16566](http://arxiv.org/abs/2402.16566)|null|

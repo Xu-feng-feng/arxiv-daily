@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012](http://arxiv.org/abs/2404.06012)|null|
 |**2024-03-13**|**Point Cloud Compression via Constrained Optimal Transport**|Zezeng Li et.al.|[2403.08236](http://arxiv.org/abs/2403.08236)|**[link](https://github.com/cognaclee/pcc-cot)**|
 |**2024-03-08**|**Arbitrary-Scale Point Cloud Upsampling by Voxel-Based Network with Latent Geometric-Consistent Learning**|Hang Du et.al.|[2403.05117](http://arxiv.org/abs/2403.05117)|**[link](https://github.com/hikvision-research/3dvision)**|
 |**2024-03-01**|**Assessing objective quality metrics for JPEG and MPEG point cloud coding**|Davi Lazzarotto et.al.|[2403.00410](http://arxiv.org/abs/2403.00410)|null|
@@ -196,6 +197,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|null|
+|**2024-04-09**|**Communication-Efficient Large-Scale Distributed Deep Learning: A Comprehensive Survey**|Feng Liang et.al.|[2404.06114](http://arxiv.org/abs/2404.06114)|null|
+|**2024-04-09**|**Image and Video Compression using Generative Sparse Representation with Fidelity Controls**|Wei Jiang et.al.|[2404.06076](http://arxiv.org/abs/2404.06076)|null|
 |**2024-04-07**|**Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder**|Yiyang Ma et.al.|[2404.04916](http://arxiv.org/abs/2404.04916)|null|
 |**2024-04-07**|**Task-Aware Encoder Control for Deep Video Compression**|Xingtong Ge et.al.|[2404.04848](http://arxiv.org/abs/2404.04848)|null|
 |**2024-04-06**|**Power-Efficient Image Storage: Leveraging Super Resolution Generative Adversarial Network for Sustainable Compression and Reduced Carbon Footprint**|Ashok Mondal et.al.|[2404.04642](http://arxiv.org/abs/2404.04642)|null|
@@ -432,6 +436,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Low-Cost Generation and Evaluation of Dictionary Example Sentences**|Bill Cai et.al.|[2404.06224](http://arxiv.org/abs/2404.06224)|null|
+|**2024-04-09**|**Image and Video Compression using Generative Sparse Representation with Fidelity Controls**|Wei Jiang et.al.|[2404.06076](http://arxiv.org/abs/2404.06076)|null|
+|**2024-04-09**|**Prompt-driven Universal Model for View-Agnostic Echocardiography Analysis**|Sekeun Kim et.al.|[2404.05916](http://arxiv.org/abs/2404.05916)|null|
+|**2024-04-06**|**Study of the effect of Sharpness on Blind Video Quality Assessment**|Anantha Prabhu et.al.|[2404.05764](http://arxiv.org/abs/2404.05764)|null|
 |**2024-04-08**|**A Training-Free Plug-and-Play Watermark Framework for Stable Diffusion**|Guokai Zhang et.al.|[2404.05607](http://arxiv.org/abs/2404.05607)|null|
 |**2024-04-08**|**UniFL: Improve Stable Diffusion via Unified Feedback Learning**|Jiacheng Zhang et.al.|[2404.05595](http://arxiv.org/abs/2404.05595)|null|
 |**2024-04-08**|**Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance**|Dazhong Shen et.al.|[2404.05384](http://arxiv.org/abs/2404.05384)|**[link](https://github.com/smilesdzgk/s-cfg)**|
@@ -446,7 +454,7 @@
 |**2024-04-07**|**CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data**|Wei Fang et.al.|[2404.04878](http://arxiv.org/abs/2404.04878)|null|
 |**2024-04-07**|**Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving**|Jinlong Li et.al.|[2404.04804](http://arxiv.org/abs/2404.04804)|null|
 |**2024-04-06**|**Convolutional Neural Network Transformer (CNNT) for Fluorescence Microscopy image Denoising with Improved Generalization and Fast Adaptation**|Azaan Rehman et.al.|[2404.04726](http://arxiv.org/abs/2404.04726)|null|
-|**2024-04-06**|**Computation and Critical Transitions of Rate-Distortion-Perception Functions With Wasserstein Barycenter**|Chunhui Chen et.al.|[2404.04681](http://arxiv.org/abs/2404.04681)|null|
+|**2024-04-09**|**Computation and Critical Transitions of Rate-Distortion-Perception Functions With Wasserstein Barycenter**|Chunhui Chen et.al.|[2404.04681](http://arxiv.org/abs/2404.04681)|null|
 |**2024-04-06**|**FastHDRNet: A new efficient method for SDR-to-HDR Translation**|Siyuan Tian et.al.|[2404.04483](http://arxiv.org/abs/2404.04483)|null|
 |**2024-04-06**|**RoNet: Rotation-oriented Continuous Image Translation**|Yi Li et.al.|[2404.04474](http://arxiv.org/abs/2404.04474)|null|
 |**2024-04-05**|**Physics-Inspired Synthesized Underwater Image Dataset**|Reina Kaneko et.al.|[2404.03998](http://arxiv.org/abs/2404.03998)|null|
@@ -731,6 +739,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400](http://arxiv.org/abs/2404.06400)|null|
+|**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294](http://arxiv.org/abs/2404.06294)|null|
+|**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075](http://arxiv.org/abs/2404.06075)|null|
+|**2024-04-09**|**Space-Time Video Super-resolution with Neural Operator**|Yuantong Zhang et.al.|[2404.06036](http://arxiv.org/abs/2404.06036)|null|
+|**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012](http://arxiv.org/abs/2404.06012)|null|
+|**2024-04-09**|**Resolution enhancement of SOHO/MDI Magnetograms**|Ying Qin et.al.|[2404.05968](http://arxiv.org/abs/2404.05968)|null|
 |**2024-04-08**|**Nanomolecular OLED Pixelization Enabling Electroluminescent Metasurfaces**|Tommaso Marcato et.al.|[2404.05336](http://arxiv.org/abs/2404.05336)|null|
 |**2024-04-07**|**Gull: A Generative Multifunctional Audio Codec**|Yi Luo et.al.|[2404.04947](http://arxiv.org/abs/2404.04947)|null|
 |**2024-04-07**|**Efficient Learnable Collaborative Attention for Single Image Super-Resolution**|Yigang Zhao Chaowei Zheng et.al.|[2404.04922](http://arxiv.org/abs/2404.04922)|null|
@@ -987,6 +1001,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Raster Forge: Interactive Raster Manipulation Library and GUI for Python**|Afonso Oliveira et.al.|[2404.06389](http://arxiv.org/abs/2404.06389)|null|
 |**2024-04-08**|**Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery**|Ionut M. Motoi et.al.|[2404.05693](http://arxiv.org/abs/2404.05693)|null|
 |**2024-04-08**|**Impact of LiDAR visualisations on semantic segmentation of archaeological objects**|Raveerat Jaturapitpornchai et.al.|[2404.05512](http://arxiv.org/abs/2404.05512)|null|
 |**2024-04-08**|**Pansharpening of PRISMA products for archaeological prospection**|Gregory Sech et.al.|[2404.05447](http://arxiv.org/abs/2404.05447)|null|

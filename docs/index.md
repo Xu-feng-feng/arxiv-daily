@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression**|Kang You et.al.|[2404.06936](http://arxiv.org/abs/2404.06936)|**[link](https://github.com/i2-multimedia-lab/polopcac)**|
 |**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012](http://arxiv.org/abs/2404.06012)|null|
 |**2024-03-13**|**Point Cloud Compression via Constrained Optimal Transport**|Zezeng Li et.al.|[2403.08236](http://arxiv.org/abs/2403.08236)|**[link](https://github.com/cognaclee/pcc-cot)**|
 |**2024-03-08**|**Arbitrary-Scale Point Cloud Upsampling by Voxel-Based Network with Latent Geometric-Consistent Learning**|Hang Du et.al.|[2403.05117](http://arxiv.org/abs/2403.05117)|**[link](https://github.com/hikvision-research/3dvision)**|
@@ -188,6 +189,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Exploring Repetitiveness Measures for Two-Dimensional Strings**|Giuseppe Romana et.al.|[2404.07030](http://arxiv.org/abs/2404.07030)|null|
+|**2024-04-10**|**Fine color guidance in diffusion models and its application to image compression at extremely low bitrates**|Tom Bordin et.al.|[2404.06865](http://arxiv.org/abs/2404.06865)|null|
+|**2024-04-09**|**Encoder-Quantization-Motion-based Video Quality Metrics**|Yixu Chen et.al.|[2404.06620](http://arxiv.org/abs/2404.06620)|null|
 |**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|null|
 |**2024-04-09**|**Communication-Efficient Large-Scale Distributed Deep Learning: A Comprehensive Survey**|Feng Liang et.al.|[2404.06114](http://arxiv.org/abs/2404.06114)|null|
 |**2024-04-09**|**Image and Video Compression using Generative Sparse Representation with Fidelity Controls**|Wei Jiang et.al.|[2404.06076](http://arxiv.org/abs/2404.06076)|null|
@@ -425,6 +429,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206](http://arxiv.org/abs/2404.07206)|null|
+|**2024-04-10**|**Adversarial purification for no-reference image-quality metrics: applicability study and new methods**|Aleksandr Gushchin et.al.|[2404.06957](http://arxiv.org/abs/2404.06957)|null|
+|**2024-04-10**|**Perception-Oriented Video Frame Interpolation via Asymmetric Blending**|Guangyang Wu et.al.|[2404.06692](http://arxiv.org/abs/2404.06692)|null|
+|**2024-04-10**|**CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge**|Yu Ying Chiu et.al.|[2404.06664](http://arxiv.org/abs/2404.06664)|null|
+|**2024-04-09**|**Encoder-Quantization-Motion-based Video Quality Metrics**|Yixu Chen et.al.|[2404.06620](http://arxiv.org/abs/2404.06620)|null|
 |**2024-04-09**|**Low-Cost Generation and Evaluation of Dictionary Example Sentences**|Bill Cai et.al.|[2404.06224](http://arxiv.org/abs/2404.06224)|null|
 |**2024-04-09**|**Image and Video Compression using Generative Sparse Representation with Fidelity Controls**|Wei Jiang et.al.|[2404.06076](http://arxiv.org/abs/2404.06076)|null|
 |**2024-04-09**|**Prompt-driven Universal Model for View-Agnostic Echocardiography Analysis**|Sekeun Kim et.al.|[2404.05916](http://arxiv.org/abs/2404.05916)|null|
@@ -726,6 +735,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112](http://arxiv.org/abs/2404.07112)|null|
 |**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400](http://arxiv.org/abs/2404.06400)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294](http://arxiv.org/abs/2404.06294)|null|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075](http://arxiv.org/abs/2404.06075)|null|
@@ -986,6 +996,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Impact of far-side structures observed by Solar Orbiter on coronal and heliospheric wind simulations**|Barbara Perri et.al.|[2404.06794](http://arxiv.org/abs/2404.06794)|null|
+|**2024-04-10**|**YOLO based Ocean Eddy Localization with AWS SageMaker**|Seraj Al Mahmud Mostafa et.al.|[2404.06744](http://arxiv.org/abs/2404.06744)|null|
+|**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665](http://arxiv.org/abs/2404.06665)|**[link](https://github.com/yongquan-qu/slams)**|
+|**2024-04-09**|**FlameFinder: Illuminating Obscured Fire through Smoke with Attentive Deep Metric Learning**|Hossein Rajoli et.al.|[2404.06653](http://arxiv.org/abs/2404.06653)|null|
 |**2024-04-09**|**Raster Forge: Interactive Raster Manipulation Library and GUI for Python**|Afonso Oliveira et.al.|[2404.06389](http://arxiv.org/abs/2404.06389)|null|
 |**2024-04-08**|**Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery**|Ionut M. Motoi et.al.|[2404.05693](http://arxiv.org/abs/2404.05693)|null|
 |**2024-04-08**|**Impact of LiDAR visualisations on semantic segmentation of archaeological objects**|Raveerat Jaturapitpornchai et.al.|[2404.05512](http://arxiv.org/abs/2404.05512)|null|

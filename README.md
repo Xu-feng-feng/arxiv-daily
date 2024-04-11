@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -191,7 +191,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Compression
 
@@ -430,7 +430,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -448,7 +448,7 @@
 |**2024-04-08**|**QMix: Quality-aware Learning with Mixed Noise for Robust Retinal Disease Diagnosis**|Junlin Hou et.al.|[2404.05169](http://arxiv.org/abs/2404.05169)|null|
 |**2024-04-07**|**Data Conditioning for Subsurface Models with Single-Image Generative Adversarial Network (SinGAN)**|Lei Liu et.al.|[2404.05068](http://arxiv.org/abs/2404.05068)|null|
 |**2024-04-07**|**LOGO: A Long-Form Video Dataset for Group Action Quality Assessment**|Shiyi Zhang et.al.|[2404.05029](http://arxiv.org/abs/2404.05029)|**[link](https://github.com/shiyi-zh0408/logo)**|
-|**2024-04-07**|**Dual-Scale Transformer for Large-Scale Single-Pixel Imaging**|Gang Qu et.al.|[2404.05001](http://arxiv.org/abs/2404.05001)|null|
+|**2024-04-07**|**Dual-Scale Transformer for Large-Scale Single-Pixel Imaging**|Gang Qu et.al.|[2404.05001](http://arxiv.org/abs/2404.05001)|**[link](https://github.com/gang-qu/hatnet-spi)**|
 |**2024-04-07**|**Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder**|Yiyang Ma et.al.|[2404.04916](http://arxiv.org/abs/2404.04916)|null|
 |**2024-04-07**|**CodecNeRF: Toward Fast Encoding and Decoding, Compact, and High-quality Novel-view Synthesis**|Gyeongjin Kang et.al.|[2404.04913](http://arxiv.org/abs/2404.04913)|null|
 |**2024-04-07**|**CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data**|Wei Fang et.al.|[2404.04878](http://arxiv.org/abs/2404.04878)|null|
@@ -733,7 +733,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -995,7 +995,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -1007,7 +1007,7 @@
 |**2024-04-08**|**Pansharpening of PRISMA products for archaeological prospection**|Gregory Sech et.al.|[2404.05447](http://arxiv.org/abs/2404.05447)|null|
 |**2024-04-08**|**In-Flight Estimation of Instrument Spectral Response Functions Using Sparse Representations**|Jihanne El Haouari et.al.|[2404.05298](http://arxiv.org/abs/2404.05298)|null|
 |**2024-04-08**|**Empirical Upscaling of Point-scale Soil Moisture Measurements for Spatial Evaluation of Model Simulations and Satellite Retrievals**|Yi Yu et.al.|[2404.05229](http://arxiv.org/abs/2404.05229)|null|
-|**2024-04-07**|**LRNet: Change detection of high-resolution remote sensing imagery via strategy of localization-then-refinement**|Huan Zhong et.al.|[2404.04884](http://arxiv.org/abs/2404.04884)|**[link](https://github.com/pl-2000/lrnet)**|
+|**2024-04-07**|**LRNet: Change detection of high-resolution remote sensing imagery via strategy of localization-then-refinement**|Huan Zhong et.al.|[2404.04884](http://arxiv.org/abs/2404.04884)|null|
 |**2024-04-07**|**3D Building Reconstruction from Monocular Remote Sensing Images with Multi-level Supervisions**|Weijia Li et.al.|[2404.04823](http://arxiv.org/abs/2404.04823)|**[link](https://github.com/opendatalab/mls-brn)**|
 |**2024-04-06**|**Panoptic Perception: A Novel Task and Fine-grained Dataset for Universal Remote Sensing Image Interpretation**|Danpei Zhao et.al.|[2404.04608](http://arxiv.org/abs/2404.04608)|null|
 |**2024-04-06**|**Frequency Decomposition-Driven Unsupervised Domain Adaptation for Remote Sensing Image Semantic Segmentation**|Xianping Ma et.al.|[2404.04531](http://arxiv.org/abs/2404.04531)|**[link](https://github.com/sstary/ssrs)**|
@@ -1020,7 +1020,7 @@
 |**2024-04-04**|**Spatio-Spectral Structure Tensor Total Variation for Hyperspectral Image Denoising and Destriping**|Shingo Takemoto et.al.|[2404.03313](http://arxiv.org/abs/2404.03313)|**[link](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)**|
 |**2024-04-07**|**Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape**|Nafaa Nacereddine et.al.|[2404.03043](http://arxiv.org/abs/2404.03043)|null|
 |**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877](http://arxiv.org/abs/2404.02877)|**[link](https://github.com/toelt-llc/FlightScope_Bench)**|
-|**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668](http://arxiv.org/abs/2404.02668)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
+|**2024-04-10**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668](http://arxiv.org/abs/2404.02668)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
 |**2024-04-03**|**RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation**|Xianping Ma et.al.|[2404.02457](http://arxiv.org/abs/2404.02457)|**[link](https://github.com/sstary/ssrs)**|
 |**2024-04-02**|**Remote sensing framework for geological mapping via stacked autoencoders and clustering**|Sandeep Nagar et.al.|[2404.02180](http://arxiv.org/abs/2404.02180)|**[link](https://github.com/sydney-machine-learning/autoencoders_remotesensing)**|
 |**2024-04-03**|**ResNet with Integrated Convolutional Block Attention Module for Ship Classification Using Transfer Learning on Optical Satellite Imagery**|Ryan Donghan Kwon et.al.|[2404.02135](http://arxiv.org/abs/2404.02135)|null|
@@ -1250,7 +1250,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

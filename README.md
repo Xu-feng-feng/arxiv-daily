@@ -198,6 +198,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Video Compression Beyond VVC: Quantitative Analysis of Intra Coding Tools in Enhanced Compression Model (ECM)**|Mohsen Abdoli et.al.|[2404.07872](http://arxiv.org/abs/2404.07872)|null|
+|**2024-04-11**|**Learning to Classify New Foods Incrementally Via Compressed Exemplars**|Justin Yang et.al.|[2404.07507](http://arxiv.org/abs/2404.07507)|null|
+|**2024-04-10**|**A comparison between Shapefit compression and Full-Modelling method with PyBird for DESI 2024 and beyond**|Yan Lai et.al.|[2404.07283](http://arxiv.org/abs/2404.07283)|null|
 |**2024-04-10**|**Exploring Repetitiveness Measures for Two-Dimensional Strings**|Giuseppe Romana et.al.|[2404.07030](http://arxiv.org/abs/2404.07030)|null|
 |**2024-04-10**|**Fine color guidance in diffusion models and its application to image compression at extremely low bitrates**|Tom Bordin et.al.|[2404.06865](http://arxiv.org/abs/2404.06865)|null|
 |**2024-04-09**|**Encoder-Quantization-Motion-based Video Quality Metrics**|Yixu Chen et.al.|[2404.06620](http://arxiv.org/abs/2404.06620)|null|
@@ -440,6 +443,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Model-based Cleaning of the QUILT-1M Pathology Dataset for Text-Conditional Image Synthesis**|Marc Aubreville et.al.|[2404.07676](http://arxiv.org/abs/2404.07676)|null|
 |**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206](http://arxiv.org/abs/2404.07206)|null|
 |**2024-04-10**|**Adversarial purification for no-reference image-quality metrics: applicability study and new methods**|Aleksandr Gushchin et.al.|[2404.06957](http://arxiv.org/abs/2404.06957)|null|
 |**2024-04-10**|**Perception-Oriented Video Frame Interpolation via Asymmetric Blending**|Guangyang Wu et.al.|[2404.06692](http://arxiv.org/abs/2404.06692)|null|
@@ -748,7 +752,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112](http://arxiv.org/abs/2404.07112)|null|
+|**2024-04-11**|**Terahertz imaging super-resolution for documental heritage diagnostics**|Danae Antunez Vazquez et.al.|[2404.07798](http://arxiv.org/abs/2404.07798)|null|
+|**2024-04-11**|**Near-field reconstruction of periodic structures with superimposed illumination**|Jue Wang et.al.|[2404.07763](http://arxiv.org/abs/2404.07763)|null|
+|**2024-04-11**|**Deep learning-driven pulmonary arteries and veins segmentation reveals demography-associated pulmonary vasculature anatomy**|Yuetan Chu et.al.|[2404.07671](http://arxiv.org/abs/2404.07671)|**[link](https://github.com/arturia-pendragon-iris/hipas_av_segmentation)**|
+|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112](http://arxiv.org/abs/2404.07112)|**[link](https://github.com/lxlscut/Unfolding-ADMM-for-Enhanced-Subspace-Clustering-of-Hyperspectral-Images)**|
 |**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400](http://arxiv.org/abs/2404.06400)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294](http://arxiv.org/abs/2404.06294)|null|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075](http://arxiv.org/abs/2404.06075)|null|
@@ -1011,6 +1018,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Generating Synthetic Satellite Imagery With Deep-Learning Text-to-Image Models -- Technical Challenges and Implications for Monitoring and Verification**|Tuong Vy Nguyen et.al.|[2404.07754](http://arxiv.org/abs/2404.07754)|null|
+|**2024-04-11**|**Automatic Detection of Dark Ship-to-Ship Transfers using Deep Learning and Satellite Imagery**|Ollie Ballinger et.al.|[2404.07607](http://arxiv.org/abs/2404.07607)|null|
+|**2024-04-11**|**Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening**|Yule Duan et.al.|[2404.07543](http://arxiv.org/abs/2404.07543)|**[link](https://github.com/duanyll/canconv)**|
+|**2024-04-11**|**Floquet engineering Rydberg sub-THz frequency comb spectroscopy**|Li-Hua Zhang et.al.|[2404.07433](http://arxiv.org/abs/2404.07433)|null|
+|**2024-04-11**|**Simplifying Two-Stage Detectors for On-Device Inference in Remote Sensing**|Jaemin Kang et.al.|[2404.07405](http://arxiv.org/abs/2404.07405)|null|
 |**2024-04-10**|**Impact of far-side structures observed by Solar Orbiter on coronal and heliospheric wind simulations**|Barbara Perri et.al.|[2404.06794](http://arxiv.org/abs/2404.06794)|null|
 |**2024-04-10**|**YOLO based Ocean Eddy Localization with AWS SageMaker**|Seraj Al Mahmud Mostafa et.al.|[2404.06744](http://arxiv.org/abs/2404.06744)|null|
 |**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665](http://arxiv.org/abs/2404.06665)|**[link](https://github.com/yongquan-qu/slams)**|

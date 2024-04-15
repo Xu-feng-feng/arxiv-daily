@@ -214,7 +214,7 @@
 |**2024-04-06**|**Power-Efficient Image Storage: Leveraging Super Resolution Generative Adversarial Network for Sustainable Compression and Reduced Carbon Footprint**|Ashok Mondal et.al.|[2404.04642](http://arxiv.org/abs/2404.04642)|null|
 |**2024-04-05**|**ClickDiffusion: Harnessing LLMs for Interactive Precise Image Editing**|Alec Helbling et.al.|[2404.04376](http://arxiv.org/abs/2404.04376)|**[link](https://github.com/poloclub/clickdiffusion)**|
 |**2024-04-03**|**Convolutional variational autoencoders for secure lossy image compression in remote sensing**|Alessandro Giuliano et.al.|[2404.03696](http://arxiv.org/abs/2404.03696)|null|
-|**2024-03-25**|**RL for Consistency Models: Faster Reward Guided Text-to-Image Generation**|Owen Oertell et.al.|[2404.03673](http://arxiv.org/abs/2404.03673)|null|
+|**2024-03-25**|**RL for Consistency Models: Faster Reward Guided Text-to-Image Generation**|Owen Oertell et.al.|[2404.03673](http://arxiv.org/abs/2404.03673)|**[link](https://github.com/Owen-Oertell/rlcm)**|
 |**2024-04-04**|**Training LLMs over Neurally Compressed Text**|Brian Lester et.al.|[2404.03626](http://arxiv.org/abs/2404.03626)|null|
 |**2024-04-04**|**Leveraging Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning**|Tyler Chang et.al.|[2404.03586](http://arxiv.org/abs/2404.03586)|**[link](https://github.com/llnl/interpml)**|
 |**2024-04-04**|**Semantic Compression with Information Lattice Learning**|Haizi Yu et.al.|[2404.03131](http://arxiv.org/abs/2404.03131)|null|
@@ -622,7 +622,7 @@
 |**2024-03-13**|**Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**|Paraskevas Pegios et.al.|[2403.08700](http://arxiv.org/abs/2403.08700)|null|
 |**2024-03-13**|**Do Language Models Care About Text Quality? Evaluating Web-Crawled Corpora Across 11 Languages**|Rik van Noord et.al.|[2403.08693](http://arxiv.org/abs/2403.08693)|null|
 |**2024-03-13**|**Physics-Guided Inverse Regression for Crop Quality Assessment**|David Shulman et.al.|[2403.08653](http://arxiv.org/abs/2403.08653)|null|
-|**2024-03-14**|**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting**|Xinjie Zhang et.al.|[2403.08551](http://arxiv.org/abs/2403.08551)|null|
+|**2024-03-14**|**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting**|Xinjie Zhang et.al.|[2403.08551](http://arxiv.org/abs/2403.08551)|**[link](https://github.com/xinjie-q/gaussianimage)**|
 |**2024-03-13**|**Masked Generative Story Transformer with Character Guidance and Caption Augmentation**|Christos Papadimitriou et.al.|[2403.08502](http://arxiv.org/abs/2403.08502)|**[link](https://github.com/chrispapa2000/maskgst)**|
 |**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
 |**2024-03-13**|**Protocol Optimization for Functional Cardiac CT Imaging Using Noise Emulation in the Raw Data Domain**|Zhye Yin et.al.|[2403.08486](http://arxiv.org/abs/2403.08486)|null|
@@ -807,7 +807,7 @@
 |**2024-03-26**|**Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model**|Runmin Dong et.al.|[2403.17460](http://arxiv.org/abs/2403.17460)|**[link](https://github.com/dongrunmin/refdiff)**|
 |**2024-03-25**|**A Study in Dataset Pruning for Image Super-Resolution**|Brian B. Moser et.al.|[2403.17083](http://arxiv.org/abs/2403.17083)|null|
 |**2024-03-25**|**Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution**|Zhikai Chen et.al.|[2403.17000](http://arxiv.org/abs/2403.17000)|null|
-|**2024-03-25**|**Self-STORM: Deep Unrolled Self-Supervised Learning for Super-Resolution Microscopy**|Yair Ben Sahel et.al.|[2403.16974](http://arxiv.org/abs/2403.16974)|null|
+|**2024-03-25**|**Self-STORM: Deep Unrolled Self-Supervised Learning for Super-Resolution Microscopy**|Yair Ben Sahel et.al.|[2403.16974](http://arxiv.org/abs/2403.16974)|**[link](https://github.com/yairbs/Self-STORM)**|
 |**2024-03-25**|**Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution**|Qingping Zheng et.al.|[2403.16643](http://arxiv.org/abs/2403.16643)|null|
 |**2024-03-25**|**Residual Dense Swin Transformer for Continuous Depth-Independent Ultrasound Imaging**|Jintong Hu et.al.|[2403.16384](http://arxiv.org/abs/2403.16384)|**[link](https://github.com/tljxyys/RDSTN_ultrasound)**|
 |**2024-03-24**|**CFAT: Unleashing TriangularWindows for Image Super-resolution**|Abhisek Ray et.al.|[2403.16143](http://arxiv.org/abs/2403.16143)|**[link](https://github.com/rayabhisek123/cfat)**|

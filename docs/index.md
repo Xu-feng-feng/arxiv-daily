@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -439,6 +439,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Language-Agnostic Modeling of Wikipedia Articles for Content Quality Assessment across Languages**|Paramita Das et.al.|[2404.09764](http://arxiv.org/abs/2404.09764)|null|
 |**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
 |**2024-04-15**|**AI Competitions and Benchmarks: Dataset Development**|Romain Egele et.al.|[2404.09703](http://arxiv.org/abs/2404.09703)|null|
 |**2024-04-15**|**Are Large Language Models Reliable Argument Quality Annotators?**|Nailia Mirzakhmedova et.al.|[2404.09696](http://arxiv.org/abs/2404.09696)|null|
@@ -1027,6 +1028,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Ultra-Wide Dual-band Rydberg Atomic Receiver Based on Space Division Multiplexing RF-Chip Modules**|Li-Hua Zhang et.al.|[2404.09757](http://arxiv.org/abs/2404.09757)|null|
 |**2024-04-15**|**On-chip Real-time Hyperspectral Imager with Full CMOS Resolution Enabled by Massively Parallel Neural Network**|Junren Wen et.al.|[2404.09500](http://arxiv.org/abs/2404.09500)|null|
 |**2024-04-14**|**Bridging Data Islands: Geographic Heterogeneity-Aware Federated Learning for Collaborative Remote Sensing Semantic Segmentation**|Jieyi Tan et.al.|[2404.09292](http://arxiv.org/abs/2404.09292)|null|
 |**2024-04-14**|**RoofDiffusion: Constructing Roofs from Severely Corrupted Point Data via Diffusion**|Kyle Shih-Huang Lo et.al.|[2404.09290](http://arxiv.org/abs/2404.09290)|**[link](https://github.com/kylelo/roofdiffusion)**|

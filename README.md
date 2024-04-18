@@ -199,6 +199,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Spatio-Temporal Motion Retargeting for Quadruped Robots**|Taerim Yoon et.al.|[2404.11557](http://arxiv.org/abs/2404.11557)|null|
+|**2024-04-17**|**Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems**|Luca Bompani et.al.|[2404.11488](http://arxiv.org/abs/2404.11488)|**[link](https://github.com/bomps4/multi_resolution_rescored_bytetrack)**|
+|**2024-04-17**|**Image Generative Semantic Communication with Multi-Modal Similarity Estimation for Resource-Limited Networks**|Eri Hosonuma et.al.|[2404.11280](http://arxiv.org/abs/2404.11280)|null|
 |**2024-04-16**|**Tripod: Three Complementary Inductive Biases for Disentangled Representation Learning**|Kyle Hsu et.al.|[2404.10282](http://arxiv.org/abs/2404.10282)|null|
 |**2024-04-16**|**Compressible and Searchable: AI-native Multi-Modal Retrieval System with Learned Image Compression**|Jixiang Luo et.al.|[2404.10234](http://arxiv.org/abs/2404.10234)|null|
 |**2024-04-15**|**One-Click Upgrade from 2D to 3D: Sandwiched RGB-D Video Compression for Stereoscopic Teleconferencing**|Yueyu Hu et.al.|[2404.09979](http://arxiv.org/abs/2404.09979)|null|
@@ -454,6 +457,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect**|Minh Tran et.al.|[2404.11429](http://arxiv.org/abs/2404.11429)|null|
+|**2024-04-17**|**Achromatic Full Stokes Polarimetry Metasurface for Full-color Polarization Imaging in the Visible**|Yueqiang Hu et.al.|[2404.11415](http://arxiv.org/abs/2404.11415)|null|
+|**2024-04-17**|**Toward Understanding the Disagreement Problem in Neural Network Feature Attribution**|Niklas Koenen et.al.|[2404.11330](http://arxiv.org/abs/2404.11330)|null|
+|**2024-04-17**|**NTIRE 2024 Challenge on Short-form UGC Video Quality Assessment: Methods and Results**|Xin Li et.al.|[2404.11313](http://arxiv.org/abs/2404.11313)|**[link](https://github.com/lixinustc/kvq-challenge-cvpr-ntire2024)**|
+|**2024-04-17**|**Study on the static detection of ICF target based on muonic X-ray sphere encoded imaging**|Dikai Li et.al.|[2404.11278](http://arxiv.org/abs/2404.11278)|null|
+|**2024-04-17**|**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case**|João Gabriel Vinholi et.al.|[2404.11243](http://arxiv.org/abs/2404.11243)|null|
+|**2024-04-17**|**ONOT: a High-Quality ICAO-compliant Synthetic Mugshot Dataset**|Nicolò Di Domenico et.al.|[2404.11236](http://arxiv.org/abs/2404.11236)|null|
+|**2024-04-17**|**Deep Portrait Quality Assessment. A NTIRE 2024 Challenge Survey**|Nicolas Chahine et.al.|[2404.11159](http://arxiv.org/abs/2404.11159)|null|
+|**2024-04-17**|**MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**|Jiayang Li et.al.|[2404.11016](http://arxiv.org/abs/2404.11016)|null|
 |**2024-04-16**|**Efficient Conditional Diffusion Model with Probability Flow Sampling for Image Super-resolution**|Yutao Yuan et.al.|[2404.10688](http://arxiv.org/abs/2404.10688)|**[link](https://github.com/yuan-yutao/ecdp)**|
 |**2024-04-16**|**VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time**|Sicheng Xu et.al.|[2404.10667](http://arxiv.org/abs/2404.10667)|null|
 |**2024-04-16**|**A Computer Vision-Based Quality Assessment Technique for the automatic control of consumables for analytical laboratories**|Meriam Zribi et.al.|[2404.10454](http://arxiv.org/abs/2404.10454)|null|
@@ -788,6 +800,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273](http://arxiv.org/abs/2404.11273)|null|
+|**2024-04-16**|**Uncertainty Quantification of Super-Resolution Flow Mapping in Liquid Metals using Ultrasound Localization Microscopy**|David Weik et.al.|[2404.10840](http://arxiv.org/abs/2404.10840)|null|
 |**2024-04-16**|**Efficient Conditional Diffusion Model with Probability Flow Sampling for Image Super-resolution**|Yutao Yuan et.al.|[2404.10688](http://arxiv.org/abs/2404.10688)|**[link](https://github.com/yuan-yutao/ecdp)**|
 |**2024-04-16**|**The Ninth NTIRE 2024 Efficient Super-Resolution Challenge Report**|Bin Ren et.al.|[2404.10343](http://arxiv.org/abs/2404.10343)|**[link](https://github.com/amazingren/ntire2024_esr)**|
 |**2024-04-16**|**SRGS: Super-Resolution 3D Gaussian Splatting**|Xiang Feng et.al.|[2404.10318](http://arxiv.org/abs/2404.10318)|null|
@@ -1064,6 +1078,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
+|**2024-04-17**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
+|**2024-04-17**|**Leveraging Fine-Grained Information and Noise Decoupling for Remote Sensing Change Detection**|Qiangang Du et.al.|[2404.11318](http://arxiv.org/abs/2404.11318)|null|
+|**2024-04-17**|**Achieving Rotation Invariance in Convolution Operations: Shifting from Data-Driven to Mechanism-Assured**|Hanlin Mo et.al.|[2404.11309](http://arxiv.org/abs/2404.11309)|null|
+|**2024-04-17**|**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case**|João Gabriel Vinholi et.al.|[2404.11243](http://arxiv.org/abs/2404.11243)|null|
+|**2024-04-17**|**Reuse out-of-year data to enhance land cover mappingvia feature disentanglement and contrastive learning**|Cassio F. Dantas et.al.|[2404.11114](http://arxiv.org/abs/2404.11114)|null|
+|**2024-04-17**|**Integrated Communication, Navigation, and Remote Sensing in LEO Networks with Vehicular Applications**|Min Sheng et.al.|[2404.10969](http://arxiv.org/abs/2404.10969)|null|
+|**2024-04-16**|**A Concise Tiling Strategy for Preserving Spatial Context in Earth Observation Imagery**|Ellianna Abrahams et.al.|[2404.10927](http://arxiv.org/abs/2404.10927)|**[link](https://github.com/elliesch/flipnslide)**|
 |**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626](http://arxiv.org/abs/2404.10626)|null|
 |**2024-04-16**|**Polarized Adding Method of Discrete Ordinate Approximation for Ultraviolet-Visible and Near-Infrared Radiative Transfer**|Kun Wu et.al.|[2404.10587](http://arxiv.org/abs/2404.10587)|null|
 |**2024-04-16**|**Learnable Prompt for Few-Shot Semantic Segmentation in Remote Sensing Domain**|Steve Andreas Immanuel et.al.|[2404.10307](http://arxiv.org/abs/2404.10307)|**[link](https://github.com/SteveImmanuel/OEM-Few-Shot-Learnable-Prompt)**|
@@ -1075,7 +1097,7 @@
 |**2024-04-14**|**SyntStereo2Real: Edge-Aware GAN for Remote Sensing Image-to-Image Translation while Maintaining Stereo Constraint**|Vasudha Venkatesan et.al.|[2404.09277](http://arxiv.org/abs/2404.09277)|null|
 |**2024-04-14**|**Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery**|Chengxi Han et.al.|[2404.09179](http://arxiv.org/abs/2404.09179)|**[link](https://github.com/chengxihan/cgnet-cd)**|
 |**2024-04-14**|**HANet: A Hierarchical Attention Network for Change Detection With Bitemporal Very-High-Resolution Remote Sensing Images**|Chengxi Han et.al.|[2404.09178](http://arxiv.org/abs/2404.09178)|**[link](https://github.com/chengxihan/hanet-cd)**|
-|**2024-04-13**|**Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives**|Yidan Liu et.al.|[2404.08926](http://arxiv.org/abs/2404.08926)|null|
+|**2024-04-17**|**Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives**|Yidan Liu et.al.|[2404.08926](http://arxiv.org/abs/2404.08926)|null|
 |**2024-04-13**|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|Kai Tang et.al.|[2404.08892](http://arxiv.org/abs/2404.08892)|null|
 |**2024-04-12**|**SpectralMamba: Efficient Mamba for Hyperspectral Image Classification**|Jing Yao et.al.|[2404.08489](http://arxiv.org/abs/2404.08489)|null|
 |**2024-04-12**|**Mitigating Challenges of the Space Environment for Onboard Artificial Intelligence: Design Overview of the Imaging Payload on SpIRIT**|Miguel Ortiz del Castillo et.al.|[2404.08399](http://arxiv.org/abs/2404.08399)|null|

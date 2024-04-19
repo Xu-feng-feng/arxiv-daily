@@ -190,6 +190,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Image Compression and Reconstruction Based on Quantum Network**|Xun Ji et.al.|[2404.11994](http://arxiv.org/abs/2404.11994)|null|
 |**2024-04-17**|**Spatio-Temporal Motion Retargeting for Quadruped Robots**|Taerim Yoon et.al.|[2404.11557](http://arxiv.org/abs/2404.11557)|null|
 |**2024-04-17**|**Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems**|Luca Bompani et.al.|[2404.11488](http://arxiv.org/abs/2404.11488)|**[link](https://github.com/bomps4/multi_resolution_rescored_bytetrack)**|
 |**2024-04-17**|**Image Generative Semantic Communication with Multi-Modal Similarity Estimation for Resource-Limited Networks**|Eri Hosonuma et.al.|[2404.11280](http://arxiv.org/abs/2404.11280)|null|
@@ -197,7 +198,7 @@ layout: default
 |**2024-04-16**|**Compressible and Searchable: AI-native Multi-Modal Retrieval System with Learned Image Compression**|Jixiang Luo et.al.|[2404.10234](http://arxiv.org/abs/2404.10234)|null|
 |**2024-04-15**|**One-Click Upgrade from 2D to 3D: Sandwiched RGB-D Video Compression for Stereoscopic Teleconferencing**|Yueyu Hu et.al.|[2404.09979](http://arxiv.org/abs/2404.09979)|null|
 |**2024-04-15**|**Quantization of Large Language Models with an Overdetermined Basis**|Daniil Merkulov et.al.|[2404.09737](http://arxiv.org/abs/2404.09737)|null|
-|**2024-04-15**|**Post-Training Network Compression for 3D Medical Image Segmentation: Reducing Computational Efforts via Tucker Decomposition**|Tobias Weber et.al.|[2404.09683](http://arxiv.org/abs/2404.09683)|**[link](https://github.com/clinicaldatascience/tucker-cnn)**|
+|**2024-04-18**|**Post-Training Network Compression for 3D Medical Image Segmentation: Reducing Computational Efforts via Tucker Decomposition**|Tobias Weber et.al.|[2404.09683](http://arxiv.org/abs/2404.09683)|**[link](https://github.com/clinicaldatascience/tucker-cnn)**|
 |**2024-04-15**|**MarsQE: Semantic-Informed Quality Enhancement for Compressed Martian Image**|Chengfeng Liu et.al.|[2404.09433](http://arxiv.org/abs/2404.09433)|null|
 |**2024-04-17**|**Incremental data compression for PDE-constrained optimization with a data assimilation application**|Xuejian Li et.al.|[2404.09323](http://arxiv.org/abs/2404.09323)|null|
 |**2024-04-14**|**A Joint Data Compression and Time-Delay Estimation Method For Distributed Systems via Extremum Encoding**|Amir Weiss et.al.|[2404.09244](http://arxiv.org/abs/2404.09244)|null|
@@ -205,7 +206,7 @@ layout: default
 |**2024-04-12**|**Mitigating Challenges of the Space Environment for Onboard Artificial Intelligence: Design Overview of the Imaging Payload on SpIRIT**|Miguel Ortiz del Castillo et.al.|[2404.08399](http://arxiv.org/abs/2404.08399)|null|
 |**2024-04-11**|**Video Compression Beyond VVC: Quantitative Analysis of Intra Coding Tools in Enhanced Compression Model (ECM)**|Mohsen Abdoli et.al.|[2404.07872](http://arxiv.org/abs/2404.07872)|null|
 |**2024-04-11**|**Learning to Classify New Foods Incrementally Via Compressed Exemplars**|Justin Yang et.al.|[2404.07507](http://arxiv.org/abs/2404.07507)|null|
-|**2024-04-14**|**A comparison between Shapefit compression and Full-Modelling method with PyBird for DESI 2024 and beyond**|Y. Lai et.al.|[2404.07283](http://arxiv.org/abs/2404.07283)|null|
+|**2024-04-14**|**A comparison between Shapefit compression and Full-Modelling method with PyBird for DESI 2024 and beyond**|Y. Lai et.al.|[2404.07283](http://arxiv.org/abs/2404.07283)|**[link](https://github.com/pierrexyz/pybird)**|
 |**2024-04-10**|**Exploring Repetitiveness Measures for Two-Dimensional Strings**|Giuseppe Romana et.al.|[2404.07030](http://arxiv.org/abs/2404.07030)|null|
 |**2024-04-10**|**Fine color guidance in diffusion models and its application to image compression at extremely low bitrates**|Tom Bordin et.al.|[2404.06865](http://arxiv.org/abs/2404.06865)|null|
 |**2024-04-09**|**Encoder-Quantization-Motion-based Video Quality Metrics**|Yixu Chen et.al.|[2404.06620](http://arxiv.org/abs/2404.06620)|null|
@@ -446,6 +447,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**On the Content Bias in Fréchet Video Distance**|Songwei Ge et.al.|[2404.12391](http://arxiv.org/abs/2404.12391)|null|
+|**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361](http://arxiv.org/abs/2404.12361)|null|
+|**2024-04-18**|**GraFIQs: Face Image Quality Assessment Using Gradient Magnitudes**|Jan Niklas Kolf et.al.|[2404.12203](http://arxiv.org/abs/2404.12203)|null|
+|**2024-04-18**|**Ethical-Lens: Curbing Malicious Usages of Open-Source Text-to-Image Models**|Yuzhu Cai et.al.|[2404.12104](http://arxiv.org/abs/2404.12104)|null|
+|**2024-04-18**|**Seeing Motion at Nighttime with an Event Camera**|Haoyue Liu et.al.|[2404.11884](http://arxiv.org/abs/2404.11884)|**[link](https://github.com/liu-haoyue/ner-net)**|
+|**2024-04-18**|**Automated tomographic assessment of structural defects of freeze-dried pharmaceuticals**|Patric Müller et.al.|[2404.11867](http://arxiv.org/abs/2404.11867)|null|
+|**2024-04-18**|**Multiphoton super-resolution imaging via virtual structured illumination**|Sumin Lim et.al.|[2404.11849](http://arxiv.org/abs/2404.11849)|null|
+|**2024-04-17**|**Analysis of blurring due to short T2 decay at different resolutions in 23Na MRI**|Olga Dergachyova et.al.|[2404.11774](http://arxiv.org/abs/2404.11774)|null|
 |**2024-04-17**|**CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect**|Minh Tran et.al.|[2404.11429](http://arxiv.org/abs/2404.11429)|null|
 |**2024-04-17**|**Achromatic Full Stokes Polarimetry Metasurface for Full-color Polarization Imaging in the Visible**|Yueqiang Hu et.al.|[2404.11415](http://arxiv.org/abs/2404.11415)|null|
 |**2024-04-17**|**Toward Understanding the Disagreement Problem in Neural Network Feature Attribution**|Niklas Koenen et.al.|[2404.11330](http://arxiv.org/abs/2404.11330)|**[link](https://github.com/bips-hb/toward_understanding_disagreement_problem)**|
@@ -787,6 +796,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388](http://arxiv.org/abs/2404.12388)|null|
+|**2024-04-18**|**Multichannel-GaAsP-photomultiplier-based fiber bundle ISM-STED microscope**|Marcus Babin et.al.|[2404.12370](http://arxiv.org/abs/2404.12370)|null|
+|**2024-04-18**|**Multiphoton super-resolution imaging via virtual structured illumination**|Sumin Lim et.al.|[2404.11849](http://arxiv.org/abs/2404.11849)|null|
+|**2024-04-18**|**Partial Large Kernel CNNs for Efficient Super-Resolution**|Dongheon Lee et.al.|[2404.11848](http://arxiv.org/abs/2404.11848)|**[link](https://github.com/dslisleedh/PLKSR)**|
 |**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273](http://arxiv.org/abs/2404.11273)|null|
 |**2024-04-16**|**Uncertainty Quantification of Super-Resolution Flow Mapping in Liquid Metals using Ultrasound Localization Microscopy**|David Weik et.al.|[2404.10840](http://arxiv.org/abs/2404.10840)|null|
 |**2024-04-16**|**Efficient Conditional Diffusion Model with Probability Flow Sampling for Image Super-resolution**|Yutao Yuan et.al.|[2404.10688](http://arxiv.org/abs/2404.10688)|**[link](https://github.com/yuan-yutao/ecdp)**|
@@ -795,7 +808,7 @@ layout: default
 |**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312](http://arxiv.org/abs/2404.10312)|null|
 |**2024-04-16**|**Little Pilot is Needed for Channel Estimation with Integrated Super-Resolution Sensing and Communication**|Jingran Xu et.al.|[2404.10233](http://arxiv.org/abs/2404.10233)|null|
 |**2024-04-15**|**The Problem Of Image Super-Resolution, Denoising And Some Image Restoration Methods In Deep Learning Models**|Ngoc-Giau Pham et.al.|[2404.09817](http://arxiv.org/abs/2404.09817)|null|
-|**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2404.09790](http://arxiv.org/abs/2404.09790)|null|
+|**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2404.09790](http://arxiv.org/abs/2404.09790)|**[link](https://github.com/zhengchen1999/ntire2024_imagesr_x4)**|
 |**2024-04-15**|**MTKD: Multi-Teacher Knowledge Distillation for Image Super-Resolution**|Yuxuan Jiang et.al.|[2404.09571](http://arxiv.org/abs/2404.09571)|null|
 |**2024-04-15**|**Super-resolution of biomedical volumes with 2D supervision**|Cheng Jiang et.al.|[2404.09425](http://arxiv.org/abs/2404.09425)|null|
 |**2024-04-15**|**Differentiable Search for Finding Optimal Quantization Strategy**|Lianqiang Li et.al.|[2404.08010](http://arxiv.org/abs/2404.08010)|null|
@@ -1063,6 +1076,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Radio Observations as an Extrasolar Planet Discovery and Characterization: Interior Structure and Habitability**|T. Joseph W. Lazio et.al.|[2404.12348](http://arxiv.org/abs/2404.12348)|null|
+|**2024-04-18**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|Weikang Yu et.al.|[2404.12081](http://arxiv.org/abs/2404.12081)|**[link](https://github.com/ericyu97/maskcd)**|
+|**2024-04-18**|**Directional intense terahertz radiation driven by abruptly autofocusing lasers in air**|Xiao-Ran Zheng et.al.|[2404.11846](http://arxiv.org/abs/2404.11846)|null|
+|**2024-04-17**|**When are Foundation Models Effective? Understanding the Suitability for Pixel-Level Classification Using Multispectral Imagery**|Yiqun Xie et.al.|[2404.11797](http://arxiv.org/abs/2404.11797)|null|
+|**2024-04-17**|**IrrNet: Advancing Irrigation Mapping with Incremental Patch Size Training on Remote Sensing Imagery**|Oishee Bintey Hoque et.al.|[2404.11762](http://arxiv.org/abs/2404.11762)|null|
+|**2024-04-17**|**GEOBIND: Binding Text, Image, and Audio through Satellite Images**|Aayush Dhakal et.al.|[2404.11720](http://arxiv.org/abs/2404.11720)|null|
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
 |**2024-04-18**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
 |**2024-04-17**|**Leveraging Fine-Grained Information and Noise Decoupling for Remote Sensing Change Detection**|Qiangang Du et.al.|[2404.11318](http://arxiv.org/abs/2404.11318)|null|

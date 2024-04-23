@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-21**|**Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes**|Kang You et.al.|[2404.13550](http://arxiv.org/abs/2404.13550)|**[link](https://github.com/i2-multimedia-lab/pointsoup)**|
 |**2024-04-16**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
 |**2024-04-10**|**Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression**|Kang You et.al.|[2404.06936](http://arxiv.org/abs/2404.06936)|**[link](https://github.com/i2-multimedia-lab/polopcac)**|
 |**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012](http://arxiv.org/abs/2404.06012)|null|
@@ -199,6 +200,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Taming Server Memory TCO with Multiple Software-Defined Compressed Tiers**|Sandeep Kumar et.al.|[2404.13886](http://arxiv.org/abs/2404.13886)|null|
+|**2024-04-20**|**HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression**|Lei Lu et.al.|[2404.13372](http://arxiv.org/abs/2404.13372)|null|
 |**2024-04-18**|**Image Compression and Reconstruction Based on Quantum Network**|Xun Ji et.al.|[2404.11994](http://arxiv.org/abs/2404.11994)|null|
 |**2024-04-17**|**Spatio-Temporal Motion Retargeting for Quadruped Robots**|Taerim Yoon et.al.|[2404.11557](http://arxiv.org/abs/2404.11557)|null|
 |**2024-04-17**|**Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems**|Luca Bompani et.al.|[2404.11488](http://arxiv.org/abs/2404.11488)|**[link](https://github.com/bomps4/multi_resolution_rescored_bytetrack)**|
@@ -458,6 +461,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**CrossScore: Towards Multi-View Image Evaluation and Scoring**|Zirui Wang et.al.|[2404.14409](http://arxiv.org/abs/2404.14409)|null|
+|**2024-04-22**|**Experimental Validation of Ultrasound Beamforming with End-to-End Deep Learning for Single Plane Wave Imaging**|Ryan A. L. Schoop et.al.|[2404.14188](http://arxiv.org/abs/2404.14188)|null|
+|**2024-04-22**|**Text in the Dark: Extremely Low-Light Text Image Enhancement**|Che-Tsung Lin et.al.|[2404.14135](http://arxiv.org/abs/2404.14135)|null|
+|**2024-04-22**|**CRNet: A Detail-Preserving Network for Unified Image Restoration and Enhancement Task**|Kangzhen Yang et.al.|[2404.14132](http://arxiv.org/abs/2404.14132)|**[link](https://github.com/calvinyang0/crnet)**|
+|**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
+|**2024-04-22**|**CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment**|Kanglei Zhou et.al.|[2404.13999](http://arxiv.org/abs/2404.13999)|**[link](https://github.com/zhoukanglei/cofinal_aqa)**|
+|**2024-04-22**|**SI-FID: Only One Objective Indicator for Evaluating Stitched Images**|Xinrui Zhang et.al.|[2404.13905](http://arxiv.org/abs/2404.13905)|null|
+|**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
+|**2024-04-21**|**Exploring AIGC Video Quality: A Focus on Visual Harmony, Video-Text Consistency and Domain Distribution Gap**|Bowen Qu et.al.|[2404.13573](http://arxiv.org/abs/2404.13573)|null|
+|**2024-04-21**|**Cell Phone Image-Based Persian Rice Detection and Classification Using Deep Learning Techniques**|Mahmood Saeedi kelishami et.al.|[2404.13555](http://arxiv.org/abs/2404.13555)|null|
+|**2024-04-20**|**Joint Quality Assessment and Example-Guided Image Processing by Disentangling Picture Appearance from Content**|Abhinau K. Venkataramanan et.al.|[2404.13484](http://arxiv.org/abs/2404.13484)|null|
+|**2024-04-20**|**Cut-FUNQUE: An Objective Quality Model for Compressed Tone-Mapped High Dynamic Range Videos**|Abhinau K. Venkataramanan et.al.|[2404.13452](http://arxiv.org/abs/2404.13452)|null|
+|**2024-04-20**|**HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression**|Lei Lu et.al.|[2404.13372](http://arxiv.org/abs/2404.13372)|null|
+|**2024-04-20**|**PCQA: A Strong Baseline for AIGC Quality Assessment Based on Prompt Condition**|Xi Fang et.al.|[2404.13299](http://arxiv.org/abs/2404.13299)|null|
+|**2024-04-20**|**Beyond Score Changes: Adversarial Attack on No-Reference Image Quality Assessment from Two Perspectives**|Chenxi Yang et.al.|[2404.13277](http://arxiv.org/abs/2404.13277)|null|
 |**2024-04-19**|**A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**|Ronglei Ji et.al.|[2404.13018](http://arxiv.org/abs/2404.13018)|null|
 |**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000](http://arxiv.org/abs/2404.13000)|null|
 |**2024-04-19**|**Nuclei Instance Segmentation of Cryosectioned H&E Stained Histological Images using Triple U-Net Architecture**|Zarif Ahmed et.al.|[2404.12986](http://arxiv.org/abs/2404.12986)|null|
@@ -817,6 +835,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-21**|**ALMA 2D Super-resolution Imaging of Taurus-Auriga Protoplanetary Disks: Probing Statistical Properties of Disk Substructures**|Masayuki Yamaguchi et.al.|[2404.13570](http://arxiv.org/abs/2404.13570)|null|
+|**2024-04-20**|**SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation**|Mansoor Hayat et.al.|[2404.13330](http://arxiv.org/abs/2404.13330)|null|
+|**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102](http://arxiv.org/abs/2404.13102)|null|
 |**2024-04-19**|**A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**|Ronglei Ji et.al.|[2404.13018](http://arxiv.org/abs/2404.13018)|null|
 |**2024-04-19**|**Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**|Xiaofei Wang et.al.|[2404.12973](http://arxiv.org/abs/2404.12973)|null|
 |**2024-04-18**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388](http://arxiv.org/abs/2404.12388)|null|
@@ -1101,6 +1122,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034](http://arxiv.org/abs/2404.14034)|null|
+|**2024-04-22**|**C2F-SemiCD: A Coarse-to-Fine Semi-Supervised Change Detection Method Based on Consistency Regularization in High-Resolution Remote Sensing Images**|Chengxi Han et.al.|[2404.13838](http://arxiv.org/abs/2404.13838)|**[link](https://github.com/chengxihan/c2f-semicd-and-c2f-cdnet)**|
+|**2024-04-21**|**LMFNet: An Efficient Multimodal Fusion Approach for Semantic Segmentation in High-Resolution Remote Sensing**|Tong Wang et.al.|[2404.13659](http://arxiv.org/abs/2404.13659)|null|
+|**2024-04-20**|**AMMUNet: Multi-Scale Attention Map Merging for Remote Sensing Image Segmentation**|Yang Yang et.al.|[2404.13408](http://arxiv.org/abs/2404.13408)|null|
+|**2024-04-20**|**StrideNET: Swin Transformer for Terrain Recognition with Dynamic Roughness Extraction**|Maitreya Shelare et.al.|[2404.13270](http://arxiv.org/abs/2404.13270)|null|
+|**2024-04-19**|**Equivariant Imaging for Self-supervised Hyperspectral Image Inpainting**|Shuo Li et.al.|[2404.13159](http://arxiv.org/abs/2404.13159)|null|
 |**2024-04-19**|**Recurrent Neural Networks for Modelling Gross Primary Production**|David Montero et.al.|[2404.12745](http://arxiv.org/abs/2404.12745)|null|
 |**2024-04-19**|**Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework**|Zhuohong Li et.al.|[2404.12721](http://arxiv.org/abs/2404.12721)|**[link](https://github.com/lizhuohong/segland)**|
 |**2024-04-19**|**Detecting Out-Of-Distribution Earth Observation Images with Diffusion Models**|Georges Le Bellier et.al.|[2404.12667](http://arxiv.org/abs/2404.12667)|null|

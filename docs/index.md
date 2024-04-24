@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1125,8 +1125,8 @@ layout: default
 |**2024-04-17**|**IrrNet: Advancing Irrigation Mapping with Incremental Patch Size Training on Remote Sensing Imagery**|Oishee Bintey Hoque et.al.|[2404.11762](http://arxiv.org/abs/2404.11762)|null|
 |**2024-04-17**|**GEOBIND: Binding Text, Image, and Audio through Satellite Images**|Aayush Dhakal et.al.|[2404.11720](http://arxiv.org/abs/2404.11720)|null|
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
-|**2024-04-19**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
-|**2024-04-17**|**Leveraging Fine-Grained Information and Noise Decoupling for Remote Sensing Change Detection**|Qiangang Du et.al.|[2404.11318](http://arxiv.org/abs/2404.11318)|null|
+|**2024-04-23**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
+|**2024-04-23**|**Leveraging Fine-Grained Information and Noise Decoupling for Remote Sensing Change Detection**|Qiangang Du et.al.|[2404.11318](http://arxiv.org/abs/2404.11318)|null|
 |**2024-04-17**|**Achieving Rotation Invariance in Convolution Operations: Shifting from Data-Driven to Mechanism-Assured**|Hanlin Mo et.al.|[2404.11309](http://arxiv.org/abs/2404.11309)|null|
 |**2024-04-17**|**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case**|João Gabriel Vinholi et.al.|[2404.11243](http://arxiv.org/abs/2404.11243)|null|
 |**2024-04-17**|**Reuse out-of-year data to enhance land cover mappingvia feature disentanglement and contrastive learning**|Cassio F. Dantas et.al.|[2404.11114](http://arxiv.org/abs/2404.11114)|null|

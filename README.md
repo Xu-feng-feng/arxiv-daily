@@ -200,6 +200,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Domain Adaptation for Learned Image Compression with Supervised Adapters**|Alberto Presta et.al.|[2404.15591](http://arxiv.org/abs/2404.15591)|null|
 |**2024-04-23**|**One-Pass Randomized Algorithm with Practical Rangefinder for Low-Rank Approximation to Quaternion Matrices**|Chao Chang et.al.|[2404.14783](http://arxiv.org/abs/2404.14783)|null|
 |**2024-04-22**|**Neural Compress-and-Forward for the Relay Channel**|Ezgi Ozyilkan et.al.|[2404.14594](http://arxiv.org/abs/2404.14594)|null|
 |**2024-04-22**|**Taming Server Memory TCO with Multiple Software-Defined Compressed Tiers**|Sandeep Kumar et.al.|[2404.13886](http://arxiv.org/abs/2404.13886)|null|
@@ -463,7 +464,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-23**|**Direct Zernike Coefficient Prediction from Point Spread Functions and Extended Images using Deep Learning**|Yong En Kok et.al.|[2404.15231](http://arxiv.org/abs/2404.15231)|null|
+|**2024-04-24**|**Direct Zernike Coefficient Prediction from Point Spread Functions and Extended Images using Deep Learning**|Yong En Kok et.al.|[2404.15231](http://arxiv.org/abs/2404.15231)|null|
 |**2024-04-23**|**Adaptive Mixed-Scale Feature Fusion Network for Blind AI-Generated Image Quality Assessment**|Tianwei Zhou et.al.|[2404.15163](http://arxiv.org/abs/2404.15163)|null|
 |**2024-04-23**|**Multi-Modal Prompt Learning on Blind Image Quality Assessment**|Wensheng Pan et.al.|[2404.14949](http://arxiv.org/abs/2404.14949)|null|
 |**2024-04-23**|**Novel Topological Machine Learning Methodology for Stream-of-Quality Modeling in Smart Manufacturing**|Jay Lee et.al.|[2404.14728](http://arxiv.org/abs/2404.14728)|null|
@@ -471,7 +472,7 @@
 |**2024-04-22**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-04-22**|**Narrative Action Evaluation with Prompt-Guided Multimodal Interaction**|Shiyi Zhang et.al.|[2404.14471](http://arxiv.org/abs/2404.14471)|**[link](https://github.com/shiyi-zh0408/nae_cvpr2024)**|
 |**2024-04-22**|**CrossScore: Towards Multi-View Image Evaluation and Scoring**|Zirui Wang et.al.|[2404.14409](http://arxiv.org/abs/2404.14409)|null|
-|**2024-04-22**|**Experimental Validation of Ultrasound Beamforming with End-to-End Deep Learning for Single Plane Wave Imaging**|Ryan A. L. Schoop et.al.|[2404.14188](http://arxiv.org/abs/2404.14188)|null|
+|**2024-04-22**|**Experimental Validation of Ultrasound Beamforming with End-to-End Deep Learning for Single Plane Wave Imaging**|Ryan A. L. Schoop et.al.|[2404.14188](http://arxiv.org/abs/2404.14188)|**[link](https://github.com/ralschoop/deepus)**|
 |**2024-04-22**|**Text in the Dark: Extremely Low-Light Text Image Enhancement**|Che-Tsung Lin et.al.|[2404.14135](http://arxiv.org/abs/2404.14135)|null|
 |**2024-04-22**|**CRNet: A Detail-Preserving Network for Unified Image Restoration and Enhancement Task**|Kangzhen Yang et.al.|[2404.14132](http://arxiv.org/abs/2404.14132)|**[link](https://github.com/calvinyang0/crnet)**|
 |**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
@@ -844,13 +845,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
 |**2024-04-23**|**Super-resolved CARS by coherent image scanning**|Anna Zhitnitsky et.al.|[2404.15094](http://arxiv.org/abs/2404.15094)|null|
 |**2024-04-23**|**Canalization-based super-resolution imaging using a single van der Waals layer**|Jiahua Duan et.al.|[2404.14876](http://arxiv.org/abs/2404.14876)|null|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533](http://arxiv.org/abs/2404.14533)|**[link](https://github.com/visioniclab/swinfusr)**|
 |**2024-04-21**|**ALMA 2D Super-resolution Imaging of Taurus-Auriga Protoplanetary Disks: Probing Statistical Properties of Disk Substructures**|Masayuki Yamaguchi et.al.|[2404.13570](http://arxiv.org/abs/2404.13570)|null|
 |**2024-04-20**|**SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation**|Mansoor Hayat et.al.|[2404.13330](http://arxiv.org/abs/2404.13330)|null|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102](http://arxiv.org/abs/2404.13102)|null|
-|**2024-04-19**|**A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**|Ronglei Ji et.al.|[2404.13018](http://arxiv.org/abs/2404.13018)|null|
+|**2024-04-19**|**A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**|Ronglei Ji et.al.|[2404.13018](http://arxiv.org/abs/2404.13018)|**[link](https://github.com/kuis-ai-tekalp-research-group/video-deinterlacing)**|
 |**2024-04-19**|**Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**|Xiaofei Wang et.al.|[2404.12973](http://arxiv.org/abs/2404.12973)|null|
 |**2024-04-18**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388](http://arxiv.org/abs/2404.12388)|null|
 |**2024-04-19**|**Multichannel-GaAsP-photomultiplier-based fiber bundle ISM-STED microscope**|Marcus Babin et.al.|[2404.12370](http://arxiv.org/abs/2404.12370)|null|
@@ -1134,6 +1136,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots**|Simranjit Singh et.al.|[2404.15500](http://arxiv.org/abs/2404.15500)|null|
+|**2024-04-23**|**Lidar-based gas analyzer for remote sensing of atmospheric methane**|Viacheslav Meshcherinov et.al.|[2404.15464](http://arxiv.org/abs/2404.15464)|null|
+|**2024-04-23**|**Transiting Exoplanet Atmospheres in the Era of JWST**|Eliza M. -R. Kempton et.al.|[2404.15430](http://arxiv.org/abs/2404.15430)|null|
 |**2024-04-23**|**Spectropolarimetric Radio Imaging of Faint Gyrosynchrotron Emission from a CME : A Possible Indication of the Insufficiency of Homogeneous Models**|Devojyoti Kansabanik et.al.|[2404.14714](http://arxiv.org/abs/2404.14714)|null|
 |**2024-04-23**|**Unsupervised Domain Adaptation Architecture Search with Self-Training for Land Cover Mapping**|Clifford Broni-Bediako et.al.|[2404.14704](http://arxiv.org/abs/2404.14704)|**[link](https://github.com/cliffbb/uda-nas)**|
 |**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034](http://arxiv.org/abs/2404.14034)|null|

@@ -191,6 +191,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823](http://arxiv.org/abs/2404.16823)|null|
 |**2024-04-24**|**Domain Adaptation for Learned Image Compression with Supervised Adapters**|Alberto Presta et.al.|[2404.15591](http://arxiv.org/abs/2404.15591)|null|
 |**2024-04-23**|**One-Pass Randomized Algorithm with Practical Rangefinder for Low-Rank Approximation to Quaternion Matrices**|Chao Chang et.al.|[2404.14783](http://arxiv.org/abs/2404.14783)|null|
 |**2024-04-22**|**Neural Compress-and-Forward for the Relay Channel**|Ezgi Ozyilkan et.al.|[2404.14594](http://arxiv.org/abs/2404.14594)|null|
@@ -453,12 +454,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**ResVR: Joint Rescaling and Viewport Rendering of Omnidirectional Images**|Weiqi Li et.al.|[2404.16825](http://arxiv.org/abs/2404.16825)|null|
+|**2024-04-25**|**NTIRE 2024 Quality Assessment of AI-Generated Content Challenge**|Xiaohong Liu et.al.|[2404.16687](http://arxiv.org/abs/2404.16687)|null|
+|**2024-04-25**|**Multimodal Semantic-Aware Automatic Colorization with Diffusion Prior**|Han Wang et.al.|[2404.16678](http://arxiv.org/abs/2404.16678)|null|
+|**2024-04-25**|**Application of RESNET50 Convolution Neural Network for the Extraction of Optical Parameters in Scattering Media**|Bowen Deng et.al.|[2404.16647](http://arxiv.org/abs/2404.16647)|null|
+|**2024-04-25**|**COBRA -- COnfidence score Based on shape Regression Analysis for method-independent quality assessment of object pose estimation from single images**|Panagiotis Sapoutzoglou et.al.|[2404.16471](http://arxiv.org/abs/2404.16471)|null|
+|**2024-04-25**|**PAD: Patch-Agnostic Defense against Adversarial Patch Attacks**|Lihua Jing et.al.|[2404.16452](http://arxiv.org/abs/2404.16452)|**[link](https://github.com/lihua-jing/pad)**|
+|**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
+|**2024-04-24**|**AIS 2024 Challenge on Video Quality Assessment of User-Generated Content: Methods and Results**|Marcos V. Conde et.al.|[2404.16205](http://arxiv.org/abs/2404.16205)|null|
+|**2024-04-24**|**Quantitative Characterization of Retinal Features in Translated OCTA**|Rashadul Hasan Badhon et.al.|[2404.16133](http://arxiv.org/abs/2404.16133)|null|
+|**2024-04-24**|**Assessment of the quality of a prediction**|Roger Sewell et.al.|[2404.15764](http://arxiv.org/abs/2404.15764)|null|
+|**2024-04-24**|**A stochastic approach to estimate distribution grid state with confidence regions**|Rasmus L. Olsen et.al.|[2404.15722](http://arxiv.org/abs/2404.15722)|null|
+|**2024-04-24**|**Deep Learning for Accelerated and Robust MRI Reconstruction: a Review**|Reinhard Heckel et.al.|[2404.15692](http://arxiv.org/abs/2404.15692)|null|
+|**2024-04-24**|**Neural network-based recognition of multiple nanobubbles in graphene**|Subin Kim et.al.|[2404.15658](http://arxiv.org/abs/2404.15658)|null|
+|**2024-04-24**|**PriorNet: A Novel Lightweight Network with Multidimensional Interactive Attention for Efficient Image Dehazing**|Yutong Chen et.al.|[2404.15638](http://arxiv.org/abs/2404.15638)|null|
 |**2024-04-24**|**Direct Zernike Coefficient Prediction from Point Spread Functions and Extended Images using Deep Learning**|Yong En Kok et.al.|[2404.15231](http://arxiv.org/abs/2404.15231)|null|
 |**2024-04-23**|**Adaptive Mixed-Scale Feature Fusion Network for Blind AI-Generated Image Quality Assessment**|Tianwei Zhou et.al.|[2404.15163](http://arxiv.org/abs/2404.15163)|null|
 |**2024-04-23**|**Multi-Modal Prompt Learning on Blind Image Quality Assessment**|Wensheng Pan et.al.|[2404.14949](http://arxiv.org/abs/2404.14949)|null|
 |**2024-04-23**|**Novel Topological Machine Learning Methodology for Stream-of-Quality Modeling in Smart Manufacturing**|Jay Lee et.al.|[2404.14728](http://arxiv.org/abs/2404.14728)|null|
 |**2024-04-22**|**Tile-Weighted Rate-Distortion Optimized Packet Scheduling for 360 $^\circ$ VR Video Streaming**|Haopeng Wang et.al.|[2404.14573](http://arxiv.org/abs/2404.14573)|null|
-|**2024-04-22**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
+|**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-04-22**|**Narrative Action Evaluation with Prompt-Guided Multimodal Interaction**|Shiyi Zhang et.al.|[2404.14471](http://arxiv.org/abs/2404.14471)|**[link](https://github.com/shiyi-zh0408/nae_cvpr2024)**|
 |**2024-04-22**|**CrossScore: Towards Multi-View Image Evaluation and Scoring**|Zirui Wang et.al.|[2404.14409](http://arxiv.org/abs/2404.14409)|null|
 |**2024-04-22**|**Experimental Validation of Ultrasound Beamforming with End-to-End Deep Learning for Single Plane Wave Imaging**|Ryan A. L. Schoop et.al.|[2404.14188](http://arxiv.org/abs/2404.14188)|**[link](https://github.com/ralschoop/deepus)**|
@@ -832,6 +847,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564](http://arxiv.org/abs/2404.16564)|**[link](https://github.com/hfates/ikr-net)**|
+|**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484](http://arxiv.org/abs/2404.16484)|null|
+|**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451](http://arxiv.org/abs/2404.16451)|**[link](https://github.com/hezongyao/lmf)**|
+|**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
+|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223](http://arxiv.org/abs/2404.16223)|null|
+|**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
+|**2024-04-24**|**Super-resolution imaging based on active optical intensity interferometry**|Lu-Chuan Liu et.al.|[2404.15685](http://arxiv.org/abs/2404.15685)|null|
 |**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-23**|**Super-resolved CARS by coherent image scanning**|Anna Zhitnitsky et.al.|[2404.15094](http://arxiv.org/abs/2404.15094)|null|
 |**2024-04-23**|**Canalization-based super-resolution imaging using a single van der Waals layer**|Jiahua Duan et.al.|[2404.14876](http://arxiv.org/abs/2404.14876)|null|
@@ -1121,6 +1143,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
+|**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-23**|**GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots**|Simranjit Singh et.al.|[2404.15500](http://arxiv.org/abs/2404.15500)|null|
 |**2024-04-23**|**Lidar-based gas analyzer for remote sensing of atmospheric methane**|Viacheslav Meshcherinov et.al.|[2404.15464](http://arxiv.org/abs/2404.15464)|null|
 |**2024-04-23**|**Transiting Exoplanet Atmospheres in the Era of JWST**|Eliza M. -R. Kempton et.al.|[2404.15430](http://arxiv.org/abs/2404.15430)|null|

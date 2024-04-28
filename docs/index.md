@@ -458,7 +458,7 @@ layout: default
 |**2024-04-25**|**NTIRE 2024 Quality Assessment of AI-Generated Content Challenge**|Xiaohong Liu et.al.|[2404.16687](http://arxiv.org/abs/2404.16687)|null|
 |**2024-04-25**|**Multimodal Semantic-Aware Automatic Colorization with Diffusion Prior**|Han Wang et.al.|[2404.16678](http://arxiv.org/abs/2404.16678)|null|
 |**2024-04-25**|**Application of RESNET50 Convolution Neural Network for the Extraction of Optical Parameters in Scattering Media**|Bowen Deng et.al.|[2404.16647](http://arxiv.org/abs/2404.16647)|null|
-|**2024-04-25**|**COBRA -- COnfidence score Based on shape Regression Analysis for method-independent quality assessment of object pose estimation from single images**|Panagiotis Sapoutzoglou et.al.|[2404.16471](http://arxiv.org/abs/2404.16471)|null|
+|**2024-04-25**|**COBRA -- COnfidence score Based on shape Regression Analysis for method-independent quality assessment of object pose estimation from single images**|Panagiotis Sapoutzoglou et.al.|[2404.16471](http://arxiv.org/abs/2404.16471)|**[link](https://github.com/pansap99/cobra)**|
 |**2024-04-25**|**PAD: Patch-Agnostic Defense against Adversarial Patch Attacks**|Lihua Jing et.al.|[2404.16452](http://arxiv.org/abs/2404.16452)|**[link](https://github.com/lihua-jing/pad)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
 |**2024-04-24**|**AIS 2024 Challenge on Video Quality Assessment of User-Generated Content: Methods and Results**|Marcos V. Conde et.al.|[2404.16205](http://arxiv.org/abs/2404.16205)|null|
@@ -848,7 +848,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564](http://arxiv.org/abs/2404.16564)|**[link](https://github.com/hfates/ikr-net)**|
-|**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484](http://arxiv.org/abs/2404.16484)|null|
+|**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484](http://arxiv.org/abs/2404.16484)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451](http://arxiv.org/abs/2404.16451)|**[link](https://github.com/hezongyao/lmf)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
 |**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223](http://arxiv.org/abs/2404.16223)|null|

@@ -454,6 +454,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Low Cost Machine Vision for Insect Classification**|Danja Brandt et.al.|[2404.17488](http://arxiv.org/abs/2404.17488)|null|
+|**2024-04-26**|**S-IQA Image Quality Assessment With Compressive Sampling**|Ronghua Liao et.al.|[2404.17170](http://arxiv.org/abs/2404.17170)|null|
 |**2024-04-25**|**ResVR: Joint Rescaling and Viewport Rendering of Omnidirectional Images**|Weiqi Li et.al.|[2404.16825](http://arxiv.org/abs/2404.16825)|null|
 |**2024-04-25**|**NTIRE 2024 Quality Assessment of AI-Generated Content Challenge**|Xiaohong Liu et.al.|[2404.16687](http://arxiv.org/abs/2404.16687)|null|
 |**2024-04-25**|**Multimodal Semantic-Aware Automatic Colorization with Diffusion Prior**|Han Wang et.al.|[2404.16678](http://arxiv.org/abs/2404.16678)|null|
@@ -847,6 +849,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**One-Shot Image Restoration**|Deborah Pereg et.al.|[2404.17426](http://arxiv.org/abs/2404.17426)|null|
+|**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357](http://arxiv.org/abs/2404.17357)|null|
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564](http://arxiv.org/abs/2404.16564)|**[link](https://github.com/hfates/ikr-net)**|
 |**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484](http://arxiv.org/abs/2404.16484)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451](http://arxiv.org/abs/2404.16451)|**[link](https://github.com/hezongyao/lmf)**|
@@ -1143,6 +1147,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565](http://arxiv.org/abs/2404.17565)|**[link](https://github.com/techmn/changebind)**|
+|**2024-04-26**|**Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**|Zishu Yao et.al.|[2404.17400](http://arxiv.org/abs/2404.17400)|null|
+|**2024-04-26**|**MCSDNet: Mesoscale Convective System Detection Network via Multi-scale Spatiotemporal Information**|Jiajun Liang et.al.|[2404.17186](http://arxiv.org/abs/2404.17186)|null|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-23**|**GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots**|Simranjit Singh et.al.|[2404.15500](http://arxiv.org/abs/2404.15500)|null|

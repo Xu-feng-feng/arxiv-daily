@@ -191,6 +191,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820](http://arxiv.org/abs/2404.18820)|null|
+|**2024-04-28**|**Joint Reference Frame Synthesis and Post Filter Enhancement for Versatile Video Coding**|Weijie Bao et.al.|[2404.18058](http://arxiv.org/abs/2404.18058)|null|
 |**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823](http://arxiv.org/abs/2404.16823)|**[link](https://github.com/ToruOwO/hato)**|
 |**2024-04-24**|**Domain Adaptation for Learned Image Compression with Supervised Adapters**|Alberto Presta et.al.|[2404.15591](http://arxiv.org/abs/2404.15591)|null|
 |**2024-04-23**|**One-Pass Randomized Algorithm with Practical Rangefinder for Low-Rank Approximation to Quaternion Matrices**|Chao Chang et.al.|[2404.14783](http://arxiv.org/abs/2404.14783)|null|
@@ -454,6 +456,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**A Comprehensive Rubric for Annotating Pathological Speech**|Mario Corrales-Astorgano et.al.|[2404.18851](http://arxiv.org/abs/2404.18851)|null|
+|**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458](http://arxiv.org/abs/2404.18458)|null|
+|**2024-04-29**|**PKU-AIGIQA-4K: A Perceptual Quality Assessment Database for Both Text-to-Image and Image-to-Image AI-Generated Images**|Jiquan Yuan et.al.|[2404.18409](http://arxiv.org/abs/2404.18409)|null|
+|**2024-04-29**|**G-Refine: A General Quality Refiner for Text-to-Image Generation**|Chunyi Li et.al.|[2404.18343](http://arxiv.org/abs/2404.18343)|null|
+|**2024-04-28**|**An automated pipeline for computation and analysis of functional ventilation and perfusion lung MRI with matrix pencil decomposition: TrueLung**|Orso Pusterla et.al.|[2404.18275](http://arxiv.org/abs/2404.18275)|null|
+|**2024-04-28**|**LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM**|Zicheng Zhang et.al.|[2404.18203](http://arxiv.org/abs/2404.18203)|null|
+|**2024-04-28**|**Assessing Image Quality Using a Simple Generative Representation**|Simon Raviv et.al.|[2404.18178](http://arxiv.org/abs/2404.18178)|**[link](https://github.com/simonraviv/vae-qa)**|
+|**2024-04-28**|**fMRI Exploration of Visual Quality Assessment**|Yiming Zhang et.al.|[2404.18162](http://arxiv.org/abs/2404.18162)|null|
+|**2024-04-27**|**Quality Estimation with $k$ -nearest Neighbors and Automatic Evaluation for Model-specific Quality Estimation**|Tu Anh Dinh et.al.|[2404.18031](http://arxiv.org/abs/2404.18031)|null|
+|**2024-04-27**|**LpQcM: Adaptable Lesion-Quantification-Consistent Modulation for Deep Learning Low-Count PET Image Denoising**|Menghua Xia et.al.|[2404.17994](http://arxiv.org/abs/2404.17994)|null|
+|**2024-04-27**|**From Optimization to Generalization: Fair Federated Learning against Quality Shift via Inter-Client Sharpness Matching**|Nannan Wu et.al.|[2404.17805](http://arxiv.org/abs/2404.17805)|null|
+|**2024-04-27**|**Large Multi-modality Model Assisted AI-Generated Image Quality Assessment**|Puyi Wang et.al.|[2404.17762](http://arxiv.org/abs/2404.17762)|null|
+|**2024-04-27**|**Segmentation Quality and Volumetric Accuracy in Medical Imaging**|Zheyuan Zhang et.al.|[2404.17742](http://arxiv.org/abs/2404.17742)|null|
+|**2024-04-27**|**Diffusion-Aided Joint Source Channel Coding For High Realism Wireless Image Transmission**|Mingyu Yang et.al.|[2404.17736](http://arxiv.org/abs/2404.17736)|null|
+|**2024-04-26**|**Attention-aware non-rigid image registration for accelerated MR imaging**|Aya Ghoul et.al.|[2404.17621](http://arxiv.org/abs/2404.17621)|null|
 |**2024-04-26**|**Low Cost Machine Vision for Insect Classification**|Danja Brandt et.al.|[2404.17488](http://arxiv.org/abs/2404.17488)|null|
 |**2024-04-26**|**S-IQA Image Quality Assessment With Compressive Sampling**|Ronghua Liao et.al.|[2404.17170](http://arxiv.org/abs/2404.17170)|null|
 |**2024-04-25**|**ResVR: Joint Rescaling and Viewport Rendering of Omnidirectional Images**|Weiqi Li et.al.|[2404.16825](http://arxiv.org/abs/2404.16825)|null|
@@ -849,6 +866,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924](http://arxiv.org/abs/2404.18924)|null|
+|**2024-04-27**|**Generative Diffusion-based Downscaling for Climate**|Robbie A. Watt et.al.|[2404.17752](http://arxiv.org/abs/2404.17752)|**[link](https://github.com/robbiewatt1/climatediffuse)**|
+|**2024-04-26**|**Federated Learning for Blind Image Super-Resolution**|Brian B. Moser et.al.|[2404.17670](http://arxiv.org/abs/2404.17670)|null|
 |**2024-04-26**|**One-Shot Image Restoration**|Deborah Pereg et.al.|[2404.17426](http://arxiv.org/abs/2404.17426)|null|
 |**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357](http://arxiv.org/abs/2404.17357)|null|
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564](http://arxiv.org/abs/2404.16564)|**[link](https://github.com/hfates/ikr-net)**|
@@ -862,7 +882,7 @@ layout: default
 |**2024-04-23**|**Super-resolved CARS by coherent image scanning**|Anna Zhitnitsky et.al.|[2404.15094](http://arxiv.org/abs/2404.15094)|null|
 |**2024-04-23**|**Canalization-based super-resolution imaging using a single van der Waals layer**|Jiahua Duan et.al.|[2404.14876](http://arxiv.org/abs/2404.14876)|null|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533](http://arxiv.org/abs/2404.14533)|**[link](https://github.com/visioniclab/swinfusr)**|
-|**2024-04-21**|**ALMA 2D Super-resolution Imaging of Taurus-Auriga Protoplanetary Disks: Probing Statistical Properties of Disk Substructures**|Masayuki Yamaguchi et.al.|[2404.13570](http://arxiv.org/abs/2404.13570)|null|
+|**2024-04-29**|**ALMA 2D Super-resolution Imaging of Taurus-Auriga Protoplanetary Disks: Probing Statistical Properties of Disk Substructures**|Masayuki Yamaguchi et.al.|[2404.13570](http://arxiv.org/abs/2404.13570)|null|
 |**2024-04-26**|**SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation**|Mansoor Hayat et.al.|[2404.13330](http://arxiv.org/abs/2404.13330)|null|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102](http://arxiv.org/abs/2404.13102)|null|
 |**2024-04-19**|**A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**|Ronglei Ji et.al.|[2404.13018](http://arxiv.org/abs/2404.13018)|**[link](https://github.com/kuis-ai-tekalp-research-group/video-deinterlacing)**|
@@ -1147,6 +1167,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924](http://arxiv.org/abs/2404.18924)|null|
+|**2024-04-29**|**RSCaMa: Remote Sensing Image Change Captioning with State Space Model**|Chenyang Liu et.al.|[2404.18895](http://arxiv.org/abs/2404.18895)|**[link](https://github.com/chen-yang-liu/rscama)**|
+|**2024-04-29**|**Context Matters: Leveraging Spatiotemporal Metadata for Semi-Supervised Learning on Remote Sensing Images**|Maximilian Bernhard et.al.|[2404.18583](http://arxiv.org/abs/2404.18583)|null|
+|**2024-04-29**|**Multisensor Data Fusion for Automatized Insect Monitoring (KInsecta)**|Martin Tschaikner et.al.|[2404.18504](http://arxiv.org/abs/2404.18504)|null|
+|**2024-04-29**|**Coupling in situ and remote sensing data to assess $α$- and $β$ -diversity over biogeographic gradients**|Maxime Lenormand et.al.|[2404.18485](http://arxiv.org/abs/2404.18485)|null|
+|**2024-04-29**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al.|[2404.18426](http://arxiv.org/abs/2404.18426)|null|
+|**2024-04-28**|**Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment**|Tengjun Huang et.al.|[2404.18253](http://arxiv.org/abs/2404.18253)|**[link](https://github.com/seekerhuang/harma)**|
+|**2024-04-28**|**Flood Data Analysis on SpaceNet 8 Using Apache Sedona**|Yanbing Bai et.al.|[2404.18235](http://arxiv.org/abs/2404.18235)|null|
+|**2024-04-28**|**Event-scale Internal Tide Variability via X-band Marine Radar**|Alexandra J. Simpson et.al.|[2404.18218](http://arxiv.org/abs/2404.18218)|null|
+|**2024-04-27**|**Spatial, Temporal, and Geometric Fusion for Remote Sensing Images**|Hessah Albanwan et.al.|[2404.17851](http://arxiv.org/abs/2404.17851)|null|
+|**2024-04-27**|**RFL-CDNet: Towards Accurate Change Detection via Richer Feature Learning**|Yuhang Gan et.al.|[2404.17765](http://arxiv.org/abs/2404.17765)|**[link](https://github.com/hhaizee/rfl-cdnet)**|
 |**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565](http://arxiv.org/abs/2404.17565)|**[link](https://github.com/techmn/changebind)**|
 |**2024-04-26**|**Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**|Zishu Yao et.al.|[2404.17400](http://arxiv.org/abs/2404.17400)|null|
 |**2024-04-26**|**MCSDNet: Mesoscale Convective System Detection Network via Multi-scale Spatiotemporal Information**|Jiajun Liang et.al.|[2404.17186](http://arxiv.org/abs/2404.17186)|null|

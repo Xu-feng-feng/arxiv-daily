@@ -191,11 +191,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Analysis and Enhancement of Lossless Image Compression in JPEG-XL**|Rustam Mamedov et.al.|[2404.19755](http://arxiv.org/abs/2404.19755)|null|
+|**2024-04-30**|**EfficientASR: Speech Recognition Network Compression via Attention Redundancy and Chunk-Level FFN Optimization**|Jianzong Wang et.al.|[2404.19214](http://arxiv.org/abs/2404.19214)|null|
 |**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820](http://arxiv.org/abs/2404.18820)|null|
 |**2024-04-28**|**Joint Reference Frame Synthesis and Post Filter Enhancement for Versatile Video Coding**|Weijie Bao et.al.|[2404.18058](http://arxiv.org/abs/2404.18058)|null|
 |**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823](http://arxiv.org/abs/2404.16823)|**[link](https://github.com/ToruOwO/hato)**|
 |**2024-04-24**|**Domain Adaptation for Learned Image Compression with Supervised Adapters**|Alberto Presta et.al.|[2404.15591](http://arxiv.org/abs/2404.15591)|null|
-|**2024-04-23**|**One-Pass Randomized Algorithm with Practical Rangefinder for Low-Rank Approximation to Quaternion Matrices**|Chao Chang et.al.|[2404.14783](http://arxiv.org/abs/2404.14783)|null|
+|**2024-04-23**|**One-Pass Randomized Algorithm with Practical Rangefinder for Low-Rank Approximation to Quaternion Matrices**|Chao Chang et.al.|[2404.14783](http://arxiv.org/abs/2404.14783)|**[link](https://github.com/mitchell-cxyk/rqlrma)**|
 |**2024-04-22**|**Neural Compress-and-Forward for the Relay Channel**|Ezgi Ozyilkan et.al.|[2404.14594](http://arxiv.org/abs/2404.14594)|null|
 |**2024-04-22**|**Taming Server Memory TCO with Multiple Software-Defined Compressed Tiers**|Sandeep Kumar et.al.|[2404.13886](http://arxiv.org/abs/2404.13886)|null|
 |**2024-04-20**|**HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression**|Lei Lu et.al.|[2404.13372](http://arxiv.org/abs/2404.13372)|null|
@@ -456,10 +458,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Beyond MOS: Subjective Image Quality Score Preprocessing Method Based on Perceptual Similarity**|Lei Wang et.al.|[2404.19666](http://arxiv.org/abs/2404.19666)|null|
+|**2024-04-30**|**Perceptual Constancy Constrained Single Opinion Score Calibration for Image Quality Assessment**|Lei Wang et.al.|[2404.19595](http://arxiv.org/abs/2404.19595)|null|
+|**2024-04-30**|**Causal Perception Inspired Representation Learning for Trustworthy Image Quality Assessment**|Lei Wang et.al.|[2404.19567](http://arxiv.org/abs/2404.19567)|null|
+|**2024-04-30**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500](http://arxiv.org/abs/2404.19500)|null|
+|**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/abs/2404.19204)|null|
+|**2024-04-30**|**Global Search Optics: Automatically Exploring Optimal Solutions to Compact Computational Imaging Systems**|Yao Gao et.al.|[2404.19201](http://arxiv.org/abs/2404.19201)|null|
+|**2024-04-30**|**Advancing low-field MRI with a universal denoising imaging transformer: Towards fast and high-quality imaging**|Zheren Zhu et.al.|[2404.19167](http://arxiv.org/abs/2404.19167)|null|
 |**2024-04-29**|**A Comprehensive Rubric for Annotating Pathological Speech**|Mario Corrales-Astorgano et.al.|[2404.18851](http://arxiv.org/abs/2404.18851)|null|
 |**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458](http://arxiv.org/abs/2404.18458)|null|
 |**2024-04-29**|**PKU-AIGIQA-4K: A Perceptual Quality Assessment Database for Both Text-to-Image and Image-to-Image AI-Generated Images**|Jiquan Yuan et.al.|[2404.18409](http://arxiv.org/abs/2404.18409)|null|
-|**2024-04-29**|**G-Refine: A General Quality Refiner for Text-to-Image Generation**|Chunyi Li et.al.|[2404.18343](http://arxiv.org/abs/2404.18343)|null|
+|**2024-04-29**|**G-Refine: A General Quality Refiner for Text-to-Image Generation**|Chunyi Li et.al.|[2404.18343](http://arxiv.org/abs/2404.18343)|**[link](https://github.com/q-future/q-refine)**|
 |**2024-04-28**|**An automated pipeline for computation and analysis of functional ventilation and perfusion lung MRI with matrix pencil decomposition: TrueLung**|Orso Pusterla et.al.|[2404.18275](http://arxiv.org/abs/2404.18275)|null|
 |**2024-04-28**|**LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM**|Zicheng Zhang et.al.|[2404.18203](http://arxiv.org/abs/2404.18203)|null|
 |**2024-04-28**|**Assessing Image Quality Using a Simple Generative Representation**|Simon Raviv et.al.|[2404.18178](http://arxiv.org/abs/2404.18178)|**[link](https://github.com/simonraviv/vae-qa)**|
@@ -866,6 +875,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Replica-assisted super-resolution fluorescence imaging in scattering media**|Tengfei Wu et.al.|[2404.19734](http://arxiv.org/abs/2404.19734)|null|
+|**2024-04-30**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500](http://arxiv.org/abs/2404.19500)|null|
+|**2024-04-30**|**Super-resolution by converting evanescent waves in microsphere to propagating and transfer function from its surface to nano-jet**|Y. Ben-Aryeh et.al.|[2404.19333](http://arxiv.org/abs/2404.19333)|null|
 |**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924](http://arxiv.org/abs/2404.18924)|null|
 |**2024-04-27**|**Generative Diffusion-based Downscaling for Climate**|Robbie A. Watt et.al.|[2404.17752](http://arxiv.org/abs/2404.17752)|**[link](https://github.com/robbiewatt1/climatediffuse)**|
 |**2024-04-26**|**Federated Learning for Blind Image Super-Resolution**|Brian B. Moser et.al.|[2404.17670](http://arxiv.org/abs/2404.17670)|null|
@@ -875,7 +887,7 @@ layout: default
 |**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484](http://arxiv.org/abs/2404.16484)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451](http://arxiv.org/abs/2404.16451)|**[link](https://github.com/hezongyao/lmf)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
-|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223](http://arxiv.org/abs/2404.16223)|null|
+|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223](http://arxiv.org/abs/2404.16223)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-24**|**Super-resolution imaging based on active optical intensity interferometry**|Lu-Chuan Liu et.al.|[2404.15685](http://arxiv.org/abs/2404.15685)|null|
 |**2024-04-26**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
@@ -1167,6 +1179,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Analysis and Enhancement of Lossless Image Compression in JPEG-XL**|Rustam Mamedov et.al.|[2404.19755](http://arxiv.org/abs/2404.19755)|null|
+|**2024-04-30**|**Data-Driven Invertible Neural Surrogates of Atmospheric Transmission**|James Koch et.al.|[2404.19605](http://arxiv.org/abs/2404.19605)|null|
+|**2024-04-30**|**AI techniques for near real-time monitoring of contaminants in coastal waters on board future Phisat-2 mission**|Francesca Razzano et.al.|[2404.19586](http://arxiv.org/abs/2404.19586)|null|
+|**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
+|**2024-04-29**|**Improving Interpretability of Deep Active Learning for Flood Inundation Mapping Through Class Ambiguity Indices Using Multi-spectral Satellite Imagery**|Hyunho Lee et.al.|[2404.19043](http://arxiv.org/abs/2404.19043)|null|
+|**2024-04-27**|**Remote Sensing Image Enhancement through Spatiotemporal Filtering**|Hessah Albanwan et.al.|[2404.18950](http://arxiv.org/abs/2404.18950)|null|
 |**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924](http://arxiv.org/abs/2404.18924)|null|
 |**2024-04-29**|**RSCaMa: Remote Sensing Image Change Captioning with State Space Model**|Chenyang Liu et.al.|[2404.18895](http://arxiv.org/abs/2404.18895)|**[link](https://github.com/chen-yang-liu/rscama)**|
 |**2024-04-29**|**Context Matters: Leveraging Spatiotemporal Metadata for Semi-Supervised Learning on Remote Sensing Images**|Maximilian Bernhard et.al.|[2404.18583](http://arxiv.org/abs/2404.18583)|null|
@@ -1180,7 +1198,7 @@ layout: default
 |**2024-04-27**|**RFL-CDNet: Towards Accurate Change Detection via Richer Feature Learning**|Yuhang Gan et.al.|[2404.17765](http://arxiv.org/abs/2404.17765)|**[link](https://github.com/hhaizee/rfl-cdnet)**|
 |**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565](http://arxiv.org/abs/2404.17565)|**[link](https://github.com/techmn/changebind)**|
 |**2024-04-26**|**Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**|Zishu Yao et.al.|[2404.17400](http://arxiv.org/abs/2404.17400)|null|
-|**2024-04-26**|**MCSDNet: Mesoscale Convective System Detection Network via Multi-scale Spatiotemporal Information**|Jiajun Liang et.al.|[2404.17186](http://arxiv.org/abs/2404.17186)|null|
+|**2024-04-26**|**MCSDNet: Mesoscale Convective System Detection Network via Multi-scale Spatiotemporal Information**|Jiajun Liang et.al.|[2404.17186](http://arxiv.org/abs/2404.17186)|**[link](https://github.com/250handsomeliang/mcsdnet)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-23**|**GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots**|Simranjit Singh et.al.|[2404.15500](http://arxiv.org/abs/2404.15500)|null|

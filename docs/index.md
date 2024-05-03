@@ -191,6 +191,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**GroupedMixer: An Entropy Model with Group-wise Token-Mixers for Learned Image Compression**|Daxin Li et.al.|[2405.01170](http://arxiv.org/abs/2405.01170)|null|
 |**2024-04-30**|**Analysis and Enhancement of Lossless Image Compression in JPEG-XL**|Rustam Mamedov et.al.|[2404.19755](http://arxiv.org/abs/2404.19755)|null|
 |**2024-04-30**|**EfficientASR: Speech Recognition Network Compression via Attention Redundancy and Chunk-Level FFN Optimization**|Jianzong Wang et.al.|[2404.19214](http://arxiv.org/abs/2404.19214)|null|
 |**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820](http://arxiv.org/abs/2404.18820)|null|
@@ -458,6 +459,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Towards Inclusive Face Recognition Through Synthetic Ethnicity Alteration**|Praveen Kumar Chandaliya et.al.|[2405.01273](http://arxiv.org/abs/2405.01273)|null|
+|**2024-05-02**|**Singular Value and Frame Decomposition-based Reconstruction for Atmospheric Tomography**|Lukas Weissinger et.al.|[2405.01079](http://arxiv.org/abs/2405.01079)|null|
+|**2024-05-01**|**Brighteye: Glaucoma Screening with Color Fundus Photographs based on Vision Transformer**|Hui Lin et.al.|[2405.00857](http://arxiv.org/abs/2405.00857)|null|
+|**2024-05-01**|**Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models**|Xiaoshi Wu et.al.|[2405.00760](http://arxiv.org/abs/2405.00760)|null|
 |**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670](http://arxiv.org/abs/2405.00670)|null|
 |**2024-05-01**|**Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning**|Yuxi Xie et.al.|[2405.00451](http://arxiv.org/abs/2405.00451)|null|
 |**2024-04-30**|**Fast MRI Reconstruction Using Deep Learning-based Compressed Sensing: A Systematic Review**|Mojtaba Safari et.al.|[2405.00241](http://arxiv.org/abs/2405.00241)|null|
@@ -879,6 +884,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242](http://arxiv.org/abs/2405.01242)|null|
+|**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085](http://arxiv.org/abs/2405.01085)|null|
 |**2024-05-01**|**Detail-Enhancing Framework for Reference-Based Image Super-Resolution**|Zihan Wang et.al.|[2405.00431](http://arxiv.org/abs/2405.00431)|null|
 |**2024-04-30**|**Replica-assisted super-resolution fluorescence imaging in scattering media**|Tengfei Wu et.al.|[2404.19734](http://arxiv.org/abs/2404.19734)|null|
 |**2024-04-30**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500](http://arxiv.org/abs/2404.19500)|null|
@@ -1184,6 +1191,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**CromSS: Cross-modal pre-training with noisy labels for remote sensing image segmentation**|Chenying Liu et.al.|[2405.01217](http://arxiv.org/abs/2405.01217)|null|
+|**2024-05-02**|**MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information**|Zhenyang Huang et.al.|[2405.01065](http://arxiv.org/abs/2405.01065)|**[link](https://github.com/aozakiiii/mfds-net)**|
+|**2024-05-02**|**A text-based, generative deep learning model for soil reflectance spectrum simulation in the VIS-NIR (400-2499 nm) bands**|Tong Lei et.al.|[2405.01060](http://arxiv.org/abs/2405.01060)|**[link](https://github.com/gemini-breeding/sogm_soil_spectra_simulation)**|
+|**2024-05-02**|**Hyperspectral Band Selection based on Generalized 3DTV and Tensor CUR Decomposition**|Katherine Henneberger et.al.|[2405.00951](http://arxiv.org/abs/2405.00951)|null|
 |**2024-05-01**|**Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**|Thanh Huy Nguyen et.al.|[2405.00567](http://arxiv.org/abs/2405.00567)|null|
 |**2024-05-01**|**Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring**|Sizhuo Li et.al.|[2405.00514](http://arxiv.org/abs/2405.00514)|null|
 |**2024-04-30**|**Context-Aware Mobile Network Performance Prediction Using Network & Remote Sensing Data**|Ali Shibli et.al.|[2405.00220](http://arxiv.org/abs/2405.00220)|null|

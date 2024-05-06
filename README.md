@@ -495,11 +495,11 @@
 |**2024-04-28**|**fMRI Exploration of Visual Quality Assessment**|Yiming Zhang et.al.|[2404.18162](http://arxiv.org/abs/2404.18162)|null|
 |**2024-04-27**|**Quality Estimation with $k$ -nearest Neighbors and Automatic Evaluation for Model-specific Quality Estimation**|Tu Anh Dinh et.al.|[2404.18031](http://arxiv.org/abs/2404.18031)|null|
 |**2024-04-27**|**LpQcM: Adaptable Lesion-Quantification-Consistent Modulation for Deep Learning Low-Count PET Image Denoising**|Menghua Xia et.al.|[2404.17994](http://arxiv.org/abs/2404.17994)|null|
-|**2024-04-27**|**From Optimization to Generalization: Fair Federated Learning against Quality Shift via Inter-Client Sharpness Matching**|Nannan Wu et.al.|[2404.17805](http://arxiv.org/abs/2404.17805)|null|
-|**2024-04-27**|**Large Multi-modality Model Assisted AI-Generated Image Quality Assessment**|Puyi Wang et.al.|[2404.17762](http://arxiv.org/abs/2404.17762)|null|
+|**2024-04-27**|**From Optimization to Generalization: Fair Federated Learning against Quality Shift via Inter-Client Sharpness Matching**|Nannan Wu et.al.|[2404.17805](http://arxiv.org/abs/2404.17805)|**[link](https://github.com/wnn2000/ffl4mia)**|
+|**2024-04-27**|**Large Multi-modality Model Assisted AI-Generated Image Quality Assessment**|Puyi Wang et.al.|[2404.17762](http://arxiv.org/abs/2404.17762)|**[link](https://github.com/wangpuyi/ma-agiqa)**|
 |**2024-04-27**|**Segmentation Quality and Volumetric Accuracy in Medical Imaging**|Zheyuan Zhang et.al.|[2404.17742](http://arxiv.org/abs/2404.17742)|null|
 |**2024-04-27**|**Diffusion-Aided Joint Source Channel Coding For High Realism Wireless Image Transmission**|Mingyu Yang et.al.|[2404.17736](http://arxiv.org/abs/2404.17736)|null|
-|**2024-04-26**|**Attention-aware non-rigid image registration for accelerated MR imaging**|Aya Ghoul et.al.|[2404.17621](http://arxiv.org/abs/2404.17621)|null|
+|**2024-04-26**|**Attention-aware non-rigid image registration for accelerated MR imaging**|Aya Ghoul et.al.|[2404.17621](http://arxiv.org/abs/2404.17621)|**[link](https://github.com/lab-midas/gmaraft)**|
 |**2024-04-26**|**Low Cost Machine Vision for Insect Classification**|Danja Brandt et.al.|[2404.17488](http://arxiv.org/abs/2404.17488)|null|
 |**2024-04-26**|**S-IQA Image Quality Assessment With Compressive Sampling**|Ronghua Liao et.al.|[2404.17170](http://arxiv.org/abs/2404.17170)|null|
 |**2024-04-25**|**ResVR: Joint Rescaling and Viewport Rendering of Omnidirectional Images**|Weiqi Li et.al.|[2404.16825](http://arxiv.org/abs/2404.16825)|null|
@@ -509,7 +509,7 @@
 |**2024-04-25**|**COBRA -- COnfidence score Based on shape Regression Analysis for method-independent quality assessment of object pose estimation from single images**|Panagiotis Sapoutzoglou et.al.|[2404.16471](http://arxiv.org/abs/2404.16471)|**[link](https://github.com/pansap99/cobra)**|
 |**2024-04-25**|**PAD: Patch-Agnostic Defense against Adversarial Patch Attacks**|Lihua Jing et.al.|[2404.16452](http://arxiv.org/abs/2404.16452)|**[link](https://github.com/lihua-jing/pad)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
-|**2024-04-24**|**AIS 2024 Challenge on Video Quality Assessment of User-Generated Content: Methods and Results**|Marcos V. Conde et.al.|[2404.16205](http://arxiv.org/abs/2404.16205)|null|
+|**2024-04-24**|**AIS 2024 Challenge on Video Quality Assessment of User-Generated Content: Methods and Results**|Marcos V. Conde et.al.|[2404.16205](http://arxiv.org/abs/2404.16205)|**[link](https://github.com/mv-lab/videoai-speedrun)**|
 |**2024-04-24**|**Quantitative Characterization of Retinal Features in Translated OCTA**|Rashadul Hasan Badhon et.al.|[2404.16133](http://arxiv.org/abs/2404.16133)|null|
 |**2024-04-24**|**Assessment of the quality of a prediction**|Roger Sewell et.al.|[2404.15764](http://arxiv.org/abs/2404.15764)|null|
 |**2024-04-24**|**A stochastic approach to estimate distribution grid state with confidence regions**|Rasmus L. Olsen et.al.|[2404.15722](http://arxiv.org/abs/2404.15722)|null|
@@ -531,7 +531,7 @@
 |**2024-04-22**|**CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment**|Kanglei Zhou et.al.|[2404.13999](http://arxiv.org/abs/2404.13999)|**[link](https://github.com/zhoukanglei/cofinal_aqa)**|
 |**2024-04-22**|**SI-FID: Only One Objective Indicator for Evaluating Stitched Images**|Xinrui Zhang et.al.|[2404.13905](http://arxiv.org/abs/2404.13905)|null|
 |**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
-|**2024-04-21**|**Exploring AIGC Video Quality: A Focus on Visual Harmony, Video-Text Consistency and Domain Distribution Gap**|Bowen Qu et.al.|[2404.13573](http://arxiv.org/abs/2404.13573)|null|
+|**2024-04-21**|**Exploring AIGC Video Quality: A Focus on Visual Harmony, Video-Text Consistency and Domain Distribution Gap**|Bowen Qu et.al.|[2404.13573](http://arxiv.org/abs/2404.13573)|**[link](https://github.com/coobiw/trivqa)**|
 |**2024-04-21**|**Cell Phone Image-Based Persian Rice Detection and Classification Using Deep Learning Techniques**|Mahmood Saeedi kelishami et.al.|[2404.13555](http://arxiv.org/abs/2404.13555)|null|
 |**2024-04-20**|**Joint Quality Assessment and Example-Guided Image Processing by Disentangling Picture Appearance from Content**|Abhinau K. Venkataramanan et.al.|[2404.13484](http://arxiv.org/abs/2404.13484)|null|
 |**2024-04-20**|**Cut-FUNQUE: An Objective Quality Model for Compressed Tone-Mapped High Dynamic Range Videos**|Abhinau K. Venkataramanan et.al.|[2404.13452](http://arxiv.org/abs/2404.13452)|null|

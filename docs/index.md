@@ -192,6 +192,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Some Notes on the Sample Complexity of Approximate Channel Simulation**|Gergely Flamich et.al.|[2405.04363](http://arxiv.org/abs/2405.04363)|null|
+|**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
+|**2024-05-07**|**Verified Neural Compressed Sensing**|Rudy Bunel et.al.|[2405.04260](http://arxiv.org/abs/2405.04260)|null|
+|**2024-05-07**|**Lossy Compression with Data, Perception, and Classification Constraints**|Yuhan Wang et.al.|[2405.04144](http://arxiv.org/abs/2405.04144)|null|
+|**2024-05-07**|**DMOFC: Discrimination Metric-Optimized Feature Compression**|Changsheng Gao et.al.|[2405.04044](http://arxiv.org/abs/2405.04044)|null|
+|**2024-05-06**|**Computational ghost imaging with hybrid transforms by integrating Hadamard, discrete cosine, and Haar matrices**|Yi-Ning Zhao et.al.|[2405.03729](http://arxiv.org/abs/2405.03729)|null|
 |**2024-05-06**|**A Rate-Distortion-Classification Approach for Lossy Image Compression**|Yuefeng Zhang et.al.|[2405.03500](http://arxiv.org/abs/2405.03500)|null|
 |**2024-05-06**|**Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition**|Xitong Zhang et.al.|[2405.03089](http://arxiv.org/abs/2405.03089)|null|
 |**2024-05-04**|**Deep Pulse-Signal Magnification for remote Heart Rate Estimation in Compressed Videos**|Joaquim Comas et.al.|[2405.02652](http://arxiv.org/abs/2405.02652)|null|
@@ -466,6 +472,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/abs/2405.04345)|null|
+|**2024-05-07**|**Audio-Visual Speech Representation Expert for Enhanced Talking Face Video Generation and Evaluation**|Dogucan Yaman et.al.|[2405.04327](http://arxiv.org/abs/2405.04327)|null|
+|**2024-05-07**|**Cross-IQA: Unsupervised Learning for Image Quality Assessment**|Zhen Zhang et.al.|[2405.04311](http://arxiv.org/abs/2405.04311)|null|
+|**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|null|
+|**2024-05-07**|**Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment**|Aobo Li et.al.|[2405.04167](http://arxiv.org/abs/2405.04167)|null|
+|**2024-05-07**|**Lossy Compression with Data, Perception, and Classification Constraints**|Yuhan Wang et.al.|[2405.04144](http://arxiv.org/abs/2405.04144)|null|
+|**2024-05-07**|**Joint Estimation of Identity Verification and Relative Pose for Partial Fingerprints**|Xiongjun Guan et.al.|[2405.03959](http://arxiv.org/abs/2405.03959)|null|
+|**2024-05-06**|**AI-Driven Frameworks for Enhancing Data Quality in Big Data Ecosystems: Error_Detection, Correction, and Metadata Integration**|Widad Elouataoui et.al.|[2405.03870](http://arxiv.org/abs/2405.03870)|null|
+|**2024-05-06**|**Accelerated MR Cholangiopancreatography with Deep Learning-based Reconstruction**|Jinho Kim et.al.|[2405.03732](http://arxiv.org/abs/2405.03732)|null|
 |**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684](http://arxiv.org/abs/2405.03684)|null|
 |**2024-05-06**|**An Image Quality Evaluation and Masking Algorithm Based On Pre-trained Deep Neural Networks**|Peng Jia et.al.|[2405.03408](http://arxiv.org/abs/2405.03408)|null|
 |**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|null|
@@ -905,6 +920,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model**|Haixia Xiao et.al.|[2405.04483](http://arxiv.org/abs/2405.04483)|null|
+|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312](http://arxiv.org/abs/2405.04312)|**[link](https://github.com/thudm/inf-dit)**|
 |**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684](http://arxiv.org/abs/2405.03684)|null|
 |**2024-05-05**|**DVMSR: Distillated Vision Mamba for Efficient Super-Resolution**|Xiaoyan Lei et.al.|[2405.03008](http://arxiv.org/abs/2405.03008)|**[link](https://github.com/nathan66666/dvmsr)**|
 |**2024-05-05**|**I $^3$ Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis**|Haofei Song et.al.|[2405.02857](http://arxiv.org/abs/2405.02857)|null|
@@ -1219,6 +1236,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**New allometric models for the USA create a step-change in forest carbon estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507](http://arxiv.org/abs/2405.04507)|null|
+|**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404](http://arxiv.org/abs/2405.04404)|**[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)**|
+|**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/abs/2405.04345)|null|
+|**2024-05-07**|**Bidirectional cascaded superfluorescent lasing in air enabled by resonant third harmonic photon exchange from nitrogen to argon**|Zan Nie et.al.|[2405.04089](http://arxiv.org/abs/2405.04089)|null|
+|**2024-05-02**|**Leafy Spurge Dataset: Real-world Weed Classification Within Aerial Drone Imagery**|Kyle Doherty et.al.|[2405.03702](http://arxiv.org/abs/2405.03702)|null|
 |**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
 |**2024-05-05**|**Spectro-photometry of Phobos simulants: I. Detectability of hydrated minerals and organic bands**|Antonin Wargnier et.al.|[2405.02999](http://arxiv.org/abs/2405.02999)|null|
 |**2024-05-04**|**Onboard Out-of-Calibration Detection of Deep Learning Models using Conformal Prediction**|Protim Bhattacharjee et.al.|[2405.02634](http://arxiv.org/abs/2405.02634)|null|

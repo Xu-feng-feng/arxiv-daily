@@ -192,6 +192,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Urban Boundary Delineation from Commuting Data with Bayesian Stochastic Blockmodeling: Scale, Contiguity, and Hierarchy**|Sebastian Morel-Balbi et.al.|[2405.04911](http://arxiv.org/abs/2405.04911)|null|
 |**2024-05-07**|**Some Notes on the Sample Complexity of Approximate Channel Simulation**|Gergely Flamich et.al.|[2405.04363](http://arxiv.org/abs/2405.04363)|null|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
 |**2024-05-08**|**Verified Neural Compressed Sensing**|Rudy Bunel et.al.|[2405.04260](http://arxiv.org/abs/2405.04260)|null|
@@ -472,6 +473,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation**|Jonas Kohler et.al.|[2405.05224](http://arxiv.org/abs/2405.05224)|null|
+|**2024-05-08**|**Bridging the Gap Between Saliency Prediction and Image Quality Assessment**|Kirillov Alexey et.al.|[2405.04997](http://arxiv.org/abs/2405.04997)|null|
+|**2024-05-07**|**Remote Diffusion**|Kunal Sunil Kasodekar et.al.|[2405.04717](http://arxiv.org/abs/2405.04717)|null|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/abs/2405.04345)|null|
 |**2024-05-07**|**Audio-Visual Speech Representation Expert for Enhanced Talking Face Video Generation and Evaluation**|Dogucan Yaman et.al.|[2405.04327](http://arxiv.org/abs/2405.04327)|null|
 |**2024-05-07**|**Cross-IQA: Unsupervised Learning for Image Quality Assessment**|Zhen Zhang et.al.|[2405.04311](http://arxiv.org/abs/2405.04311)|null|
@@ -920,6 +924,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001](http://arxiv.org/abs/2405.05001)|**[link](https://github.com/korouuuuu/hma)**|
+|**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964](http://arxiv.org/abs/2405.04964)|null|
+|**2024-05-08**|**Teacher-Student Network for Real-World Face Super-Resolution with Progressive Embedding of Edge Information**|Zhilei Liu et.al.|[2405.04778](http://arxiv.org/abs/2405.04778)|null|
+|**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595](http://arxiv.org/abs/2405.04595)|null|
 |**2024-05-07**|**CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model**|Haixia Xiao et.al.|[2405.04483](http://arxiv.org/abs/2405.04483)|null|
 |**2024-05-08**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312](http://arxiv.org/abs/2405.04312)|**[link](https://github.com/thudm/inf-dit)**|
 |**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684](http://arxiv.org/abs/2405.03684)|null|
@@ -1236,11 +1244,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data**|Zhuohong Li et.al.|[2405.05133](http://arxiv.org/abs/2405.05133)|null|
+|**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964](http://arxiv.org/abs/2405.04964)|null|
+|**2024-05-07**|**Remote Diffusion**|Kunal Sunil Kasodekar et.al.|[2405.04717](http://arxiv.org/abs/2405.04717)|null|
+|**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595](http://arxiv.org/abs/2405.04595)|null|
 |**2024-05-07**|**New allometric models for the USA create a step-change in forest carbon estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507](http://arxiv.org/abs/2405.04507)|null|
 |**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404](http://arxiv.org/abs/2405.04404)|**[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)**|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/abs/2405.04345)|null|
 |**2024-05-07**|**Bidirectional cascaded superfluorescent lasing in air enabled by resonant third harmonic photon exchange from nitrogen to argon**|Zan Nie et.al.|[2405.04089](http://arxiv.org/abs/2405.04089)|null|
-|**2024-05-02**|**Leafy Spurge Dataset: Real-world Weed Classification Within Aerial Drone Imagery**|Kyle Doherty et.al.|[2405.03702](http://arxiv.org/abs/2405.03702)|null|
+|**2024-05-08**|**Leafy Spurge Dataset: Real-world Weed Classification Within Aerial Drone Imagery**|Kyle Doherty et.al.|[2405.03702](http://arxiv.org/abs/2405.03702)|null|
 |**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
 |**2024-05-05**|**Spectro-photometry of Phobos simulants: I. Detectability of hydrated minerals and organic bands**|Antonin Wargnier et.al.|[2405.02999](http://arxiv.org/abs/2405.02999)|null|
 |**2024-05-04**|**Onboard Out-of-Calibration Detection of Deep Learning Models using Conformal Prediction**|Protim Bhattacharjee et.al.|[2405.02634](http://arxiv.org/abs/2405.02634)|null|

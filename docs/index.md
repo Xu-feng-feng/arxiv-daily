@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1253,7 +1253,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769](http://arxiv.org/abs/2405.05769)|null|
 |**2024-05-08**|**EarthMatch: Iterative Coregistration for Fine-grained Localization of Astronaut Photography**|Gabriele Berton et.al.|[2405.05422](http://arxiv.org/abs/2405.05422)|null|
-|**2024-05-08**|**Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data**|Zhuohong Li et.al.|[2405.05133](http://arxiv.org/abs/2405.05133)|null|
+|**2024-05-08**|**Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data**|Zhuohong Li et.al.|[2405.05133](http://arxiv.org/abs/2405.05133)|**[link](https://github.com/lizhuohong/buildingmap)**|
 |**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964](http://arxiv.org/abs/2405.04964)|null|
 |**2024-05-07**|**Remote Diffusion**|Kunal Sunil Kasodekar et.al.|[2405.04717](http://arxiv.org/abs/2405.04717)|null|
 |**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595](http://arxiv.org/abs/2405.04595)|null|

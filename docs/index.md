@@ -473,6 +473,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Multi-Object Tracking in the Dark**|Xinzhe Wang et.al.|[2405.06600](http://arxiv.org/abs/2405.06600)|**[link](https://github.com/ying-fu/lmot)**|
+|**2024-05-10**|**Compression-Realized Deep Structural Network for Video Quality Enhancement**|Hanchi Sun et.al.|[2405.06342](http://arxiv.org/abs/2405.06342)|null|
+|**2024-05-09**|**Perceptual Crack Detection for Rendered 3D Textured Meshes**|Armin Shafiee Sarvestani et.al.|[2405.06143](http://arxiv.org/abs/2405.06143)|**[link](https://github.com/arshafiee/crack-detection-vvm)**|
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967](http://arxiv.org/abs/2405.05967)|null|
 |**2024-05-09**|**How Quality Affects Deep Neural Networks in Fine-Grained Image Classification**|Joseph Smith et.al.|[2405.05742](http://arxiv.org/abs/2405.05742)|null|
 |**2024-05-09**|**LatentColorization: Latent Diffusion-Based Speaker Video Colorization**|Rory Ward et.al.|[2405.05707](http://arxiv.org/abs/2405.05707)|null|
@@ -929,6 +932,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Machine learning for reconstruction of polarity inversion lines from solar filaments**|V. Kisielius et.al.|[2405.06293](http://arxiv.org/abs/2405.06293)|null|
+|**2024-05-07**|**Single-antenna 3D localization with nonseparable toroidal pulses**|Ren Wang et.al.|[2405.05979](http://arxiv.org/abs/2405.05979)|null|
 |**2024-05-09**|**Diag2Diag: Multi modal super resolution for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908](http://arxiv.org/abs/2405.05908)|null|
 |**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497](http://arxiv.org/abs/2405.05497)|null|
 |**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001](http://arxiv.org/abs/2405.05001)|**[link](https://github.com/korouuuuu/hma)**|
@@ -1251,6 +1256,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**A Lightweight Transformer for Remote Sensing Image Change Captioning**|Dongwei Sun et.al.|[2405.06598](http://arxiv.org/abs/2405.06598)|null|
+|**2024-05-10**|**Comparative Analysis of Advanced Feature Matching Algorithms in Challenging High Spatial Resolution Optical Satellite Stereo Scenarios**|Qiyan Luo et.al.|[2405.06246](http://arxiv.org/abs/2405.06246)|null|
+|**2024-05-09**|**UnSegGNet: Unsupervised Image Segmentation using Graph Neural Networks**|Kovvuri Sai Gopal Reddy et.al.|[2405.06057](http://arxiv.org/abs/2405.06057)|**[link](https://github.com/ksgr5566/unseggnet)**|
 |**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769](http://arxiv.org/abs/2405.05769)|null|
 |**2024-05-08**|**EarthMatch: Iterative Coregistration for Fine-grained Localization of Astronaut Photography**|Gabriele Berton et.al.|[2405.05422](http://arxiv.org/abs/2405.05422)|null|
 |**2024-05-08**|**Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data**|Zhuohong Li et.al.|[2405.05133](http://arxiv.org/abs/2405.05133)|**[link](https://github.com/lizhuohong/buildingmap)**|

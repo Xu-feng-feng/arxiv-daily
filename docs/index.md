@@ -192,6 +192,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Goal-oriented compression for $L_p$ -norm-type goal functions: Application to power consumption scheduling**|Yifei Sun et.al.|[2405.07808](http://arxiv.org/abs/2405.07808)|null|
+|**2024-05-13**|**Neural Network Compression for Reinforcement Learning Tasks**|Dmitry A. Ivanov et.al.|[2405.07748](http://arxiv.org/abs/2405.07748)|null|
+|**2024-05-13**|**On the Adversarial Robustness of Learning-based Image Compression Against Rate-Distortion Attacks**|Chenhao Wu et.al.|[2405.07717](http://arxiv.org/abs/2405.07717)|null|
+|**2024-05-13**|**An Efficient Compression Method for Sign Information of DCT Coefficients via Sign Retrieval**|Chihiro Tsutake et.al.|[2405.07487](http://arxiv.org/abs/2405.07487)|null|
+|**2024-05-10**|**Time-of-arrival Estimation and Phase Unwrapping of Head-related Transfer Functions With Integer Linear Programming**|Chin-Yun Yu et.al.|[2405.06804](http://arxiv.org/abs/2405.06804)|**[link](https://github.com/yoyololicon/hrtf-ilp)**|
 |**2024-05-08**|**Urban Boundary Delineation from Commuting Data with Bayesian Stochastic Blockmodeling: Scale, Contiguity, and Hierarchy**|Sebastian Morel-Balbi et.al.|[2405.04911](http://arxiv.org/abs/2405.04911)|null|
 |**2024-05-07**|**Some Notes on the Sample Complexity of Approximate Channel Simulation**|Gergely Flamich et.al.|[2405.04363](http://arxiv.org/abs/2405.04363)|null|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
@@ -473,6 +478,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Quality of Experience Optimization for Real-time XR Video Transmission with Energy Constraints**|Guangjin Pan et.al.|[2405.07689](http://arxiv.org/abs/2405.07689)|null|
+|**2024-05-13**|**PRANK: a singular value based noise filtering approach**|Francesco Trainotti et.al.|[2405.07578](http://arxiv.org/abs/2405.07578)|null|
+|**2024-05-13**|**Dehazing Remote Sensing and UAV Imagery: A Review of Deep Learning, Prior-based, and Hybrid Approaches**|Gao Yu Lee et.al.|[2405.07520](http://arxiv.org/abs/2405.07520)|null|
+|**2024-05-12**|**Understanding and Evaluating Human Preferences for AI Generated Images with Instruction Tuning**|Jiarui Wang et.al.|[2405.07346](http://arxiv.org/abs/2405.07346)|null|
+|**2024-05-12**|**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**|Mohammad Shafiul Alam et.al.|[2405.07332](http://arxiv.org/abs/2405.07332)|null|
+|**2024-05-12**|**Stable Signature is Unstable: Removing Image Watermark from Diffusion Models**|Yuepeng Hu et.al.|[2405.07145](http://arxiv.org/abs/2405.07145)|null|
+|**2024-05-11**|**Large Language Model-aided Edge Learning in Distribution System State Estimation**|Renyou Xie et.al.|[2405.06999](http://arxiv.org/abs/2405.06999)|null|
+|**2024-05-11**|**Generation of Granular-Balls for Clustering Based on the Principle of Justifiable Granularity**|Zhen Zhang et.al.|[2405.06904](http://arxiv.org/abs/2405.06904)|null|
+|**2024-05-11**|**FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment**|Jinglin Xu et.al.|[2405.06887](http://arxiv.org/abs/2405.06887)|null|
 |**2024-05-10**|**Multi-Object Tracking in the Dark**|Xinzhe Wang et.al.|[2405.06600](http://arxiv.org/abs/2405.06600)|**[link](https://github.com/ying-fu/lmot)**|
 |**2024-05-10**|**Compression-Realized Deep Structural Network for Video Quality Enhancement**|Hanchi Sun et.al.|[2405.06342](http://arxiv.org/abs/2405.06342)|null|
 |**2024-05-09**|**Perceptual Crack Detection for Rendered 3D Textured Meshes**|Armin Shafiee Sarvestani et.al.|[2405.06143](http://arxiv.org/abs/2405.06143)|**[link](https://github.com/arshafiee/crack-detection-vvm)**|
@@ -932,6 +946,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919](http://arxiv.org/abs/2405.07919)|null|
+|**2024-05-13**|**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2405.07648](http://arxiv.org/abs/2405.07648)|**[link](https://github.com/i2-multimedia-lab/cdformer)**|
+|**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044](http://arxiv.org/abs/2405.07044)|**[link](https://github.com/wwangcece/sgdm)**|
+|**2024-05-11**|**Efficient Real-world Image Super-Resolution Via Adaptive Directional Gradient Convolution**|Long Peng et.al.|[2405.07023](http://arxiv.org/abs/2405.07023)|null|
+|**2024-05-11**|**Incorporating Degradation Estimation in Light Field Spatial Super-Resolution**|Zeyu Xiao et.al.|[2405.07012](http://arxiv.org/abs/2405.07012)|null|
+|**2024-05-11**|**Super-Resolving Blurry Images with Events**|Chi Zhang et.al.|[2405.06918](http://arxiv.org/abs/2405.06918)|null|
 |**2024-05-10**|**Machine learning for reconstruction of polarity inversion lines from solar filaments**|V. Kisielius et.al.|[2405.06293](http://arxiv.org/abs/2405.06293)|null|
 |**2024-05-07**|**Single-antenna 3D localization with nonseparable toroidal pulses**|Ren Wang et.al.|[2405.05979](http://arxiv.org/abs/2405.05979)|null|
 |**2024-05-09**|**Diag2Diag: Multi modal super resolution for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908](http://arxiv.org/abs/2405.05908)|null|
@@ -1256,6 +1276,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916](http://arxiv.org/abs/2405.07916)|null|
+|**2024-05-13**|**Sub-percent Characterization and Polarimetric Performance Analysis of Commercial Micro-polarizer Array Detectors**|Thijs Stockmans et.al.|[2405.07864](http://arxiv.org/abs/2405.07864)|null|
+|**2024-05-13**|**Dehazing Remote Sensing and UAV Imagery: A Review of Deep Learning, Prior-based, and Hybrid Approaches**|Gao Yu Lee et.al.|[2405.07520](http://arxiv.org/abs/2405.07520)|null|
+|**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044](http://arxiv.org/abs/2405.07044)|**[link](https://github.com/wwangcece/sgdm)**|
+|**2024-05-10**|**Ocean-DC: An analysis ready data cube framework for environmental and climate change monitoring over the port areas**|Ioannis Kavouras et.al.|[2405.06730](http://arxiv.org/abs/2405.06730)|null|
 |**2024-05-10**|**A Lightweight Transformer for Remote Sensing Image Change Captioning**|Dongwei Sun et.al.|[2405.06598](http://arxiv.org/abs/2405.06598)|null|
 |**2024-05-10**|**Comparative Analysis of Advanced Feature Matching Algorithms in Challenging High Spatial Resolution Optical Satellite Stereo Scenarios**|Qiyan Luo et.al.|[2405.06246](http://arxiv.org/abs/2405.06246)|null|
 |**2024-05-09**|**UnSegGNet: Unsupervised Image Segmentation using Graph Neural Networks**|Kovvuri Sai Gopal Reddy et.al.|[2405.06057](http://arxiv.org/abs/2405.06057)|**[link](https://github.com/ksgr5566/unseggnet)**|

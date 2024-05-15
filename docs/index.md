@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -198,7 +198,7 @@ layout: default
 |**2024-05-13**|**An Efficient Compression Method for Sign Information of DCT Coefficients via Sign Retrieval**|Chihiro Tsutake et.al.|[2405.07487](http://arxiv.org/abs/2405.07487)|null|
 |**2024-05-10**|**Time-of-arrival Estimation and Phase Unwrapping of Head-related Transfer Functions With Integer Linear Programming**|Chin-Yun Yu et.al.|[2405.06804](http://arxiv.org/abs/2405.06804)|**[link](https://github.com/yoyololicon/hrtf-ilp)**|
 |**2024-05-08**|**Urban Boundary Delineation from Commuting Data with Bayesian Stochastic Blockmodeling: Scale, Contiguity, and Hierarchy**|Sebastian Morel-Balbi et.al.|[2405.04911](http://arxiv.org/abs/2405.04911)|null|
-|**2024-05-07**|**Some Notes on the Sample Complexity of Approximate Channel Simulation**|Gergely Flamich et.al.|[2405.04363](http://arxiv.org/abs/2405.04363)|null|
+|**2024-05-14**|**Some Notes on the Sample Complexity of Approximate Channel Simulation**|Gergely Flamich et.al.|[2405.04363](http://arxiv.org/abs/2405.04363)|null|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
 |**2024-05-08**|**Verified Neural Compressed Sensing**|Rudy Bunel et.al.|[2405.04260](http://arxiv.org/abs/2405.04260)|null|
 |**2024-05-07**|**Lossy Compression with Data, Perception, and Classification Constraints**|Yuhan Wang et.al.|[2405.04144](http://arxiv.org/abs/2405.04144)|null|

@@ -201,6 +201,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Parameter-Efficient Instance-Adaptive Neural Video Compression**|Hyunmo Yang et.al.|[2405.08530](http://arxiv.org/abs/2405.08530)|null|
 |**2024-05-13**|**Goal-oriented compression for $L_p$ -norm-type goal functions: Application to power consumption scheduling**|Yifei Sun et.al.|[2405.07808](http://arxiv.org/abs/2405.07808)|null|
 |**2024-05-13**|**Neural Network Compression for Reinforcement Learning Tasks**|Dmitry A. Ivanov et.al.|[2405.07748](http://arxiv.org/abs/2405.07748)|null|
 |**2024-05-13**|**On the Adversarial Robustness of Learning-based Image Compression Against Rate-Distortion Attacks**|Chenhao Wu et.al.|[2405.07717](http://arxiv.org/abs/2405.07717)|null|
@@ -489,6 +490,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Enhancing Blind Video Quality Assessment with Rich Quality-aware Features**|Wei Sun et.al.|[2405.08745](http://arxiv.org/abs/2405.08745)|null|
+|**2024-05-13**|**The Lost Melody: Empirical Observations on Text-to-Video Generation From A Storytelling Perspective**|Andrew Shin et.al.|[2405.08720](http://arxiv.org/abs/2405.08720)|null|
+|**2024-05-14**|**Using autoencoders and deep transfer learning to determine the stellar parameters of 286 CARMENES M dwarfs**|P. Mas-Buitrago et.al.|[2405.08703](http://arxiv.org/abs/2405.08703)|null|
+|**2024-05-14**|**RMT-BVQA: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content**|Tianhao Peng et.al.|[2405.08621](http://arxiv.org/abs/2405.08621)|null|
+|**2024-05-14**|**Dual-Branch Network for Portrait Image Quality Assessment**|Wei Sun et.al.|[2405.08555](http://arxiv.org/abs/2405.08555)|null|
+|**2024-05-14**|**WaterMamba: Visual State Space Model for Underwater Image Enhancement**|Meisheng Guan et.al.|[2405.08419](http://arxiv.org/abs/2405.08419)|null|
+|**2024-05-14**|**Perivascular space Identification Nnunet for Generalised Usage (PINGU)**|Benjamin Sinclair et.al.|[2405.08337](http://arxiv.org/abs/2405.08337)|null|
+|**2024-05-14**|**Progressive enhancement and restoration for mural images under low-light and defected conditions based on multi-receptive field strategy**|Xiameng Wei et.al.|[2405.08245](http://arxiv.org/abs/2405.08245)|null|
 |**2024-05-13**|**Quality of Experience Optimization for Real-time XR Video Transmission with Energy Constraints**|Guangjin Pan et.al.|[2405.07689](http://arxiv.org/abs/2405.07689)|null|
 |**2024-05-13**|**PRANK: a singular value based noise filtering approach**|Francesco Trainotti et.al.|[2405.07578](http://arxiv.org/abs/2405.07578)|null|
 |**2024-05-13**|**Dehazing Remote Sensing and UAV Imagery: A Review of Deep Learning, Prior-based, and Hybrid Approaches**|Gao Yu Lee et.al.|[2405.07520](http://arxiv.org/abs/2405.07520)|null|
@@ -959,6 +968,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423](http://arxiv.org/abs/2405.08423)|null|
 |**2024-05-13**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919](http://arxiv.org/abs/2405.07919)|null|
 |**2024-05-13**|**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2405.07648](http://arxiv.org/abs/2405.07648)|**[link](https://github.com/i2-multimedia-lab/cdformer)**|
 |**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044](http://arxiv.org/abs/2405.07044)|**[link](https://github.com/wwangcece/sgdm)**|
@@ -1291,6 +1301,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
+|**2024-05-14**|**Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study**|Qinfeng Zhu et.al.|[2405.08493](http://arxiv.org/abs/2405.08493)|null|
 |**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916](http://arxiv.org/abs/2405.07916)|null|
 |**2024-05-13**|**Sub-percent Characterization and Polarimetric Performance Analysis of Commercial Micro-polarizer Array Detectors**|Thijs Stockmans et.al.|[2405.07864](http://arxiv.org/abs/2405.07864)|null|
 |**2024-05-13**|**Dehazing Remote Sensing and UAV Imagery: A Review of Deep Learning, Prior-based, and Hybrid Approaches**|Gao Yu Lee et.al.|[2405.07520](http://arxiv.org/abs/2405.07520)|null|

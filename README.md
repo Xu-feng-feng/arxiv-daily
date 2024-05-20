@@ -374,7 +374,7 @@
 |**2024-02-07**|**RAGE for the Machine: Image Compression with Low-Cost Random Access for Embedded Applications**|Christian D. Rask et.al.|[2402.05974](http://arxiv.org/abs/2402.05974)|null|
 |**2024-02-08**|**Sandwiched Compression: Repurposing Standard Codecs with Neural Network Wrappers**|Onur G. Guleryuz et.al.|[2402.05887](http://arxiv.org/abs/2402.05887)|**[link](https://github.com/google/sandwiched_compression)**|
 |**2024-02-08**|**Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs**|Yuxin Xie et.al.|[2402.05582](http://arxiv.org/abs/2402.05582)|null|
-|**2024-02-05**|**TexShape: Information Theoretic Sentence Embedding for Language Models**|H. Kaan Kale et.al.|[2402.05132](http://arxiv.org/abs/2402.05132)|null|
+|**2024-02-05**|**TexShape: Information Theoretic Sentence Embedding for Language Models**|H. Kaan Kale et.al.|[2402.05132](http://arxiv.org/abs/2402.05132)|**[link](https://github.com/hesfahanizadeh/neuralinformationshaping)**|
 |**2024-02-07**|**Compression of Structured Data with Autoencoders: Provable Benefit of Nonlinearities and Depth**|Kevin Kögler et.al.|[2402.05013](http://arxiv.org/abs/2402.05013)|null|
 |**2024-02-06**|**A Novel Local and Hyper-Local Multicast Services Transmission Scheme for Beyond 5G Networks**|Sweta Singh et.al.|[2402.03963](http://arxiv.org/abs/2402.03963)|null|
 |**2024-02-06**|**Cool-chic video: Learned video coding with 800 parameters**|Thomas Leguay et.al.|[2402.03179](http://arxiv.org/abs/2402.03179)|**[link](https://github.com/orange-opensource/cool-chic)**|
@@ -562,7 +562,7 @@
 |**2024-05-02**|**Singular Value and Frame Decomposition-based Reconstruction for Atmospheric Tomography**|Lukas Weissinger et.al.|[2405.01079](http://arxiv.org/abs/2405.01079)|null|
 |**2024-05-01**|**Brighteye: Glaucoma Screening with Color Fundus Photographs based on Vision Transformer**|Hui Lin et.al.|[2405.00857](http://arxiv.org/abs/2405.00857)|null|
 |**2024-05-01**|**Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models**|Xiaoshi Wu et.al.|[2405.00760](http://arxiv.org/abs/2405.00760)|null|
-|**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670](http://arxiv.org/abs/2405.00670)|null|
+|**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670](http://arxiv.org/abs/2405.00670)|**[link](https://github.com/ch-andrei/hdr-iqa-dom-adapt)**|
 |**2024-05-01**|**Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning**|Yuxi Xie et.al.|[2405.00451](http://arxiv.org/abs/2405.00451)|null|
 |**2024-04-30**|**Fast MRI Reconstruction Using Deep Learning-based Compressed Sensing: A Systematic Review**|Mojtaba Safari et.al.|[2405.00241](http://arxiv.org/abs/2405.00241)|**[link](https://github.com/mosaf/awesome-dl-based-cs-mri)**|
 |**2024-04-30**|**Charting the Path Forward: CT Image Quality Assessment -- An In-Depth Review**|Siyi Xun et.al.|[2405.00075](http://arxiv.org/abs/2405.00075)|null|
@@ -606,7 +606,7 @@
 |**2024-04-24**|**PriorNet: A Novel Lightweight Network with Multidimensional Interactive Attention for Efficient Image Dehazing**|Yutong Chen et.al.|[2404.15638](http://arxiv.org/abs/2404.15638)|null|
 |**2024-04-24**|**Direct Zernike Coefficient Prediction from Point Spread Functions and Extended Images using Deep Learning**|Yong En Kok et.al.|[2404.15231](http://arxiv.org/abs/2404.15231)|null|
 |**2024-04-23**|**Adaptive Mixed-Scale Feature Fusion Network for Blind AI-Generated Image Quality Assessment**|Tianwei Zhou et.al.|[2404.15163](http://arxiv.org/abs/2404.15163)|null|
-|**2024-04-23**|**Multi-Modal Prompt Learning on Blind Image Quality Assessment**|Wensheng Pan et.al.|[2404.14949](http://arxiv.org/abs/2404.14949)|null|
+|**2024-04-23**|**Multi-Modal Prompt Learning on Blind Image Quality Assessment**|Wensheng Pan et.al.|[2404.14949](http://arxiv.org/abs/2404.14949)|**[link](https://github.com/stephencurry-web/IQA)**|
 |**2024-04-23**|**Novel Topological Machine Learning Methodology for Stream-of-Quality Modeling in Smart Manufacturing**|Jay Lee et.al.|[2404.14728](http://arxiv.org/abs/2404.14728)|null|
 |**2024-04-22**|**Tile-Weighted Rate-Distortion Optimized Packet Scheduling for 360 $^\circ$ VR Video Streaming**|Haopeng Wang et.al.|[2404.14573](http://arxiv.org/abs/2404.14573)|null|
 |**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
@@ -795,7 +795,7 @@
 |**2024-03-19**|**Deep Few-view High-resolution Photon-counting Extremity CT at Halved Dose for a Clinical Trial**|Mengzhou Li et.al.|[2403.12331](http://arxiv.org/abs/2403.12331)|null|
 |**2024-03-18**|**Motion and temporal B0 shift corrections for quantitative susceptibility mapping (QSM) and R2* mapping using dual-echo spiral navigators and conjugate-phase reconstruction**|Yuguang Meng et.al.|[2403.12230](http://arxiv.org/abs/2403.12230)|null|
 |**2024-03-19**|**Generic 3D Diffusion Adapter Using Controlled Multi-View Editing**|Hansheng Chen et.al.|[2403.12032](http://arxiv.org/abs/2403.12032)|**[link](https://github.com/Lakonik/MVEdit)**|
-|**2024-03-18**|**Enhancing Hokkien Dual Translation by Exploring and Standardizing of Four Writing Systems**|Bo-Han Lu et.al.|[2403.12024](http://arxiv.org/abs/2403.12024)|null|
+|**2024-03-18**|**Enhancing Hokkien Dual Translation by Exploring and Standardizing of Four Writing Systems**|Bo-Han Lu et.al.|[2403.12024](http://arxiv.org/abs/2403.12024)|**[link](https://github.com/lbh0830/TW-Hokkien-LLM)**|
 |**2024-03-18**|**VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model**|Qi Zuo et.al.|[2403.12010](http://arxiv.org/abs/2403.12010)|null|
 |**2024-03-19**|**Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment**|Tengchuan Kou et.al.|[2403.11956](http://arxiv.org/abs/2403.11956)|**[link](https://github.com/qmme/t2vqa)**|
 |**2024-03-18**|**HyperColorization: Propagating spatially sparse noisy spectral clues for reconstructing hyperspectral images**|M. Kerem Aydin et.al.|[2403.11935](http://arxiv.org/abs/2403.11935)|**[link](https://github.com/nubivlab/hypercolorization)**|

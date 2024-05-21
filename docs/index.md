@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -192,9 +192,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Dark Energy Survey Year 3 results: simulation-based cosmological inference with wavelet harmonics, scattering transforms, and moments of weak lensing mass maps II. Cosmological results**|M. Gatti et.al.|[2405.10881](http://arxiv.org/abs/2405.10881)|null|
+|**2024-05-17**|**Reduced storage direct tensor ring decomposition for convolutional neural networks compression**|Mateusz Gabor et.al.|[2405.10802](http://arxiv.org/abs/2405.10802)|**[link](https://github.com/mateuszgabor/rsdtr_compression)**|
+|**2024-05-17**|**Enhancing Perception Quality in Remote Sensing Image Compression via Invertible Neural Network**|Junhui Li et.al.|[2405.10518](http://arxiv.org/abs/2405.10518)|null|
 |**2024-05-15**|**Properties that allow or prohibit transferability of adversarial attacks among quantized networks**|Abhishek Shrestha et.al.|[2405.09598](http://arxiv.org/abs/2405.09598)|**[link](https://github.com/Abhishek2271/TransferabilityAnalysis)**|
 |**2024-05-15**|**Sensitivity Decouple Learning for Image Compression Artifacts Reduction**|Li Ma et.al.|[2405.09291](http://arxiv.org/abs/2405.09291)|null|
-|**2024-05-15**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|null|
+|**2024-05-18**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|null|
 |**2024-05-14**|**Parameter-Efficient Instance-Adaptive Neural Video Compression**|Hyunmo Yang et.al.|[2405.08530](http://arxiv.org/abs/2405.08530)|null|
 |**2024-05-13**|**Goal-oriented compression for $L_p$ -norm-type goal functions: Application to power consumption scheduling**|Yifei Sun et.al.|[2405.07808](http://arxiv.org/abs/2405.07808)|null|
 |**2024-05-13**|**Neural Network Compression for Reinforcement Learning Tasks**|Dmitry A. Ivanov et.al.|[2405.07748](http://arxiv.org/abs/2405.07748)|null|
@@ -482,6 +485,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation**|Ziyao Xu et.al.|[2405.10650](http://arxiv.org/abs/2405.10650)|**[link](https://github.com/xzy-xzy/spor)**|
+|**2024-05-17**|**Simultaneous Deep Learning of Myocardium Segmentation and T2 Quantification for Acute Myocardial Infarction MRI**|Yirong Zhou et.al.|[2405.10570](http://arxiv.org/abs/2405.10570)|null|
+|**2024-05-17**|**Enhancing Perception Quality in Remote Sensing Image Compression via Invertible Neural Network**|Junhui Li et.al.|[2405.10518](http://arxiv.org/abs/2405.10518)|null|
+|**2024-05-16**|**Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder**|Mohamed Ilyes Lakhal et.al.|[2405.10423](http://arxiv.org/abs/2405.10423)|null|
 |**2024-05-16**|**GS-Planner: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction**|Rui Jin et.al.|[2405.10142](http://arxiv.org/abs/2405.10142)|null|
 |**2024-05-16**|**Semantic Communication via Rate Distortion Perception Bottleneck**|Zihe Zhao et.al.|[2405.09995](http://arxiv.org/abs/2405.09995)|null|
 |**2024-05-16**|**VirtualModel: Generating Object-ID-retentive Human-object Interaction Image by Diffusion Model for E-commerce Marketing**|Binghui Chen et.al.|[2405.09985](http://arxiv.org/abs/2405.09985)|null|
@@ -493,7 +500,7 @@ layout: default
 |**2024-05-15**|**Deep Blur Multi-Model (DeepBlurMM) -- a strategy to mitigate the impact of image blur on deep learning model performance in histopathology image analysis**|Yujie Xiang et.al.|[2405.09298](http://arxiv.org/abs/2405.09298)|null|
 |**2024-05-15**|**Sensitivity Decouple Learning for Image Compression Artifacts Reduction**|Li Ma et.al.|[2405.09291](http://arxiv.org/abs/2405.09291)|null|
 |**2024-05-15**|**Shacl4Bib: custom validation of library data**|Péter Király et.al.|[2405.09177](http://arxiv.org/abs/2405.09177)|null|
-|**2024-05-15**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|null|
+|**2024-05-18**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|null|
 |**2024-05-15**|**RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing**|Jiamei Xiong et.al.|[2405.09083](http://arxiv.org/abs/2405.09083)|**[link](https://github.com/jm-xiong/rshazediff)**|
 |**2024-05-14**|**Chemically peculiar stars on the pre-main sequence**|L. Kueß et.al.|[2405.08946](http://arxiv.org/abs/2405.08946)|null|
 |**2024-05-14**|**Enhancing Blind Video Quality Assessment with Rich Quality-aware Features**|Wei Sun et.al.|[2405.08745](http://arxiv.org/abs/2405.08745)|**[link](https://github.com/sunwei925/rq-vqa)**|
@@ -972,6 +979,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561](http://arxiv.org/abs/2405.10561)|null|
+|**2024-05-16**|**RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods**|Xin Qiao et.al.|[2405.10357](http://arxiv.org/abs/2405.10357)|null|
 |**2024-05-16**|**Bilateral Event Mining and Complementary for Event Stream Super-Resolution**|Zhilin Huang et.al.|[2405.10037](http://arxiv.org/abs/2405.10037)|**[link](https://github.com/lqm26/bmcnet-esr)**|
 |**2024-05-16**|**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution**|Xingjian Wang et.al.|[2405.10014](http://arxiv.org/abs/2405.10014)|null|
 |**2024-05-16**|**IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model**|Yongsong Huang et.al.|[2405.09873](http://arxiv.org/abs/2405.09873)|**[link](https://github.com/yongsongh/irsrmamba)**|
@@ -979,7 +988,7 @@ layout: default
 |**2024-05-15**|**Low-Complexity Joint Azimuth-Range-Velocity Estimation for Integrated Sensing and Communication with OFDM Waveform**|Jun Zhang et.al.|[2405.09443](http://arxiv.org/abs/2405.09443)|null|
 |**2024-05-15**|**Large coordinate kernel attention network for lightweight image super-resolution**|Fangwei Hao et.al.|[2405.09353](http://arxiv.org/abs/2405.09353)|null|
 |**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423](http://arxiv.org/abs/2405.08423)|null|
-|**2024-05-13**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919](http://arxiv.org/abs/2405.07919)|null|
+|**2024-05-17**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919](http://arxiv.org/abs/2405.07919)|null|
 |**2024-05-13**|**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2405.07648](http://arxiv.org/abs/2405.07648)|**[link](https://github.com/i2-multimedia-lab/cdformer)**|
 |**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044](http://arxiv.org/abs/2405.07044)|**[link](https://github.com/wwangcece/sgdm)**|
 |**2024-05-11**|**Efficient Real-world Image Super-Resolution Via Adaptive Directional Gradient Convolution**|Long Peng et.al.|[2405.07023](http://arxiv.org/abs/2405.07023)|null|
@@ -987,7 +996,7 @@ layout: default
 |**2024-05-11**|**Super-Resolving Blurry Images with Events**|Chi Zhang et.al.|[2405.06918](http://arxiv.org/abs/2405.06918)|null|
 |**2024-05-10**|**Machine learning for reconstruction of polarity inversion lines from solar filaments**|V. Kisielius et.al.|[2405.06293](http://arxiv.org/abs/2405.06293)|**[link](https://github.com/observethesun/PIL)**|
 |**2024-05-07**|**Single-antenna 3D localization with nonseparable toroidal pulses**|Ren Wang et.al.|[2405.05979](http://arxiv.org/abs/2405.05979)|null|
-|**2024-05-09**|**Diag2Diag: Multi modal super resolution for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908](http://arxiv.org/abs/2405.05908)|null|
+|**2024-05-17**|**Diag2Diag: Multimodal super-resolution diagnostics for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908](http://arxiv.org/abs/2405.05908)|null|
 |**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497](http://arxiv.org/abs/2405.05497)|null|
 |**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001](http://arxiv.org/abs/2405.05001)|**[link](https://github.com/korouuuuu/hma)**|
 |**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964](http://arxiv.org/abs/2405.04964)|null|
@@ -1309,6 +1318,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation**|Mushui Liu et.al.|[2405.10530](http://arxiv.org/abs/2405.10530)|**[link](https://github.com/xiaobul/cm-unet)**|
+|**2024-05-17**|**Enhancing Perception Quality in Remote Sensing Image Compression via Invertible Neural Network**|Junhui Li et.al.|[2405.10518](http://arxiv.org/abs/2405.10518)|null|
+|**2024-05-16**|**Region-level labels in ice charts can produce pixel-level segmentation for Sea Ice types**|Muhammed Patel et.al.|[2405.10456](http://arxiv.org/abs/2405.10456)|null|
 |**2024-05-16**|**PIR: Remote Sensing Image-Text Retrieval with Prior Instruction Representation Learning**|Jiancheng Pan et.al.|[2405.10160](http://arxiv.org/abs/2405.10160)|**[link](https://github.com/jaychempan/pir-clip)**|
 |**2024-05-16**|**RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**|Huiling Zhou et.al.|[2405.10030](http://arxiv.org/abs/2405.10030)|null|
 |**2024-05-16**|**Cross-sensor self-supervised training and alignment for remote sensing**|Valerio Marsocci et.al.|[2405.09922](http://arxiv.org/abs/2405.09922)|null|

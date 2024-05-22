@@ -193,6 +193,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Efficient Learned Wavelet Image and Video Coding**|Anna Meyer et.al.|[2405.12631](http://arxiv.org/abs/2405.12631)|null|
 |**2024-05-20**|**Accelerating Relative Entropy Coding with Space Partitioning**|Jiajun He et.al.|[2405.12203](http://arxiv.org/abs/2405.12203)|null|
 |**2024-05-20**|**Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing**|Takahiro Shindo et.al.|[2405.11894](http://arxiv.org/abs/2405.11894)|null|
 |**2024-05-19**|**Effective In-Context Example Selection through Data Compression**|Zhongxiang Sun et.al.|[2405.11465](http://arxiv.org/abs/2405.11465)|null|
@@ -490,6 +491,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/abs/2405.12806)|null|
+|**2024-05-21**|**Is Dataset Quality Still a Concern in Diagnosis Using Large Foundation Model?**|Ziqin Lin et.al.|[2405.12584](http://arxiv.org/abs/2405.12584)|null|
+|**2024-05-20**|**Paired Conditional Generative Adversarial Network for Highly Accelerated Liver 4D MRI**|Di Xu et.al.|[2405.12357](http://arxiv.org/abs/2405.12357)|null|
+|**2024-05-20**|**Deep learning-based hyperspectral image reconstruction for quality assessment of agro-product**|Md. Toukir Ahmed et.al.|[2405.12313](http://arxiv.org/abs/2405.12313)|null|
 |**2024-05-20**|**GGAvatar: Geometric Adjustment of Gaussian Head Avatar**|Xinyang Li et.al.|[2405.11993](http://arxiv.org/abs/2405.11993)|null|
 |**2024-05-20**|**On Efficient and Statistical Quality Estimation for Data Annotation**|Jan-Christoph Klie et.al.|[2405.11919](http://arxiv.org/abs/2405.11919)|null|
 |**2024-05-20**|**ViViD: Video Virtual Try-on using Diffusion Models**|Zixun Fang et.al.|[2405.11794](http://arxiv.org/abs/2405.11794)|null|
@@ -1333,6 +1338,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875](http://arxiv.org/abs/2405.12875)|**[link](https://github.com/fay-y/diffusion-rscc)**|
+|**2024-05-21**|**3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification**|Yan He et.al.|[2405.12487](http://arxiv.org/abs/2405.12487)|null|
 |**2024-05-20**|**Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**|Weilian Zhou et.al.|[2405.12003](http://arxiv.org/abs/2405.12003)|**[link](https://github.com/zhouweilian1904/mamba-in-mamba)**|
 |**2024-05-20**|**Climatic & Anthropogenic Hazards to the Nasca World Heritage: Application of Remote Sensing, AI, and Flood Modelling**|Masato Sakai et.al.|[2405.11814](http://arxiv.org/abs/2405.11814)|null|
 |**2024-05-18**|**InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images**|Wuzhou Li et.al.|[2405.11293](http://arxiv.org/abs/2405.11293)|null|

@@ -194,13 +194,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Analytical proxy to families of numerical solutions: the case study of spherical mini-boson stars**|Jianzhi Yang et.al.|[2405.15651](http://arxiv.org/abs/2405.15651)|null|
+|**2024-05-24**|**SATSense: Multi-Satellite Collaborative Framework for Spectrum Sensing**|Haoxuan Yuan et.al.|[2405.15542](http://arxiv.org/abs/2405.15542)|null|
+|**2024-05-24**|**Meta-meshing and triangulating lattice structures at a large scale**|Qiang Zou et.al.|[2405.15197](http://arxiv.org/abs/2405.15197)|null|
+|**2024-05-23**|**NeCGS: Neural Compression for 3D Geometry Sets**|Siyu Ren et.al.|[2405.15034](http://arxiv.org/abs/2405.15034)|null|
 |**2024-05-23**|**An augmented Lagrangian trust-region method with inexact gradient evaluations to accelerate constrained optimization problems using model hyperreduction**|Tianshu Wen et.al.|[2405.14827](http://arxiv.org/abs/2405.14827)|null|
 |**2024-05-23**|**Motion-based video compression for resource-constrained camera traps**|Malika Nisal Ratnayake et.al.|[2405.14419](http://arxiv.org/abs/2405.14419)|null|
 |**2024-05-23**|**I $^2$ VC: A Unified Framework for Intra- \& Inter-frame Video Compression**|Meiqin Liu et.al.|[2405.14336](http://arxiv.org/abs/2405.14336)|null|
 |**2024-05-23**|**Sparse $L^1$ -Autoencoders for Scientific Data Compression**|Matthias Chung et.al.|[2405.14270](http://arxiv.org/abs/2405.14270)|null|
 |**2024-05-22**|**"Turing Tests" For An AI Scientist**|Xiaoxin Yin et.al.|[2405.13352](http://arxiv.org/abs/2405.13352)|null|
 |**2024-05-21**|**Efficient Learned Wavelet Image and Video Coding**|Anna Meyer et.al.|[2405.12631](http://arxiv.org/abs/2405.12631)|null|
-|**2024-05-20**|**Accelerating Relative Entropy Coding with Space Partitioning**|Jiajun He et.al.|[2405.12203](http://arxiv.org/abs/2405.12203)|null|
+|**2024-05-24**|**Accelerating Relative Entropy Coding with Space Partitioning**|Jiajun He et.al.|[2405.12203](http://arxiv.org/abs/2405.12203)|null|
 |**2024-05-20**|**Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing**|Takahiro Shindo et.al.|[2405.11894](http://arxiv.org/abs/2405.11894)|null|
 |**2024-05-19**|**Effective In-Context Example Selection through Data Compression**|Zhongxiang Sun et.al.|[2405.11465](http://arxiv.org/abs/2405.11465)|null|
 |**2024-05-18**|**InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images**|Wuzhou Li et.al.|[2405.11293](http://arxiv.org/abs/2405.11293)|null|
@@ -497,18 +501,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-23**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
+|**2024-05-24**|**Erase to Enhance: Data-Efficient Machine Unlearning in MRI Reconstruction**|Yuyang Xue et.al.|[2405.15517](http://arxiv.org/abs/2405.15517)|null|
+|**2024-05-24**|**Benchmarking Pre-trained Large Language Models' Potential Across Urdu NLP tasks**|Munief Hassan Tahir et.al.|[2405.15453](http://arxiv.org/abs/2405.15453)|null|
+|**2024-05-24**|**Fieldscale: Locality-Aware Field-based Adaptive Rescaling for Thermal Infrared Image**|Hyeonjae Gil et.al.|[2405.15395](http://arxiv.org/abs/2405.15395)|**[link](https://github.com/hyeonjaegil/fieldscale)**|
+|**2024-05-24**|**CPT-Interp: Continuous sPatial and Temporal Motion Modeling for 4D Medical Image Interpolation**|Xia Li et.al.|[2405.15385](http://arxiv.org/abs/2405.15385)|null|
+|**2024-05-24**|**Seeing the World through an Antenna's Eye: Reception Quality Visualization Using Incomplete Technical Signal Information**|Leif Bergerhoff et.al.|[2405.15253](http://arxiv.org/abs/2405.15253)|null|
+|**2024-05-24**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
 |**2024-05-23**|**Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography**|Shuo Han et.al.|[2405.14770](http://arxiv.org/abs/2405.14770)|null|
 |**2024-05-23**|**Convolutional Neural Network Model Observers Discount Signal-like Anatomical Structures During Search in Virtual Digital Breast Tomosynthesis Phantoms**|Aditya Jonnalagadda et.al.|[2405.14720](http://arxiv.org/abs/2405.14720)|null|
 |**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709](http://arxiv.org/abs/2405.14709)|null|
-|**2024-05-23**|**Autoregressive Image Diffusion: Generating Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327](http://arxiv.org/abs/2405.14327)|null|
+|**2024-05-24**|**Autoregressive Image Diffusion: Generation of Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327](http://arxiv.org/abs/2405.14327)|null|
 |**2024-05-23**|**Survey on Visual Signal Coding and Processing with Generative Models: Technologies, Standards and Optimization**|Zhibo Chen et.al.|[2405.14221](http://arxiv.org/abs/2405.14221)|null|
 |**2024-05-22**|**Uncertainty-aware Evaluation of Auxiliary Anomalies with the Expected Anomaly Posterior**|Lorenzo Perini et.al.|[2405.13699](http://arxiv.org/abs/2405.13699)|null|
 |**2024-05-22**|**Euclid: Early Release Observations -- Programme overview and pipeline for compact- and diffuse-emission photometry**|J. -C. Cuillandre et.al.|[2405.13496](http://arxiv.org/abs/2405.13496)|null|
 |**2024-05-22**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
 |**2024-05-22**|**Comparative Analysis of Hyperspectral Image Reconstruction Using Deep Learning for Agricultural and Biological Applications**|Md. Toukir Ahmed et.al.|[2405.13331](http://arxiv.org/abs/2405.13331)|null|
 |**2024-05-21**|**Geometric Transformation Uncertainty for Improving 3D Fetal Brain Pose Prediction from Freehand 2D Ultrasound Videos**|Jayroop Ramesh et.al.|[2405.13235](http://arxiv.org/abs/2405.13235)|null|
-|**2024-05-21**|**Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction**|Maciej Kilian et.al.|[2405.13218](http://arxiv.org/abs/2405.13218)|null|
+|**2024-05-24**|**Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction**|Maciej Kilian et.al.|[2405.13218](http://arxiv.org/abs/2405.13218)|null|
 |**2024-05-21**|**NieR: Normal-Based Lighting Scene Rendering**|Hongsheng Wang et.al.|[2405.13097](http://arxiv.org/abs/2405.13097)|null|
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/abs/2405.12806)|null|
 |**2024-05-21**|**Is Dataset Quality Still a Concern in Diagnosis Using Large Foundation Model?**|Ziqin Lin et.al.|[2405.12584](http://arxiv.org/abs/2405.12584)|null|
@@ -1015,6 +1024,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Visible-frequency hyperbolic plasmon polaritons in a natural van der Waals crystal**|Giacomo Venturi et.al.|[2405.15420](http://arxiv.org/abs/2405.15420)|null|
+|**2024-05-24**|**Stochastic SR for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399](http://arxiv.org/abs/2405.15399)|null|
+|**2024-05-24**|**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving**|Jia He et.al.|[2405.15241](http://arxiv.org/abs/2405.15241)|null|
+|**2024-05-23**|**Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution**|Zakariya Chaouai et.al.|[2405.14934](http://arxiv.org/abs/2405.14934)|null|
 |**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-23**|**Stimulated Raman-induced Beam Focusing**|Minhaeng Cho et.al.|[2405.14240](http://arxiv.org/abs/2405.14240)|null|
 |**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805](http://arxiv.org/abs/2405.13805)|null|
@@ -1361,6 +1374,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596](http://arxiv.org/abs/2405.15596)|null|
+|**2024-05-24**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|null|
+|**2024-05-24**|**MagicBathyNet: A Multimodal Remote Sensing Dataset for Bathymetry Prediction and Pixel-based Classification in Shallow Waters**|Panagiotis Agrafiotis et.al.|[2405.15477](http://arxiv.org/abs/2405.15477)|null|
+|**2024-05-24**|**Comparing remote sensing-based forest biomass mapping approaches using new forest inventory plots in contrasting forests in northeastern and southwestern China**|Wenquan Dong et.al.|[2405.15438](http://arxiv.org/abs/2405.15438)|null|
+|**2024-05-24**|**Transformer-based Federated Learning for Multi-Label Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2405.15405](http://arxiv.org/abs/2405.15405)|null|
+|**2024-05-24**|**Leveraging knowledge distillation for partial multi-task learning from multiple remote sensing datasets**|Hoàng-Ân Lê et.al.|[2405.15394](http://arxiv.org/abs/2405.15394)|null|
 |**2024-05-23**|**Dual-comb correlation spectroscopy of thermal light**|Eugene J. Tsao et.al.|[2405.14842](http://arxiv.org/abs/2405.14842)|null|
 |**2024-05-23**|**Multi-view Remote Sensing Image Segmentation With SAM priors**|Zipeng Qi et.al.|[2405.14171](http://arxiv.org/abs/2405.14171)|null|
 |**2024-05-23**|**Hyperspectral Image Dataset for Individual Penguin Identification**|Youta Noboru et.al.|[2405.14146](http://arxiv.org/abs/2405.14146)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -197,7 +197,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 ## Compression
 
@@ -506,7 +506,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -525,7 +525,7 @@
 |**2024-05-23**|**Survey on Visual Signal Coding and Processing with Generative Models: Technologies, Standards and Optimization**|Zhibo Chen et.al.|[2405.14221](http://arxiv.org/abs/2405.14221)|null|
 |**2024-05-22**|**Uncertainty-aware Evaluation of Auxiliary Anomalies with the Expected Anomaly Posterior**|Lorenzo Perini et.al.|[2405.13699](http://arxiv.org/abs/2405.13699)|null|
 |**2024-05-22**|**Euclid: Early Release Observations -- Programme overview and pipeline for compact- and diffuse-emission photometry**|J. -C. Cuillandre et.al.|[2405.13496](http://arxiv.org/abs/2405.13496)|null|
-|**2024-05-22**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
+|**2024-05-25**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
 |**2024-05-22**|**Comparative Analysis of Hyperspectral Image Reconstruction Using Deep Learning for Agricultural and Biological Applications**|Md. Toukir Ahmed et.al.|[2405.13331](http://arxiv.org/abs/2405.13331)|null|
 |**2024-05-21**|**Geometric Transformation Uncertainty for Improving 3D Fetal Brain Pose Prediction from Freehand 2D Ultrasound Videos**|Jayroop Ramesh et.al.|[2405.13235](http://arxiv.org/abs/2405.13235)|null|
 |**2024-05-24**|**Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction**|Maciej Kilian et.al.|[2405.13218](http://arxiv.org/abs/2405.13218)|null|
@@ -1031,7 +1031,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -1383,7 +1383,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -1406,7 +1406,7 @@
 |**2024-05-21**|**Global-Local Detail Guided Transformer for Sea Ice Recognition in Optical Remote Sensing Images**|Zhanchao Huang et.al.|[2405.13197](http://arxiv.org/abs/2405.13197)|null|
 |**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875](http://arxiv.org/abs/2405.12875)|**[link](https://github.com/fay-y/diffusion-rscc)**|
 |**2024-05-21**|**3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification**|Yan He et.al.|[2405.12487](http://arxiv.org/abs/2405.12487)|null|
-|**2024-05-20**|**Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**|Weilian Zhou et.al.|[2405.12003](http://arxiv.org/abs/2405.12003)|**[link](https://github.com/zhouweilian1904/mamba-in-mamba)**|
+|**2024-05-25**|**Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**|Weilian Zhou et.al.|[2405.12003](http://arxiv.org/abs/2405.12003)|**[link](https://github.com/zhouweilian1904/mamba-in-mamba)**|
 |**2024-05-20**|**Climatic & Anthropogenic Hazards to the Nasca World Heritage: Application of Remote Sensing, AI, and Flood Modelling**|Masato Sakai et.al.|[2405.11814](http://arxiv.org/abs/2405.11814)|null|
 |**2024-05-18**|**InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images**|Wuzhou Li et.al.|[2405.11293](http://arxiv.org/abs/2405.11293)|null|
 |**2024-05-17**|**Ptychographic non-line-of-sight imaging for depth-resolved visualization of hidden objects**|Pengming Song et.al.|[2405.11115](http://arxiv.org/abs/2405.11115)|null|
@@ -1786,7 +1786,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

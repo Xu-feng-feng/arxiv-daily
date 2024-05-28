@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -514,7 +514,7 @@ layout: default
 |**2024-05-23**|**Survey on Visual Signal Coding and Processing with Generative Models: Technologies, Standards and Optimization**|Zhibo Chen et.al.|[2405.14221](http://arxiv.org/abs/2405.14221)|null|
 |**2024-05-22**|**Uncertainty-aware Evaluation of Auxiliary Anomalies with the Expected Anomaly Posterior**|Lorenzo Perini et.al.|[2405.13699](http://arxiv.org/abs/2405.13699)|null|
 |**2024-05-22**|**Euclid: Early Release Observations -- Programme overview and pipeline for compact- and diffuse-emission photometry**|J. -C. Cuillandre et.al.|[2405.13496](http://arxiv.org/abs/2405.13496)|null|
-|**2024-05-22**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
+|**2024-05-25**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
 |**2024-05-22**|**Comparative Analysis of Hyperspectral Image Reconstruction Using Deep Learning for Agricultural and Biological Applications**|Md. Toukir Ahmed et.al.|[2405.13331](http://arxiv.org/abs/2405.13331)|null|
 |**2024-05-21**|**Geometric Transformation Uncertainty for Improving 3D Fetal Brain Pose Prediction from Freehand 2D Ultrasound Videos**|Jayroop Ramesh et.al.|[2405.13235](http://arxiv.org/abs/2405.13235)|null|
 |**2024-05-24**|**Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction**|Maciej Kilian et.al.|[2405.13218](http://arxiv.org/abs/2405.13218)|null|
@@ -1391,7 +1391,7 @@ layout: default
 |**2024-05-21**|**Global-Local Detail Guided Transformer for Sea Ice Recognition in Optical Remote Sensing Images**|Zhanchao Huang et.al.|[2405.13197](http://arxiv.org/abs/2405.13197)|null|
 |**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875](http://arxiv.org/abs/2405.12875)|**[link](https://github.com/fay-y/diffusion-rscc)**|
 |**2024-05-21**|**3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification**|Yan He et.al.|[2405.12487](http://arxiv.org/abs/2405.12487)|null|
-|**2024-05-20**|**Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**|Weilian Zhou et.al.|[2405.12003](http://arxiv.org/abs/2405.12003)|**[link](https://github.com/zhouweilian1904/mamba-in-mamba)**|
+|**2024-05-25**|**Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**|Weilian Zhou et.al.|[2405.12003](http://arxiv.org/abs/2405.12003)|**[link](https://github.com/zhouweilian1904/mamba-in-mamba)**|
 |**2024-05-20**|**Climatic & Anthropogenic Hazards to the Nasca World Heritage: Application of Remote Sensing, AI, and Flood Modelling**|Masato Sakai et.al.|[2405.11814](http://arxiv.org/abs/2405.11814)|null|
 |**2024-05-18**|**InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images**|Wuzhou Li et.al.|[2405.11293](http://arxiv.org/abs/2405.11293)|null|
 |**2024-05-17**|**Ptychographic non-line-of-sight imaging for depth-resolved visualization of hidden objects**|Pengming Song et.al.|[2405.11115](http://arxiv.org/abs/2405.11115)|null|

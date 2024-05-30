@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1058,7 +1058,7 @@ layout: default
 |**2024-05-26**|**Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models**|Regev Cohen et.al.|[2405.16475](http://arxiv.org/abs/2405.16475)|null|
 |**2024-05-25**|**BOLD: Boolean Logic Deep Learning**|Van Minh Nguyen et.al.|[2405.16339](http://arxiv.org/abs/2405.16339)|null|
 |**2024-05-24**|**Visible-frequency hyperbolic plasmon polaritons in a natural van der Waals crystal**|Giacomo Venturi et.al.|[2405.15420](http://arxiv.org/abs/2405.15420)|null|
-|**2024-05-24**|**Stochastic SR for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399](http://arxiv.org/abs/2405.15399)|null|
+|**2024-05-29**|**Stochastic super-resolution for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399](http://arxiv.org/abs/2405.15399)|null|
 |**2024-05-24**|**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving**|Jia He et.al.|[2405.15241](http://arxiv.org/abs/2405.15241)|null|
 |**2024-05-23**|**Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution**|Zakariya Chaouai et.al.|[2405.14934](http://arxiv.org/abs/2405.14934)|null|
 |**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|**[link](https://github.com/mirthai/fast-ddpm)**|
@@ -1417,7 +1417,7 @@ layout: default
 |**2024-05-27**|**Superpixelwise Low-rank Approximation based Partial Label Learning for Hyperspectral Image Classification**|Shujun Yang et.al.|[2405.17110](http://arxiv.org/abs/2405.17110)|**[link](https://github.com/sjyang8/SLAP)**|
 |**2024-05-27**|**Evaluation of Resource-Efficient Crater Detectors on Embedded Systems**|Simon Vellas et.al.|[2405.16953](http://arxiv.org/abs/2405.16953)|null|
 |**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596](http://arxiv.org/abs/2405.15596)|null|
-|**2024-05-24**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|null|
+|**2024-05-29**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|null|
 |**2024-05-24**|**MagicBathyNet: A Multimodal Remote Sensing Dataset for Bathymetry Prediction and Pixel-based Classification in Shallow Waters**|Panagiotis Agrafiotis et.al.|[2405.15477](http://arxiv.org/abs/2405.15477)|null|
 |**2024-05-24**|**Comparing remote sensing-based forest biomass mapping approaches using new forest inventory plots in contrasting forests in northeastern and southwestern China**|Wenquan Dong et.al.|[2405.15438](http://arxiv.org/abs/2405.15438)|null|
 |**2024-05-24**|**Transformer-based Federated Learning for Multi-Label Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2405.15405](http://arxiv.org/abs/2405.15405)|null|

@@ -509,15 +509,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331](http://arxiv.org/abs/2405.20331)|**[link](https://github.com/lkopf/cosy)**|
+|**2024-05-30**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/abs/2405.20078)|null|
+|**2024-05-30**|**Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion**|Jiangkai Wu et.al.|[2405.20032](http://arxiv.org/abs/2405.20032)|null|
+|**2024-05-30**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996](http://arxiv.org/abs/2405.19996)|**[link](https://github.com/RomGai/DP-IQA)**|
+|**2024-05-29**|**CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning**|Yiping Wang et.al.|[2405.19547](http://arxiv.org/abs/2405.19547)|null|
+|**2024-05-29**|**A Full-duplex Speech Dialogue Scheme Based On Large Language Models**|Peng Wang et.al.|[2405.19487](http://arxiv.org/abs/2405.19487)|null|
+|**2024-05-29**|**VisTA-SR: Improving the Accuracy and Resolution of Low-Cost Thermal Imaging Cameras for Agriculture**|Heesup Yun et.al.|[2405.19413](http://arxiv.org/abs/2405.19413)|null|
 |**2024-05-29**|**Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare**|Hanwei Zhu et.al.|[2405.19298](http://arxiv.org/abs/2405.19298)|null|
 |**2024-05-29**|**A study on the adequacy of common IQA measures for medical images**|Anna Breger et.al.|[2405.19224](http://arxiv.org/abs/2405.19224)|null|
 |**2024-05-29**|**A study of why we need to reassess full reference image quality assessment with medical images**|Anna Breger et.al.|[2405.19097](http://arxiv.org/abs/2405.19097)|null|
-|**2024-05-29**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
+|**2024-05-30**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
 |**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881](http://arxiv.org/abs/2405.18881)|null|
 |**2024-05-29**|**Descriptive Image Quality Assessment in the Wild**|Zhiyuan You et.al.|[2405.18842](http://arxiv.org/abs/2405.18842)|null|
 |**2024-05-29**|**Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics**|Zhangkai Ni et.al.|[2405.18790](http://arxiv.org/abs/2405.18790)|**[link](https://github.com/eezkni/mdfs)**|
 |**2024-05-28**|**Are Image Distributions Indistinguishable to Humans Indistinguishable to Classifiers?**|Zebin You et.al.|[2405.18029](http://arxiv.org/abs/2405.18029)|null|
-|**2024-05-28**|**Proof of Quality: A Costless Paradigm for Trustless Generative AI Model Inference on Blockchains**|Zhenjie Zhang et.al.|[2405.17934](http://arxiv.org/abs/2405.17934)|null|
+|**2024-05-30**|**Proof of Quality: A Costless Paradigm for Trustless Generative AI Model Inference on Blockchains**|Zhenjie Zhang et.al.|[2405.17934](http://arxiv.org/abs/2405.17934)|null|
 |**2024-05-30**|**MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**|Tianchen Zhao et.al.|[2405.17873](http://arxiv.org/abs/2405.17873)|null|
 |**2024-05-28**|**PTM-VQA: Efficient Video Quality Assessment Leveraging Diverse PreTrained Models from the Wild**|Kun Yuan et.al.|[2405.17765](http://arxiv.org/abs/2405.17765)|null|
 |**2024-05-28**|**AdapNet: Adaptive Noise-Based Network for Low-Quality Image Retrieval**|Sihe Zhang et.al.|[2405.17718](http://arxiv.org/abs/2405.17718)|null|
@@ -1057,6 +1064,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769](http://arxiv.org/abs/2405.19769)|**[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)**|
+|**2024-05-30**|**MAE-GAN: A Novel Strategy for Simultaneous Super-resolution Reconstruction and Denoising of Post-stack Seismic Profile**|Wenshuo Yu et.al.|[2405.19767](http://arxiv.org/abs/2405.19767)|null|
 |**2024-05-29**|**Reconstructing Interpretable Features in Computational Super-Resolution microscopy via Regularized Latent Search**|Marzieh Gheisari et.al.|[2405.19112](http://arxiv.org/abs/2405.19112)|null|
 |**2024-05-29**|**Single image super-resolution based on trainable feature matching attention network**|Qizhou Chen et.al.|[2405.18872](http://arxiv.org/abs/2405.18872)|**[link](https://github.com/qizhou000/tfman)**|
 |**2024-05-29**|**Flow Priors for Linear Inverse Problems via Iterative Corrupted Trajectory Matching**|Yasi Zhang et.al.|[2405.18816](http://arxiv.org/abs/2405.18816)|null|
@@ -1418,6 +1427,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**FMARS: Annotating Remote Sensing Images for Disaster Management using Foundation Models**|Edoardo Arnaudo et.al.|[2405.20109](http://arxiv.org/abs/2405.20109)|null|
+|**2024-05-30**|**Rapid Wildfire Hotspot Detection Using Self-Supervised Learning on Temporal Remote Sensing Data**|Luca Barco et.al.|[2405.20093](http://arxiv.org/abs/2405.20093)|null|
+|**2024-05-30**|**Recipes for forming a carbon-rich giant planet**|Olivier Mousis et.al.|[2405.19748](http://arxiv.org/abs/2405.19748)|null|
+|**2024-05-30**|**Twin Deformable Point Convolutions for Point Cloud Semantic Segmentation in Remote Sensing Scenes**|Yong-Qiang Mao et.al.|[2405.19735](http://arxiv.org/abs/2405.19735)|null|
+|**2024-05-30**|**Research on Foundation Model for Spatial Data Intelligence: China's 2024 White Paper on Strategic Development of Spatial Data Intelligence**|Shaohua Wang et.al.|[2405.19730](http://arxiv.org/abs/2405.19730)|null|
+|**2024-05-29**|**Large-scale DSM registration via motion averaging**|Ningli Xu et.al.|[2405.19442](http://arxiv.org/abs/2405.19442)|null|
 |**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055](http://arxiv.org/abs/2405.19055)|null|
 |**2024-05-29**|**Transcending Fusion: A Multi-Scale Alignment Method for Remote Sensing Image-Text Retrieval**|Rui Yang et.al.|[2405.18959](http://arxiv.org/abs/2405.18959)|null|
 |**2024-05-29**|**MAGIC: Modular Auto-encoder for Generalisable Model Inversion with Bias Corrections**|Yihang She et.al.|[2405.18953](http://arxiv.org/abs/2405.18953)|null|

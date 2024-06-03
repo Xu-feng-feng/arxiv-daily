@@ -203,6 +203,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**|Yufei Wang et.al.|[2405.20721](http://arxiv.org/abs/2405.20721)|**[link](https://github.com/wyf0912/contextgs)**|
+|**2024-05-30**|**Quantum encoder for fixed Hamming-weight subspaces**|Renato M. S. Farias et.al.|[2405.20408](http://arxiv.org/abs/2405.20408)|null|
 |**2024-05-29**|**Implicit Neural Image Field for Biological Microscopy Image Compression**|Gaole Dai et.al.|[2405.19012](http://arxiv.org/abs/2405.19012)|**[link](https://github.com/pku-hmi/inif)**|
 |**2024-05-28**|**Deep Network Pruning: A Comparative Study on CNNs in Face Recognition**|Fernando Alonso-Fernandez et.al.|[2405.18302](http://arxiv.org/abs/2405.18302)|null|
 |**2024-05-28**|**Channel Reciprocity Based Attack Detection for Securing UWB Ranging by Autoencoder**|Wenlong Gou et.al.|[2405.18255](http://arxiv.org/abs/2405.18255)|null|
@@ -520,8 +522,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075](http://arxiv.org/abs/2405.21075)|null|
+|**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048](http://arxiv.org/abs/2405.21048)|null|
+|**2024-05-31**|**Tsang's resolution enhancement method for imaging with focused illumination**|Alexander Duplinskiy et.al.|[2405.20979](http://arxiv.org/abs/2405.20979)|null|
+|**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669](http://arxiv.org/abs/2405.20669)|null|
+|**2024-05-30**|**An Automatic Question Usability Evaluation Toolkit**|Steven Moore et.al.|[2405.20529](http://arxiv.org/abs/2405.20529)|null|
+|**2024-05-30**|**Can No-Reference Quality-Assessment Methods Serve as Perceptual Losses for Super-Resolution?**|Egor Kashkarov et.al.|[2405.20392](http://arxiv.org/abs/2405.20392)|null|
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331](http://arxiv.org/abs/2405.20331)|**[link](https://github.com/lkopf/cosy)**|
-|**2024-05-30**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/abs/2405.20078)|null|
+|**2024-05-31**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/abs/2405.20078)|null|
 |**2024-05-30**|**Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion**|Jiangkai Wu et.al.|[2405.20032](http://arxiv.org/abs/2405.20032)|null|
 |**2024-05-31**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996](http://arxiv.org/abs/2405.19996)|**[link](https://github.com/RomGai/DP-IQA)**|
 |**2024-05-29**|**CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning**|Yiping Wang et.al.|[2405.19547](http://arxiv.org/abs/2405.19547)|null|
@@ -1077,6 +1085,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Climate Variable Downscaling with Conditional Normalizing Flows**|Christina Winkler et.al.|[2405.20719](http://arxiv.org/abs/2405.20719)|null|
+|**2024-05-30**|**Can No-Reference Quality-Assessment Methods Serve as Perceptual Losses for Super-Resolution?**|Egor Kashkarov et.al.|[2405.20392](http://arxiv.org/abs/2405.20392)|null|
 |**2024-05-30**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769](http://arxiv.org/abs/2405.19769)|**[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)**|
 |**2024-05-30**|**MAE-GAN: A Novel Strategy for Simultaneous Super-resolution Reconstruction and Denoising of Post-stack Seismic Profile**|Wenshuo Yu et.al.|[2405.19767](http://arxiv.org/abs/2405.19767)|null|
 |**2024-05-29**|**Reconstructing Interpretable Features in Computational Super-Resolution microscopy via Regularized Latent Search**|Marzieh Gheisari et.al.|[2405.19112](http://arxiv.org/abs/2405.19112)|null|
@@ -1442,6 +1452,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Responsible AI for Earth Observation**|Pedram Ghamisi et.al.|[2405.20868](http://arxiv.org/abs/2405.20868)|null|
+|**2024-05-31**|**Maximum Temperature Prediction Using Remote Sensing Data Via Convolutional Neural Network**|Lorenzo Innocenti et.al.|[2405.20731](http://arxiv.org/abs/2405.20731)|null|
+|**2024-05-30**|**P-MSDiff: Parallel Multi-Scale Diffusion for Remote Sensing Image Segmentation**|Qi Zhang et.al.|[2405.20443](http://arxiv.org/abs/2405.20443)|null|
 |**2024-05-30**|**FMARS: Annotating Remote Sensing Images for Disaster Management using Foundation Models**|Edoardo Arnaudo et.al.|[2405.20109](http://arxiv.org/abs/2405.20109)|null|
 |**2024-05-30**|**Rapid Wildfire Hotspot Detection Using Self-Supervised Learning on Temporal Remote Sensing Data**|Luca Barco et.al.|[2405.20093](http://arxiv.org/abs/2405.20093)|**[link](https://github.com/links-ads/igarss-multi-temporal-hotspot-detection)**|
 |**2024-05-30**|**Recipes for forming a carbon-rich giant planet**|Olivier Mousis et.al.|[2405.19748](http://arxiv.org/abs/2405.19748)|null|

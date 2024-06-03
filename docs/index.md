@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-23**|**NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation**|Chaokang Jiang et.al.|[2405.14241](http://arxiv.org/abs/2405.14241)|null|
+|**2024-05-23**|**NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation**|Chaokang Jiang et.al.|[2405.14241](http://arxiv.org/abs/2405.14241)|**[link](https://github.com/jiangchaokang/neurogauss4d-pci)**|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
 |**2024-04-21**|**Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes**|Kang You et.al.|[2404.13550](http://arxiv.org/abs/2404.13550)|**[link](https://github.com/i2-multimedia-lab/pointsoup)**|
@@ -201,14 +201,14 @@ layout: default
 |**2024-05-27**|**UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation**|Runzhao Yang et.al.|[2405.16850](http://arxiv.org/abs/2405.16850)|null|
 |**2024-05-27**|**Controlling Rate, Distortion, and Realism: Towards a Single Comprehensive Neural Image Compression Model**|Shoma Iwai et.al.|[2405.16817](http://arxiv.org/abs/2405.16817)|**[link](https://github.com/iwa-shi/CRDR)**|
 |**2024-05-25**|**N-BVH: Neural ray queries with bounding volume hierarchies**|Philippe Weier et.al.|[2405.16237](http://arxiv.org/abs/2405.16237)|**[link](https://github.com/WeiPhil/nbvh)**|
-|**2024-05-25**|**A 7K Parameter Model for Underwater Image Enhancement based on Transmission Map Prior**|Fuheng Zhou et.al.|[2405.16197](http://arxiv.org/abs/2405.16197)|null|
+|**2024-05-25**|**A 7K Parameter Model for Underwater Image Enhancement based on Transmission Map Prior**|Fuheng Zhou et.al.|[2405.16197](http://arxiv.org/abs/2405.16197)|**[link](https://github.com/fuhengzhou/lsnet)**|
 |**2024-05-24**|**Analytical proxy to families of numerical solutions: the case study of spherical mini-boson stars**|Jianzhi Yang et.al.|[2405.15651](http://arxiv.org/abs/2405.15651)|null|
 |**2024-05-24**|**SATSense: Multi-Satellite Collaborative Framework for Spectrum Sensing**|Haoxuan Yuan et.al.|[2405.15542](http://arxiv.org/abs/2405.15542)|null|
 |**2024-05-24**|**Meta-meshing and triangulating lattice structures at a large scale**|Qiang Zou et.al.|[2405.15197](http://arxiv.org/abs/2405.15197)|null|
 |**2024-05-23**|**NeCGS: Neural Compression for 3D Geometry Sets**|Siyu Ren et.al.|[2405.15034](http://arxiv.org/abs/2405.15034)|null|
 |**2024-05-23**|**An augmented Lagrangian trust-region method with inexact gradient evaluations to accelerate constrained optimization problems using model hyperreduction**|Tianshu Wen et.al.|[2405.14827](http://arxiv.org/abs/2405.14827)|null|
 |**2024-05-23**|**Motion-based video compression for resource-constrained camera traps**|Malika Nisal Ratnayake et.al.|[2405.14419](http://arxiv.org/abs/2405.14419)|null|
-|**2024-05-26**|**I $^2$ VC: A Unified Framework for Intra- & Inter-frame Video Compression**|Meiqin Liu et.al.|[2405.14336](http://arxiv.org/abs/2405.14336)|null|
+|**2024-05-26**|**I $^2$ VC: A Unified Framework for Intra- & Inter-frame Video Compression**|Meiqin Liu et.al.|[2405.14336](http://arxiv.org/abs/2405.14336)|**[link](https://github.com/gyukai/i2vc)**|
 |**2024-05-23**|**Sparse $L^1$ -Autoencoders for Scientific Data Compression**|Matthias Chung et.al.|[2405.14270](http://arxiv.org/abs/2405.14270)|null|
 |**2024-05-22**|**"Turing Tests" For An AI Scientist**|Xiaoxin Yin et.al.|[2405.13352](http://arxiv.org/abs/2405.13352)|null|
 |**2024-05-21**|**Efficient Learned Wavelet Image and Video Coding**|Anna Meyer et.al.|[2405.12631](http://arxiv.org/abs/2405.12631)|null|
@@ -512,14 +512,14 @@ layout: default
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331](http://arxiv.org/abs/2405.20331)|**[link](https://github.com/lkopf/cosy)**|
 |**2024-05-30**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/abs/2405.20078)|null|
 |**2024-05-30**|**Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion**|Jiangkai Wu et.al.|[2405.20032](http://arxiv.org/abs/2405.20032)|null|
-|**2024-05-30**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996](http://arxiv.org/abs/2405.19996)|**[link](https://github.com/RomGai/DP-IQA)**|
+|**2024-05-31**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996](http://arxiv.org/abs/2405.19996)|**[link](https://github.com/RomGai/DP-IQA)**|
 |**2024-05-29**|**CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning**|Yiping Wang et.al.|[2405.19547](http://arxiv.org/abs/2405.19547)|null|
 |**2024-05-29**|**A Full-duplex Speech Dialogue Scheme Based On Large Language Models**|Peng Wang et.al.|[2405.19487](http://arxiv.org/abs/2405.19487)|null|
 |**2024-05-29**|**VisTA-SR: Improving the Accuracy and Resolution of Low-Cost Thermal Imaging Cameras for Agriculture**|Heesup Yun et.al.|[2405.19413](http://arxiv.org/abs/2405.19413)|null|
 |**2024-05-29**|**Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare**|Hanwei Zhu et.al.|[2405.19298](http://arxiv.org/abs/2405.19298)|null|
 |**2024-05-29**|**A study on the adequacy of common IQA measures for medical images**|Anna Breger et.al.|[2405.19224](http://arxiv.org/abs/2405.19224)|null|
 |**2024-05-29**|**A study of why we need to reassess full reference image quality assessment with medical images**|Anna Breger et.al.|[2405.19097](http://arxiv.org/abs/2405.19097)|null|
-|**2024-05-30**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
+|**2024-05-31**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
 |**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881](http://arxiv.org/abs/2405.18881)|null|
 |**2024-05-29**|**Descriptive Image Quality Assessment in the Wild**|Zhiyuan You et.al.|[2405.18842](http://arxiv.org/abs/2405.18842)|null|
 |**2024-05-29**|**Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics**|Zhangkai Ni et.al.|[2405.18790](http://arxiv.org/abs/2405.18790)|**[link](https://github.com/eezkni/mdfs)**|
@@ -1072,7 +1072,7 @@ layout: default
 |**2024-05-28**|**Towards a Sampling Theory for Implicit Neural Representations**|Mahrokh Najaf et.al.|[2405.18410](http://arxiv.org/abs/2405.18410)|null|
 |**2024-05-28**|**Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations**|Ting Wang et.al.|[2405.17818](http://arxiv.org/abs/2405.17818)|null|
 |**2024-05-27**|**Fast Samplers for Inverse Problems in Iterative Refinement Models**|Kushagra Pandey et.al.|[2405.17673](http://arxiv.org/abs/2405.17673)|null|
-|**2024-05-27**|**Does Diffusion Beat GAN in Image Super Resolution?**|Denis Kuznedelev et.al.|[2405.17261](http://arxiv.org/abs/2405.17261)|null|
+|**2024-05-27**|**Does Diffusion Beat GAN in Image Super Resolution?**|Denis Kuznedelev et.al.|[2405.17261](http://arxiv.org/abs/2405.17261)|**[link](https://github.com/yandex-research/gan_vs_diff_sr)**|
 |**2024-05-27**|**PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution**|Yong Liu et.al.|[2405.17158](http://arxiv.org/abs/2405.17158)|**[link](https://github.com/yongliuy/patchscaler)**|
 |**2024-05-27**|**Greedy Growing Enables High-Resolution Pixel-Based Diffusion Models**|Cristina N. Vasconcelos et.al.|[2405.16759](http://arxiv.org/abs/2405.16759)|null|
 |**2024-05-26**|**Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models**|Regev Cohen et.al.|[2405.16475](http://arxiv.org/abs/2405.16475)|null|
@@ -1428,18 +1428,18 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-30**|**FMARS: Annotating Remote Sensing Images for Disaster Management using Foundation Models**|Edoardo Arnaudo et.al.|[2405.20109](http://arxiv.org/abs/2405.20109)|null|
-|**2024-05-30**|**Rapid Wildfire Hotspot Detection Using Self-Supervised Learning on Temporal Remote Sensing Data**|Luca Barco et.al.|[2405.20093](http://arxiv.org/abs/2405.20093)|null|
+|**2024-05-30**|**Rapid Wildfire Hotspot Detection Using Self-Supervised Learning on Temporal Remote Sensing Data**|Luca Barco et.al.|[2405.20093](http://arxiv.org/abs/2405.20093)|**[link](https://github.com/links-ads/igarss-multi-temporal-hotspot-detection)**|
 |**2024-05-30**|**Recipes for forming a carbon-rich giant planet**|Olivier Mousis et.al.|[2405.19748](http://arxiv.org/abs/2405.19748)|null|
 |**2024-05-30**|**Twin Deformable Point Convolutions for Point Cloud Semantic Segmentation in Remote Sensing Scenes**|Yong-Qiang Mao et.al.|[2405.19735](http://arxiv.org/abs/2405.19735)|null|
 |**2024-05-30**|**Research on Foundation Model for Spatial Data Intelligence: China's 2024 White Paper on Strategic Development of Spatial Data Intelligence**|Shaohua Wang et.al.|[2405.19730](http://arxiv.org/abs/2405.19730)|null|
 |**2024-05-29**|**Large-scale DSM registration via motion averaging**|Ningli Xu et.al.|[2405.19442](http://arxiv.org/abs/2405.19442)|null|
 |**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055](http://arxiv.org/abs/2405.19055)|null|
-|**2024-05-29**|**Transcending Fusion: A Multi-Scale Alignment Method for Remote Sensing Image-Text Retrieval**|Rui Yang et.al.|[2405.18959](http://arxiv.org/abs/2405.18959)|null|
-|**2024-05-29**|**MAGIC: Modular Auto-encoder for Generalisable Model Inversion with Bias Corrections**|Yihang She et.al.|[2405.18953](http://arxiv.org/abs/2405.18953)|null|
+|**2024-05-29**|**Transcending Fusion: A Multi-Scale Alignment Method for Remote Sensing Image-Text Retrieval**|Rui Yang et.al.|[2405.18959](http://arxiv.org/abs/2405.18959)|**[link](https://github.com/yr666666/msa)**|
+|**2024-05-29**|**MAGIC: Modular Auto-encoder for Generalisable Model Inversion with Bias Corrections**|Yihang She et.al.|[2405.18953](http://arxiv.org/abs/2405.18953)|**[link](https://github.com/yihshe/MAGIC)**|
 |**2024-05-29**|**Spectral Fidelity and Spatial Enhancement: An Assessment and Cascading of Pan-Sharpening Techniques for Satellite Imagery**|Abdul Aziz A. B et.al.|[2405.18900](http://arxiv.org/abs/2405.18900)|null|
 |**2024-05-29**|**Refinement of global coronal and interplanetary magnetic field extrapolations constrained by remote-sensing and in-situ observations at the solar minimum**|Guanglu Shi et.al.|[2405.18665](http://arxiv.org/abs/2405.18665)|null|
 |**2024-05-28**|**Probing the Information Theoretical Roots of Spatial Dependence Measures**|Zhangyu Wang et.al.|[2405.18459](http://arxiv.org/abs/2405.18459)|null|
-|**2024-05-28**|**SSLChange: A Self-supervised Change Detection Framework Based on Domain Adaptation**|Yitao Zhao et.al.|[2405.18224](http://arxiv.org/abs/2405.18224)|null|
+|**2024-05-28**|**SSLChange: A Self-supervised Change Detection Framework Based on Domain Adaptation**|Yitao Zhao et.al.|[2405.18224](http://arxiv.org/abs/2405.18224)|**[link](https://github.com/marszhaoyt/sslchange)**|
 |**2024-05-28**|**Near-Infrared and Low-Rank Adaptation of Vision Transformers in Remote Sensing**|Irem Ulku et.al.|[2405.17901](http://arxiv.org/abs/2405.17901)|null|
 |**2024-05-28**|**Towards Efficient Disaster Response via Cost-effective Unbiased Class Rate Estimation through Neyman Allocation Stratified Sampling Active Learning**|Yanbing Bai et.al.|[2405.17734](http://arxiv.org/abs/2405.17734)|null|
 |**2024-05-27**|**Robust Perception and Navigation of Autonomous Surface Vehicles in Challenging Environments**|Mingi Jeong et.al.|[2405.17657](http://arxiv.org/abs/2405.17657)|null|

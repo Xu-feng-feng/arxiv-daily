@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.03
+## Updated on 2024.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -210,7 +210,7 @@ layout: default
 |**2024-05-23**|**NeCGS: Neural Compression for 3D Geometry Sets**|Siyu Ren et.al.|[2405.15034](http://arxiv.org/abs/2405.15034)|null|
 |**2024-05-23**|**An augmented Lagrangian trust-region method with inexact gradient evaluations to accelerate constrained optimization problems using model hyperreduction**|Tianshu Wen et.al.|[2405.14827](http://arxiv.org/abs/2405.14827)|null|
 |**2024-05-23**|**Motion-based video compression for resource-constrained camera traps**|Malika Nisal Ratnayake et.al.|[2405.14419](http://arxiv.org/abs/2405.14419)|null|
-|**2024-05-26**|**I $^2$ VC: A Unified Framework for Intra- & Inter-frame Video Compression**|Meiqin Liu et.al.|[2405.14336](http://arxiv.org/abs/2405.14336)|**[link](https://github.com/gyukai/i2vc)**|
+|**2024-06-01**|**I $^2$ VC: A Unified Framework for Intra- & Inter-frame Video Compression**|Meiqin Liu et.al.|[2405.14336](http://arxiv.org/abs/2405.14336)|**[link](https://github.com/gyukai/i2vc)**|
 |**2024-05-23**|**Sparse $L^1$ -Autoencoders for Scientific Data Compression**|Matthias Chung et.al.|[2405.14270](http://arxiv.org/abs/2405.14270)|null|
 |**2024-05-22**|**"Turing Tests" For An AI Scientist**|Xiaoxin Yin et.al.|[2405.13352](http://arxiv.org/abs/2405.13352)|null|
 |**2024-05-21**|**Efficient Learned Wavelet Image and Video Coding**|Anna Meyer et.al.|[2405.12631](http://arxiv.org/abs/2405.12631)|null|

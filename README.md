@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-02**|**Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor**|Lei Liu et.al.|[2406.00791](http://arxiv.org/abs/2406.00791)|null|
 |**2024-05-23**|**NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation**|Chaokang Jiang et.al.|[2405.14241](http://arxiv.org/abs/2405.14241)|**[link](https://github.com/jiangchaokang/neurogauss4d-pci)**|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
@@ -203,6 +204,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Towards AI-Assisted Sustainable Adaptive Video Streaming Systems: Tutorial and Survey**|Reza Farahani et.al.|[2406.02302](http://arxiv.org/abs/2406.02302)|null|
+|**2024-06-03**|**Video Coding with Cross-Component Sample Offset**|Han Gao et.al.|[2406.01795](http://arxiv.org/abs/2406.01795)|null|
+|**2024-06-02**|**Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption**|Anqi Li et.al.|[2406.00758](http://arxiv.org/abs/2406.00758)|**[link](https://github.com/lianqi1008/Control-GIC)**|
+|**2024-06-01**|**Efficient Massive Black Hole Binary parameter estimation for LISA using Sequential Neural Likelihood**|Iván Martín Vílchez et.al.|[2406.00565](http://arxiv.org/abs/2406.00565)|null|
+|**2024-06-01**|**A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing**|Nurul Rafi et.al.|[2406.00239](http://arxiv.org/abs/2406.00239)|null|
 |**2024-05-31**|**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**|Yufei Wang et.al.|[2405.20721](http://arxiv.org/abs/2405.20721)|**[link](https://github.com/wyf0912/contextgs)**|
 |**2024-05-30**|**Quantum encoder for fixed Hamming-weight subspaces**|Renato M. S. Farias et.al.|[2405.20408](http://arxiv.org/abs/2405.20408)|null|
 |**2024-05-29**|**Implicit Neural Image Field for Biological Microscopy Image Compression**|Gaole Dai et.al.|[2405.19012](http://arxiv.org/abs/2405.19012)|**[link](https://github.com/pku-hmi/inif)**|
@@ -522,6 +528,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
+|**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507](http://arxiv.org/abs/2406.02507)|null|
+|**2024-06-04**|**Towards AI-Assisted Sustainable Adaptive Video Streaming Systems: Tutorial and Survey**|Reza Farahani et.al.|[2406.02302](http://arxiv.org/abs/2406.02302)|null|
+|**2024-06-04**|**I4VGen: Image as Stepping Stone for Text-to-Video Generation**|Xiefan Guo et.al.|[2406.02230](http://arxiv.org/abs/2406.02230)|null|
+|**2024-06-04**|**OTTAWA: Optimal TransporT Adaptive Word Aligner for Hallucination and Omission Translation Errors Detection**|Chenyang Huang et.al.|[2406.01919](http://arxiv.org/abs/2406.01919)|null|
+|**2024-06-04**|**Rank-based No-reference Quality Assessment for Face Swapping**|Xinghui Zhou et.al.|[2406.01884](http://arxiv.org/abs/2406.01884)|null|
+|**2024-06-03**|**Video Coding with Cross-Component Sample Offset**|Han Gao et.al.|[2406.01795](http://arxiv.org/abs/2406.01795)|null|
+|**2024-06-03**|**DEFT: Efficient Finetuning of Conditional Diffusion Models by Learning the Generalised $h$ -transform**|Alexander Denker et.al.|[2406.01781](http://arxiv.org/abs/2406.01781)|null|
+|**2024-06-03**|**Enhancing Dynamic CT Image Reconstruction with Neural Fields Through Explicit Motion Regularizers**|Pablo Arratia et.al.|[2406.01299](http://arxiv.org/abs/2406.01299)|null|
+|**2024-06-03**|**Capsule Enhanced Variational AutoEncoder for Underwater Image Reconstruction**|Rita Pucci et.al.|[2406.01294](http://arxiv.org/abs/2406.01294)|null|
+|**2024-06-03**|**Dimba: Transformer-Mamba Diffusion Models**|Zhengcong Fei et.al.|[2406.01159](http://arxiv.org/abs/2406.01159)|null|
+|**2024-06-03**|**Visual Car Brand Classification by Implementing a Synthetic Image Dataset Creation Pipeline**|Jan Lippemeier et.al.|[2406.01071](http://arxiv.org/abs/2406.01071)|null|
+|**2024-06-03**|**UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment**|Hantao Zhou et.al.|[2406.01069](http://arxiv.org/abs/2406.01069)|**[link](https://github.com/zht8506/uniqa)**|
+|**2024-06-03**|**CLIP-Guided Attribute Aware Pretraining for Generalizable Image Quality Assessment**|Daekyu Kwon et.al.|[2406.01020](http://arxiv.org/abs/2406.01020)|null|
+|**2024-06-02**|**EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing**|Hadrien Reynaud et.al.|[2406.00808](http://arxiv.org/abs/2406.00808)|null|
+|**2024-06-04**|**Unsupervised Contrastive Analysis for Salient Pattern Detection using Conditional Diffusion Models**|Cristiano Patrício et.al.|[2406.00772](http://arxiv.org/abs/2406.00772)|**[link](https://github.com/cristianopatricio/unsupervised-contrastive-cond-diff)**|
+|**2024-06-02**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
+|**2024-06-01**|**Bilateral Guided Radiance Field Processing**|Yuehao Wang et.al.|[2406.00448](http://arxiv.org/abs/2406.00448)|null|
+|**2024-06-01**|**Localize, Understand, Collaborate: Semantic-Aware Dragging via Intention Reasoner**|Xing Cui et.al.|[2406.00432](http://arxiv.org/abs/2406.00432)|null|
+|**2024-06-01**|**Hybrid attention structure preserving network for reconstruction of under-sampled OCT images**|Zezhao Guo et.al.|[2406.00279](http://arxiv.org/abs/2406.00279)|null|
 |**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075](http://arxiv.org/abs/2405.21075)|null|
 |**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048](http://arxiv.org/abs/2405.21048)|null|
 |**2024-05-31**|**Tsang's resolution enhancement method for imaging with focused illumination**|Alexander Duplinskiy et.al.|[2405.20979](http://arxiv.org/abs/2405.20979)|null|
@@ -1085,6 +1111,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529](http://arxiv.org/abs/2406.02529)|**[link](https://github.com/joeshenouda/relu-inrs)**|
+|**2024-06-04**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347](http://arxiv.org/abs/2406.02347)|null|
+|**2024-06-03**|**L-MAGIC: Language Model Assisted Generation of Images with Coherence**|Zhipeng Cai et.al.|[2406.01843](http://arxiv.org/abs/2406.01843)|**[link](https://github.com/intellabs/mmpano)**|
+|**2024-06-03**|**PolyCLEAN: When Högbom meets Bayes -- Fast Super-Resolution Imaging with Bayesian MAP Estimation**|Adrian Jarret et.al.|[2406.01342](http://arxiv.org/abs/2406.01342)|null|
+|**2024-06-03**|**Arctic Sea Ice Image Super-Resolution Based on Multi-Scale Convolution and Dual-Gating Mechanism**|Zhaomin Fang et.al.|[2406.01240](http://arxiv.org/abs/2406.01240)|null|
+|**2024-06-02**|**Stealing Image-to-Image Translation Models With a Single Query**|Nurit Spingarn-Eliezer et.al.|[2406.00828](http://arxiv.org/abs/2406.00828)|null|
+|**2024-06-02**|**Multidimensional optical singularities and their applications**|Soon Wei Daniel Lim et.al.|[2406.00784](http://arxiv.org/abs/2406.00784)|null|
+|**2024-06-02**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
+|**2024-06-04**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609](http://arxiv.org/abs/2406.00609)|null|
+|**2024-06-01**|**GLCAN: Global-Local Collaborative Auxiliary Network for Local Learning**|Feiyu Zhu et.al.|[2406.00446](http://arxiv.org/abs/2406.00446)|null|
+|**2024-06-01**|**SpikeMM: Flexi-Magnification of High-Speed Micro-Motions**|Baoyue Zhang et.al.|[2406.00383](http://arxiv.org/abs/2406.00383)|null|
+|**2024-06-01**|**Hybrid attention structure preserving network for reconstruction of under-sampled OCT images**|Zezhao Guo et.al.|[2406.00279](http://arxiv.org/abs/2406.00279)|null|
 |**2024-05-31**|**Climate Variable Downscaling with Conditional Normalizing Flows**|Christina Winkler et.al.|[2405.20719](http://arxiv.org/abs/2405.20719)|null|
 |**2024-05-30**|**Can No-Reference Quality-Assessment Methods Serve as Perceptual Losses for Super-Resolution?**|Egor Kashkarov et.al.|[2405.20392](http://arxiv.org/abs/2405.20392)|null|
 |**2024-05-30**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769](http://arxiv.org/abs/2405.19769)|**[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)**|
@@ -1452,6 +1490,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|null|
+|**2024-06-03**|**Sparse Focus Network for Multi-Source Remote Sensing Data Classification**|Xuepeng Jin et.al.|[2406.01245](http://arxiv.org/abs/2406.01245)|null|
+|**2024-06-03**|**LSKSANet: A Novel Architecture for Remote Sensing Image Semantic Segmentation Leveraging Large Selective Kernel and Sparse Attention Mechanism**|Miao Fu et.al.|[2406.01228](http://arxiv.org/abs/2406.01228)|null|
+|**2024-06-02**|**Kolmogorov-Arnold Network for Satellite Image Classification in Remote Sensing**|Minjong Cheon et.al.|[2406.00600](http://arxiv.org/abs/2406.00600)|null|
+|**2024-06-04**|**Analyzing trends for agricultural decision support system using twitter data**|Sneha Jha et.al.|[2406.00577](http://arxiv.org/abs/2406.00577)|null|
+|**2024-06-01**|**A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing**|Nurul Rafi et.al.|[2406.00239](http://arxiv.org/abs/2406.00239)|null|
+|**2024-05-31**|**ImplicitTerrain: a Continuous Surface Model for Terrain Data Analysis**|Haoan Feng et.al.|[2406.00227](http://arxiv.org/abs/2406.00227)|null|
 |**2024-05-31**|**Responsible AI for Earth Observation**|Pedram Ghamisi et.al.|[2405.20868](http://arxiv.org/abs/2405.20868)|null|
 |**2024-05-31**|**Maximum Temperature Prediction Using Remote Sensing Data Via Convolutional Neural Network**|Lorenzo Innocenti et.al.|[2405.20731](http://arxiv.org/abs/2405.20731)|null|
 |**2024-05-30**|**P-MSDiff: Parallel Multi-Scale Diffusion for Remote Sensing Image Segmentation**|Qi Zhang et.al.|[2405.20443](http://arxiv.org/abs/2405.20443)|null|

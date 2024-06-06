@@ -195,9 +195,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Lossless Image Compression Using Multi-level Dictionaries: Binary Images**|Samar Agnihotri et.al.|[2406.03087](http://arxiv.org/abs/2406.03087)|null|
+|**2024-06-05**|**On Jacob Ziv's Individual-Sequence Approach to Information Theory**|Neri Merhav et.al.|[2406.02904](http://arxiv.org/abs/2406.02904)|null|
 |**2024-06-04**|**Towards AI-Assisted Sustainable Adaptive Video Streaming Systems: Tutorial and Survey**|Reza Farahani et.al.|[2406.02302](http://arxiv.org/abs/2406.02302)|null|
 |**2024-06-03**|**Video Coding with Cross-Component Sample Offset**|Han Gao et.al.|[2406.01795](http://arxiv.org/abs/2406.01795)|null|
-|**2024-06-02**|**Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption**|Anqi Li et.al.|[2406.00758](http://arxiv.org/abs/2406.00758)|**[link](https://github.com/lianqi1008/Control-GIC)**|
+|**2024-06-05**|**Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption**|Anqi Li et.al.|[2406.00758](http://arxiv.org/abs/2406.00758)|**[link](https://github.com/lianqi1008/Control-GIC)**|
 |**2024-06-01**|**Efficient Massive Black Hole Binary parameter estimation for LISA using Sequential Neural Likelihood**|Iván Martín Vílchez et.al.|[2406.00565](http://arxiv.org/abs/2406.00565)|null|
 |**2024-06-01**|**A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing**|Nurul Rafi et.al.|[2406.00239](http://arxiv.org/abs/2406.00239)|null|
 |**2024-05-31**|**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**|Yufei Wang et.al.|[2405.20721](http://arxiv.org/abs/2405.20721)|**[link](https://github.com/wyf0912/contextgs)**|
@@ -517,6 +519,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Globally and Locally Optimized Pannini Projection for High FoV Rendering of 360-degree Images**|Falah Jabar et.al.|[2406.03282](http://arxiv.org/abs/2406.03282)|null|
+|**2024-06-05**|**FAPNet: An Effective Frequency Adaptive Point-based Eye Tracker**|Xiaopeng Lin et.al.|[2406.03177](http://arxiv.org/abs/2406.03177)|null|
+|**2024-06-05**|**Dynamic 3D Gaussian Fields for Urban Areas**|Tobias Fischer et.al.|[2406.03175](http://arxiv.org/abs/2406.03175)|null|
+|**2024-06-05**|**The new Herschel/PACS Point Source Catalogue**|Gábor Marton et.al.|[2406.03116](http://arxiv.org/abs/2406.03116)|null|
+|**2024-06-05**|**A-Bench: Are LMMs Masters at Evaluating AI-generated Images?**|Zicheng Zhang et.al.|[2406.03070](http://arxiv.org/abs/2406.03070)|**[link](https://github.com/q-future/a-bench)**|
+|**2024-06-05**|**DifAttack++: Query-Efficient Black-Box Adversarial Attack via Hierarchical Disentangled Feature Space in Cross Domain**|Jun Liu et.al.|[2406.03017](http://arxiv.org/abs/2406.03017)|**[link](https://github.com/csjunjun/difattack)**|
+|**2024-06-05**|**Efficient Minimum Bayes Risk Decoding using Low-Rank Matrix Completion Algorithms**|Firas Trabelsi et.al.|[2406.02832](http://arxiv.org/abs/2406.02832)|null|
 |**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
 |**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507](http://arxiv.org/abs/2406.02507)|null|
 |**2024-06-04**|**Towards AI-Assisted Sustainable Adaptive Video Streaming Systems: Tutorial and Survey**|Reza Farahani et.al.|[2406.02302](http://arxiv.org/abs/2406.02302)|null|
@@ -1098,6 +1107,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution**|Cristhian Forigua et.al.|[2406.03359](http://arxiv.org/abs/2406.03359)|**[link](https://github.com/bcv-uniandes/superformer)**|
+|**2024-06-01**|**CoNO: Complex Neural Operator for Continous Dynamical Physical Systems**|Karn Tiwari et.al.|[2406.02597](http://arxiv.org/abs/2406.02597)|null|
 |**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529](http://arxiv.org/abs/2406.02529)|**[link](https://github.com/joeshenouda/relu-inrs)**|
 |**2024-06-04**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347](http://arxiv.org/abs/2406.02347)|**[link](https://github.com/gojasper/flash-diffusion)**|
 |**2024-06-03**|**L-MAGIC: Language Model Assisted Generation of Images with Coherence**|Zhipeng Cai et.al.|[2406.01843](http://arxiv.org/abs/2406.01843)|**[link](https://github.com/intellabs/mmpano)**|
@@ -1475,6 +1486,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Foundation Models for Geophysics: Reviews and Perspectives**|Qi Liu et.al.|[2406.03163](http://arxiv.org/abs/2406.03163)|null|
+|**2024-06-05**|**P2PFormer: A Primitive-to-polygon Method for Regular Building Contour Extraction from Remote Sensing Images**|Tao Zhang et.al.|[2406.02930](http://arxiv.org/abs/2406.02930)|null|
 |**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|
 |**2024-06-03**|**Sparse Focus Network for Multi-Source Remote Sensing Data Classification**|Xuepeng Jin et.al.|[2406.01245](http://arxiv.org/abs/2406.01245)|null|
 |**2024-06-03**|**LSKSANet: A Novel Architecture for Remote Sensing Image Semantic Segmentation Leveraging Large Selective Kernel and Sparse Attention Mechanism**|Miao Fu et.al.|[2406.01228](http://arxiv.org/abs/2406.01228)|null|
@@ -1491,7 +1504,7 @@ layout: default
 |**2024-05-30**|**Twin Deformable Point Convolutions for Point Cloud Semantic Segmentation in Remote Sensing Scenes**|Yong-Qiang Mao et.al.|[2405.19735](http://arxiv.org/abs/2405.19735)|null|
 |**2024-05-30**|**Research on Foundation Model for Spatial Data Intelligence: China's 2024 White Paper on Strategic Development of Spatial Data Intelligence**|Shaohua Wang et.al.|[2405.19730](http://arxiv.org/abs/2405.19730)|null|
 |**2024-06-02**|**Large-scale DSM registration via motion averaging**|Ningli Xu et.al.|[2405.19442](http://arxiv.org/abs/2405.19442)|null|
-|**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055](http://arxiv.org/abs/2405.19055)|null|
+|**2024-06-05**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055](http://arxiv.org/abs/2405.19055)|null|
 |**2024-05-29**|**Transcending Fusion: A Multi-Scale Alignment Method for Remote Sensing Image-Text Retrieval**|Rui Yang et.al.|[2405.18959](http://arxiv.org/abs/2405.18959)|**[link](https://github.com/yr666666/msa)**|
 |**2024-05-29**|**MAGIC: Modular Auto-encoder for Generalisable Model Inversion with Bias Corrections**|Yihang She et.al.|[2405.18953](http://arxiv.org/abs/2405.18953)|**[link](https://github.com/yihshe/MAGIC)**|
 |**2024-05-29**|**Spectral Fidelity and Spatial Enhancement: An Assessment and Cascading of Pan-Sharpening Techniques for Satellite Imagery**|Abdul Aziz A. B et.al.|[2405.18900](http://arxiv.org/abs/2405.18900)|null|

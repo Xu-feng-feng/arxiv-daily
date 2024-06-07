@@ -204,6 +204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|null|
 |**2024-06-05**|**Lossless Image Compression Using Multi-level Dictionaries: Binary Images**|Samar Agnihotri et.al.|[2406.03087](http://arxiv.org/abs/2406.03087)|null|
 |**2024-06-05**|**On Jacob Ziv's Individual-Sequence Approach to Information Theory**|Neri Merhav et.al.|[2406.02904](http://arxiv.org/abs/2406.02904)|null|
 |**2024-06-04**|**Towards AI-Assisted Sustainable Adaptive Video Streaming Systems: Tutorial and Survey**|Reza Farahani et.al.|[2406.02302](http://arxiv.org/abs/2406.02302)|null|
@@ -530,6 +531,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**A Versatile Collage Visualization Technique**|Zhenyu Wang et.al.|[2406.04008](http://arxiv.org/abs/2406.04008)|null|
+|**2024-06-06**|**JIGMARK: A Black-Box Approach for Enhancing Image Watermarks against Diffusion Model Edits**|Minzhou Pan et.al.|[2406.03720](http://arxiv.org/abs/2406.03720)|null|
+|**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697](http://arxiv.org/abs/2406.03697)|null|
+|**2024-06-05**|**Anatomy-based quality metric of diffusion-weighted MRI data for accurate derivation of muscle fiber orientation**|Nadya Shusharina et.al.|[2406.03560](http://arxiv.org/abs/2406.03560)|null|
 |**2024-06-05**|**Globally and Locally Optimized Pannini Projection for High FoV Rendering of 360-degree Images**|Falah Jabar et.al.|[2406.03282](http://arxiv.org/abs/2406.03282)|null|
 |**2024-06-05**|**FAPNet: An Effective Frequency Adaptive Point-based Eye Tracker**|Xiaopeng Lin et.al.|[2406.03177](http://arxiv.org/abs/2406.03177)|null|
 |**2024-06-05**|**Dynamic 3D Gaussian Fields for Urban Areas**|Tobias Fischer et.al.|[2406.03175](http://arxiv.org/abs/2406.03175)|null|
@@ -1120,6 +1125,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models**|Jan Martinů et.al.|[2406.04099](http://arxiv.org/abs/2406.04099)|null|
+|**2024-06-06**|**Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations**|Jan Hagnberger et.al.|[2406.03919](http://arxiv.org/abs/2406.03919)|null|
+|**2024-06-06**|**Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge**|Nan Zhang et.al.|[2406.03799](http://arxiv.org/abs/2406.03799)|**[link](https://github.com/kaneigi/weatherproofchallenge)**|
 |**2024-06-05**|**SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution**|Cristhian Forigua et.al.|[2406.03359](http://arxiv.org/abs/2406.03359)|**[link](https://github.com/bcv-uniandes/superformer)**|
 |**2024-06-01**|**CoNO: Complex Neural Operator for Continous Dynamical Physical Systems**|Karn Tiwari et.al.|[2406.02597](http://arxiv.org/abs/2406.02597)|null|
 |**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529](http://arxiv.org/abs/2406.02529)|**[link](https://github.com/joeshenouda/relu-inrs)**|
@@ -1501,6 +1509,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**SpectralZoom: Efficient Segmentation with an Adaptive Hyperspectral Camera**|Jackson Arnold et.al.|[2406.04287](http://arxiv.org/abs/2406.04287)|null|
+|**2024-06-06**|**M3LEO: A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and RGB Data**|Matthew J Allen et.al.|[2406.04230](http://arxiv.org/abs/2406.04230)|**[link](https://github.com/spaceml-org/m3leo)**|
+|**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207](http://arxiv.org/abs/2406.04207)|null|
+|**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|null|
 |**2024-06-05**|**Foundation Models for Geophysics: Reviews and Perspectives**|Qi Liu et.al.|[2406.03163](http://arxiv.org/abs/2406.03163)|null|
 |**2024-06-05**|**P2PFormer: A Primitive-to-polygon Method for Regular Building Contour Extraction from Remote Sensing Images**|Tao Zhang et.al.|[2406.02930](http://arxiv.org/abs/2406.02930)|null|
 |**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|

@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-09**|**Bits-to-Photon: End-to-End Learned Scalable Point Cloud Compression for Direct Rendering**|Yueyu Hu et.al.|[2406.05915](http://arxiv.org/abs/2406.05915)|null|
 |**2024-06-02**|**Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor**|Lei Liu et.al.|[2406.00791](http://arxiv.org/abs/2406.00791)|null|
 |**2024-05-23**|**NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation**|Chaokang Jiang et.al.|[2405.14241](http://arxiv.org/abs/2405.14241)|**[link](https://github.com/jiangchaokang/neurogauss4d-pci)**|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
@@ -195,6 +196,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Deep Generative Modeling Reshapes Compression and Transmission: From Efficiency to Resiliency**|Jincheng Dai et.al.|[2406.06446](http://arxiv.org/abs/2406.06446)|null|
+|**2024-06-10**|**Image Compression with Isotropic and Anisotropic Shepard Inpainting**|Rahul Mohideen Kaja Mohideen et.al.|[2406.06247](http://arxiv.org/abs/2406.06247)|null|
+|**2024-06-10**|**Efficient Neural Compression with Inference-time Decoding**|C. Metz et.al.|[2406.06237](http://arxiv.org/abs/2406.06237)|null|
+|**2024-06-10**|**Fiducial-Cosmology-dependent systematics for the DESI 2024 BAO Analysis**|A. Pérez-Fernández et.al.|[2406.06085](http://arxiv.org/abs/2406.06085)|null|
+|**2024-06-10**|**Quantum Sparse Coding and Decoding Based on Quantum Network**|Xun Ji et.al.|[2406.06012](http://arxiv.org/abs/2406.06012)|null|
+|**2024-06-09**|**Region of Interest Loss for Anonymizing Learned Image Compression**|Christoph Liebender et.al.|[2406.05726](http://arxiv.org/abs/2406.05726)|null|
+|**2024-06-08**|**Regularized Training with Generated Datasets for Name-Only Transfer of Vision-Language Models**|Minho Park et.al.|[2406.05432](http://arxiv.org/abs/2406.05432)|null|
 |**2024-06-07**|**PatchSVD: A Non-uniform SVD-based Image Compression Algorithm**|Zahra Golpayegani et.al.|[2406.05129](http://arxiv.org/abs/2406.05129)|null|
 |**2024-06-07**|**SMC++: Masked Learning of Unsupervised Video Semantic Compression**|Yuan Tian et.al.|[2406.04765](http://arxiv.org/abs/2406.04765)|**[link](https://github.com/tianyuan168326/videosemanticcompression-pytorch)**|
 |**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|null|
@@ -522,6 +530,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
+|**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367](http://arxiv.org/abs/2406.06367)|null|
+|**2024-06-10**|**Federated learning in food research**|Zuzanna Fendor et.al.|[2406.06202](http://arxiv.org/abs/2406.06202)|null|
+|**2024-06-10**|**Generalized Nested Latent Variable Models for Lossy Coding applied to Wind Turbine Scenarios**|Raül Pérez-Gonzalo et.al.|[2406.06165](http://arxiv.org/abs/2406.06165)|null|
+|**2024-06-10**|**JenGAN: Stacked Shifted Filters in GAN-Based Speech Synthesis**|Hyunjae Cho et.al.|[2406.06111](http://arxiv.org/abs/2406.06111)|null|
+|**2024-06-10**|**GAIA: Rethinking Action Quality Assessment for AI-Generated Videos**|Zijian Chen et.al.|[2406.06087](http://arxiv.org/abs/2406.06087)|null|
+|**2024-06-10**|**FRAG: Frequency Adapting Group for Diffusion Video Editing**|Sunjae Yoon et.al.|[2406.06044](http://arxiv.org/abs/2406.06044)|null|
+|**2024-06-09**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
+|**2024-06-08**|**Energy-Efficient Approximate Full Adders Applying Memristive Serial IMPLY Logic For Image Processing**|Seyed Erfan Fatemieh et.al.|[2406.05525](http://arxiv.org/abs/2406.05525)|null|
+|**2024-06-08**|**Blurry-Consistency Segmentation Framework with Selective Stacking on Differential Interference Contrast 3D Breast Cancer Spheroid**|Thanh-Huy Nguyen et.al.|[2406.05349](http://arxiv.org/abs/2406.05349)|null|
+|**2024-06-08**|**Deep convolutional demosaicking network for multispectral polarization filter array**|Tomoharu Ishiuchi et.al.|[2406.05312](http://arxiv.org/abs/2406.05312)|null|
+|**2024-06-08**|**YouTube SFV+HDR Quality Dataset**|Yilin Wang et.al.|[2406.05305](http://arxiv.org/abs/2406.05305)|null|
+|**2024-06-07**|**Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis**|Ryan Langman et.al.|[2406.05298](http://arxiv.org/abs/2406.05298)|null|
 |**2024-06-07**|**GANetic Loss for Generative Adversarial Networks with a Focus on Medical Applications**|Shakhnaz Akhmedova et.al.|[2406.05023](http://arxiv.org/abs/2406.05023)|**[link](https://github.com/ZKI-PH-ImageAnalysis/GANetic-Loss)**|
 |**2024-06-07**|**Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior**|Tanvir Mahmud et.al.|[2406.04873](http://arxiv.org/abs/2406.04873)|null|
 |**2024-06-07**|**SMC++: Masked Learning of Unsupervised Video Semantic Compression**|Yuan Tian et.al.|[2406.04765](http://arxiv.org/abs/2406.04765)|**[link](https://github.com/tianyuan168326/videosemanticcompression-pytorch)**|
@@ -1122,6 +1143,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning**|Xin Wang et.al.|[2406.05974](http://arxiv.org/abs/2406.05974)|null|
+|**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723](http://arxiv.org/abs/2406.05723)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822](http://arxiv.org/abs/2406.04822)|null|
 |**2024-06-06**|**M&M VTO: Multi-Garment Virtual Try-On and Editing**|Luyang Zhu et.al.|[2406.04542](http://arxiv.org/abs/2406.04542)|null|
 |**2024-06-06**|**Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models**|Jan Martinů et.al.|[2406.04099](http://arxiv.org/abs/2406.04099)|null|
@@ -1506,6 +1529,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**ReCon1M:A Large-scale Benchmark Dataset for Relation Comprehension in Remote Sensing Imagery**|Xian Sun et.al.|[2406.06028](http://arxiv.org/abs/2406.06028)|null|
+|**2024-06-09**|**BOSC: A toolbox for aerial imagery mapping**|Ricard Durall et.al.|[2406.05833](http://arxiv.org/abs/2406.05833)|**[link](https://github.com/RicardDurall/BOSC_toolbox)**|
+|**2024-06-09**|**Gentle-CLIP: Exploring Aligned Semantic In Low-Quality Multimodal Data With Soft Alignment**|Zijia Song et.al.|[2406.05766](http://arxiv.org/abs/2406.05766)|null|
+|**2024-06-09**|**A DeNoising FPN With Transformer R-CNN for Tiny Object Detection**|Hou-I Liu et.al.|[2406.05755](http://arxiv.org/abs/2406.05755)|**[link](https://github.com/hoiliu-0801/dntr)**|
+|**2024-06-09**|**HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model**|Hang Fu et.al.|[2406.05700](http://arxiv.org/abs/2406.05700)|**[link](https://github.com/rsai-lab/hdmba)**|
+|**2024-06-09**|**SRC-Net: Bi-Temporal Spatial Relationship Concerned Network for Change Detection**|Hongjia Chen et.al.|[2406.05668](http://arxiv.org/abs/2406.05668)|**[link](https://github.com/Chnja/SRCNet)**|
+|**2024-06-09**|**Which Backbone to Use: A Resource-efficient Domain Specific Comparison for Computer Vision**|Pranav Jeevan et.al.|[2406.05612](http://arxiv.org/abs/2406.05612)|**[link](https://github.com/pranavphoenix/Backbones)**|
+|**2024-06-08**|**A Deep Learning-Augmented Stand-off Radar Scheme for Rapidly Detecting Tree Defects**|Jiwei Qian et.al.|[2406.05389](http://arxiv.org/abs/2406.05389)|null|
 |**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
 |**2024-06-07**|**MGIMM: Multi-Granularity Instruction Multimodal Model for Attribute-Guided Remote Sensing Image Detailed Description**|Cong Yang et.al.|[2406.04716](http://arxiv.org/abs/2406.04716)|**[link](https://github.com/yangcong356/mgimm)**|
 |**2024-06-07**|**UCDNet: Multi-UAV Collaborative 3D Object Detection Network by Reliable Feature Mapping**|Pengju Tian et.al.|[2406.04648](http://arxiv.org/abs/2406.04648)|null|
@@ -1513,6 +1544,7 @@ layout: default
 |**2024-06-06**|**M3LEO: A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and RGB Data**|Matthew J Allen et.al.|[2406.04230](http://arxiv.org/abs/2406.04230)|**[link](https://github.com/spaceml-org/m3leo)**|
 |**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207](http://arxiv.org/abs/2406.04207)|null|
 |**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|null|
+|**2024-06-09**|**Partial Label Learning with Focal Loss for Sea Ice Classification Based on Ice Charts**|Behzad Vahedi et.al.|[2406.03645](http://arxiv.org/abs/2406.03645)|null|
 |**2024-06-05**|**Foundation Models for Geophysics: Reviews and Perspectives**|Qi Liu et.al.|[2406.03163](http://arxiv.org/abs/2406.03163)|null|
 |**2024-06-05**|**P2PFormer: A Primitive-to-polygon Method for Regular Building Contour Extraction from Remote Sensing Images**|Tao Zhang et.al.|[2406.02930](http://arxiv.org/abs/2406.02930)|null|
 |**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|

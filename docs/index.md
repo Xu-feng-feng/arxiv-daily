@@ -196,6 +196,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548](http://arxiv.org/abs/2406.07548)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|
+|**2024-06-11**|**Optimal Matrix-Mimetic Tensor Algebras via Variable Projection**|Elizabeth Newman et.al.|[2406.06942](http://arxiv.org/abs/2406.06942)|**[link](https://github.com/elizabethnewman/star-m-opt)**|
 |**2024-06-10**|**Deep Generative Modeling Reshapes Compression and Transmission: From Efficiency to Resiliency**|Jincheng Dai et.al.|[2406.06446](http://arxiv.org/abs/2406.06446)|null|
 |**2024-06-10**|**Image Compression with Isotropic and Anisotropic Shepard Inpainting**|Rahul Mohideen Kaja Mohideen et.al.|[2406.06247](http://arxiv.org/abs/2406.06247)|null|
 |**2024-06-10**|**Efficient Neural Compression with Inference-time Decoding**|C. Metz et.al.|[2406.06237](http://arxiv.org/abs/2406.06237)|null|
@@ -530,6 +532,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?**|Xingyu Fu et.al.|[2406.07546](http://arxiv.org/abs/2406.07546)|null|
+|**2024-06-11**|**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance**|Kuan Heng Lin et.al.|[2406.07540](http://arxiv.org/abs/2406.07540)|null|
+|**2024-06-11**|**Trim 3D Gaussian Splatting for Accurate Geometry Representation**|Lue Fan et.al.|[2406.07499](http://arxiv.org/abs/2406.07499)|null|
+|**2024-06-11**|**Textual Similarity as a Key Metric in Machine Translation Quality Estimation**|Kun Sun et.al.|[2406.07440](http://arxiv.org/abs/2406.07440)|null|
+|**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399](http://arxiv.org/abs/2406.07399)|null|
+|**2024-06-11**|**DiffCom: Channel Received Signal is a Natural Condition to Guide Diffusion Posterior Sampling**|Sixian Wang et.al.|[2406.07390](http://arxiv.org/abs/2406.07390)|null|
+|**2024-06-11**|**Noise-Robust Voice Conversion by Conditional Denoising Training Using Latent Variables of Recording Quality and Environment**|Takuto Igarashi et.al.|[2406.07280](http://arxiv.org/abs/2406.07280)|null|
+|**2024-06-11**|**Accurate estimate of the ESPRESSO fiber-injection losses inferred from integrated field-stabilization images**|Tobias M. Schmidt et.al.|[2406.07193](http://arxiv.org/abs/2406.07193)|null|
+|**2024-06-11**|**Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation**|Yuanhao Zhai et.al.|[2406.06890](http://arxiv.org/abs/2406.06890)|null|
+|**2024-06-11**|**A Subjective Quality Evaluation of 3D Mesh with Dynamic Level of Detail in Virtual Reality**|Duc Nguyen et.al.|[2406.06888](http://arxiv.org/abs/2406.06888)|null|
+|**2024-06-09**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644](http://arxiv.org/abs/2406.06644)|null|
 |**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
 |**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367](http://arxiv.org/abs/2406.06367)|null|
 |**2024-06-10**|**Federated learning in food research**|Zuzanna Fendor et.al.|[2406.06202](http://arxiv.org/abs/2406.06202)|null|
@@ -1143,6 +1156,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Image Neural Field Diffusion Models**|Yinbo Chen et.al.|[2406.07480](http://arxiv.org/abs/2406.07480)|null|
+|**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399](http://arxiv.org/abs/2406.07399)|null|
+|**2024-06-11**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255](http://arxiv.org/abs/2406.07255)|null|
+|**2024-06-10**|**2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution**|Kai Liu et.al.|[2406.06649](http://arxiv.org/abs/2406.06649)|**[link](https://github.com/kai-liu001/2dquant)**|
 |**2024-06-10**|**Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning**|Xin Wang et.al.|[2406.05974](http://arxiv.org/abs/2406.05974)|null|
 |**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723](http://arxiv.org/abs/2406.05723)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822](http://arxiv.org/abs/2406.04822)|null|
@@ -1529,6 +1546,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Comparing Deep Learning Models for Rice Mapping in Bhutan Using High Resolution Satellite Imagery**|Biplov Bhandari et.al.|[2406.07482](http://arxiv.org/abs/2406.07482)|null|
+|**2024-06-11**|**Characterizing GPROF Regional Bias Using Radar-Derived Hydrometeor Information**|Eric Goldenstern et.al.|[2406.07344](http://arxiv.org/abs/2406.07344)|null|
+|**2024-06-11**|**Grapevine Disease Prediction Using Climate Variables from Multi-Sensor Remote Sensing Imagery via a Transformer Model**|Weiying Zhao et.al.|[2406.07094](http://arxiv.org/abs/2406.07094)|null|
+|**2024-06-11**|**RS-Agent: Automating Remote Sensing Tasks through Intelligent Agents**|Wenjia Xu et.al.|[2406.07089](http://arxiv.org/abs/2406.07089)|null|
+|**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032](http://arxiv.org/abs/2406.07032)|null|
+|**2024-06-10**|**An Elliptic Kernel Unsupervised Autoencoder-Graph Convolutional Network Ensemble Model for Hyperspectral Unmixing**|Estefania Alfaro-Mejia et.al.|[2406.06742](http://arxiv.org/abs/2406.06742)|null|
 |**2024-06-10**|**ReCon1M:A Large-scale Benchmark Dataset for Relation Comprehension in Remote Sensing Imagery**|Xian Sun et.al.|[2406.06028](http://arxiv.org/abs/2406.06028)|null|
 |**2024-06-09**|**BOSC: A toolbox for aerial imagery mapping**|Ricard Durall et.al.|[2406.05833](http://arxiv.org/abs/2406.05833)|**[link](https://github.com/RicardDurall/BOSC_toolbox)**|
 |**2024-06-09**|**Gentle-CLIP: Exploring Aligned Semantic In Low-Quality Multimodal Data With Soft Alignment**|Zijia Song et.al.|[2406.05766](http://arxiv.org/abs/2406.05766)|null|

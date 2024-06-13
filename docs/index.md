@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -550,7 +550,7 @@ layout: default
 |**2024-06-10**|**JenGAN: Stacked Shifted Filters in GAN-Based Speech Synthesis**|Hyunjae Cho et.al.|[2406.06111](http://arxiv.org/abs/2406.06111)|null|
 |**2024-06-10**|**GAIA: Rethinking Action Quality Assessment for AI-Generated Videos**|Zijian Chen et.al.|[2406.06087](http://arxiv.org/abs/2406.06087)|**[link](https://github.com/zijianchen98/gaia)**|
 |**2024-06-10**|**FRAG: Frequency Adapting Group for Diffusion Video Editing**|Sunjae Yoon et.al.|[2406.06044](http://arxiv.org/abs/2406.06044)|null|
-|**2024-06-11**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
+|**2024-06-12**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
 |**2024-06-08**|**Energy-Efficient Approximate Full Adders Applying Memristive Serial IMPLY Logic For Image Processing**|Seyed Erfan Fatemieh et.al.|[2406.05525](http://arxiv.org/abs/2406.05525)|null|
 |**2024-06-08**|**Blurry-Consistency Segmentation Framework with Selective Stacking on Differential Interference Contrast 3D Breast Cancer Spheroid**|Thanh-Huy Nguyen et.al.|[2406.05349](http://arxiv.org/abs/2406.05349)|null|
 |**2024-06-08**|**Deep convolutional demosaicking network for multispectral polarization filter array**|Tomoharu Ishiuchi et.al.|[2406.05312](http://arxiv.org/abs/2406.05312)|null|
@@ -1158,7 +1158,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-11**|**Image Neural Field Diffusion Models**|Yinbo Chen et.al.|[2406.07480](http://arxiv.org/abs/2406.07480)|null|
 |**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399](http://arxiv.org/abs/2406.07399)|null|
-|**2024-06-11**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255](http://arxiv.org/abs/2406.07255)|null|
+|**2024-06-12**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255](http://arxiv.org/abs/2406.07255)|null|
 |**2024-06-10**|**2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution**|Kai Liu et.al.|[2406.06649](http://arxiv.org/abs/2406.06649)|**[link](https://github.com/kai-liu001/2dquant)**|
 |**2024-06-10**|**Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning**|Xin Wang et.al.|[2406.05974](http://arxiv.org/abs/2406.05974)|null|
 |**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723](http://arxiv.org/abs/2406.05723)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|

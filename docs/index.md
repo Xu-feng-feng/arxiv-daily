@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -196,7 +196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-12**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487](http://arxiv.org/abs/2406.08487)|null|
+|**2024-06-13**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487](http://arxiv.org/abs/2406.08487)|**[link](https://github.com/yfzhang114/slime)**|
 |**2024-06-12**|**On Annotation-free Optimization of Video Coding for Machines**|Marc Windsheimer et.al.|[2406.07938](http://arxiv.org/abs/2406.07938)|null|
 |**2024-06-11**|**SSNVC: Single Stream Neural Video Compression with Implicit Temporal Information**|Feng Wang et.al.|[2406.07645](http://arxiv.org/abs/2406.07645)|null|
 |**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548](http://arxiv.org/abs/2406.07548)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|
@@ -537,7 +537,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377](http://arxiv.org/abs/2406.08377)|null|
 |**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337](http://arxiv.org/abs/2406.08337)|null|
-|**2024-06-12**|**Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**|Javad Pourmostafa Roshan Sharami et.al.|[2406.07970](http://arxiv.org/abs/2406.07970)|null|
+|**2024-06-12**|**Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**|Javad Pourmostafa Roshan Sharami et.al.|[2406.07970](http://arxiv.org/abs/2406.07970)|**[link](https://github.com/JoyeBright/ICLviaQE)**|
 |**2024-06-12**|**DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera**|Senyan Xu et.al.|[2406.07951](http://arxiv.org/abs/2406.07951)|**[link](https://github.com/queahren/demosaicformer)**|
 |**2024-06-12**|**Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation**|Jiadong Liang et.al.|[2406.07895](http://arxiv.org/abs/2406.07895)|null|
 |**2024-06-11**|**A PRISMA Driven Systematic Review of Publicly Available Datasets for Benchmark and Model Developments for Industrial Defect Detection**|Can Akbas et.al.|[2406.07694](http://arxiv.org/abs/2406.07694)|null|
@@ -1558,10 +1558,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-12**|**A $^{2}$ -MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079](http://arxiv.org/abs/2406.08079)|null|
+|**2024-06-13**|**A $^{2}$ -MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079](http://arxiv.org/abs/2406.08079)|null|
 |**2024-06-12**|**Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review**|Anjali Raj et.al.|[2406.08031](http://arxiv.org/abs/2406.08031)|null|
 |**2024-06-12**|**Real-time, chirped-pulse heterodyne detection at room-temperature with 100GHz 3dB-bandwidth mid-infrared quantum-well photodetectors**|Quyang Lin et.al.|[2406.08027](http://arxiv.org/abs/2406.08027)|null|
-|**2024-06-11**|**Comparing Deep Learning Models for Rice Mapping in Bhutan Using High Resolution Satellite Imagery**|Biplov Bhandari et.al.|[2406.07482](http://arxiv.org/abs/2406.07482)|null|
+|**2024-06-11**|**Comparing Deep Learning Models for Rice Mapping in Bhutan Using High Resolution Satellite Imagery**|Biplov Bhandari et.al.|[2406.07482](http://arxiv.org/abs/2406.07482)|**[link](https://github.com/biplovbhandari/aces)**|
 |**2024-06-11**|**Characterizing GPROF Regional Bias Using Radar-Derived Hydrometeor Information**|Eric Goldenstern et.al.|[2406.07344](http://arxiv.org/abs/2406.07344)|null|
 |**2024-06-11**|**Grapevine Disease Prediction Using Climate Variables from Multi-Sensor Remote Sensing Imagery via a Transformer Model**|Weiying Zhao et.al.|[2406.07094](http://arxiv.org/abs/2406.07094)|null|
 |**2024-06-11**|**RS-Agent: Automating Remote Sensing Tasks through Intelligent Agents**|Wenjia Xu et.al.|[2406.07089](http://arxiv.org/abs/2406.07089)|null|

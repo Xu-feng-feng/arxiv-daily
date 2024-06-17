@@ -196,6 +196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Information Compression in the AI Era: Recent Advances and Future Challenges**|Jun Chen et.al.|[2406.10036](http://arxiv.org/abs/2406.10036)|null|
 |**2024-06-13**|**CMC-Bench: Towards a New Paradigm of Visual Signal Compression**|Chunyi Li et.al.|[2406.09356](http://arxiv.org/abs/2406.09356)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
 |**2024-06-14**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487](http://arxiv.org/abs/2406.08487)|**[link](https://github.com/yfzhang114/slime)**|
@@ -537,8 +538,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**AlignNet: Learning dataset score alignment functions to enable better training of speech quality estimators**|Jaden Pieper et.al.|[2406.10205](http://arxiv.org/abs/2406.10205)|null|
+|**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078](http://arxiv.org/abs/2406.10078)|null|
+|**2024-06-14**|**Vision Language Modeling of Content, Distortion and Appearance for Image Quality Assessment**|Fei Zhou et.al.|[2406.09858](http://arxiv.org/abs/2406.09858)|null|
+|**2024-06-14**|**Full-reference Point Cloud Quality Assessment Using Spectral Graph Wavelets**|Ryosuke Watanabe et.al.|[2406.09762](http://arxiv.org/abs/2406.09762)|null|
+|**2024-06-14**|**Compressed Video Quality Enhancement with Temporal Group Alignment and Fusion**|Qiang Zhu et.al.|[2406.09693](http://arxiv.org/abs/2406.09693)|null|
+|**2024-06-13**|**DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer**|Wei-Ting Chen et.al.|[2406.09622](http://arxiv.org/abs/2406.09622)|null|
+|**2024-06-13**|**Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment**|Fengbin Guan et.al.|[2406.09546](http://arxiv.org/abs/2406.09546)|null|
 |**2024-06-13**|**Modeling Ambient Scene Dynamics for Free-view Synthesis**|Meng-Li Shih et.al.|[2406.09395](http://arxiv.org/abs/2406.09395)|null|
-|**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394](http://arxiv.org/abs/2406.09394)|null|
+|**2024-06-14**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394](http://arxiv.org/abs/2406.09394)|null|
 |**2024-06-13**|**LRM-Zero: Training Large Reconstruction Models with Synthesized Data**|Desai Xie et.al.|[2406.09371](http://arxiv.org/abs/2406.09371)|null|
 |**2024-06-13**|**CMC-Bench: Towards a New Paradigm of Visual Signal Compression**|Chunyi Li et.al.|[2406.09356](http://arxiv.org/abs/2406.09356)|null|
 |**2024-06-13**|**StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning**|Giuseppe Vecchio et.al.|[2406.09293](http://arxiv.org/abs/2406.09293)|null|
@@ -1178,6 +1187,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models**|Zhaoxu Luo et.al.|[2406.10225](http://arxiv.org/abs/2406.10225)|null|
+|**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
+|**2024-06-14**|**Exact Sparse Representation Recovery in Signal Demixing and Group BLASSO**|Marcello Carioni et.al.|[2406.09922](http://arxiv.org/abs/2406.09922)|null|
+|**2024-06-14**|**Bayesian Conditioned Diffusion Models for Inverse Problems**|Alper Güngör et.al.|[2406.09768](http://arxiv.org/abs/2406.09768)|null|
 |**2024-06-13**|**Near-Field Multiuser Communications based on Sparse Arrays**|Kangjian Chen et.al.|[2406.09238](http://arxiv.org/abs/2406.09238)|null|
 |**2024-06-13**|**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**|Soufiane Belharbi et.al.|[2406.09168](http://arxiv.org/abs/2406.09168)|**[link](https://github.com/sbelharbi/sr-caco-2)**|
 |**2024-06-13**|**Microparticle-assisted 2D super resolution virtual image modeling**|Arlen Bekirov et.al.|[2406.09060](http://arxiv.org/abs/2406.09060)|null|
@@ -1575,6 +1588,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107](http://arxiv.org/abs/2406.10107)|null|
+|**2024-06-14**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Junwei Luo et.al.|[2406.10100](http://arxiv.org/abs/2406.10100)|**[link](https://github.com/luo-z13/skysensegpt)**|
+|**2024-06-14**|**Soil nitrogen forecasting from environmental variables provided by multisensor remote sensing images**|Weiying Zhao et.al.|[2406.09812](http://arxiv.org/abs/2406.09812)|null|
 |**2024-06-13**|**Modelling the magnetic vectors of ICMEs at different heliocentric distances with INFROS**|Ranadeep Sarkar et.al.|[2406.09247](http://arxiv.org/abs/2406.09247)|null|
 |**2024-06-13**|**A $^{2}$ -MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079](http://arxiv.org/abs/2406.08079)|null|
 |**2024-06-12**|**Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review**|Anjali Raj et.al.|[2406.08031](http://arxiv.org/abs/2406.08031)|null|

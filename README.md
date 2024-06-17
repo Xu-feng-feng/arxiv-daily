@@ -594,7 +594,7 @@
 |**2024-06-07**|**SMC++: Masked Learning of Unsupervised Video Semantic Compression**|Yuan Tian et.al.|[2406.04765](http://arxiv.org/abs/2406.04765)|**[link](https://github.com/tianyuan168326/videosemanticcompression-pytorch)**|
 |**2024-06-07**|**The Active Optics System on the Vera C. Rubin Observatory: Optimal Control of Degeneracy Among the Large Number of Degrees of Freedom**|Guillem Megias Homar et.al.|[2406.04656](http://arxiv.org/abs/2406.04656)|null|
 |**2024-06-07**|**GenzIQA: Generalized Image Quality Assessment using Prompt-Guided Latent Diffusion Models**|Diptanu De et.al.|[2406.04654](http://arxiv.org/abs/2406.04654)|null|
-|**2024-06-07**|**StreamOptix: A Cross-layer Adaptive Video Delivery Scheme**|Mufan Liu et.al.|[2406.04632](http://arxiv.org/abs/2406.04632)|null|
+|**2024-06-07**|**StreamOptix: A Cross-layer Adaptive Video Delivery Scheme**|Mufan Liu et.al.|[2406.04632](http://arxiv.org/abs/2406.04632)|**[link](https://github.com/evan-sudo/streamoptix)**|
 |**2024-06-07**|**Attention Fusion Reverse Distillation for Multi-Lighting Image Anomaly Detection**|Yiheng Zhang et.al.|[2406.04573](http://arxiv.org/abs/2406.04573)|null|
 |**2024-06-06**|**Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance**|Reyhane Askari Hemmat et.al.|[2406.04551](http://arxiv.org/abs/2406.04551)|null|
 |**2024-06-06**|**A Versatile Collage Visualization Technique**|Zhenyu Wang et.al.|[2406.04008](http://arxiv.org/abs/2406.04008)|null|
@@ -631,8 +631,8 @@
 |**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075](http://arxiv.org/abs/2405.21075)|null|
 |**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048](http://arxiv.org/abs/2405.21048)|null|
 |**2024-05-31**|**Tsang's resolution enhancement method for imaging with focused illumination**|Alexander Duplinskiy et.al.|[2405.20979](http://arxiv.org/abs/2405.20979)|null|
-|**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669](http://arxiv.org/abs/2405.20669)|null|
-|**2024-05-30**|**An Automatic Question Usability Evaluation Toolkit**|Steven Moore et.al.|[2405.20529](http://arxiv.org/abs/2405.20529)|null|
+|**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669](http://arxiv.org/abs/2405.20669)|**[link](https://github.com/Ysz2022/Fourier123)**|
+|**2024-05-30**|**An Automatic Question Usability Evaluation Toolkit**|Steven Moore et.al.|[2405.20529](http://arxiv.org/abs/2405.20529)|**[link](https://github.com/stevenjamesmoore/aied24)**|
 |**2024-05-30**|**Can No-Reference Quality-Assessment Methods Serve as Perceptual Losses for Super-Resolution?**|Egor Kashkarov et.al.|[2405.20392](http://arxiv.org/abs/2405.20392)|null|
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331](http://arxiv.org/abs/2405.20331)|**[link](https://github.com/lkopf/cosy)**|
 |**2024-05-31**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/abs/2405.20078)|null|
@@ -1621,7 +1621,7 @@
 |**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|
 |**2024-06-03**|**Sparse Focus Network for Multi-Source Remote Sensing Data Classification**|Xuepeng Jin et.al.|[2406.01245](http://arxiv.org/abs/2406.01245)|null|
 |**2024-06-03**|**LSKSANet: A Novel Architecture for Remote Sensing Image Semantic Segmentation Leveraging Large Selective Kernel and Sparse Attention Mechanism**|Miao Fu et.al.|[2406.01228](http://arxiv.org/abs/2406.01228)|null|
-|**2024-06-02**|**Kolmogorov-Arnold Network for Satellite Image Classification in Remote Sensing**|Minjong Cheon et.al.|[2406.00600](http://arxiv.org/abs/2406.00600)|null|
+|**2024-06-02**|**Kolmogorov-Arnold Network for Satellite Image Classification in Remote Sensing**|Minjong Cheon et.al.|[2406.00600](http://arxiv.org/abs/2406.00600)|**[link](https://github.com/jmj2316/KAN_CNN/blob/main/kcn.py)**|
 |**2024-06-04**|**Analyzing trends for agricultural decision support system using twitter data**|Sneha Jha et.al.|[2406.00577](http://arxiv.org/abs/2406.00577)|null|
 |**2024-06-01**|**A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing**|Nurul Rafi et.al.|[2406.00239](http://arxiv.org/abs/2406.00239)|null|
 |**2024-05-31**|**ImplicitTerrain: a Continuous Surface Model for Terrain Data Analysis**|Haoan Feng et.al.|[2406.00227](http://arxiv.org/abs/2406.00227)|null|

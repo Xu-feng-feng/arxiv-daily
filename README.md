@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-15**|**Full reference point cloud quality assessment using support vector regression**|Ryosuke Watanabe et.al.|[2406.10520](http://arxiv.org/abs/2406.10520)|**[link](https://github.com/stac-usc/frsvr-pcqa)**|
 |**2024-06-09**|**Bits-to-Photon: End-to-End Learned Scalable Point Cloud Compression for Direct Rendering**|Yueyu Hu et.al.|[2406.05915](http://arxiv.org/abs/2406.05915)|null|
 |**2024-06-02**|**Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor**|Lei Liu et.al.|[2406.00791](http://arxiv.org/abs/2406.00791)|null|
 |**2024-05-23**|**NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation**|Chaokang Jiang et.al.|[2405.14241](http://arxiv.org/abs/2405.14241)|**[link](https://github.com/jiangchaokang/neurogauss4d-pci)**|
@@ -205,6 +206,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-15**|**How Should We Extract Discrete Audio Tokens from Self-Supervised Models?**|Pooneh Mousavi et.al.|[2406.10735](http://arxiv.org/abs/2406.10735)|null|
+|**2024-06-15**|**Object-Attribute-Relation Representation based Video Semantic Communication**|Qiyuan Du et.al.|[2406.10469](http://arxiv.org/abs/2406.10469)|null|
+|**2024-06-14**|**On Efficient Neural Network Architectures for Image Compression**|Yichi Zhang et.al.|[2406.10361](http://arxiv.org/abs/2406.10361)|null|
 |**2024-06-14**|**Information Compression in the AI Era: Recent Advances and Future Challenges**|Jun Chen et.al.|[2406.10036](http://arxiv.org/abs/2406.10036)|null|
 |**2024-06-13**|**CMC-Bench: Towards a New Paradigm of Visual Signal Compression**|Chunyi Li et.al.|[2406.09356](http://arxiv.org/abs/2406.09356)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
@@ -549,6 +553,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians**|Bingling Li et.al.|[2406.11836](http://arxiv.org/abs/2406.11836)|null|
+|**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713](http://arxiv.org/abs/2406.11713)|**[link](https://github.com/thanhluantrinh/lddgan)**|
+|**2024-06-17**|**Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**|Maximilian E. Tschuchnig et.al.|[2406.11650](http://arxiv.org/abs/2406.11650)|null|
+|**2024-06-17**|**Unveiling the Power of Source: Source-based Minimum Bayes Risk Decoding for Neural Machine Translation**|Boxuan Lyu et.al.|[2406.11632](http://arxiv.org/abs/2406.11632)|null|
+|**2024-06-17**|**Compressed Skinning for Facial Blendshapes**|Ladislav Kavan et.al.|[2406.11597](http://arxiv.org/abs/2406.11597)|null|
+|**2024-06-17**|**Energy Reduction Opportunities in HDR Video Encoding**|Christian Herglotz et.al.|[2406.11492](http://arxiv.org/abs/2406.11492)|null|
+|**2024-06-17**|**A Dictionary Based Approach for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2406.11330](http://arxiv.org/abs/2406.11330)|null|
+|**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259](http://arxiv.org/abs/2406.11259)|null|
+|**2024-06-17**|**Incentivizing Quality Text Generation via Statistical Contracts**|Eden Saig et.al.|[2406.11118](http://arxiv.org/abs/2406.11118)|**[link](https://github.com/edensaig/llm-contracts)**|
+|**2024-06-16**|**Parameter Blending for Multi-Camera Harmonization for Automotive Surround View Systems**|Yuzhuo Ren et.al.|[2406.11066](http://arxiv.org/abs/2406.11066)|null|
+|**2024-06-16**|**SingMOS: An extensive Open-Source Singing Voice Dataset for MOS Prediction**|Yuxun Tang et.al.|[2406.10911](http://arxiv.org/abs/2406.10911)|null|
+|**2024-06-15**|**MDeRainNet: An Efficient Neural Network for Rain Streak Removal from Macro-pixel Images**|Tao Yan et.al.|[2406.10652](http://arxiv.org/abs/2406.10652)|null|
+|**2024-06-15**|**Exploring the Impact of AI-generated Image Tools on Professional and Non-professional Users in the Art and Design Fields**|Yuying Tang et.al.|[2406.10640](http://arxiv.org/abs/2406.10640)|null|
+|**2024-06-15**|**Full reference point cloud quality assessment using support vector regression**|Ryosuke Watanabe et.al.|[2406.10520](http://arxiv.org/abs/2406.10520)|**[link](https://github.com/stac-usc/frsvr-pcqa)**|
+|**2024-06-15**|**CoMM: A Coherent Interleaved Image-Text Dataset for Multimodal Understanding and Generation**|Wei Chen et.al.|[2406.10462](http://arxiv.org/abs/2406.10462)|null|
+|**2024-06-14**|**Consistency-diversity-realism Pareto fronts of conditional image generative models**|Pietro Astolfi et.al.|[2406.10429](http://arxiv.org/abs/2406.10429)|null|
 |**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
 |**2024-06-14**|**AlignNet: Learning dataset score alignment functions to enable better training of speech quality estimators**|Jaden Pieper et.al.|[2406.10205](http://arxiv.org/abs/2406.10205)|null|
 |**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078](http://arxiv.org/abs/2406.10078)|null|
@@ -1200,6 +1220,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**A Dictionary Based Approach for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2406.11330](http://arxiv.org/abs/2406.11330)|null|
+|**2024-06-16**|**Geometric Distortion Guided Transformer for Omnidirectional Image Super-Resolution**|Cuixin Yang et.al.|[2406.10869](http://arxiv.org/abs/2406.10869)|null|
 |**2024-06-14**|**SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models**|Zhaoxu Luo et.al.|[2406.10225](http://arxiv.org/abs/2406.10225)|null|
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
 |**2024-06-14**|**Exact Sparse Representation Recovery in Signal Demixing and Group BLASSO**|Marcello Carioni et.al.|[2406.09922](http://arxiv.org/abs/2406.09922)|null|
@@ -1603,11 +1625,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**|Di Wang et.al.|[2406.11519](http://arxiv.org/abs/2406.11519)|**[link](https://github.com/whu-sigma/hypersigma)**|
+|**2024-06-17**|**Diffusion Models in Low-Level Vision: A Survey**|Chunming He et.al.|[2406.11138](http://arxiv.org/abs/2406.11138)|null|
+|**2024-06-16**|**ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model**|Song Zhang et.al.|[2406.10855](http://arxiv.org/abs/2406.10855)|**[link](https://github.com/strivezs/alps)**|
+|**2024-06-16**|**PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery**|Libo Wang et.al.|[2406.10828](http://arxiv.org/abs/2406.10828)|**[link](https://github.com/WangLibo1995/GeoSeg)**|
+|**2024-06-15**|**Beyond the Visible: Jointly Attending to Spectral and Spatial Dimensions with HSI-Diffusion for the FINCH Spacecraft**|Ian Vyse et.al.|[2406.10724](http://arxiv.org/abs/2406.10724)|null|
 |**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107](http://arxiv.org/abs/2406.10107)|null|
 |**2024-06-14**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Junwei Luo et.al.|[2406.10100](http://arxiv.org/abs/2406.10100)|**[link](https://github.com/luo-z13/skysensegpt)**|
 |**2024-06-14**|**Soil nitrogen forecasting from environmental variables provided by multisensor remote sensing images**|Weiying Zhao et.al.|[2406.09812](http://arxiv.org/abs/2406.09812)|null|
 |**2024-06-13**|**Modelling the magnetic vectors of ICMEs at different heliocentric distances with INFROS**|Ranadeep Sarkar et.al.|[2406.09247](http://arxiv.org/abs/2406.09247)|null|
-|**2024-06-13**|**A $^{2}$ -MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079](http://arxiv.org/abs/2406.08079)|null|
+|**2024-06-16**|**A $^{2}$ -MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079](http://arxiv.org/abs/2406.08079)|null|
 |**2024-06-12**|**Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review**|Anjali Raj et.al.|[2406.08031](http://arxiv.org/abs/2406.08031)|null|
 |**2024-06-12**|**Real-time, chirped-pulse heterodyne detection at room-temperature with 100GHz 3dB-bandwidth mid-infrared quantum-well photodetectors**|Quyang Lin et.al.|[2406.08027](http://arxiv.org/abs/2406.08027)|null|
 |**2024-06-11**|**Comparing Deep Learning Models for Rice Mapping in Bhutan Using High Resolution Satellite Imagery**|Biplov Bhandari et.al.|[2406.07482](http://arxiv.org/abs/2406.07482)|**[link](https://github.com/biplovbhandari/aces)**|

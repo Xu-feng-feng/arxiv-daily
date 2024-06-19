@@ -206,6 +206,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Learned Image Compression for HE-stained Histopathological Images via Stain Deconvolution**|Maximilian Fischer et.al.|[2406.12623](http://arxiv.org/abs/2406.12623)|null|
+|**2024-06-18**|**Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines**|Honglei Zhang et.al.|[2406.12367](http://arxiv.org/abs/2406.12367)|null|
 |**2024-06-15**|**How Should We Extract Discrete Audio Tokens from Self-Supervised Models?**|Pooneh Mousavi et.al.|[2406.10735](http://arxiv.org/abs/2406.10735)|null|
 |**2024-06-15**|**Object-Attribute-Relation Representation based Video Semantic Communication**|Qiyuan Du et.al.|[2406.10469](http://arxiv.org/abs/2406.10469)|null|
 |**2024-06-14**|**On Efficient Neural Network Architectures for Image Compression**|Yichi Zhang et.al.|[2406.10361](http://arxiv.org/abs/2406.10361)|null|
@@ -553,6 +555,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Automatic generation of insights from workers' actions in industrial workflows with explainable Machine Learning**|Francisco de Arriba-Pérez et.al.|[2406.12732](http://arxiv.org/abs/2406.12732)|null|
+|**2024-06-18**|**Learned Image Compression for HE-stained Histopathological Images via Stain Deconvolution**|Maximilian Fischer et.al.|[2406.12623](http://arxiv.org/abs/2406.12623)|null|
+|**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
+|**2024-06-18**|**Automated MRI Quality Assessment of Brain T1-weighted MRI in Clinical Data Warehouses: A Transfer Learning Approach Relying on Artefact Simulation**|Sophie Loizillon et.al.|[2406.12448](http://arxiv.org/abs/2406.12448)|null|
+|**2024-06-18**|**AI-Assisted Human Evaluation of Machine Translation**|Vilém Zouhar et.al.|[2406.12419](http://arxiv.org/abs/2406.12419)|null|
+|**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
+|**2024-06-17**|**A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets**|Bernhard Kerbl et.al.|[2406.12080](http://arxiv.org/abs/2406.12080)|null|
+|**2024-06-17**|**FinTruthQA: A Benchmark Dataset for Evaluating the Quality of Financial Information Disclosure**|Ziyue Xu et.al.|[2406.12009](http://arxiv.org/abs/2406.12009)|null|
 |**2024-06-17**|**RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians**|Bingling Li et.al.|[2406.11836](http://arxiv.org/abs/2406.11836)|null|
 |**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713](http://arxiv.org/abs/2406.11713)|**[link](https://github.com/thanhluantrinh/lddgan)**|
 |**2024-06-17**|**Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**|Maximilian E. Tschuchnig et.al.|[2406.11650](http://arxiv.org/abs/2406.11650)|null|
@@ -1220,6 +1230,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Structured Detection for Simultaneous Super-Resolution and Optical Sectioning in Laser Scanning Microscopy**|Alessandro Zunino et.al.|[2406.12542](http://arxiv.org/abs/2406.12542)|null|
+|**2024-06-18**|**LFMamba: Light Field Image Super-Resolution with State Space Model**|Wang xia et.al.|[2406.12463](http://arxiv.org/abs/2406.12463)|null|
 |**2024-06-17**|**A Dictionary Based Approach for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2406.11330](http://arxiv.org/abs/2406.11330)|null|
 |**2024-06-16**|**Geometric Distortion Guided Transformer for Omnidirectional Image Super-Resolution**|Cuixin Yang et.al.|[2406.10869](http://arxiv.org/abs/2406.10869)|null|
 |**2024-06-14**|**SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models**|Zhaoxu Luo et.al.|[2406.10225](http://arxiv.org/abs/2406.10225)|null|
@@ -1625,6 +1637,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847](http://arxiv.org/abs/2406.12847)|**[link](https://github.com/zhuduowang/changevit)**|
+|**2024-06-18**|**Windows Into Other Worlds: Pitfalls in the physical interpretation of exoplanet atmospheric spectroscopy**|Darius Modirrousta-Galian et.al.|[2406.12765](http://arxiv.org/abs/2406.12765)|null|
+|**2024-06-18**|**RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding**|Linrui Xu et.al.|[2406.12479](http://arxiv.org/abs/2406.12479)|**[link](https://github.com/geox-lab/rs-gpt4v)**|
+|**2024-06-18**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Xiang Li et.al.|[2406.12384](http://arxiv.org/abs/2406.12384)|**[link](https://github.com/lx709/vrsbench)**|
+|**2024-06-17**|**Scaling Efficient Masked Autoencoder Learning on Large Remote Sensing Dataset**|Fengxiang Wang et.al.|[2406.11933](http://arxiv.org/abs/2406.11933)|**[link](https://github.com/Fengxiang23/SelectiveMAE)**|
 |**2024-06-17**|**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**|Di Wang et.al.|[2406.11519](http://arxiv.org/abs/2406.11519)|**[link](https://github.com/whu-sigma/hypersigma)**|
 |**2024-06-17**|**Diffusion Models in Low-Level Vision: A Survey**|Chunming He et.al.|[2406.11138](http://arxiv.org/abs/2406.11138)|null|
 |**2024-06-16**|**ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model**|Song Zhang et.al.|[2406.10855](http://arxiv.org/abs/2406.10855)|**[link](https://github.com/strivezs/alps)**|

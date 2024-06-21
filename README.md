@@ -34,7 +34,7 @@
 |**2024-03-13**|**Point Cloud Compression via Constrained Optimal Transport**|Zezeng Li et.al.|[2403.08236](http://arxiv.org/abs/2403.08236)|**[link](https://github.com/cognaclee/pcc-cot)**|
 |**2024-03-08**|**Arbitrary-Scale Point Cloud Upsampling by Voxel-Based Network with Latent Geometric-Consistent Learning**|Hang Du et.al.|[2403.05117](http://arxiv.org/abs/2403.05117)|**[link](https://github.com/hikvision-research/3dvision)**|
 |**2024-03-01**|**Assessing objective quality metrics for JPEG and MPEG point cloud coding**|Davi Lazzarotto et.al.|[2403.00410](http://arxiv.org/abs/2403.00410)|null|
-|**2024-02-23**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|null|
+|**2024-02-23**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|**[link](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification)**|
 |**2024-02-18**|**3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods**|Till Beemelmanns et.al.|[2402.11680](http://arxiv.org/abs/2402.11680)|**[link](https://github.com/ika-rwth-aachen/point-cloud-compression)**|
 |**2024-02-17**|**Hierarchical Prior-based Super Resolution for Point Cloud Geometry Compression**|Dingquan Li et.al.|[2402.11250](http://arxiv.org/abs/2402.11250)|**[link](https://github.com/lidq92/mpeg-pcc-tmc13)**|
 |**2024-02-11**|**PIVOT-Net: Heterogeneous Point-Voxel-Tree-based Framework for Point Cloud Compression**|Jiahao Pang et.al.|[2402.07243](http://arxiv.org/abs/2402.07243)|null|
@@ -206,6 +206,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Ranking LLMs by compression**|Peijia Guo et.al.|[2406.14171](http://arxiv.org/abs/2406.14171)|null|
+|**2024-06-20**|**Measuring Sample Importance in Data Pruning for Training LLMs from a Data Compression Perspective**|Minsang Kim et.al.|[2406.14124](http://arxiv.org/abs/2406.14124)|null|
+|**2024-06-20**|**Prediction and Reference Quality Adaptation for Learned Video Compression**|Xihua Sheng et.al.|[2406.14118](http://arxiv.org/abs/2406.14118)|null|
+|**2024-06-19**|**Convex-hull Estimation using XPSNR for Versatile Video Coding**|Vignesh V Menon et.al.|[2406.13712](http://arxiv.org/abs/2406.13712)|null|
+|**2024-06-19**|**A Study on the Effect of Color Spaces in Learned Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2406.13709](http://arxiv.org/abs/2406.13709)|null|
+|**2024-06-19**|**Stability and Generalizability in SDE Diffusion Models with Measure-Preserving Dynamics**|Weitong Zhang et.al.|[2406.13652](http://arxiv.org/abs/2406.13652)|null|
 |**2024-06-18**|**Learned Image Compression for HE-stained Histopathological Images via Stain Deconvolution**|Maximilian Fischer et.al.|[2406.12623](http://arxiv.org/abs/2406.12623)|null|
 |**2024-06-18**|**Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines**|Honglei Zhang et.al.|[2406.12367](http://arxiv.org/abs/2406.12367)|null|
 |**2024-06-15**|**How Should We Extract Discrete Audio Tokens from Self-Supervised Models?**|Pooneh Mousavi et.al.|[2406.10735](http://arxiv.org/abs/2406.10735)|null|
@@ -555,6 +561,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**A Fuzzy Logic-Based Quality Model For Identifying Microservices With Low Maintainability**|Rahime Yilmaz et.al.|[2406.14489](http://arxiv.org/abs/2406.14489)|null|
+|**2024-06-20**|**Enhancing multivariate post-processed visibility predictions utilizing CAMS forecasts**|Mária Lakatos et.al.|[2406.14159](http://arxiv.org/abs/2406.14159)|null|
+|**2024-06-20**|**EnTruth: Enhancing the Traceability of Unauthorized Dataset Usage in Text-to-image Diffusion Models with Minimal and Robust Alterations**|Jie Ren et.al.|[2406.13933](http://arxiv.org/abs/2406.13933)|null|
+|**2024-06-19**|**IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution**|Alireza Aghelan et.al.|[2406.13815](http://arxiv.org/abs/2406.13815)|null|
+|**2024-06-19**|**Convex-hull Estimation using XPSNR for Versatile Video Coding**|Vignesh V Menon et.al.|[2406.13712](http://arxiv.org/abs/2406.13712)|null|
+|**2024-06-19**|**Assessing the 3D resolution of refocused correlation plenoptic images using a general-purpose image quality estimator**|Gianlorenzo Massaro et.al.|[2406.13501](http://arxiv.org/abs/2406.13501)|null|
+|**2024-06-19**|**ALiiCE: Evaluating Positional Fine-grained Citation Generation**|Yilong Xu et.al.|[2406.13375](http://arxiv.org/abs/2406.13375)|null|
+|**2024-06-19**|**AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric Conditioned Diffusion Models**|Ken Chen et.al.|[2406.13272](http://arxiv.org/abs/2406.13272)|null|
+|**2024-06-19**|**New methods for ALMA angular-scale based observation scheduling, quality assessment, and beam shaping II: refinements**|Dirk Petry et.al.|[2406.13199](http://arxiv.org/abs/2406.13199)|null|
+|**2024-06-18**|**NTIRE 2024 Challenge on Night Photography Rendering**|Egor Ershov et.al.|[2406.13007](http://arxiv.org/abs/2406.13007)|null|
+|**2024-06-18**|**Pattern or Artifact? Interactively Exploring Embedding Quality with TRACE**|Edith Heiter et.al.|[2406.12953](http://arxiv.org/abs/2406.12953)|null|
 |**2024-06-18**|**Automatic generation of insights from workers' actions in industrial workflows with explainable Machine Learning**|Francisco de Arriba-Pérez et.al.|[2406.12732](http://arxiv.org/abs/2406.12732)|null|
 |**2024-06-18**|**Learned Image Compression for HE-stained Histopathological Images via Stain Deconvolution**|Maximilian Fischer et.al.|[2406.12623](http://arxiv.org/abs/2406.12623)|null|
 |**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
@@ -1230,6 +1247,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Zero-Shot Image Denoising for High-Resolution Electron Microscopy**|Xuanyu Tian et.al.|[2406.14264](http://arxiv.org/abs/2406.14264)|null|
+|**2024-06-19**|**IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution**|Alireza Aghelan et.al.|[2406.13815](http://arxiv.org/abs/2406.13815)|null|
+|**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625](http://arxiv.org/abs/2406.13625)|null|
+|**2024-06-19**|**EvTexture: Event-driven Texture Enhancement for Video Super-Resolution**|Dachun Kai et.al.|[2406.13457](http://arxiv.org/abs/2406.13457)|**[link](https://github.com/dachunkai/evtexture)**|
+|**2024-06-19**|**Super-resolution 3D tomography of vector near-fields in dielectric resonators**|Bingbing Zhu et.al.|[2406.13171](http://arxiv.org/abs/2406.13171)|null|
 |**2024-06-18**|**Structured Detection for Simultaneous Super-Resolution and Optical Sectioning in Laser Scanning Microscopy**|Alessandro Zunino et.al.|[2406.12542](http://arxiv.org/abs/2406.12542)|null|
 |**2024-06-18**|**LFMamba: Light Field Image Super-Resolution with State Space Model**|Wang xia et.al.|[2406.12463](http://arxiv.org/abs/2406.12463)|null|
 |**2024-06-17**|**A Dictionary Based Approach for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2406.11330](http://arxiv.org/abs/2406.11330)|null|
@@ -1637,6 +1659,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Evaluation of Deep Learning Semantic Segmentation for Land Cover Mapping on Multispectral, Hyperspectral and High Spatial Aerial Imagery**|Ilham Adi Panuntun et.al.|[2406.14220](http://arxiv.org/abs/2406.14220)|null|
+|**2024-06-20**|**Semi Supervised Heterogeneous Domain Adaptation via Disentanglement and Pseudo-Labelling**|Cassio F. Dantas et.al.|[2406.14087](http://arxiv.org/abs/2406.14087)|**[link](https://github.com/tanodino/sshda)**|
+|**2024-06-20**|**Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images**|Qinfeng Zhu et.al.|[2406.14086](http://arxiv.org/abs/2406.14086)|**[link](https://github.com/zhuqinfeng1999/seg-lstm)**|
+|**2024-06-20**|**CMTNet: Convolutional Meets Transformer Network for Hyperspectral Images Classification**|Faxu Guo et.al.|[2406.14080](http://arxiv.org/abs/2406.14080)|null|
+|**2024-06-19**|**Locating and measuring marine aquaculture production from space: a computer vision approach in the French Mediterranean**|Sebastian Quaade et.al.|[2406.13847](http://arxiv.org/abs/2406.13847)|null|
+|**2024-06-19**|**Velocity Analysis of Moving Objects in Earth Observation Satellite Images Using Multi-Spectral Push Broom Scanning**|Eric Keto et.al.|[2406.13710](http://arxiv.org/abs/2406.13710)|null|
+|**2024-06-19**|**DDLNet: Boosting Remote Sensing Change Detection with Dual-Domain Learning**|Xiaowen Ma et.al.|[2406.13606](http://arxiv.org/abs/2406.13606)|**[link](https://github.com/xwmaxwma/rschange)**|
+|**2024-06-19**|**Formation of a Magnetic Cloud from the Merging of Two Successive Coronal Mass Ejections**|Chong Chen et.al.|[2406.13603](http://arxiv.org/abs/2406.13603)|null|
+|**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|null|
+|**2024-06-19**|**Multi-scale Restoration of Missing Data in Optical Time-series Images with Masked Spatial-Temporal Attention Network**|Zaiyan Zhang et.al.|[2406.13358](http://arxiv.org/abs/2406.13358)|null|
+|**2024-06-18**|**Scale-Translation Equivariant Network for Oceanic Internal Solitary Wave Localization**|Zhang Wan et.al.|[2406.13060](http://arxiv.org/abs/2406.13060)|**[link](https://github.com/zhangwan-byte/internal_solitary_wave_localization)**|
 |**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847](http://arxiv.org/abs/2406.12847)|**[link](https://github.com/zhuduowang/changevit)**|
 |**2024-06-18**|**Windows Into Other Worlds: Pitfalls in the physical interpretation of exoplanet atmospheric spectroscopy**|Darius Modirrousta-Galian et.al.|[2406.12765](http://arxiv.org/abs/2406.12765)|null|
 |**2024-06-18**|**RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding**|Linrui Xu et.al.|[2406.12479](http://arxiv.org/abs/2406.12479)|**[link](https://github.com/geox-lab/rs-gpt4v)**|

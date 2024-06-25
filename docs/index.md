@@ -197,6 +197,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Hierarchical B-frame Video Coding for Long Group of Pictures**|Ivan Kirillov et.al.|[2406.16544](http://arxiv.org/abs/2406.16544)|null|
 |**2024-06-20**|**Ranking LLMs by compression**|Peijia Guo et.al.|[2406.14171](http://arxiv.org/abs/2406.14171)|null|
 |**2024-06-21**|**Measuring Sample Importance in Data Pruning for Training LLMs from a Data Compression Perspective**|Minsang Kim et.al.|[2406.14124](http://arxiv.org/abs/2406.14124)|null|
 |**2024-06-20**|**Prediction and Reference Quality Adaptation for Learned Video Compression**|Xihua Sheng et.al.|[2406.14118](http://arxiv.org/abs/2406.14118)|null|
@@ -550,9 +551,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**3D distortion-free, reduced field of view diffusion-prepared GRE at 3T**|Sarah McElroy et.al.|[2406.16809](http://arxiv.org/abs/2406.16809)|null|
+|**2024-06-24**|**Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**|Katherine M. Collins et.al.|[2406.16807](http://arxiv.org/abs/2406.16807)|null|
+|**2024-06-24**|**Vision-Language Consistency Guided Multi-modal Prompt Learning for Blind AI Generated Image Quality Assessment**|Jun Fu et.al.|[2406.16641](http://arxiv.org/abs/2406.16641)|null|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477](http://arxiv.org/abs/2406.16477)|null|
+|**2024-06-24**|**Approximate DCT and Quantization Techniques for Energy-Constrained Image Sensors**|Ming-Che Li et.al.|[2406.16358](http://arxiv.org/abs/2406.16358)|null|
+|**2024-06-24**|**Priorformer: A UGC-VQA Method with content and distortion priors**|Yajing Pei et.al.|[2406.16297](http://arxiv.org/abs/2406.16297)|null|
+|**2024-06-23**|**Listen and Move: Improving GANs Coherency in Agnostic Sound-to-Video Generation**|Rafael Redondo et.al.|[2406.16155](http://arxiv.org/abs/2406.16155)|null|
+|**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073](http://arxiv.org/abs/2406.16073)|null|
+|**2024-06-22**|**Quality-guided Skin Tone Enhancement for Portrait Photography**|Shiqi Gao et.al.|[2406.15848](http://arxiv.org/abs/2406.15848)|null|
+|**2024-06-21**|**Adaptive Self-Supervised Consistency-Guided Diffusion Model for Accelerated MRI Reconstruction**|Mojtaba Safari et.al.|[2406.15656](http://arxiv.org/abs/2406.15656)|null|
+|**2024-06-21**|**Contrastive Entity Coreference and Disambiguation for Historical Texts**|Abhishek Arora et.al.|[2406.15576](http://arxiv.org/abs/2406.15576)|null|
 |**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
 |**2024-06-21**|**Towards Robust Training Datasets for Machine Learning with Ontologies: A Case Study for Emergency Road Vehicle Detection**|Lynn Vonderhaar et.al.|[2406.15268](http://arxiv.org/abs/2406.15268)|null|
-|**2024-06-21**|**MantisScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**|Xuan He et.al.|[2406.15252](http://arxiv.org/abs/2406.15252)|null|
+|**2024-06-24**|**VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**|Xuan He et.al.|[2406.15252](http://arxiv.org/abs/2406.15252)|null|
 |**2024-06-21**|**Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**|Junbo Peng et.al.|[2406.15219](http://arxiv.org/abs/2406.15219)|null|
 |**2024-06-21**|**Benchmarking Retinal Blood Vessel Segmentation Models for Cross-Dataset and Cross-Disease Generalization**|Jeremiah Fadugba et.al.|[2406.14994](http://arxiv.org/abs/2406.14994)|**[link](https://github.com/berenslab/retinal-vessel-segmentation-benchmark)**|
 |**2024-06-21**|**Fair Text to Medical Image Diffusion Model with Subgroup Distribution Aligned Tuning**|Xu Han et.al.|[2406.14847](http://arxiv.org/abs/2406.14847)|null|
@@ -1242,6 +1254,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477](http://arxiv.org/abs/2406.16477)|null|
+|**2024-06-24**|**Suppressing Uncertainties in Degradation Estimation for Blind Super-Resolution**|Junxiong Lin et.al.|[2406.16459](http://arxiv.org/abs/2406.16459)|null|
+|**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359](http://arxiv.org/abs/2406.16359)|null|
+|**2024-06-23**|**Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning**|Ruisheng Gao et.al.|[2406.16083](http://arxiv.org/abs/2406.16083)|null|
+|**2024-06-23**|**Gridless Parameter Estimation in Partly Calibrated Rectangular Arrays**|Tianyi Liu et.al.|[2406.16041](http://arxiv.org/abs/2406.16041)|null|
+|**2024-06-23**|**Learning Accurate and Enriched Features for Stereo Image Super-Resolution**|Hu Gao et.al.|[2406.16001](http://arxiv.org/abs/2406.16001)|null|
 |**2024-06-21**|**A Generative Machine Learning Approach for Improving Precipitation from Earth System Models**|Philipp Hess et.al.|[2406.15026](http://arxiv.org/abs/2406.15026)|null|
 |**2024-06-20**|**Zero-Shot Image Denoising for High-Resolution Electron Microscopy**|Xuanyu Tian et.al.|[2406.14264](http://arxiv.org/abs/2406.14264)|null|
 |**2024-06-19**|**IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution**|Alireza Aghelan et.al.|[2406.13815](http://arxiv.org/abs/2406.13815)|null|
@@ -1653,6 +1671,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513](http://arxiv.org/abs/2406.16513)|null|
+|**2024-06-24**|**LOGCAN++: Local-global class-aware network for semantic segmentation of remote sensing images**|Xiaowen Ma et.al.|[2406.16502](http://arxiv.org/abs/2406.16502)|**[link](https://github.com/xwmaxwma/rssegmentation)**|
+|**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129](http://arxiv.org/abs/2406.16129)|null|
+|**2024-06-22**|**Single-Temporal Supervised Learning for Universal Remote Sensing Change Detection**|Zhuo Zheng et.al.|[2406.15694](http://arxiv.org/abs/2406.15694)|**[link](https://github.com/Z-Zheng/pytorch-change-models)**|
+|**2024-06-21**|**Miniature fluorescence sensor for quantitative detection of brain tumour**|Jean Pierre Ndabakuranye et.al.|[2406.15520](http://arxiv.org/abs/2406.15520)|null|
 |**2024-06-21**|**Rethinking Remote Sensing Change Detection With A Mask View**|Xiaowen Ma et.al.|[2406.15320](http://arxiv.org/abs/2406.15320)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2024-06-21**|**Understanding the variability of helium abundance in the solar corona using three-fluid modeling and UV observations**|Leon Ofman et.al.|[2406.14897](http://arxiv.org/abs/2406.14897)|null|
 |**2024-06-20**|**Evaluation of Deep Learning Semantic Segmentation for Land Cover Mapping on Multispectral, Hyperspectral and High Spatial Aerial Imagery**|Ilham Adi Panuntun et.al.|[2406.14220](http://arxiv.org/abs/2406.14220)|null|
@@ -1664,7 +1687,7 @@ layout: default
 |**2024-06-19**|**DDLNet: Boosting Remote Sensing Change Detection with Dual-Domain Learning**|Xiaowen Ma et.al.|[2406.13606](http://arxiv.org/abs/2406.13606)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2024-06-19**|**Formation of a Magnetic Cloud from the Merging of Two Successive Coronal Mass Ejections**|Chong Chen et.al.|[2406.13603](http://arxiv.org/abs/2406.13603)|null|
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|null|
-|**2024-06-19**|**Multi-scale Restoration of Missing Data in Optical Time-series Images with Masked Spatial-Temporal Attention Network**|Zaiyan Zhang et.al.|[2406.13358](http://arxiv.org/abs/2406.13358)|null|
+|**2024-06-19**|**Multi-scale Restoration of Missing Data in Optical Time-series Images with Masked Spatial-Temporal Attention Network**|Zaiyan Zhang et.al.|[2406.13358](http://arxiv.org/abs/2406.13358)|**[link](https://github.com/zzaiyan/MS2TAN)**|
 |**2024-06-18**|**Scale-Translation Equivariant Network for Oceanic Internal Solitary Wave Localization**|Zhang Wan et.al.|[2406.13060](http://arxiv.org/abs/2406.13060)|**[link](https://github.com/zhangwan-byte/internal_solitary_wave_localization)**|
 |**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847](http://arxiv.org/abs/2406.12847)|**[link](https://github.com/zhuduowang/changevit)**|
 |**2024-06-21**|**Windows Into Other Worlds: Pitfalls in the physical interpretation of exoplanet atmospheric spectroscopy**|Darius Modirrousta-Galian et.al.|[2406.12765](http://arxiv.org/abs/2406.12765)|null|

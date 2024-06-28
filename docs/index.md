@@ -197,6 +197,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301](http://arxiv.org/abs/2406.19301)|null|
+|**2024-06-27**|**Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without**|Ruida Zhou et.al.|[2406.19248](http://arxiv.org/abs/2406.19248)|null|
 |**2024-06-25**|**Asymptotically Minimax Regret by Bayes Mixtures**|Jun'ichi Takeuchi et.al.|[2406.17929](http://arxiv.org/abs/2406.17929)|null|
 |**2024-06-24**|**Hierarchical B-frame Video Coding for Long Group of Pictures**|Ivan Kirillov et.al.|[2406.16544](http://arxiv.org/abs/2406.16544)|null|
 |**2024-06-20**|**Ranking LLMs by compression**|Peijia Guo et.al.|[2406.14171](http://arxiv.org/abs/2406.14171)|null|
@@ -552,9 +554,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al.|[2406.19393](http://arxiv.org/abs/2406.19393)|**[link](https://github.com/vico-uoe/looking3d)**|
+|**2024-06-27**|**AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI**|Kaveen Hiniduma et.al.|[2406.19256](http://arxiv.org/abs/2406.19256)|null|
+|**2024-06-27**|**Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without**|Ruida Zhou et.al.|[2406.19248](http://arxiv.org/abs/2406.19248)|null|
+|**2024-06-27**|**Local Manifold Learning for No-Reference Image Quality Assessment**|Timin Gao et.al.|[2406.19247](http://arxiv.org/abs/2406.19247)|null|
+|**2024-06-27**|**Complex-valued scatter compensation in nonlinear microscopy**|Maximilian Sohmen et.al.|[2406.19031](http://arxiv.org/abs/2406.19031)|null|
+|**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030](http://arxiv.org/abs/2406.19030)|null|
+|**2024-06-26**|**IDA-UIE: An Iterative Framework for Deep Network-based Degradation Aware Underwater Image Enhancement**|Pranjali Singh et.al.|[2406.18628](http://arxiv.org/abs/2406.18628)|null|
 |**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/abs/2406.18533)|**[link](https://github.com/nyu-systems/grendel-gs)**|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524](http://arxiv.org/abs/2406.18524)|null|
-|**2024-06-26**|**ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**|Shenghai Yuan et.al.|[2406.18522](http://arxiv.org/abs/2406.18522)|null|
+|**2024-06-26**|**ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**|Shenghai Yuan et.al.|[2406.18522](http://arxiv.org/abs/2406.18522)|**[link](https://github.com/pku-yuangroup/chronomagic-bench)**|
 |**2024-06-26**|**MFDNet: Multi-Frequency Deflare Network for Efficient Nighttime Flare Removal**|Yiguo Jiang et.al.|[2406.18079](http://arxiv.org/abs/2406.18079)|null|
 |**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054](http://arxiv.org/abs/2406.18054)|null|
 |**2024-06-25**|**Burst Image Super-Resolution with Base Frame Selection**|Sanghyun Kim et.al.|[2406.17869](http://arxiv.org/abs/2406.17869)|null|
@@ -1270,6 +1279,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Super-resolution imaging using super-oscillatory diffractive neural networks**|Hang Chen et.al.|[2406.19126](http://arxiv.org/abs/2406.19126)|null|
 |**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310](http://arxiv.org/abs/2406.18310)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
 |**2024-06-25**|**V2X Sidelink Positioning in FR1: From Ray-Tracing and Channel Estimation to Bayesian Tracking**|Yu Ge et.al.|[2406.17950](http://arxiv.org/abs/2406.17950)|null|
 |**2024-06-25**|**Burst Image Super-Resolution with Base Frame Selection**|Sanghyun Kim et.al.|[2406.17869](http://arxiv.org/abs/2406.17869)|null|
@@ -1691,6 +1701,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Secure quantum-enhanced measurements on a network of sensors**|Sean William Moore et.al.|[2406.19285](http://arxiv.org/abs/2406.19285)|null|
+|**2024-06-27**|**Simultaneous determination of the dielectric relaxation behavior and soilwater characteristic curve of undisturbed soil samples**|Norman Wagner et.al.|[2406.18909](http://arxiv.org/abs/2406.18909)|null|
 |**2024-06-26**|**Evaluating and Benchmarking Foundation Models for Earth Observation and Geospatial AI**|Nikolaos Dionelis et.al.|[2406.18295](http://arxiv.org/abs/2406.18295)|null|
 |**2024-06-26**|**CAS: Confidence Assessments of classification algorithms for Semantic segmentation of EO data**|Nikolaos Dionelis et.al.|[2406.18279](http://arxiv.org/abs/2406.18279)|null|
 |**2024-06-26**|**SynRS3D: A Synthetic Dataset for Global 3D Semantic Understanding from Monocular Remote Sensing Imagery**|Jian Song et.al.|[2406.18151](http://arxiv.org/abs/2406.18151)|null|

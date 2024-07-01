@@ -206,6 +206,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997](http://arxiv.org/abs/2406.19997)|null|
+|**2024-06-28**|**Optimal Video Compression using Pixel Shift Tracking**|Hitesh Saai Mananchery Panneerselvam et.al.|[2406.19630](http://arxiv.org/abs/2406.19630)|null|
 |**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301](http://arxiv.org/abs/2406.19301)|null|
 |**2024-06-27**|**Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without**|Ruida Zhou et.al.|[2406.19248](http://arxiv.org/abs/2406.19248)|null|
 |**2024-06-25**|**Asymptotically Minimax Regret by Bayes Mixtures**|Jun'ichi Takeuchi et.al.|[2406.17929](http://arxiv.org/abs/2406.17929)|null|
@@ -565,6 +567,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**MR-zero meets FLASH -- Controlling the transient signal decay in gradient- and rf-spoiled gradient echo sequences**|Simon Weinmüller et.al.|[2406.19877](http://arxiv.org/abs/2406.19877)|null|
+|**2024-06-28**|**Deep Fusion Model for Brain Tumor Classification Using Fine-Grained Gradient Preservation**|Niful Islam et.al.|[2406.19690](http://arxiv.org/abs/2406.19690)|null|
+|**2024-06-28**|**UltraGelBot: Autonomous Gel Dispenser for Robotic Ultrasound**|Deepak Raina et.al.|[2406.19678](http://arxiv.org/abs/2406.19678)|null|
+|**2024-06-28**|**PopAlign: Population-Level Alignment for Fair Text-to-Image Generation**|Shufan Li et.al.|[2406.19668](http://arxiv.org/abs/2406.19668)|**[link](https://github.com/jacklishufan/popalignsdxl)**|
+|**2024-06-27**|**Robustness Testing of Black-Box Models Against CT Degradation Through Test-Time Augmentation**|Jack Highton et.al.|[2406.19557](http://arxiv.org/abs/2406.19557)|null|
+|**2024-06-27**|**Lightweight Predictive 3D Gaussian Splats**|Junli Cao et.al.|[2406.19434](http://arxiv.org/abs/2406.19434)|**[link](https://github.com/plumpuddings/lpgs)**|
 |**2024-06-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al.|[2406.19393](http://arxiv.org/abs/2406.19393)|**[link](https://github.com/vico-uoe/looking3d)**|
 |**2024-06-27**|**AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI**|Kaveen Hiniduma et.al.|[2406.19256](http://arxiv.org/abs/2406.19256)|null|
 |**2024-06-27**|**Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without**|Ruida Zhou et.al.|[2406.19248](http://arxiv.org/abs/2406.19248)|null|
@@ -1292,6 +1300,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066](http://arxiv.org/abs/2406.20066)|null|
+|**2024-06-28**|**Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**|Xiantao Fan et.al.|[2406.20047](http://arxiv.org/abs/2406.20047)|null|
+|**2024-06-28**|**CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**|Chih-Chung Hsu et.al.|[2406.19666](http://arxiv.org/abs/2406.19666)|**[link](https://github.com/ming053l/csakd)**|
+|**2024-06-28**|**Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion**|Quanmin Liang et.al.|[2406.19640](http://arxiv.org/abs/2406.19640)|**[link](https://github.com/lqm26/rmfnet)**|
+|**2024-06-27**|**Shoulder of Dust Rings Formed by Planet-disk Interactions**|Jiaqing Bi et.al.|[2406.19438](http://arxiv.org/abs/2406.19438)|null|
 |**2024-06-27**|**Super-resolution imaging using super-oscillatory diffractive neural networks**|Hang Chen et.al.|[2406.19126](http://arxiv.org/abs/2406.19126)|null|
 |**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310](http://arxiv.org/abs/2406.18310)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
 |**2024-06-25**|**V2X Sidelink Positioning in FR1: From Ray-Tracing and Channel Estimation to Bayesian Tracking**|Yu Ge et.al.|[2406.17950](http://arxiv.org/abs/2406.17950)|null|
@@ -1716,6 +1729,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Monolithic lithium niobate photonic chip for efficient terahertz-optic modulation and terahertz generation**|Yiwen Zhang et.al.|[2406.19620](http://arxiv.org/abs/2406.19620)|null|
+|**2024-06-27**|**Cost-efficient Active Illumination Camera For Hyper-spectral Reconstruction**|Yuxuan Zhang et.al.|[2406.19560](http://arxiv.org/abs/2406.19560)|null|
 |**2024-06-27**|**Secure quantum-enhanced measurements on a network of sensors**|Sean William Moore et.al.|[2406.19285](http://arxiv.org/abs/2406.19285)|null|
 |**2024-06-27**|**Simultaneous determination of the dielectric relaxation behavior and soilwater characteristic curve of undisturbed soil samples**|Norman Wagner et.al.|[2406.18909](http://arxiv.org/abs/2406.18909)|null|
 |**2024-06-26**|**Evaluating and Benchmarking Foundation Models for Earth Observation and Geospatial AI**|Nikolaos Dionelis et.al.|[2406.18295](http://arxiv.org/abs/2406.18295)|null|

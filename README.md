@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -200,7 +200,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## Compression
 
@@ -559,7 +559,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -574,9 +574,9 @@
 |**2024-06-26**|**IDA-UIE: An Iterative Framework for Deep Network-based Degradation Aware Underwater Image Enhancement**|Pranjali Singh et.al.|[2406.18628](http://arxiv.org/abs/2406.18628)|null|
 |**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/abs/2406.18533)|**[link](https://github.com/nyu-systems/grendel-gs)**|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524](http://arxiv.org/abs/2406.18524)|null|
-|**2024-06-26**|**ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**|Shenghai Yuan et.al.|[2406.18522](http://arxiv.org/abs/2406.18522)|**[link](https://github.com/pku-yuangroup/chronomagic-bench)**|
+|**2024-06-26**|**ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**|Shenghai Yuan et.al.|[2406.18522](http://arxiv.org/abs/2406.18522)|**[link](https://github.com/pku-yuangroup/magictime)**|
 |**2024-06-26**|**MFDNet: Multi-Frequency Deflare Network for Efficient Nighttime Flare Removal**|Yiguo Jiang et.al.|[2406.18079](http://arxiv.org/abs/2406.18079)|null|
-|**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054](http://arxiv.org/abs/2406.18054)|null|
+|**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054](http://arxiv.org/abs/2406.18054)|**[link](https://github.com/qilaizhang/diffusion-ffpe)**|
 |**2024-06-25**|**Burst Image Super-Resolution with Base Frame Selection**|Sanghyun Kim et.al.|[2406.17869](http://arxiv.org/abs/2406.17869)|null|
 |**2024-06-25**|**Sparse-view Signal-domain Photoacoustic Tomography Reconstruction Method Based on Neural Representation**|Bowei Yao et.al.|[2406.17578](http://arxiv.org/abs/2406.17578)|null|
 |**2024-06-25**|**UHD-IQA Benchmark Database: Pushing the Boundaries of Blind Photo Quality Assessment**|Vlad Hosu et.al.|[2406.17472](http://arxiv.org/abs/2406.17472)|null|
@@ -1286,7 +1286,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -1710,7 +1710,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -1723,7 +1723,7 @@
 |**2024-06-26**|**SynRS3D: A Synthetic Dataset for Global 3D Semantic Understanding from Monocular Remote Sensing Imagery**|Jian Song et.al.|[2406.18151](http://arxiv.org/abs/2406.18151)|null|
 |**2024-06-26**|**Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model**|Zhuo Zheng et.al.|[2406.17998](http://arxiv.org/abs/2406.17998)|null|
 |**2024-06-25**|**Cross-Modal Spherical Aggregation for Weakly Supervised Remote Sensing Shadow Removal**|Kaichen Chi et.al.|[2406.17469](http://arxiv.org/abs/2406.17469)|null|
-|**2024-06-25**|**Continuous Urban Change Detection from Satellite Image Time Series with Temporal Feature Refinement and Multi-Task Integration**|Sebastian Hafner et.al.|[2406.17458](http://arxiv.org/abs/2406.17458)|null|
+|**2024-06-25**|**Continuous Urban Change Detection from Satellite Image Time Series with Temporal Feature Refinement and Multi-Task Integration**|Sebastian Hafner et.al.|[2406.17458](http://arxiv.org/abs/2406.17458)|**[link](https://github.com/sebastianhafner/conturbancd)**|
 |**2024-06-24**|**Quantifying Heterogeneous Ecosystem Services With Multi-Label Soft Classification**|Zhihui Tian et.al.|[2406.17147](http://arxiv.org/abs/2406.17147)|null|
 |**2024-06-19**|**Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales**|Peter Manshausen et.al.|[2406.16947](http://arxiv.org/abs/2406.16947)|null|
 |**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513](http://arxiv.org/abs/2406.16513)|null|
@@ -2213,7 +2213,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

@@ -197,6 +197,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Statistical Analysis of ZFP: Understanding Bias**|Alyson Fox et.al.|[2407.01826](http://arxiv.org/abs/2407.01826)|null|
+|**2024-07-01**|**An AI-based, Error-bounded Compression Scheme for High-frequency Power Quality Disturbance Data**|Markus Stroot et.al.|[2407.01112](http://arxiv.org/abs/2407.01112)|null|
 |**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997](http://arxiv.org/abs/2406.19997)|null|
 |**2024-06-28**|**Optimal Video Compression using Pixel Shift Tracking**|Hitesh Saai Mananchery Panneerselvam et.al.|[2406.19630](http://arxiv.org/abs/2406.19630)|null|
 |**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301](http://arxiv.org/abs/2406.19301)|null|
@@ -556,6 +558,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Off-Grid Ultrasound Imaging by Stochastic Optimization**|Vincent van de Schaft et.al.|[2407.02285](http://arxiv.org/abs/2407.02285)|null|
+|**2024-07-02**|**SwiftDiffusion: Efficient Diffusion Model Serving with Add-on Modules**|Suyi Li et.al.|[2407.02031](http://arxiv.org/abs/2407.02031)|null|
+|**2024-07-01**|**Free-text Rationale Generation under Readability Level Control**|Yi-Sheng Hsu et.al.|[2407.01384](http://arxiv.org/abs/2407.01384)|null|
+|**2024-07-01**|**GaussianStego: A Generalizable Stenography Pipeline for Generative 3D Gaussians Splatting**|Chenxin Li et.al.|[2407.01301](http://arxiv.org/abs/2407.01301)|null|
+|**2024-07-01**|**Optical turbulence vertical distribution at the Peak Terskol Observatory and Mt. Kurapdag**|A. Y. Shikhovtsev et.al.|[2407.00960](http://arxiv.org/abs/2407.00960)|null|
+|**2024-07-01**|**Diffusion Transformer Model With Compact Prior for Low-dose PET Reconstruction**|Bin Huang et.al.|[2407.00944](http://arxiv.org/abs/2407.00944)|null|
+|**2024-06-30**|**A Comparative Study of Quality Evaluation Methods for Text Summarization**|Huyen Nguyen et.al.|[2407.00747](http://arxiv.org/abs/2407.00747)|null|
+|**2024-06-30**|**DCI: An Accurate Quality Assessment Criteria for Protein Complex Structure Models**|Wenda Wang et.al.|[2407.00560](http://arxiv.org/abs/2407.00560)|null|
+|**2024-06-29**|**Dynamic Optimization of Video Streaming Quality Using Network Digital Twin Technology**|Zurh Farus et.al.|[2407.00513](http://arxiv.org/abs/2407.00513)|null|
+|**2024-07-02**|**RTGS: Enabling Real-Time Gaussian Splatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering**|Weikai Lin et.al.|[2407.00435](http://arxiv.org/abs/2407.00435)|null|
+|**2024-06-29**|**Benchmark Evaluation of Image Fusion algorithms for Smartphone Camera Capture**|Lucas N. Kirsten et.al.|[2407.00301](http://arxiv.org/abs/2407.00301)|null|
+|**2024-06-28**|**PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration**|Yuxuan Sun et.al.|[2407.00203](http://arxiv.org/abs/2407.00203)|null|
+|**2024-06-28**|**Quantitative Methods in Research Evaluation Citation Indicators, Altmetrics, and Artificial Intelligence**|Mike Thelwall et.al.|[2407.00135](http://arxiv.org/abs/2407.00135)|null|
 |**2024-06-28**|**MR-zero meets FLASH -- Controlling the transient signal decay in gradient- and rf-spoiled gradient echo sequences**|Simon Weinmüller et.al.|[2406.19877](http://arxiv.org/abs/2406.19877)|null|
 |**2024-06-28**|**Deep Fusion Model for Brain Tumor Classification Using Fine-Grained Gradient Preservation**|Niful Islam et.al.|[2406.19690](http://arxiv.org/abs/2406.19690)|null|
 |**2024-06-28**|**UltraGelBot: Autonomous Gel Dispenser for Robotic Ultrasound**|Deepak Raina et.al.|[2406.19678](http://arxiv.org/abs/2406.19678)|null|
@@ -1287,6 +1302,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387](http://arxiv.org/abs/2407.02387)|**[link](https://github.com/rs-lsl/cssnet)**|
+|**2024-07-02**|**Efficient Stochastic Differential Equation for DEM Super Resolution with Void Filling**|Tongtong Zhang et.al.|[2407.01908](http://arxiv.org/abs/2407.01908)|null|
+|**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519](http://arxiv.org/abs/2407.01519)|null|
+|**2024-07-02**|**Preserving Full Degradation Details for Blind Image Super-Resolution**|Hongda Liu et.al.|[2407.01299](http://arxiv.org/abs/2407.01299)|**[link](https://github.com/Chernobyllight/ReDSR)**|
+|**2024-07-01**|**DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution**|Crispian Morris et.al.|[2407.01230](http://arxiv.org/abs/2407.01230)|null|
 |**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066](http://arxiv.org/abs/2406.20066)|null|
 |**2024-06-28**|**Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**|Xiantao Fan et.al.|[2406.20047](http://arxiv.org/abs/2406.20047)|null|
 |**2024-06-28**|**CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**|Chih-Chung Hsu et.al.|[2406.19666](http://arxiv.org/abs/2406.19666)|**[link](https://github.com/ming053l/csakd)**|
@@ -1714,6 +1734,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Efficient Stochastic Differential Equation for DEM Super Resolution with Void Filling**|Tongtong Zhang et.al.|[2407.01908](http://arxiv.org/abs/2407.01908)|null|
+|**2024-06-26**|**Graph Neural Network as Computationally Efficient Emulator of Ice-sheet and Sea-level System Model (ISSM)**|Younghyun Koo et.al.|[2407.01464](http://arxiv.org/abs/2407.01464)|null|
+|**2024-07-01**|**Hyperspectral Pansharpening: Critical Review, Tools and Future Perspectives**|Matteo Ciotola et.al.|[2407.01355](http://arxiv.org/abs/2407.01355)|**[link](https://github.com/matciotola/hyperspectral_pansharpening_toolbox)**|
+|**2024-07-01**|**Small Aerial Target Detection for Airborne Infrared Detection Systems using LightGBM and Trajectory Constraints**|Xiaoliang Sun et.al.|[2407.01278](http://arxiv.org/abs/2407.01278)|null|
+|**2024-07-01**|**FALCON: Frequency Adjoint Link with CONtinuous Density Mask for Fast Single Image Dehazing**|Donghyun Kim et.al.|[2407.00972](http://arxiv.org/abs/2407.00972)|null|
+|**2024-07-01**|**Optical turbulence vertical distribution at the Peak Terskol Observatory and Mt. Kurapdag**|A. Y. Shikhovtsev et.al.|[2407.00960](http://arxiv.org/abs/2407.00960)|null|
+|**2024-06-30**|**Prediction of Sentinel-2 multi-band imagery with attention BiLSTM for continuous earth surface monitoring**|Weiying Zhao et.al.|[2407.00834](http://arxiv.org/abs/2407.00834)|null|
+|**2024-06-30**|**Fully invertible hyperbolic neural networks for segmenting large-scale surface and sub-surface data**|Bas Peters et.al.|[2407.00595](http://arxiv.org/abs/2407.00595)|null|
+|**2024-06-29**|**SolarSAM: Building-scale Photovoltaic Potential Assessment Based on Segment Anything Model (SAM) and Remote Sensing for Emerging City**|Guohao Wang et.al.|[2407.00296](http://arxiv.org/abs/2407.00296)|**[link](https://github.com/REAILAB/.github)**|
 |**2024-06-28**|**Monolithic lithium niobate photonic chip for efficient terahertz-optic modulation and terahertz generation**|Yiwen Zhang et.al.|[2406.19620](http://arxiv.org/abs/2406.19620)|null|
 |**2024-06-27**|**Cost-efficient Active Illumination Camera For Hyper-spectral Reconstruction**|Yuxuan Zhang et.al.|[2406.19560](http://arxiv.org/abs/2406.19560)|null|
 |**2024-06-27**|**Secure quantum-enhanced measurements on a network of sensors**|Sean William Moore et.al.|[2406.19285](http://arxiv.org/abs/2406.19285)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.04
+## Updated on 2024.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -197,7 +197,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311](http://arxiv.org/abs/2407.03311)|null|
+|**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311](http://arxiv.org/abs/2407.03311)|**[link](https://github.com/utiasSTARS/vpace)**|
 |**2024-07-03**|**KeyVideoLLM: Towards Large-scale Video Keyframe Selection**|Hao Liang et.al.|[2407.03104](http://arxiv.org/abs/2407.03104)|null|
 |**2024-07-01**|**Statistical Analysis of ZFP: Understanding Bias**|Alyson Fox et.al.|[2407.01826](http://arxiv.org/abs/2407.01826)|null|
 |**2024-07-01**|**An AI-based, Error-bounded Compression Scheme for High-frequency Power Quality Disturbance Data**|Markus Stroot et.al.|[2407.01112](http://arxiv.org/abs/2407.01112)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.05
+## Updated on 2024.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -202,7 +202,7 @@ layout: default
 |**2024-07-01**|**Statistical Analysis of ZFP: Understanding Bias**|Alyson Fox et.al.|[2407.01826](http://arxiv.org/abs/2407.01826)|null|
 |**2024-07-01**|**An AI-based, Error-bounded Compression Scheme for High-frequency Power Quality Disturbance Data**|Markus Stroot et.al.|[2407.01112](http://arxiv.org/abs/2407.01112)|null|
 |**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997](http://arxiv.org/abs/2406.19997)|null|
-|**2024-06-28**|**Optimal Video Compression using Pixel Shift Tracking**|Hitesh Saai Mananchery Panneerselvam et.al.|[2406.19630](http://arxiv.org/abs/2406.19630)|null|
+|**2024-06-28**|**Optimal Video Compression using Pixel Shift Tracking**|Hitesh Saai Mananchery Panneerselvam et.al.|[2406.19630](http://arxiv.org/abs/2406.19630)|**[link](https://github.com/hiteshsaainew/optipixel_video_encode)**|
 |**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301](http://arxiv.org/abs/2406.19301)|null|
 |**2024-06-27**|**Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without**|Ruida Zhou et.al.|[2406.19248](http://arxiv.org/abs/2406.19248)|null|
 |**2024-06-25**|**Asymptotically Minimax Regret by Bayes Mixtures**|Jun'ichi Takeuchi et.al.|[2406.17929](http://arxiv.org/abs/2406.17929)|null|

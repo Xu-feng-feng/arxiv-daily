@@ -323,7 +323,7 @@ layout: default
 |**2024-04-10**|**Exploring Repetitiveness Measures for Two-Dimensional Strings**|Giuseppe Romana et.al.|[2404.07030](http://arxiv.org/abs/2404.07030)|null|
 |**2024-04-10**|**Fine color guidance in diffusion models and its application to image compression at extremely low bitrates**|Tom Bordin et.al.|[2404.06865](http://arxiv.org/abs/2404.06865)|null|
 |**2024-04-09**|**Encoder-Quantization-Motion-based Video Quality Metrics**|Yixu Chen et.al.|[2404.06620](http://arxiv.org/abs/2404.06620)|null|
-|**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|null|
+|**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|**[link](https://github.com/nicecv/diffharmony)**|
 |**2024-04-09**|**Communication-Efficient Large-Scale Distributed Deep Learning: A Comprehensive Survey**|Feng Liang et.al.|[2404.06114](http://arxiv.org/abs/2404.06114)|null|
 |**2024-04-09**|**Image and Video Compression using Generative Sparse Representation with Fidelity Controls**|Wei Jiang et.al.|[2404.06076](http://arxiv.org/abs/2404.06076)|null|
 |**2024-04-07**|**Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder**|Yiyang Ma et.al.|[2404.04916](http://arxiv.org/abs/2404.04916)|null|
@@ -483,7 +483,7 @@ layout: default
 |**2024-01-22**|**PairwiseHist: Fast, Accurate and Space-Efficient Approximate Query Processing with Data Compression**|Aaron Hurst et.al.|[2401.12018](http://arxiv.org/abs/2401.12018)|null|
 |**2024-01-22**|**A Training-Free Defense Framework for Robust Learned Image Compression**|Myungseo Song et.al.|[2401.11902](http://arxiv.org/abs/2401.11902)|null|
 |**2024-01-21**|**Another Way to the Top: Exploit Contextual Clustering in Learned Image Coding**|Yichi Zhang et.al.|[2401.11615](http://arxiv.org/abs/2401.11615)|null|
-|**2024-01-21**|**ColorVideoVDP: A visual difference predictor for image, video and display distortions**|Rafal K. Mantiuk et.al.|[2401.11485](http://arxiv.org/abs/2401.11485)|null|
+|**2024-01-21**|**ColorVideoVDP: A visual difference predictor for image, video and display distortions**|Rafal K. Mantiuk et.al.|[2401.11485](http://arxiv.org/abs/2401.11485)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
 |**2024-01-21**|**Data-driven compression of electron-phonon interactions**|Yao Luo et.al.|[2401.11393](http://arxiv.org/abs/2401.11393)|null|
 |**2024-01-20**|**Learned Image Compression with Dual-Branch Encoder and Conditional Information Coding**|Haisheng Fu et.al.|[2401.11093](http://arxiv.org/abs/2401.11093)|null|
 |**2024-01-19**|**NN-VVC: Versatile Video Coding boosted by self-supervisedly learned image coding for machines**|Jukka I. Ahonen et.al.|[2401.10761](http://arxiv.org/abs/2401.10761)|null|
@@ -730,7 +730,7 @@ layout: default
 |**2024-06-05**|**A-Bench: Are LMMs Masters at Evaluating AI-generated Images?**|Zicheng Zhang et.al.|[2406.03070](http://arxiv.org/abs/2406.03070)|**[link](https://github.com/q-future/a-bench)**|
 |**2024-06-05**|**DifAttack++: Query-Efficient Black-Box Adversarial Attack via Hierarchical Disentangled Feature Space in Cross Domain**|Jun Liu et.al.|[2406.03017](http://arxiv.org/abs/2406.03017)|**[link](https://github.com/csjunjun/difattack)**|
 |**2024-06-05**|**Efficient Minimum Bayes Risk Decoding using Low-Rank Matrix Completion Algorithms**|Firas Trabelsi et.al.|[2406.02832](http://arxiv.org/abs/2406.02832)|null|
-|**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
+|**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|**[link](https://github.com/a-suozhang/vidit-q)**|
 |**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507](http://arxiv.org/abs/2406.02507)|null|
 |**2024-06-04**|**Towards AI-Assisted Sustainable Adaptive Video Streaming Systems: Tutorial and Survey**|Reza Farahani et.al.|[2406.02302](http://arxiv.org/abs/2406.02302)|null|
 |**2024-06-04**|**I4VGen: Image as Stepping Stone for Text-to-Video Generation**|Xiefan Guo et.al.|[2406.02230](http://arxiv.org/abs/2406.02230)|null|
@@ -767,7 +767,7 @@ layout: default
 |**2024-05-29**|**A study on the adequacy of common IQA measures for medical images**|Anna Breger et.al.|[2405.19224](http://arxiv.org/abs/2405.19224)|null|
 |**2024-05-29**|**A study of why we need to reassess full reference image quality assessment with medical images**|Anna Breger et.al.|[2405.19097](http://arxiv.org/abs/2405.19097)|null|
 |**2024-05-31**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
-|**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881](http://arxiv.org/abs/2405.18881)|null|
+|**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881](http://arxiv.org/abs/2405.18881)|**[link](https://github.com/tzw1998/direct-noise-optimization)**|
 |**2024-05-29**|**Descriptive Image Quality Assessment in the Wild**|Zhiyuan You et.al.|[2405.18842](http://arxiv.org/abs/2405.18842)|null|
 |**2024-05-29**|**Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics**|Zhangkai Ni et.al.|[2405.18790](http://arxiv.org/abs/2405.18790)|**[link](https://github.com/eezkni/mdfs)**|
 |**2024-05-28**|**Are Image Distributions Indistinguishable to Humans Indistinguishable to Classifiers?**|Zebin You et.al.|[2405.18029](http://arxiv.org/abs/2405.18029)|null|
@@ -1364,7 +1364,7 @@ layout: default
 |**2024-06-10**|**Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning**|Xin Wang et.al.|[2406.05974](http://arxiv.org/abs/2406.05974)|null|
 |**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723](http://arxiv.org/abs/2406.05723)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822](http://arxiv.org/abs/2406.04822)|null|
-|**2024-06-06**|**M&M VTO: Multi-Garment Virtual Try-On and Editing**|Luyang Zhu et.al.|[2406.04542](http://arxiv.org/abs/2406.04542)|null|
+|**2024-06-06**|**M&M VTO: Multi-Garment Virtual Try-On and Editing**|Luyang Zhu et.al.|[2406.04542](http://arxiv.org/abs/2406.04542)|**[link](https://github.com/minar09/awesome-virtual-try-on)**|
 |**2024-06-06**|**Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models**|Jan Martinů et.al.|[2406.04099](http://arxiv.org/abs/2406.04099)|null|
 |**2024-06-06**|**Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations**|Jan Hagnberger et.al.|[2406.03919](http://arxiv.org/abs/2406.03919)|**[link](https://github.com/jhagnberger/vcnef)**|
 |**2024-06-07**|**Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge**|Nan Zhang et.al.|[2406.03799](http://arxiv.org/abs/2406.03799)|**[link](https://github.com/kaneigi/weatherproofchallenge)**|
@@ -1767,7 +1767,7 @@ layout: default
 |**2024-06-26**|**Evaluating and Benchmarking Foundation Models for Earth Observation and Geospatial AI**|Nikolaos Dionelis et.al.|[2406.18295](http://arxiv.org/abs/2406.18295)|null|
 |**2024-06-26**|**CAS: Confidence Assessments of classification algorithms for Semantic segmentation of EO data**|Nikolaos Dionelis et.al.|[2406.18279](http://arxiv.org/abs/2406.18279)|null|
 |**2024-06-26**|**SynRS3D: A Synthetic Dataset for Global 3D Semantic Understanding from Monocular Remote Sensing Imagery**|Jian Song et.al.|[2406.18151](http://arxiv.org/abs/2406.18151)|null|
-|**2024-06-26**|**Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model**|Zhuo Zheng et.al.|[2406.17998](http://arxiv.org/abs/2406.17998)|null|
+|**2024-06-26**|**Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model**|Zhuo Zheng et.al.|[2406.17998](http://arxiv.org/abs/2406.17998)|**[link](https://github.com/Z-Zheng/pytorch-change-models)**|
 |**2024-06-25**|**Cross-Modal Spherical Aggregation for Weakly Supervised Remote Sensing Shadow Removal**|Kaichen Chi et.al.|[2406.17469](http://arxiv.org/abs/2406.17469)|null|
 |**2024-06-25**|**Continuous Urban Change Detection from Satellite Image Time Series with Temporal Feature Refinement and Multi-Task Integration**|Sebastian Hafner et.al.|[2406.17458](http://arxiv.org/abs/2406.17458)|**[link](https://github.com/sebastianhafner/conturbancd)**|
 |**2024-06-24**|**Quantifying Heterogeneous Ecosystem Services With Multi-Label Soft Classification**|Zhihui Tian et.al.|[2406.17147](http://arxiv.org/abs/2406.17147)|null|
@@ -1907,7 +1907,7 @@ layout: default
 |**2024-05-10**|**Comparative Analysis of Advanced Feature Matching Algorithms in Challenging High Spatial Resolution Optical Satellite Stereo Scenarios**|Qiyan Luo et.al.|[2405.06246](http://arxiv.org/abs/2405.06246)|null|
 |**2024-05-09**|**UnSegGNet: Unsupervised Image Segmentation using Graph Neural Networks**|Kovvuri Sai Gopal Reddy et.al.|[2405.06057](http://arxiv.org/abs/2405.06057)|**[link](https://github.com/ksgr5566/unseggnet)**|
 |**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769](http://arxiv.org/abs/2405.05769)|null|
-|**2024-05-08**|**EarthMatch: Iterative Coregistration for Fine-grained Localization of Astronaut Photography**|Gabriele Berton et.al.|[2405.05422](http://arxiv.org/abs/2405.05422)|null|
+|**2024-05-08**|**EarthMatch: Iterative Coregistration for Fine-grained Localization of Astronaut Photography**|Gabriele Berton et.al.|[2405.05422](http://arxiv.org/abs/2405.05422)|**[link](https://github.com/gmberton/EarthMatch)**|
 |**2024-05-08**|**Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data**|Zhuohong Li et.al.|[2405.05133](http://arxiv.org/abs/2405.05133)|**[link](https://github.com/lizhuohong/buildingmap)**|
 |**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964](http://arxiv.org/abs/2405.04964)|null|
 |**2024-05-07**|**Remote Diffusion**|Kunal Sunil Kasodekar et.al.|[2405.04717](http://arxiv.org/abs/2405.04717)|null|

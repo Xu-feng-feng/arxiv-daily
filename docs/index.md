@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1772,7 +1772,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-04**|**MineNetCD: A Benchmark for Global Mining Change Detection on Remote Sensing Imagery**|Weikang Yu et.al.|[2407.03971](http://arxiv.org/abs/2407.03971)|null|
 |**2024-07-04**|**High-Frequency Radar observation of strong and contrasted currents: the Alderney race paradigm**|Dylan Dumas et.al.|[2407.03827](http://arxiv.org/abs/2407.03827)|null|
-|**2024-07-04**|**reBEN: Refined BigEarthNet Dataset for Remote Sensing Image Analysis**|Kai Norman Clasen et.al.|[2407.03653](http://arxiv.org/abs/2407.03653)|null|
+|**2024-07-04**|**reBEN: Refined BigEarthNet Dataset for Remote Sensing Image Analysis**|Kai Norman Clasen et.al.|[2407.03653](http://arxiv.org/abs/2407.03653)|**[link](https://git.tu-berlin.de/rsim/reben-training-scripts)**|
 |**2024-07-03**|**Relating CNN-Transformer Fusion Network for Change Detection**|Yuhao Gao et.al.|[2407.03178](http://arxiv.org/abs/2407.03178)|**[link](https://github.com/nust-machine-intelligence-laboratory/rctnet)**|
 |**2024-07-03**|**ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation**|Chang Li et.al.|[2407.03033](http://arxiv.org/abs/2407.03033)|null|
 |**2024-07-03**|**Style Alignment based Dynamic Observation Method for UAV-View Geo-localization**|Jie Shao et.al.|[2407.02832](http://arxiv.org/abs/2407.02832)|null|

@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Enhancing octree-based context models for point cloud geometry compression with attention-based child node number prediction**|Chang Sun et.al.|[2407.08528](http://arxiv.org/abs/2407.08528)|null|
+|**2024-07-11**|**Enhancing context models for point cloud geometry compression with context feature residuals and multi-loss**|Chang Sun et.al.|[2407.08520](http://arxiv.org/abs/2407.08520)|null|
 |**2024-07-09**|**PCAC-GAN:ASparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression**|Xiaolong Mao et.al.|[2407.05677](http://arxiv.org/abs/2407.05677)|null|
 |**2024-07-05**|**Rethinking Data Input for Point Cloud Upsampling**|Tongxu Zhang et.al.|[2407.04476](http://arxiv.org/abs/2407.04476)|null|
 |**2024-07-05**|**TSC-PCAC: Voxel Transformer and Sparse Convolution Based Point Cloud Attribute Compression for 3D Broadcasting**|Zixi Guo et.al.|[2407.04284](http://arxiv.org/abs/2407.04284)|null|
@@ -209,6 +211,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**OMR-NET: a two-stage octave multi-scale residual network for screen content image compression**|Shiqi Jiang et.al.|[2407.08545](http://arxiv.org/abs/2407.08545)|null|
+|**2024-07-11**|**CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data**|Hossein Entezari Zarch et.al.|[2407.08108](http://arxiv.org/abs/2407.08108)|null|
 |**2024-07-10**|**Using Low-Discrepancy Points for Data Compression in Machine Learning: An Experimental Comparison**|Simone Göttlich et.al.|[2407.07450](http://arxiv.org/abs/2407.07450)|null|
 |**2024-07-10**|**Standard compliant video coding using low complexity, switchable neural wrappers**|Yueyu Hu et.al.|[2407.07395](http://arxiv.org/abs/2407.07395)|null|
 |**2024-07-10**|**MNeRV: A Multilayer Neural Representation for Videos**|Qingling Chang et.al.|[2407.07347](http://arxiv.org/abs/2407.07347)|**[link](https://github.com/aaronbtb/mnerv)**|
@@ -218,7 +222,7 @@
 |**2024-07-05**|**The Impact of Quantization and Pruning on Deep Reinforcement Learning Models**|Heng Lu et.al.|[2407.04803](http://arxiv.org/abs/2407.04803)|null|
 |**2024-07-05**|**An autoencoder for compressing angle-resolved photoemission spectroscopy data**|Steinn Ymir Agustsson et.al.|[2407.04631](http://arxiv.org/abs/2407.04631)|**[link](https://github.com/ARPES-on-the-fly/arpesnet)**|
 |**2024-07-05**|**Rethinking Image Compression on the Web with Generative AI**|Shayan Ali Hassan et.al.|[2407.04542](http://arxiv.org/abs/2407.04542)|null|
-|**2024-07-08**|**A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization**|Daoce Wang et.al.|[2407.04267](http://arxiv.org/abs/2407.04267)|null|
+|**2024-07-11**|**A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization**|Daoce Wang et.al.|[2407.04267](http://arxiv.org/abs/2407.04267)|null|
 |**2024-07-04**|**Autoencoded Image Compression for Secure and Fast Transmission**|Aryan Kashyap Naveen et.al.|[2407.03990](http://arxiv.org/abs/2407.03990)|**[link](https://github.com/05kashyap/AutoEncoded_Image_Transfer)**|
 |**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311](http://arxiv.org/abs/2407.03311)|**[link](https://github.com/utiasSTARS/vpace)**|
 |**2024-07-03**|**KeyVideoLLM: Towards Large-scale Video Keyframe Selection**|Hao Liang et.al.|[2407.03104](http://arxiv.org/abs/2407.03104)|null|
@@ -585,6 +589,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**15M Multimodal Facial Image-Text Dataset**|Dawei Dai et.al.|[2407.08515](http://arxiv.org/abs/2407.08515)|null|
+|**2024-07-11**|**Imitation Learning for Robotic Assisted Ultrasound Examination of Deep Venous Thrombosis using Kernelized Movement Primitives**|Diego Dall'Alba et.al.|[2407.08506](http://arxiv.org/abs/2407.08506)|null|
+|**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231](http://arxiv.org/abs/2407.08231)|null|
+|**2024-07-11**|**Explicit_NeRF_QA: A Quality Assessment Database for Explicit NeRF Model Compression**|Yuke Xing et.al.|[2407.08165](http://arxiv.org/abs/2407.08165)|null|
+|**2024-07-10**|**Coherent and Multi-modality Image Inpainting via Latent Space Optimization**|Lingzhi Pan et.al.|[2407.08019](http://arxiv.org/abs/2407.08019)|null|
 |**2024-07-10**|**Intensity-sensitive quality assessment of extended sources in astronomical images**|X. Li et.al.|[2407.07863](http://arxiv.org/abs/2407.07863)|null|
 |**2024-07-10**|**Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization**|Feixiang Zhou et.al.|[2407.07673](http://arxiv.org/abs/2407.07673)|null|
 |**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356](http://arxiv.org/abs/2407.07356)|null|
@@ -1375,6 +1384,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466](http://arxiv.org/abs/2407.08466)|null|
+|**2024-07-11**|**Wind Power Assessment based on Super-Resolution and Downscaling -- A Comparison of Deep Learning Methods**|Luca Schmidt et.al.|[2407.08259](http://arxiv.org/abs/2407.08259)|null|
+|**2024-07-11**|**Spatially-Variant Degradation Model for Dataset-free Super-resolution**|Shaojie Guo et.al.|[2407.08252](http://arxiv.org/abs/2407.08252)|null|
 |**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667](http://arxiv.org/abs/2407.07667)|null|
 |**2024-07-10**|**Aging-Resistant Wideband Precoding in 5G and Beyond Using 3D Convolutional Neural Networks**|Alejandro Villena-Rodriguez et.al.|[2407.07434](http://arxiv.org/abs/2407.07434)|null|
 |**2024-07-10**|**Pairwise Distance Distillation for Unsupervised Real-World Image Super-Resolution**|Yuehan Zhang et.al.|[2407.07302](http://arxiv.org/abs/2407.07302)|**[link](https://github.com/yuehan717/pdd)**|
@@ -1831,6 +1843,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images**|Lucrezia Tosato et.al.|[2407.08669](http://arxiv.org/abs/2407.08669)|null|
+|**2024-07-11**|**Haar Nuclear Norms with Applications to Remote Sensing Imagery Restoration**|Shuang Xu et.al.|[2407.08509](http://arxiv.org/abs/2407.08509)|null|
+|**2024-07-11**|**Paving the way toward foundation models for irregular and unaligned Satellite Image Time Series**|Iris Dumeur et.al.|[2407.08448](http://arxiv.org/abs/2407.08448)|null|
+|**2024-07-11**|**XAI-Guided Enhancement of Vegetation Indices for Crop Mapping**|Hiba Najjar et.al.|[2407.08298](http://arxiv.org/abs/2407.08298)|null|
+|**2024-07-11**|**Explainability of Sub-Field Level Crop Yield Prediction using Remote Sensing**|Hiba Najjar et.al.|[2407.08274](http://arxiv.org/abs/2407.08274)|null|
+|**2024-07-11**|**DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing**|Minghang Zhou et.al.|[2407.08132](http://arxiv.org/abs/2407.08132)|null|
 |**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
 |**2024-07-10**|**The deep oxygen abundance in Solar System Giant Planets, with a new derivation for Saturn**|Thibault Cavalié et.al.|[2407.07515](http://arxiv.org/abs/2407.07515)|null|
 |**2024-07-10**|**Bayesian weighted time-lapse full-waveform inversion using a receiver-extension strategy**|Sergio Luiz E. F. da Silva et.al.|[2407.07467](http://arxiv.org/abs/2407.07467)|null|

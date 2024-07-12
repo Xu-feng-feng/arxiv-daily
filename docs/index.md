@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -203,7 +203,7 @@ layout: default
 |**2024-07-10**|**Using Low-Discrepancy Points for Data Compression in Machine Learning: An Experimental Comparison**|Simone Göttlich et.al.|[2407.07450](http://arxiv.org/abs/2407.07450)|null|
 |**2024-07-10**|**Standard compliant video coding using low complexity, switchable neural wrappers**|Yueyu Hu et.al.|[2407.07395](http://arxiv.org/abs/2407.07395)|null|
 |**2024-07-10**|**MNeRV: A Multilayer Neural Representation for Videos**|Qingling Chang et.al.|[2407.07347](http://arxiv.org/abs/2407.07347)|**[link](https://github.com/aaronbtb/mnerv)**|
-|**2024-07-10**|**Entropy Law: The Story Behind Data Compression and LLM Performance**|Mingjia Yin et.al.|[2407.06645](http://arxiv.org/abs/2407.06645)|null|
+|**2024-07-11**|**Entropy Law: The Story Behind Data Compression and LLM Performance**|Mingjia Yin et.al.|[2407.06645](http://arxiv.org/abs/2407.06645)|**[link](https://github.com/ustc-starteam/zip)**|
 |**2024-07-08**|**A Hybrid Algorithm for Computing a Partial Singular Value Decomposition Satisfying a Given Threshold**|James Baglama et.al.|[2407.06306](http://arxiv.org/abs/2407.06306)|null|
 |**2024-07-08**|**TAPVid-3D: A Benchmark for Tracking Any Point in 3D**|Skanda Koppula et.al.|[2407.05921](http://arxiv.org/abs/2407.05921)|null|
 |**2024-07-05**|**The Impact of Quantization and Pruning on Deep Reinforcement Learning Models**|Heng Lu et.al.|[2407.04803](http://arxiv.org/abs/2407.04803)|null|

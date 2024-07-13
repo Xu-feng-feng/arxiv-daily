@@ -18,7 +18,7 @@ layout: default
 |**2024-07-11**|**Enhancing context models for point cloud geometry compression with context feature residuals and multi-loss**|Chang Sun et.al.|[2407.08520](http://arxiv.org/abs/2407.08520)|null|
 |**2024-07-09**|**PCAC-GAN:ASparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression**|Xiaolong Mao et.al.|[2407.05677](http://arxiv.org/abs/2407.05677)|null|
 |**2024-07-05**|**Rethinking Data Input for Point Cloud Upsampling**|Tongxu Zhang et.al.|[2407.04476](http://arxiv.org/abs/2407.04476)|null|
-|**2024-07-05**|**TSC-PCAC: Voxel Transformer and Sparse Convolution Based Point Cloud Attribute Compression for 3D Broadcasting**|Zixi Guo et.al.|[2407.04284](http://arxiv.org/abs/2407.04284)|null|
+|**2024-07-05**|**TSC-PCAC: Voxel Transformer and Sparse Convolution Based Point Cloud Attribute Compression for 3D Broadcasting**|Zixi Guo et.al.|[2407.04284](http://arxiv.org/abs/2407.04284)|**[link](https://github.com/igizuxo/tsc-pcac)**|
 |**2024-06-15**|**Full reference point cloud quality assessment using support vector regression**|Ryosuke Watanabe et.al.|[2406.10520](http://arxiv.org/abs/2406.10520)|**[link](https://github.com/stac-usc/frsvr-pcqa)**|
 |**2024-06-09**|**Bits-to-Photon: End-to-End Learned Scalable Point Cloud Compression for Direct Rendering**|Yueyu Hu et.al.|[2406.05915](http://arxiv.org/abs/2406.05915)|null|
 |**2024-06-02**|**Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor**|Lei Liu et.al.|[2406.00791](http://arxiv.org/abs/2406.00791)|null|
@@ -1839,8 +1839,8 @@ layout: default
 |**2024-07-10**|**Bayesian weighted time-lapse full-waveform inversion using a receiver-extension strategy**|Sergio Luiz E. F. da Silva et.al.|[2407.07467](http://arxiv.org/abs/2407.07467)|null|
 |**2024-07-10**|**Dual-stage Hyperspectral Image Classification Model with Spectral Supertoken**|Peifu Liu et.al.|[2407.07307](http://arxiv.org/abs/2407.07307)|**[link](https://github.com/laprf/dstc)**|
 |**2024-07-10**|**Identity-enabled CDMA LiDAR for massively parallel ranging with a single-element receiver**|Yixiu Shen et.al.|[2407.06918](http://arxiv.org/abs/2407.06918)|null|
-|**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839](http://arxiv.org/abs/2407.06839)|null|
-|**2024-07-08**|**Tile Compression and Embeddings for Multi-Label Classification in GeoLifeCLEF 2024**|Anthony Miyaguchi et.al.|[2407.06326](http://arxiv.org/abs/2407.06326)|null|
+|**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839](http://arxiv.org/abs/2407.06839)|**[link](https://github.com/jayparanjape/m-cd)**|
+|**2024-07-08**|**Tile Compression and Embeddings for Multi-Label Classification in GeoLifeCLEF 2024**|Anthony Miyaguchi et.al.|[2407.06326](http://arxiv.org/abs/2407.06326)|**[link](https://github.com/dsgt-kaggle-clef/geolifeclef-2024)**|
 |**2024-07-07**|**Addressing single object tracking in satellite imagery through prompt-engineered solutions**|Athena Psalta et.al.|[2407.05518](http://arxiv.org/abs/2407.05518)|null|
 |**2024-07-07**|**HyperKAN: Kolmogorov-Arnold Networks make Hyperspectral Image Classificators Smarter**|Valeriy Lobanov et.al.|[2407.05278](http://arxiv.org/abs/2407.05278)|**[link](https://github.com/f-neumann77/hyperkan)**|
 |**2024-07-07**|**Estimation of the Area and Precipitation Associated with a Tropical Cyclone Biparjoy by using Image Processing**|Shikha Verma et.al.|[2407.05255](http://arxiv.org/abs/2407.05255)|null|

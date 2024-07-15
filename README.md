@@ -48,7 +48,7 @@
 |**2024-02-15**|**LiDAR-Forest Dataset: LiDAR Point Cloud Simulation Dataset for Forestry Application**|Yawen Lu et.al.|[2402.04546](http://arxiv.org/abs/2402.04546)|null|
 |**2023-12-23**|**Learning Continuous Implicit Field with Local Distance Indicator for Arbitrary-Scale Point Cloud Upsampling**|Shujuan Li et.al.|[2312.15133](http://arxiv.org/abs/2312.15133)|null|
 |**2024-03-13**|**DiffPMAE: Diffusion Masked Autoencoders for Point Cloud Reconstruction**|Yanlong Li et.al.|[2312.03298](http://arxiv.org/abs/2312.03298)|null|
-|**2023-12-03**|**A Conditional Denoising Diffusion Probabilistic Model for Point Cloud Upsampling**|Wentao Qu et.al.|[2312.02719](http://arxiv.org/abs/2312.02719)|null|
+|**2023-12-03**|**A Conditional Denoising Diffusion Probabilistic Model for Point Cloud Upsampling**|Wentao Qu et.al.|[2312.02719](http://arxiv.org/abs/2312.02719)|**[link](https://github.com/QWTforGithub/PUDM)**|
 |**2023-11-22**|**Learned Nonlinear Predictor for Critically Sampled 3D Point Cloud Attribute Compression**|Tam Thuc Do et.al.|[2311.13539](http://arxiv.org/abs/2311.13539)|null|
 |**2023-11-22**|**Volumetric 3D Point Cloud Attribute Compression: Learned polynomial bilateral filter for prediction**|Tam Thuc Do et.al.|[2311.13533](http://arxiv.org/abs/2311.13533)|null|
 |**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
@@ -372,7 +372,7 @@
 |**2024-03-27**|**Computationally and Memory-Efficient Robust Predictive Analytics Using Big Data**|Daniel Menges et.al.|[2403.19721](http://arxiv.org/abs/2403.19721)|null|
 |**2024-03-28**|**RootInteractive tool for multidimensional statistical analysis, machine learning and analytical model validation**|Marian Invanov et.al.|[2403.19330](http://arxiv.org/abs/2403.19330)|null|
 |**2024-03-28**|**Uncertainty-Aware Deep Video Compression with Ensembles**|Wufei Ma et.al.|[2403.19158](http://arxiv.org/abs/2403.19158)|null|
-|**2024-04-08**|**Neural Embedding Compression For Efficient Multi-Task Earth Observation Modelling**|Carlos Gomes et.al.|[2403.17886](http://arxiv.org/abs/2403.17886)|null|
+|**2024-04-08**|**Neural Embedding Compression For Efficient Multi-Task Earth Observation Modelling**|Carlos Gomes et.al.|[2403.17886](http://arxiv.org/abs/2403.17886)|**[link](https://github.com/ibm/neural-embedding-compression)**|
 |**2024-03-26**|**Low-Latency Neural Stereo Streaming**|Qiqi Hou et.al.|[2403.17879](http://arxiv.org/abs/2403.17879)|null|
 |**2024-03-26**|**Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**|Kai Yuan et.al.|[2403.17607](http://arxiv.org/abs/2403.17607)|**[link](https://github.com/intel/tiny-dpcpp-nn)**|
 |**2024-03-25**|**Neural Image Compression with Quantization Rectifier**|Wei Luo et.al.|[2403.17236](http://arxiv.org/abs/2403.17236)|null|
@@ -615,7 +615,7 @@
 |**2024-07-08**|**GSBIQA: Green Saliency-guided Blind Image Quality Assessment Method**|Zhanxuan Mei et.al.|[2407.05590](http://arxiv.org/abs/2407.05590)|null|
 |**2024-07-08**|**Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN**|Jiacheng Su et.al.|[2407.05577](http://arxiv.org/abs/2407.05577)|null|
 |**2024-07-06**|**Panopticon: a telescope for our times**|Will Saunders et.al.|[2407.05103](http://arxiv.org/abs/2407.05103)|null|
-|**2024-07-06**|**CLIPVQA:Video Quality Assessment via CLIP**|Fengchuang Xing et.al.|[2407.04928](http://arxiv.org/abs/2407.04928)|null|
+|**2024-07-06**|**CLIPVQA:Video Quality Assessment via CLIP**|Fengchuang Xing et.al.|[2407.04928](http://arxiv.org/abs/2407.04928)|**[link](https://github.com/GZHU-DVL/CLIPVQA)**|
 |**2024-07-06**|**OmChat: A Recipe to Train Multimodal Language Models with Strong Long Context and Video Understanding**|Tiancheng Zhao et.al.|[2407.04923](http://arxiv.org/abs/2407.04923)|null|
 |**2024-07-05**|**MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?**|Zhaorun Chen et.al.|[2407.04842](http://arxiv.org/abs/2407.04842)|**[link](https://github.com/MJ-Bench/MJ-Bench)**|
 |**2024-07-05**|**Resource-Efficient Speech Quality Prediction through Quantization Aware Training and Binary Activation Maps**|Mattias Nilsson et.al.|[2407.04578](http://arxiv.org/abs/2407.04578)|**[link](https://github.com/fmi-basel/binary-activation-maps-sqp)**|
@@ -628,7 +628,7 @@
 |**2024-07-04**|**Perception-Guided Quality Metric of 3D Point Clouds Using Hybrid Strategy**|Yujie Zhang et.al.|[2407.03885](http://arxiv.org/abs/2407.03885)|null|
 |**2024-07-04**|**DiffRetouch: Using Diffusion to Retouch on the Shoulder of Experts**|Zheng-Peng Duan et.al.|[2407.03757](http://arxiv.org/abs/2407.03757)|null|
 |**2024-07-04**|**Adaptive sampling strategy for tolerance analysis of freeform optical surfaces based on critical ray aiming**|Rundong Fan et.al.|[2407.03688](http://arxiv.org/abs/2407.03688)|null|
-|**2024-07-04**|**Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining**|Fuqiang Chen et.al.|[2407.03655](http://arxiv.org/abs/2407.03655)|null|
+|**2024-07-04**|**Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining**|Fuqiang Chen et.al.|[2407.03655](http://arxiv.org/abs/2407.03655)|**[link](https://github.com/ccitachi/PSPStain)**|
 |**2024-07-04**|**Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration**|Yuhong Zhang et.al.|[2407.03636](http://arxiv.org/abs/2407.03636)|null|
 |**2024-07-04**|**Orthogonal Constrained Minimization with Tensor $\ell_{2,p}$ Regularization for HSI Denoising and Destriping**|Xiaoxia Liu et.al.|[2407.03605](http://arxiv.org/abs/2407.03605)|null|
 |**2024-07-03**|**Semantic-Aware Power Allocation for Generative Semantic Communications with Foundation Models**|Chunmei Xu et.al.|[2407.03050](http://arxiv.org/abs/2407.03050)|null|
@@ -638,7 +638,7 @@
 |**2024-07-03**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph Neural Network**|Yushan Zhu et.al.|[2407.02762](http://arxiv.org/abs/2407.02762)|null|
 |**2024-07-03**|**MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating and Attribute Control**|Yeonji Lee et.al.|[2407.02736](http://arxiv.org/abs/2407.02736)|null|
 |**2024-07-02**|**Meta 3D Gen**|Raphael Bensadoun et.al.|[2407.02599](http://arxiv.org/abs/2407.02599)|null|
-|**2024-07-02**|**Off-Grid Ultrasound Imaging by Stochastic Optimization**|Vincent van de Schaft et.al.|[2407.02285](http://arxiv.org/abs/2407.02285)|null|
+|**2024-07-02**|**Off-Grid Ultrasound Imaging by Stochastic Optimization**|Vincent van de Schaft et.al.|[2407.02285](http://arxiv.org/abs/2407.02285)|**[link](https://github.com/vincentvdschaft/off-grid-ultrasound)**|
 |**2024-07-02**|**SwiftDiffusion: Efficient Diffusion Model Serving with Add-on Modules**|Suyi Li et.al.|[2407.02031](http://arxiv.org/abs/2407.02031)|null|
 |**2024-07-01**|**Free-text Rationale Generation under Readability Level Control**|Yi-Sheng Hsu et.al.|[2407.01384](http://arxiv.org/abs/2407.01384)|null|
 |**2024-07-01**|**GaussianStego: A Generalizable Stenography Pipeline for Generative 3D Gaussians Splatting**|Chenxin Li et.al.|[2407.01301](http://arxiv.org/abs/2407.01301)|null|
@@ -647,7 +647,7 @@
 |**2024-06-30**|**A Comparative Study of Quality Evaluation Methods for Text Summarization**|Huyen Nguyen et.al.|[2407.00747](http://arxiv.org/abs/2407.00747)|null|
 |**2024-06-30**|**DCI: An Accurate Quality Assessment Criteria for Protein Complex Structure Models**|Wenda Wang et.al.|[2407.00560](http://arxiv.org/abs/2407.00560)|null|
 |**2024-06-29**|**Dynamic Optimization of Video Streaming Quality Using Network Digital Twin Technology**|Zurh Farus et.al.|[2407.00513](http://arxiv.org/abs/2407.00513)|null|
-|**2024-07-02**|**RTGS: Enabling Real-Time Gaussian Splatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering**|Weikai Lin et.al.|[2407.00435](http://arxiv.org/abs/2407.00435)|null|
+|**2024-07-02**|**RTGS: Enabling Real-Time Gaussian Splatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering**|Weikai Lin et.al.|[2407.00435](http://arxiv.org/abs/2407.00435)|**[link](https://github.com/horizon-research/fov-3dgs)**|
 |**2024-06-29**|**Benchmark Evaluation of Image Fusion algorithms for Smartphone Camera Capture**|Lucas N. Kirsten et.al.|[2407.00301](http://arxiv.org/abs/2407.00301)|null|
 |**2024-06-28**|**PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration**|Yuxuan Sun et.al.|[2407.00203](http://arxiv.org/abs/2407.00203)|null|
 |**2024-06-28**|**Quantitative Methods in Research Evaluation Citation Indicators, Altmetrics, and Artificial Intelligence**|Mike Thelwall et.al.|[2407.00135](http://arxiv.org/abs/2407.00135)|null|
@@ -766,7 +766,7 @@
 |**2024-06-11**|**DiffCom: Channel Received Signal is a Natural Condition to Guide Diffusion Posterior Sampling**|Sixian Wang et.al.|[2406.07390](http://arxiv.org/abs/2406.07390)|null|
 |**2024-06-11**|**Noise-Robust Voice Conversion by Conditional Denoising Training Using Latent Variables of Recording Quality and Environment**|Takuto Igarashi et.al.|[2406.07280](http://arxiv.org/abs/2406.07280)|null|
 |**2024-06-11**|**Accurate estimate of the ESPRESSO fiber-injection losses inferred from integrated field-stabilization images**|Tobias M. Schmidt et.al.|[2406.07193](http://arxiv.org/abs/2406.07193)|null|
-|**2024-06-11**|**Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation**|Yuanhao Zhai et.al.|[2406.06890](http://arxiv.org/abs/2406.06890)|null|
+|**2024-06-11**|**Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation**|Yuanhao Zhai et.al.|[2406.06890](http://arxiv.org/abs/2406.06890)|**[link](https://github.com/yhZhai/mcm)**|
 |**2024-06-11**|**A Subjective Quality Evaluation of 3D Mesh with Dynamic Level of Detail in Virtual Reality**|Duc Nguyen et.al.|[2406.06888](http://arxiv.org/abs/2406.06888)|null|
 |**2024-06-09**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644](http://arxiv.org/abs/2406.06644)|null|
 |**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
@@ -837,7 +837,7 @@
 |**2024-05-29**|**Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare**|Hanwei Zhu et.al.|[2405.19298](http://arxiv.org/abs/2405.19298)|null|
 |**2024-05-29**|**A study on the adequacy of common IQA measures for medical images**|Anna Breger et.al.|[2405.19224](http://arxiv.org/abs/2405.19224)|null|
 |**2024-05-29**|**A study of why we need to reassess full reference image quality assessment with medical images**|Anna Breger et.al.|[2405.19097](http://arxiv.org/abs/2405.19097)|null|
-|**2024-05-31**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
+|**2024-05-31**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|**[link](https://github.com/foundation-multimodal-models/capture)**|
 |**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881](http://arxiv.org/abs/2405.18881)|**[link](https://github.com/tzw1998/direct-noise-optimization)**|
 |**2024-05-29**|**Descriptive Image Quality Assessment in the Wild**|Zhiyuan You et.al.|[2405.18842](http://arxiv.org/abs/2405.18842)|null|
 |**2024-05-29**|**Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics**|Zhangkai Ni et.al.|[2405.18790](http://arxiv.org/abs/2405.18790)|**[link](https://github.com/eezkni/mdfs)**|
@@ -1074,7 +1074,7 @@
 |**2024-04-13**|**PNeRV: Enhancing Spatial Consistency via Pyramidal Neural Representation for Videos**|Qi Zhao et.al.|[2404.08921](http://arxiv.org/abs/2404.08921)|null|
 |**2024-04-12**|**Multi-Branch Generative Models for Multichannel Imaging with an Application to PET/CT Joint Reconstruction**|Noel Jeffrey Pinton et.al.|[2404.08748](http://arxiv.org/abs/2404.08748)|null|
 |**2024-04-12**|**Training-free Boost for Open-Vocabulary Object Detection with Confidence Aggregation**|Yanhao Zheng et.al.|[2404.08603](http://arxiv.org/abs/2404.08603)|**[link](https://github.com/warlockwendell/aggdet)**|
-|**2024-04-12**|**Self-Supervised k-Space Regularization for Motion-Resolved Abdominal MRI Using Neural Implicit k-Space Representation**|Veronika Spieker et.al.|[2404.08350](http://arxiv.org/abs/2404.08350)|null|
+|**2024-04-12**|**Self-Supervised k-Space Regularization for Motion-Resolved Abdominal MRI Using Neural Implicit k-Space Representation**|Veronika Spieker et.al.|[2404.08350](http://arxiv.org/abs/2404.08350)|**[link](https://github.com/vjspi/pisco-nik)**|
 |**2024-04-11**|**Model-based Cleaning of the QUILT-1M Pathology Dataset for Text-Conditional Image Synthesis**|Marc Aubreville et.al.|[2404.07676](http://arxiv.org/abs/2404.07676)|**[link](https://github.com/deepmicroscopy/quiltcleaner)**|
 |**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206](http://arxiv.org/abs/2404.07206)|null|
 |**2024-04-10**|**Adversarial purification for no-reference image-quality metrics: applicability study and new methods**|Aleksandr Gushchin et.al.|[2404.06957](http://arxiv.org/abs/2404.06957)|null|
@@ -1122,7 +1122,7 @@
 |**2024-04-01**|**MagicMirror: Fast and High-Quality Avatar Generation with a Constrained Search Space**|Armand Comas-Massagué et.al.|[2404.01296](http://arxiv.org/abs/2404.01296)|null|
 |**2024-04-01**|**New infrared camera of the Caucasian Mountain Observatory of the SAI MSU: design, main parameters, and first light**|S. G. Zheltoukhov et.al.|[2404.01246](http://arxiv.org/abs/2404.01246)|null|
 |**2024-04-01**|**The Rate-Distortion-Perception Trade-off: The Role of Private Randomness**|Yassine Hamdi et.al.|[2404.01111](http://arxiv.org/abs/2404.01111)|null|
-|**2024-04-01**|**AIGCOIQA2024: Perceptual Quality Assessment of AI Generated Omnidirectional Images**|Liu Yang et.al.|[2404.01024](http://arxiv.org/abs/2404.01024)|null|
+|**2024-04-01**|**AIGCOIQA2024: Perceptual Quality Assessment of AI Generated Omnidirectional Images**|Liu Yang et.al.|[2404.01024](http://arxiv.org/abs/2404.01024)|**[link](https://github.com/IntMeGroup/AIGCOIQA)**|
 |**2024-04-01**|**Digital Twins for Supporting AI Research with Autonomous Vehicle Networks**|Anıl Gürses et.al.|[2404.00954](http://arxiv.org/abs/2404.00954)|null|
 |**2024-04-01**|**Towards Memorization-Free Diffusion Models**|Chen Chen et.al.|[2404.00922](http://arxiv.org/abs/2404.00922)|null|
 |**2024-04-01**|**Model-Agnostic Human Preference Inversion in Diffusion Models**|Jeeyung Kim et.al.|[2404.00879](http://arxiv.org/abs/2404.00879)|null|
@@ -1246,7 +1246,7 @@
 |**2024-03-13**|**Structural Positional Encoding for knowledge integration in transformer-based medical process monitoring**|Christopher Irwin et.al.|[2403.08836](http://arxiv.org/abs/2403.08836)|**[link](https://github.com/christopher-irw/proformer_ce)**|
 |**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
 |**2024-03-13**|**Clinically Feasible Diffusion Reconstruction for Highly-Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08749](http://arxiv.org/abs/2403.08749)|null|
-|**2024-03-14**|**GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**|Jing Wu et.al.|[2403.08733](http://arxiv.org/abs/2403.08733)|null|
+|**2024-03-14**|**GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**|Jing Wu et.al.|[2403.08733](http://arxiv.org/abs/2403.08733)|**[link](https://github.com/ActiveVisionLab/gaussctrl)**|
 |**2024-03-13**|**Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**|Paraskevas Pegios et.al.|[2403.08700](http://arxiv.org/abs/2403.08700)|null|
 |**2024-03-13**|**Do Language Models Care About Text Quality? Evaluating Web-Crawled Corpora Across 11 Languages**|Rik van Noord et.al.|[2403.08693](http://arxiv.org/abs/2403.08693)|null|
 |**2024-03-13**|**Physics-Guided Inverse Regression for Crop Quality Assessment**|David Shulman et.al.|[2403.08653](http://arxiv.org/abs/2403.08653)|null|
@@ -2310,7 +2310,7 @@
 |**2024-01-18**|**Enhanced Automated Quality Assessment Network for Interactive Building Segmentation in High-Resolution Remote Sensing Imagery**|Zhili Zhang et.al.|[2401.09828](http://arxiv.org/abs/2401.09828)|**[link](https://github.com/zhilyzhang/ibs-aqsnet)**|
 |**2024-01-18**|**SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Yang Zhan et.al.|[2401.09712](http://arxiv.org/abs/2401.09712)|**[link](https://github.com/zhanyang-nwpu/skyeyegpt)**|
 |**2024-01-17**|**Exact Analytical Solution of the One-Dimensional Time-Dependent Radiative Transfer Equation with Linear Scattering**|Vladimir Allaxwerdian et.al.|[2401.09511](http://arxiv.org/abs/2401.09511)|null|
-|**2024-01-15**|**3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data**|Mathilde Letard et.al.|[2401.09481](http://arxiv.org/abs/2401.09481)|null|
+|**2024-01-15**|**3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data**|Mathilde Letard et.al.|[2401.09481](http://arxiv.org/abs/2401.09481)|**[link](https://github.com/Rennes-LiDAR-Platform/lidar_platform)**|
 |**2024-01-17**|**Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery**|Jia Jia et.al.|[2401.09325](http://arxiv.org/abs/2401.09325)|null|
 |**2024-01-17**|**PixelDINO: Semi-Supervised Semantic Segmentation for Detecting Permafrost Disturbances**|Konrad Heidler et.al.|[2401.09271](http://arxiv.org/abs/2401.09271)|**[link](https://github.com/khdlr/pixeldino)**|
 |**2024-01-17**|**Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models**|Haonan Guo et.al.|[2401.09083](http://arxiv.org/abs/2401.09083)|**[link](https://github.com/haonanguo/remote-sensing-chatgpt)**|

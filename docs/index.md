@@ -202,6 +202,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026](http://arxiv.org/abs/2407.09026)|null|
+|**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
+|**2024-07-11**|**Manipulating a Tetris-Inspired 3D Video Representation**|Mihir Godbole et.al.|[2407.08885](http://arxiv.org/abs/2407.08885)|null|
 |**2024-07-11**|**OMR-NET: a two-stage octave multi-scale residual network for screen content image compression**|Shiqi Jiang et.al.|[2407.08545](http://arxiv.org/abs/2407.08545)|null|
 |**2024-07-11**|**CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data**|Hossein Entezari Zarch et.al.|[2407.08108](http://arxiv.org/abs/2407.08108)|null|
 |**2024-07-10**|**Using Low-Discrepancy Points for Data Compression in Machine Learning: An Experimental Comparison**|Simone Göttlich et.al.|[2407.07450](http://arxiv.org/abs/2407.07450)|null|
@@ -578,6 +581,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Quantum-dot-based Kitaev chains: Majorana quality measures and scaling with increasing chain length**|Viktor Svensson et.al.|[2407.09211](http://arxiv.org/abs/2407.09211)|null|
+|**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026](http://arxiv.org/abs/2407.09026)|null|
+|**2024-07-12**|**Task-driven single-image super-resolution reconstruction of document scans**|Maciej Zyrek et.al.|[2407.08993](http://arxiv.org/abs/2407.08993)|null|
+|**2024-07-12**|**LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models**|Hai Jiang et.al.|[2407.08939](http://arxiv.org/abs/2407.08939)|**[link](https://github.com/jianghaiscu/lightendiffusion)**|
 |**2024-07-12**|**15M Multimodal Facial Image-Text Dataset**|Dawei Dai et.al.|[2407.08515](http://arxiv.org/abs/2407.08515)|null|
 |**2024-07-11**|**Imitation Learning for Robotic Assisted Ultrasound Examination of Deep Venous Thrombosis using Kernelized Movement Primitives**|Diego Dall'Alba et.al.|[2407.08506](http://arxiv.org/abs/2407.08506)|null|
 |**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231](http://arxiv.org/abs/2407.08231)|null|
@@ -1371,6 +1378,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
+|**2024-07-12**|**Task-driven single-image super-resolution reconstruction of document scans**|Maciej Zyrek et.al.|[2407.08993](http://arxiv.org/abs/2407.08993)|null|
 |**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466](http://arxiv.org/abs/2407.08466)|null|
 |**2024-07-11**|**Wind Power Assessment based on Super-Resolution and Downscaling -- A Comparison of Deep Learning Methods**|Luca Schmidt et.al.|[2407.08259](http://arxiv.org/abs/2407.08259)|null|
 |**2024-07-11**|**Spatially-Variant Degradation Model for Dataset-free Super-resolution**|Shaojie Guo et.al.|[2407.08252](http://arxiv.org/abs/2407.08252)|null|

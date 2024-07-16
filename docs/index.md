@@ -202,6 +202,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926](http://arxiv.org/abs/2407.10926)|null|
+|**2024-07-15**|**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model**|Zhening Liu et.al.|[2407.10632](http://arxiv.org/abs/2407.10632)|null|
+|**2024-07-14**|**UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers**|Huy Ha et.al.|[2407.10353](http://arxiv.org/abs/2407.10353)|null|
+|**2024-07-13**|**WeConvene: Learned Image Compression with Wavelet-Domain Convolution and Entropy Model**|Haisheng Fu et.al.|[2407.09983](http://arxiv.org/abs/2407.09983)|null|
+|**2024-07-13**|**Zero-Shot Image Compression with Diffusion-Based Posterior Sampling**|Noam Elata et.al.|[2407.09896](http://arxiv.org/abs/2407.09896)|null|
+|**2024-07-13**|**Image Compression for Machine and Human Vision with Spatial-Frequency Adaptation**|Han Li et.al.|[2407.09853](http://arxiv.org/abs/2407.09853)|**[link](https://github.com/qingshi9974/eccv2024-adpaticmh)**|
+|**2024-07-13**|**Infinite families of optimal and minimal codes over rings using simplicial complexes**|Yanan Wu et.al.|[2407.09783](http://arxiv.org/abs/2407.09783)|null|
 |**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026](http://arxiv.org/abs/2407.09026)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 |**2024-07-11**|**Manipulating a Tetris-Inspired 3D Video Representation**|Mihir Godbole et.al.|[2407.08885](http://arxiv.org/abs/2407.08885)|null|
@@ -211,7 +218,7 @@ layout: default
 |**2024-07-10**|**Standard compliant video coding using low complexity, switchable neural wrappers**|Yueyu Hu et.al.|[2407.07395](http://arxiv.org/abs/2407.07395)|null|
 |**2024-07-10**|**MNeRV: A Multilayer Neural Representation for Videos**|Qingling Chang et.al.|[2407.07347](http://arxiv.org/abs/2407.07347)|**[link](https://github.com/aaronbtb/mnerv)**|
 |**2024-07-11**|**Entropy Law: The Story Behind Data Compression and LLM Performance**|Mingjia Yin et.al.|[2407.06645](http://arxiv.org/abs/2407.06645)|**[link](https://github.com/ustc-starteam/zip)**|
-|**2024-07-08**|**A Hybrid Algorithm for Computing a Partial Singular Value Decomposition Satisfying a Given Threshold**|James Baglama et.al.|[2407.06306](http://arxiv.org/abs/2407.06306)|null|
+|**2024-07-08**|**A Hybrid Algorithm for Computing a Partial Singular Value Decomposition Satisfying a Given Threshold**|James Baglama et.al.|[2407.06306](http://arxiv.org/abs/2407.06306)|**[link](https://github.com/jbaglama/svt)**|
 |**2024-07-08**|**TAPVid-3D: A Benchmark for Tracking Any Point in 3D**|Skanda Koppula et.al.|[2407.05921](http://arxiv.org/abs/2407.05921)|null|
 |**2024-07-05**|**The Impact of Quantization and Pruning on Deep Reinforcement Learning Models**|Heng Lu et.al.|[2407.04803](http://arxiv.org/abs/2407.04803)|null|
 |**2024-07-05**|**An autoencoder for compressing angle-resolved photoemission spectroscopy data**|Steinn Ymir Agustsson et.al.|[2407.04631](http://arxiv.org/abs/2407.04631)|**[link](https://github.com/ARPES-on-the-fly/arpesnet)**|
@@ -581,6 +588,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation**|Tu Vu et.al.|[2407.10817](http://arxiv.org/abs/2407.10817)|null|
+|**2024-07-15**|**Melon Fruit Detection and Quality Assessment Using Generative AI-Based Image Data Augmentation**|Seungri Yoon et.al.|[2407.10413](http://arxiv.org/abs/2407.10413)|null|
+|**2024-07-15**|**Exploring the Impact of Moire Pattern on Deepfake Detectors**|Razaib Tariq et.al.|[2407.10399](http://arxiv.org/abs/2407.10399)|null|
+|**2024-07-14**|**Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models**|Qinyu Yang et.al.|[2407.10285](http://arxiv.org/abs/2407.10285)|**[link](https://github.com/yangqy1110/nc-sdedit)**|
+|**2024-07-14**|**Low Sensitivity Hopsets**|Vikrant Ashvinkumar et.al.|[2407.10249](http://arxiv.org/abs/2407.10249)|null|
+|**2024-07-14**|**A Novel Approach to Ultrasound Beamforming using Synthetic Transmit Aperture with Low Complexity and High SNR for Medical Imaging**|Thenmozhi Elango et.al.|[2407.10242](http://arxiv.org/abs/2407.10242)|null|
+|**2024-07-13**|**Asynchronous Feedback Network for Perceptual Point Cloud Quality Assessment**|Yujie Zhang et.al.|[2407.09806](http://arxiv.org/abs/2407.09806)|null|
 |**2024-07-12**|**Quantum-dot-based Kitaev chains: Majorana quality measures and scaling with increasing chain length**|Viktor Svensson et.al.|[2407.09211](http://arxiv.org/abs/2407.09211)|null|
 |**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026](http://arxiv.org/abs/2407.09026)|null|
 |**2024-07-12**|**Task-driven single-image super-resolution reconstruction of document scans**|Maciej Zyrek et.al.|[2407.08993](http://arxiv.org/abs/2407.08993)|null|
@@ -1378,6 +1392,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Spectral Properties of Infinitely Smooth Kernel Matrices in the Single Cluster Limit, with Applications to Multivariate Super-Resolution**|Nuha Diab et.al.|[2407.10600](http://arxiv.org/abs/2407.10600)|null|
+|**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445](http://arxiv.org/abs/2407.10445)|null|
+|**2024-07-13**|**Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**|Wei Shang et.al.|[2407.09919](http://arxiv.org/abs/2407.09919)|**[link](https://github.com/shangwei5/st-avsr)**|
+|**2024-07-13**|**Fast and Provable Simultaneous Blind Super-Resolution and Demixing for Point Source Signals: Scaled Gradient Descent without Regularization**|Jinchi Chen et.al.|[2407.09900](http://arxiv.org/abs/2407.09900)|null|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
 |**2024-07-12**|**Task-driven single-image super-resolution reconstruction of document scans**|Maciej Zyrek et.al.|[2407.08993](http://arxiv.org/abs/2407.08993)|null|
 |**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466](http://arxiv.org/abs/2407.08466)|null|
@@ -1837,13 +1855,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-14**|**Harnessing Feature Clustering For Enhanced Anomaly Detection With Variational Autoencoder And Dynamic Threshold**|Tolulope Ale et.al.|[2407.10042](http://arxiv.org/abs/2407.10042)|null|
+|**2024-07-13**|**MutDet: Mutually Optimizing Pre-training for Remote Sensing Object Detection**|Ziyue Huang et.al.|[2407.09920](http://arxiv.org/abs/2407.09920)|**[link](https://github.com/floatingstarz/mutdet)**|
 |**2024-07-11**|**Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images**|Lucrezia Tosato et.al.|[2407.08669](http://arxiv.org/abs/2407.08669)|null|
 |**2024-07-11**|**Haar Nuclear Norms with Applications to Remote Sensing Imagery Restoration**|Shuang Xu et.al.|[2407.08509](http://arxiv.org/abs/2407.08509)|null|
 |**2024-07-11**|**Paving the way toward foundation models for irregular and unaligned Satellite Image Time Series**|Iris Dumeur et.al.|[2407.08448](http://arxiv.org/abs/2407.08448)|null|
 |**2024-07-11**|**XAI-Guided Enhancement of Vegetation Indices for Crop Mapping**|Hiba Najjar et.al.|[2407.08298](http://arxiv.org/abs/2407.08298)|null|
 |**2024-07-11**|**Explainability of Sub-Field Level Crop Yield Prediction using Remote Sensing**|Hiba Najjar et.al.|[2407.08274](http://arxiv.org/abs/2407.08274)|null|
 |**2024-07-11**|**DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing**|Minghang Zhou et.al.|[2407.08132](http://arxiv.org/abs/2407.08132)|null|
-|**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
+|**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|**[link](https://github.com/google-research/big_vision)**|
 |**2024-07-10**|**The deep oxygen abundance in Solar System Giant Planets, with a new derivation for Saturn**|Thibault Cavalié et.al.|[2407.07515](http://arxiv.org/abs/2407.07515)|null|
 |**2024-07-10**|**Bayesian weighted time-lapse full-waveform inversion using a receiver-extension strategy**|Sergio Luiz E. F. da Silva et.al.|[2407.07467](http://arxiv.org/abs/2407.07467)|null|
 |**2024-07-13**|**Dual-stage Hyperspectral Image Classification Model with Spectral Supertoken**|Peifu Liu et.al.|[2407.07307](http://arxiv.org/abs/2407.07307)|**[link](https://github.com/laprf/dstc)**|

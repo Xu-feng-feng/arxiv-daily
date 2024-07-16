@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1846,7 +1846,7 @@ layout: default
 |**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
 |**2024-07-10**|**The deep oxygen abundance in Solar System Giant Planets, with a new derivation for Saturn**|Thibault Cavalié et.al.|[2407.07515](http://arxiv.org/abs/2407.07515)|null|
 |**2024-07-10**|**Bayesian weighted time-lapse full-waveform inversion using a receiver-extension strategy**|Sergio Luiz E. F. da Silva et.al.|[2407.07467](http://arxiv.org/abs/2407.07467)|null|
-|**2024-07-10**|**Dual-stage Hyperspectral Image Classification Model with Spectral Supertoken**|Peifu Liu et.al.|[2407.07307](http://arxiv.org/abs/2407.07307)|**[link](https://github.com/laprf/dstc)**|
+|**2024-07-13**|**Dual-stage Hyperspectral Image Classification Model with Spectral Supertoken**|Peifu Liu et.al.|[2407.07307](http://arxiv.org/abs/2407.07307)|**[link](https://github.com/laprf/dstc)**|
 |**2024-07-10**|**Identity-enabled CDMA LiDAR for massively parallel ranging with a single-element receiver**|Yixiu Shen et.al.|[2407.06918](http://arxiv.org/abs/2407.06918)|null|
 |**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839](http://arxiv.org/abs/2407.06839)|**[link](https://github.com/jayparanjape/m-cd)**|
 |**2024-07-08**|**Tile Compression and Embeddings for Multi-Label Classification in GeoLifeCLEF 2024**|Anthony Miyaguchi et.al.|[2407.06326](http://arxiv.org/abs/2407.06326)|**[link](https://github.com/dsgt-kaggle-clef/geolifeclef-2024)**|

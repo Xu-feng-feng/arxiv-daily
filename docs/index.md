@@ -202,6 +202,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression**|Jinming Liu et.al.|[2407.11700](http://arxiv.org/abs/2407.11700)|null|
+|**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
+|**2024-07-16**|**Neural Compression of Atmospheric States**|Piotr Mirowski et.al.|[2407.11666](http://arxiv.org/abs/2407.11666)|null|
+|**2024-07-16**|**Rethinking Learned Image Compression: Context is All You Need**|Jixiang Luo et.al.|[2407.11590](http://arxiv.org/abs/2407.11590)|null|
+|**2024-07-16**|**The impact of lossy data compression on the power spectrum of the high redshift 21-cm signal with LOFAR**|J. K. Chege et.al.|[2407.11557](http://arxiv.org/abs/2407.11557)|null|
+|**2024-07-16**|**Uniformly Accelerated Motion Model for Inter Prediction**|Zhuoyuan Li et.al.|[2407.11541](http://arxiv.org/abs/2407.11541)|null|
+|**2024-07-15**|**M18K: A Comprehensive RGB-D Dataset and Benchmark for Mushroom Detection and Instance Segmentation**|Abdollah Zakeri et.al.|[2407.11275](http://arxiv.org/abs/2407.11275)|**[link](https://github.com/abdollahzakeri/m18k)**|
+|**2024-07-15**|**Enhancing Electrocardiogram Signal Analysis Using NLP-Inspired Techniques: A Novel Approach with Embedding and Self-Attention**|Prapti Ganguly et.al.|[2407.11102](http://arxiv.org/abs/2407.11102)|null|
 |**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926](http://arxiv.org/abs/2407.10926)|null|
 |**2024-07-15**|**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model**|Zhening Liu et.al.|[2407.10632](http://arxiv.org/abs/2407.10632)|null|
 |**2024-07-14**|**UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers**|Huy Ha et.al.|[2407.10353](http://arxiv.org/abs/2407.10353)|null|
@@ -588,6 +596,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840](http://arxiv.org/abs/2407.11840)|null|
+|**2024-07-16**|**LoFTI: Localization and Factuality Transfer to Indian Locales**|Sona Elza Simon et.al.|[2407.11833](http://arxiv.org/abs/2407.11833)|**[link](https://github.com/csalt-research/lofti)**|
+|**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|null|
+|**2024-07-16**|**ITI-IQA: a Toolbox for Heterogeneous Univariate and Multivariate Missing Data Imputation Quality Assessment**|Pedro Pons-Suñer et.al.|[2407.11767](http://arxiv.org/abs/2407.11767)|null|
+|**2024-07-16**|**Magnetogram-to-Magnetogram: Generative Forecasting of Solar Evolution**|Francesco Pio Ramunno et.al.|[2407.11659](http://arxiv.org/abs/2407.11659)|null|
+|**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496](http://arxiv.org/abs/2407.11496)|null|
+|**2024-07-16**|**Cover-separable Fixed Neural Network Steganography via Deep Generative Models**|Guobiao Li et.al.|[2407.11405](http://arxiv.org/abs/2407.11405)|**[link](https://github.com/albblgb/cs-fnns)**|
+|**2024-07-16**|**Ev-GS: Event-based Gaussian splatting for Efficient and Accurate Radiance Field Rendering**|Jingqian Wu et.al.|[2407.11343](http://arxiv.org/abs/2407.11343)|null|
+|**2024-07-15**|**UFQA: Utility guided Fingerphoto Quality Assessment**|Amol S. Joshi et.al.|[2407.11141](http://arxiv.org/abs/2407.11141)|null|
 |**2024-07-15**|**Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation**|Tu Vu et.al.|[2407.10817](http://arxiv.org/abs/2407.10817)|null|
 |**2024-07-15**|**Melon Fruit Detection and Quality Assessment Using Generative AI-Based Image Data Augmentation**|Seungri Yoon et.al.|[2407.10413](http://arxiv.org/abs/2407.10413)|null|
 |**2024-07-15**|**Exploring the Impact of Moire Pattern on Deepfake Detectors**|Razaib Tariq et.al.|[2407.10399](http://arxiv.org/abs/2407.10399)|null|
@@ -1392,6 +1409,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Speckle-based 3D sub-diffraction imaging through a multimode fiber**|Zhouping Lyu et.al.|[2407.11796](http://arxiv.org/abs/2407.11796)|null|
+|**2024-07-16**|**Deconvolution with a Box**|Pedro Felzenszwalb et.al.|[2407.11685](http://arxiv.org/abs/2407.11685)|null|
+|**2024-07-16**|**Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations**|Yunya Gao et.al.|[2407.11381](http://arxiv.org/abs/2407.11381)|**[link](https://github.com/yunyagaotree/sam-adapter-for-refugee-dwelling-extraction)**|
+|**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288](http://arxiv.org/abs/2407.11288)|null|
+|**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087](http://arxiv.org/abs/2407.11087)|null|
 |**2024-07-15**|**Spectral Properties of Infinitely Smooth Kernel Matrices in the Single Cluster Limit, with Applications to Multivariate Super-Resolution**|Nuha Diab et.al.|[2407.10600](http://arxiv.org/abs/2407.10600)|null|
 |**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445](http://arxiv.org/abs/2407.10445)|null|
 |**2024-07-13**|**Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**|Wei Shang et.al.|[2407.09919](http://arxiv.org/abs/2407.09919)|**[link](https://github.com/shangwei5/st-avsr)**|
@@ -1855,6 +1877,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578](http://arxiv.org/abs/2407.11578)|null|
+|**2024-07-16**|**RIMformer: An End-to-End Transformer for FMCW Radar Interference Mitigation**|Ziang Zhang et.al.|[2407.11459](http://arxiv.org/abs/2407.11459)|null|
+|**2024-07-16**|**Mapping savannah woody vegetation at the species level with multispecral drone and hyperspectral EnMAP data**|Christina Karakizi et.al.|[2407.11404](http://arxiv.org/abs/2407.11404)|null|
 |**2024-07-14**|**Harnessing Feature Clustering For Enhanced Anomaly Detection With Variational Autoencoder And Dynamic Threshold**|Tolulope Ale et.al.|[2407.10042](http://arxiv.org/abs/2407.10042)|null|
 |**2024-07-13**|**MutDet: Mutually Optimizing Pre-training for Remote Sensing Object Detection**|Ziyue Huang et.al.|[2407.09920](http://arxiv.org/abs/2407.09920)|**[link](https://github.com/floatingstarz/mutdet)**|
 |**2024-07-11**|**Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images**|Lucrezia Tosato et.al.|[2407.08669](http://arxiv.org/abs/2407.08669)|null|

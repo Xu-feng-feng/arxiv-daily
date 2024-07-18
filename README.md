@@ -211,9 +211,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**High Frequency Matters: Uncertainty Guided Image Compression with Wavelet Diffusion**|Juan Song et.al.|[2407.12538](http://arxiv.org/abs/2407.12538)|**[link](https://github.com/hejiaxiang1/wavelet-diffusion)**|
+|**2024-07-17**|**Enhancing Film Grain Coding in VVC: Improving Encoding Quality and Efficiency**|Vignesh V Menon et.al.|[2407.12465](http://arxiv.org/abs/2407.12465)|null|
+|**2024-07-17**|**Reliability Function of Classical-Quantum Channels**|Ke Li et.al.|[2407.12403](http://arxiv.org/abs/2407.12403)|null|
+|**2024-07-17**|**Exploiting Inter-Image Similarity Prior for Low-Bitrate Remote Sensing Image Compression**|Junhui Li et.al.|[2407.12295](http://arxiv.org/abs/2407.12295)|null|
+|**2024-07-16**|**Tiled Bit Networks: Sub-Bit Neural Network Compression Through Reuse of Learnable Binary Vectors**|Matt Gorbett et.al.|[2407.12075](http://arxiv.org/abs/2407.12075)|null|
 |**2024-07-17**|**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression**|Jinming Liu et.al.|[2407.11700](http://arxiv.org/abs/2407.11700)|null|
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
-|**2024-07-16**|**Neural Compression of Atmospheric States**|Piotr Mirowski et.al.|[2407.11666](http://arxiv.org/abs/2407.11666)|null|
+|**2024-07-17**|**Neural Compression of Atmospheric States**|Piotr Mirowski et.al.|[2407.11666](http://arxiv.org/abs/2407.11666)|null|
 |**2024-07-16**|**Rethinking Learned Image Compression: Context is All You Need**|Jixiang Luo et.al.|[2407.11590](http://arxiv.org/abs/2407.11590)|null|
 |**2024-07-16**|**The impact of lossy data compression on the power spectrum of the high redshift 21-cm signal with LOFAR**|J. K. Chege et.al.|[2407.11557](http://arxiv.org/abs/2407.11557)|null|
 |**2024-07-16**|**Uniformly Accelerated Motion Model for Inter Prediction**|Zhuoyuan Li et.al.|[2407.11541](http://arxiv.org/abs/2407.11541)|null|
@@ -607,6 +612,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Hallucination Index: An Image Quality Metric for Generative Reconstruction Models**|Matthew Tivnan et.al.|[2407.12780](http://arxiv.org/abs/2407.12780)|null|
+|**2024-07-17**|**CoSIGN: Few-Step Guidance of ConSIstency Model to Solve General INverse Problems**|Jiankun Zhao et.al.|[2407.12676](http://arxiv.org/abs/2407.12676)|**[link](https://github.com/biomed-ai-lab-u-michgan/cosign)**|
+|**2024-07-17**|**High Frequency Matters: Uncertainty Guided Image Compression with Wavelet Diffusion**|Juan Song et.al.|[2407.12538](http://arxiv.org/abs/2407.12538)|**[link](https://github.com/hejiaxiang1/wavelet-diffusion)**|
+|**2024-07-17**|**Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations**|Tomáš Chobola et.al.|[2407.12511](http://arxiv.org/abs/2407.12511)|**[link](https://github.com/ctom2/colie)**|
+|**2024-07-17**|**Enhancing Film Grain Coding in VVC: Improving Encoding Quality and Efficiency**|Vignesh V Menon et.al.|[2407.12465](http://arxiv.org/abs/2407.12465)|null|
+|**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261](http://arxiv.org/abs/2407.12261)|null|
+|**2024-07-16**|**Semantic Communication for the Internet of Sounds: Architecture, Design Principles, and Challenges**|Chengsi Liang et.al.|[2407.12203](http://arxiv.org/abs/2407.12203)|null|
+|**2024-07-16**|**Neural Passage Quality Estimation for Static Pruning**|Xuejun Chang et.al.|[2407.12170](http://arxiv.org/abs/2407.12170)|null|
 |**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840](http://arxiv.org/abs/2407.11840)|null|
 |**2024-07-16**|**LoFTI: Localization and Factuality Transfer to Indian Locales**|Sona Elza Simon et.al.|[2407.11833](http://arxiv.org/abs/2407.11833)|**[link](https://github.com/csalt-research/lofti)**|
 |**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|null|
@@ -1422,6 +1435,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Toward INT4 Fixed-Point Training via Exploring Quantization Error for Gradients**|Dohyung Kim et.al.|[2407.12637](http://arxiv.org/abs/2407.12637)|null|
 |**2024-07-16**|**Speckle-based 3D sub-diffraction imaging through a multimode fiber**|Zhouping Lyu et.al.|[2407.11796](http://arxiv.org/abs/2407.11796)|null|
 |**2024-07-16**|**Deconvolution with a Box**|Pedro Felzenszwalb et.al.|[2407.11685](http://arxiv.org/abs/2407.11685)|null|
 |**2024-07-16**|**Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations**|Yunya Gao et.al.|[2407.11381](http://arxiv.org/abs/2407.11381)|**[link](https://github.com/yunyagaotree/sam-adapter-for-refugee-dwelling-extraction)**|
@@ -1892,6 +1906,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Exploiting Inter-Image Similarity Prior for Low-Bitrate Remote Sensing Image Compression**|Junhui Li et.al.|[2407.12295](http://arxiv.org/abs/2407.12295)|null|
 |**2024-07-17**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578](http://arxiv.org/abs/2407.11578)|null|
 |**2024-07-17**|**RIMformer: An End-to-End Transformer for FMCW Radar Interference Mitigation**|Ziang Zhang et.al.|[2407.11459](http://arxiv.org/abs/2407.11459)|null|
 |**2024-07-16**|**Mapping savannah woody vegetation at the species level with multispecral drone and hyperspectral EnMAP data**|Christina Karakizi et.al.|[2407.11404](http://arxiv.org/abs/2407.11404)|null|

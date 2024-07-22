@@ -23,7 +23,7 @@
 |---|---|---|---|---|
 |**2024-07-11**|**Enhancing octree-based context models for point cloud geometry compression with attention-based child node number prediction**|Chang Sun et.al.|[2407.08528](http://arxiv.org/abs/2407.08528)|null|
 |**2024-07-11**|**Enhancing context models for point cloud geometry compression with context feature residuals and multi-loss**|Chang Sun et.al.|[2407.08520](http://arxiv.org/abs/2407.08520)|null|
-|**2024-07-09**|**PCAC-GAN:ASparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression**|Xiaolong Mao et.al.|[2407.05677](http://arxiv.org/abs/2407.05677)|null|
+|**2024-07-19**|**PCAC-GAN: A Sparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression**|Xiaolong Mao et.al.|[2407.05677](http://arxiv.org/abs/2407.05677)|null|
 |**2024-07-05**|**Rethinking Data Input for Point Cloud Upsampling**|Tongxu Zhang et.al.|[2407.04476](http://arxiv.org/abs/2407.04476)|null|
 |**2024-07-05**|**TSC-PCAC: Voxel Transformer and Sparse Convolution Based Point Cloud Attribute Compression for 3D Broadcasting**|Zixi Guo et.al.|[2407.04284](http://arxiv.org/abs/2407.04284)|**[link](https://github.com/igizuxo/tsc-pcac)**|
 |**2024-06-15**|**Full reference point cloud quality assessment using support vector regression**|Ryosuke Watanabe et.al.|[2406.10520](http://arxiv.org/abs/2406.10520)|**[link](https://github.com/stac-usc/frsvr-pcqa)**|
@@ -211,6 +211,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**A Benchmark for Gaussian Splatting Compression and Quality Assessment Study**|Qi Yang et.al.|[2407.14197](http://arxiv.org/abs/2407.14197)|**[link](https://github.com/qi-yangsjtu/ggsc)**|
 |**2024-07-18**|**Training Foundation Models as Data Compression: On Information, Model Weights and Copyright Law**|Giorgio Franceschelli et.al.|[2407.13493](http://arxiv.org/abs/2407.13493)|null|
 |**2024-07-18**|**Learned HDR Image Compression for Perceptually Optimal Storage and Display**|Peibei Cao et.al.|[2407.13179](http://arxiv.org/abs/2407.13179)|null|
 |**2024-07-17**|**High Frequency Matters: Uncertainty Guided Image Compression with Wavelet Diffusion**|Juan Song et.al.|[2407.12538](http://arxiv.org/abs/2407.12538)|**[link](https://github.com/hejiaxiang1/wavelet-diffusion)**|
@@ -614,6 +615,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**A Benchmark for Gaussian Splatting Compression and Quality Assessment Study**|Qi Yang et.al.|[2407.14197](http://arxiv.org/abs/2407.14197)|**[link](https://github.com/qi-yangsjtu/ggsc)**|
+|**2024-07-19**|**Shape and Style GAN-based Multispectral Data Augmentation for Crop/Weed Segmentation in Precision Farming**|Mulham Fawakherji et.al.|[2407.14119](http://arxiv.org/abs/2407.14119)|null|
+|**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053](http://arxiv.org/abs/2407.14053)|null|
+|**2024-07-19**|**Personalized Privacy Protection Mask Against Unauthorized Facial Recognition**|Ka-Ho Chow et.al.|[2407.13975](http://arxiv.org/abs/2407.13975)|**[link](https://github.com/git-disl/Chameleon)**|
 |**2024-07-18**|**Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion**|Boyang Deng et.al.|[2407.13759](http://arxiv.org/abs/2407.13759)|null|
 |**2024-07-18**|**A Novel Freeform Slicer IFU for the Magellan InfraRed Multi-Object Spectrograph (MIRMOS)**|Maren Cosens et.al.|[2407.13747](http://arxiv.org/abs/2407.13747)|null|
 |**2024-07-18**|**HazeCLIP: Towards Language Guided Real-World Image Dehazing**|Ruiyi Wang et.al.|[2407.13719](http://arxiv.org/abs/2407.13719)|**[link](https://github.com/Troivyn/HazeCLIP)**|
@@ -1447,6 +1452,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Large Kernel Distillation Network for Efficient Single Image Super-Resolution**|Chengxing Xie et.al.|[2407.14340](http://arxiv.org/abs/2407.14340)|**[link](https://github.com/stella-von/LKDN)**|
+|**2024-07-19**|**RealViformer: Investigating Attention for Real-World Video Super-Resolution**|Yuehan Zhang et.al.|[2407.13987](http://arxiv.org/abs/2407.13987)|**[link](https://github.com/yuehan717/realviformer)**|
 |**2024-07-18**|**MaRINeR: Enhancing Novel Views by Matching Rendered Images with Nearby References**|Lukas Bösiger et.al.|[2407.13745](http://arxiv.org/abs/2407.13745)|null|
 |**2024-07-18**|**Research on Image Super-Resolution Reconstruction Mechanism based on Convolutional Neural Network**|Hao Yan et.al.|[2407.13211](http://arxiv.org/abs/2407.13211)|null|
 |**2024-07-18**|**UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt**|Xin Li et.al.|[2407.13108](http://arxiv.org/abs/2407.13108)|null|
@@ -1921,6 +1928,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images**|Bo Yuan et.al.|[2407.14242](http://arxiv.org/abs/2407.14242)|**[link](https://github.com/YBIO/CPP)**|
+|**2024-07-19**|**The Cardinality of Identifying Code Sets for Soccer Ball Graph with Application to Remote Sensing**|Anna L. D. Latour et.al.|[2407.14120](http://arxiv.org/abs/2407.14120)|**[link](https://github.com/latower/SBG-bounds)**|
+|**2024-07-19**|**Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance**|Yongshuo Zhu et.al.|[2407.14032](http://arxiv.org/abs/2407.14032)|null|
 |**2024-07-18**|**Quantifying uncertainty in area and regression coefficient estimation from remote sensing maps**|Kerri Lu et.al.|[2407.13659](http://arxiv.org/abs/2407.13659)|null|
 |**2024-07-18**|**EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|null|
 |**2024-07-18**|**Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection**|Jiangwei Xie et.al.|[2407.13151](http://arxiv.org/abs/2407.13151)|**[link](https://github.com/summitgao/WBANet)**|

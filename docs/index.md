@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1917,7 +1917,7 @@ layout: default
 |**2024-07-19**|**The Cardinality of Identifying Code Sets for Soccer Ball Graph with Application to Remote Sensing**|Anna L. D. Latour et.al.|[2407.14120](http://arxiv.org/abs/2407.14120)|**[link](https://github.com/latower/SBG-bounds)**|
 |**2024-07-19**|**Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance**|Yongshuo Zhu et.al.|[2407.14032](http://arxiv.org/abs/2407.14032)|null|
 |**2024-07-18**|**Quantifying uncertainty in area and regression coefficient estimation from remote sensing maps**|Kerri Lu et.al.|[2407.13659](http://arxiv.org/abs/2407.13659)|null|
-|**2024-07-18**|**EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|null|
+|**2024-07-20**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|null|
 |**2024-07-18**|**Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection**|Jiangwei Xie et.al.|[2407.13151](http://arxiv.org/abs/2407.13151)|**[link](https://github.com/summitgao/WBANet)**|
 |**2024-07-17**|**Exploiting Inter-Image Similarity Prior for Low-Bitrate Remote Sensing Image Compression**|Junhui Li et.al.|[2407.12295](http://arxiv.org/abs/2407.12295)|null|
 |**2024-07-17**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578](http://arxiv.org/abs/2407.11578)|null|

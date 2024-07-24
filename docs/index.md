@@ -203,6 +203,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Accelerating Learned Video Compression via Low-Resolution Representation Learning**|Zidian Qiu et.al.|[2407.16418](http://arxiv.org/abs/2407.16418)|null|
+|**2024-07-23**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|null|
+|**2024-07-19**|**Shapley Pruning for Neural Network Compression**|Kamil Adamczewski et.al.|[2407.15875](http://arxiv.org/abs/2407.15875)|null|
+|**2024-07-18**|**CIC: Circular Image Compression**|Honggui Li et.al.|[2407.15870](http://arxiv.org/abs/2407.15870)|null|
 |**2024-07-22**|**Online String Attractors**|Philip Whittington et.al.|[2407.15599](http://arxiv.org/abs/2407.15599)|null|
 |**2024-07-22**|**Spectral properties of bright deposits in permanently shadowed craters on Ceres**|Stefan Schröder et.al.|[2407.15327](http://arxiv.org/abs/2407.15327)|null|
 |**2024-07-21**|**Lessons Learned on the Path to Guaranteeing the Error Bound in Lossy Quantizers**|Alex Fallin et.al.|[2407.15037](http://arxiv.org/abs/2407.15037)|null|
@@ -608,6 +612,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**QPT V2: Masked Image Modeling Advances Visual Scoring**|Qizhi Xie et.al.|[2407.16541](http://arxiv.org/abs/2407.16541)|**[link](https://github.com/keichitse/qpt-v2)**|
+|**2024-07-23**|**ToDER: Towards Colonoscopy Depth Estimation and Reconstruction with Geometry Constraint Adaptation**|Zhenhua Wu et.al.|[2407.16508](http://arxiv.org/abs/2407.16508)|null|
+|**2024-07-23**|**On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**|Deniz Daum et.al.|[2407.16405](http://arxiv.org/abs/2407.16405)|**[link](https://github.com/compai-lab/2024-miccai-dgm-daum)**|
+|**2024-07-23**|**Improving multidimensional projection quality with user-specific metrics and optimal scaling**|Maniru Ibrahim et.al.|[2407.16328](http://arxiv.org/abs/2407.16328)|null|
+|**2024-07-23**|**A new visual quality metric for Evaluating the performance of multidimensional projections**|Maniru Ibrahim et.al.|[2407.16309](http://arxiv.org/abs/2407.16309)|null|
+|**2024-07-23**|**Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance**|Jiyeop Kim et.al.|[2407.16173](http://arxiv.org/abs/2407.16173)|null|
+|**2024-07-23**|**Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos**|Jiahe Liu et.al.|[2407.16124](http://arxiv.org/abs/2407.16124)|**[link](https://github.com/ljh0v0/fmd-frechet-motion-distance)**|
 |**2024-07-22**|**Enhancing Cell Instance Segmentation in Scanning Electron Microscopy Images via a Deep Contour Closing Operator**|Florian Robert et.al.|[2407.15817](http://arxiv.org/abs/2407.15817)|null|
 |**2024-07-22**|**SS-SFR: Synthetic Scenes Spatial Frequency Response on Virtual KITTI and Degraded Automotive Simulations for Object Detection**|Daniel Jakab et.al.|[2407.15646](http://arxiv.org/abs/2407.15646)|null|
 |**2024-07-22**|**Experimenting with Adaptive Bitrate Algorithms for Virtual Reality Streaming over Wi-Fi**|Ferran Maura et.al.|[2407.15614](http://arxiv.org/abs/2407.15614)|null|
@@ -1458,6 +1469,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Channel-Partitioned Windowed Attention And Frequency Learning for Single Image Super-Resolution**|Dinh Phu Tran et.al.|[2407.16232](http://arxiv.org/abs/2407.16232)|null|
+|**2024-07-23**|**Topological Dark Spots of Electric Near Field in Metal Structures**|Tong Fu et.al.|[2407.16213](http://arxiv.org/abs/2407.16213)|null|
+|**2024-07-23**|**Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems**|Sojin Lee et.al.|[2407.16125](http://arxiv.org/abs/2407.16125)|**[link](https://github.com/mlvlab/davi)**|
 |**2024-07-22**|**High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning**|Haokai Wu et.al.|[2407.15604](http://arxiv.org/abs/2407.15604)|null|
 |**2024-07-22**|**Attention Beats Linear for Fast Implicit Neural Representation Generation**|Shuyi Zhang et.al.|[2407.15355](http://arxiv.org/abs/2407.15355)|**[link](https://github.com/roninton/anr)**|
 |**2024-07-22**|**ThermalNeRF: Thermal Radiance Fields**|Yvette Y. Lin et.al.|[2407.15337](http://arxiv.org/abs/2407.15337)|null|
@@ -1937,6 +1951,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**A Multitask Deep Learning Model for Classification and Regression of Hyperspectral Images: Application to the large-scale dataset**|Koushikey Chhapariya et.al.|[2407.16384](http://arxiv.org/abs/2407.16384)|null|
+|**2024-07-23**|**Sizey: Memory-Efficient Execution of Scientific Workflow Tasks**|Jonathan Bader et.al.|[2407.16353](http://arxiv.org/abs/2407.16353)|null|
+|**2024-07-23**|**HyTAS: A Hyperspectral Image Transformer Architecture Search Benchmark and Analysis**|Fangqin Zhou et.al.|[2407.16269](http://arxiv.org/abs/2407.16269)|**[link](https://github.com/zhoufangqin/hytas)**|
+|**2024-07-23**|**Cross-Domain Separable Translation Network for Multimodal Image Change Detection**|Tao Zhan et.al.|[2407.16158](http://arxiv.org/abs/2407.16158)|**[link](https://github.com/omega-rs/cstn)**|
+|**2024-07-22**|**Self-driving lab discovers principles for steering spontaneous emission**|Saaketh Desai et.al.|[2407.16083](http://arxiv.org/abs/2407.16083)|null|
+|**2024-07-22**|**EfficientCD: A New Strategy For Change Detection Based With Bi-temporal Layers Exchanged**|Sijun Dong et.al.|[2407.15999](http://arxiv.org/abs/2407.15999)|null|
 |**2024-07-22**|**PRIME: Blind Multispectral Unmixing Using Virtual Quantum Prism and Convex Geometry**|Chia-Hsiang Lin et.al.|[2407.15358](http://arxiv.org/abs/2407.15358)|null|
 |**2024-07-22**|**Fever Detection with Infrared Thermography: Enhancing Accuracy through Machine Learning Techniques**|Parsa Razmara et.al.|[2407.15302](http://arxiv.org/abs/2407.15302)|null|
 |**2024-07-21**|**Rethinking Feature Backbone Fine-tuning for Remote Sensing Object Detection**|Yechan Kim et.al.|[2407.15143](http://arxiv.org/abs/2407.15143)|null|

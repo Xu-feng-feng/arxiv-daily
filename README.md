@@ -212,6 +212,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Lossy Data Compression By Adaptive Mesh Coarsening**|N. Böing et.al.|[2407.17316](http://arxiv.org/abs/2407.17316)|null|
+|**2024-07-24**|**High Efficiency Image Compression for Large Visual-Language Models**|Binzhe Li et.al.|[2407.17060](http://arxiv.org/abs/2407.17060)|null|
 |**2024-07-23**|**Accelerating Learned Video Compression via Low-Resolution Representation Learning**|Zidian Qiu et.al.|[2407.16418](http://arxiv.org/abs/2407.16418)|null|
 |**2024-07-24**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|**[link](https://github.com/yunfeilu0112/fcnr)**|
 |**2024-07-19**|**Shapley Pruning for Neural Network Compression**|Kamil Adamczewski et.al.|[2407.15875](http://arxiv.org/abs/2407.15875)|null|
@@ -623,6 +625,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Final Alignment and Image Quality Test for the Acquisition and Guiding System of SOXS**|J. A. Araiza-Duran et.al.|[2407.17382](http://arxiv.org/abs/2407.17382)|null|
+|**2024-07-24**|**SOXS NIR: Optomechanical integration and alignment, optical performance verification before full instrument assembly**|M. Genoni et.al.|[2407.17244](http://arxiv.org/abs/2407.17244)|null|
+|**2024-07-24**|**Q-Ground: Image Quality Grounding with Large Multi-modality Models**|Chaofeng Chen et.al.|[2407.17035](http://arxiv.org/abs/2407.17035)|null|
+|**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965](http://arxiv.org/abs/2407.16965)|null|
+|**2024-07-24**|**SAR to Optical Image Translation with Color Supervised Diffusion Model**|Xinyu Bai et.al.|[2407.16921](http://arxiv.org/abs/2407.16921)|null|
 |**2024-07-23**|**QPT V2: Masked Image Modeling Advances Visual Scoring**|Qizhi Xie et.al.|[2407.16541](http://arxiv.org/abs/2407.16541)|**[link](https://github.com/keichitse/qpt-v2)**|
 |**2024-07-23**|**ToDER: Towards Colonoscopy Depth Estimation and Reconstruction with Geometry Constraint Adaptation**|Zhenhua Wu et.al.|[2407.16508](http://arxiv.org/abs/2407.16508)|null|
 |**2024-07-23**|**On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**|Deniz Daum et.al.|[2407.16405](http://arxiv.org/abs/2407.16405)|**[link](https://github.com/compai-lab/2024-miccai-dgm-daum)**|
@@ -1482,6 +1489,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Cuboid-Net: A Multi-Branch Convolutional Neural Network for Joint Space-Time Video Super Resolution**|Congrui Fu et.al.|[2407.16986](http://arxiv.org/abs/2407.16986)|null|
+|**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965](http://arxiv.org/abs/2407.16965)|null|
 |**2024-07-23**|**Channel-Partitioned Windowed Attention And Frequency Learning for Single Image Super-Resolution**|Dinh Phu Tran et.al.|[2407.16232](http://arxiv.org/abs/2407.16232)|null|
 |**2024-07-23**|**Topological Dark Spots of Electric Near Field in Metal Structures**|Tong Fu et.al.|[2407.16213](http://arxiv.org/abs/2407.16213)|null|
 |**2024-07-23**|**Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems**|Sojin Lee et.al.|[2407.16125](http://arxiv.org/abs/2407.16125)|**[link](https://github.com/mlvlab/davi)**|
@@ -1966,11 +1975,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification**|Joana Reuss et.al.|[2407.17458](http://arxiv.org/abs/2407.17458)|null|
+|**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|null|
+|**2024-07-24**|**Quanv4EO: Empowering Earth Observation by means of Quanvolutional Neural Networks**|Alessandro Sebastianelli et.al.|[2407.17108](http://arxiv.org/abs/2407.17108)|null|
+|**2024-07-23**|**Integrating Biological Data into Autonomous Remote Sensing Systems for In Situ Imageomics: A Case Study for Kenyan Animal Behavior Sensing with Unmanned Aerial Vehicles (UAVs)**|Jenna M. Kline et.al.|[2407.16864](http://arxiv.org/abs/2407.16864)|null|
 |**2024-07-23**|**A Multitask Deep Learning Model for Classification and Regression of Hyperspectral Images: Application to the large-scale dataset**|Koushikey Chhapariya et.al.|[2407.16384](http://arxiv.org/abs/2407.16384)|null|
 |**2024-07-23**|**Sizey: Memory-Efficient Execution of Scientific Workflow Tasks**|Jonathan Bader et.al.|[2407.16353](http://arxiv.org/abs/2407.16353)|null|
 |**2024-07-23**|**HyTAS: A Hyperspectral Image Transformer Architecture Search Benchmark and Analysis**|Fangqin Zhou et.al.|[2407.16269](http://arxiv.org/abs/2407.16269)|**[link](https://github.com/zhoufangqin/hytas)**|
 |**2024-07-23**|**Cross-Domain Separable Translation Network for Multimodal Image Change Detection**|Tao Zhan et.al.|[2407.16158](http://arxiv.org/abs/2407.16158)|**[link](https://github.com/omega-rs/cstn)**|
-|**2024-07-22**|**Self-driving lab discovers principles for steering spontaneous emission**|Saaketh Desai et.al.|[2407.16083](http://arxiv.org/abs/2407.16083)|null|
+|**2024-07-24**|**Self-driving lab discovers principles for steering spontaneous emission**|Saaketh Desai et.al.|[2407.16083](http://arxiv.org/abs/2407.16083)|null|
 |**2024-07-22**|**EfficientCD: A New Strategy For Change Detection Based With Bi-temporal Layers Exchanged**|Sijun Dong et.al.|[2407.15999](http://arxiv.org/abs/2407.15999)|null|
 |**2024-07-22**|**PRIME: Blind Multispectral Unmixing Using Virtual Quantum Prism and Convex Geometry**|Chia-Hsiang Lin et.al.|[2407.15358](http://arxiv.org/abs/2407.15358)|null|
 |**2024-07-22**|**Fever Detection with Infrared Thermography: Enhancing Accuracy through Machine Learning Techniques**|Parsa Razmara et.al.|[2407.15302](http://arxiv.org/abs/2407.15302)|null|

@@ -203,6 +203,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Adaptable Deep Joint Source-and-Channel Coding for Small Satellite Applications**|Olga Kondrateva et.al.|[2407.18146](http://arxiv.org/abs/2407.18146)|null|
+|**2024-07-25**|**Scaling Training Data with Lossy Image Compression**|Katherine L. Mentzer et.al.|[2407.17954](http://arxiv.org/abs/2407.17954)|**[link](https://github.com/granica-ai/lossycompressionscalingkdd2024)**|
+|**2024-07-25**|**Towards the Spectral bias Alleviation by Normalizations in Coordinate Networks**|Zhicheng Cai et.al.|[2407.17834](http://arxiv.org/abs/2407.17834)|null|
 |**2024-07-24**|**Lossy Data Compression By Adaptive Mesh Coarsening**|N. Böing et.al.|[2407.17316](http://arxiv.org/abs/2407.17316)|null|
 |**2024-07-24**|**High Efficiency Image Compression for Large Visual-Language Models**|Binzhe Li et.al.|[2407.17060](http://arxiv.org/abs/2407.17060)|null|
 |**2024-07-23**|**Accelerating Learned Video Compression via Low-Resolution Representation Learning**|Zidian Qiu et.al.|[2407.16418](http://arxiv.org/abs/2407.16418)|null|
@@ -614,6 +617,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Joint RGB-Spectral Decomposition Model Guided Image Enhancement in Mobile Photography**|Kailai Zhou et.al.|[2407.17996](http://arxiv.org/abs/2407.17996)|**[link](https://github.com/calayzhou/jdm-hdrnet)**|
+|**2024-07-25**|**Invariance of deep image quality metrics to affine transformations**|Nuria Alabau-Bosque et.al.|[2407.17927](http://arxiv.org/abs/2407.17927)|null|
+|**2024-07-25**|**Artificial Immunofluorescence in a Flash: Rapid Synthetic Imaging from Brightfield Through Residual Diffusion**|Xiaodan Xing et.al.|[2407.17882](http://arxiv.org/abs/2407.17882)|null|
 |**2024-07-24**|**Final Alignment and Image Quality Test for the Acquisition and Guiding System of SOXS**|J. A. Araiza-Duran et.al.|[2407.17382](http://arxiv.org/abs/2407.17382)|null|
 |**2024-07-24**|**SOXS NIR: Optomechanical integration and alignment, optical performance verification before full instrument assembly**|M. Genoni et.al.|[2407.17244](http://arxiv.org/abs/2407.17244)|null|
 |**2024-07-24**|**Q-Ground: Image Quality Grounding with Large Multi-modality Models**|Chaofeng Chen et.al.|[2407.17035](http://arxiv.org/abs/2407.17035)|null|
@@ -1476,6 +1482,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046](http://arxiv.org/abs/2407.18046)|null|
 |**2024-07-24**|**Cuboid-Net: A Multi-Branch Convolutional Neural Network for Joint Space-Time Video Super Resolution**|Congrui Fu et.al.|[2407.16986](http://arxiv.org/abs/2407.16986)|null|
 |**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965](http://arxiv.org/abs/2407.16965)|null|
 |**2024-07-23**|**Channel-Partitioned Windowed Attention And Frequency Learning for Single Image Super-Resolution**|Dinh Phu Tran et.al.|[2407.16232](http://arxiv.org/abs/2407.16232)|null|
@@ -1960,6 +1967,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**HAMSTER: Hyperspectral Albedo Maps dataset with high Spatial and TEmporal Resolution**|Giulia Roccetti et.al.|[2407.18030](http://arxiv.org/abs/2407.18030)|null|
+|**2024-07-24**|**An Energy-Efficient Artefact Detection Accelerator on FPGAs for Hyper-Spectral Satellite Imagery**|Cornell Castelino et.al.|[2407.17647](http://arxiv.org/abs/2407.17647)|null|
 |**2024-07-24**|**EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification**|Joana Reuss et.al.|[2407.17458](http://arxiv.org/abs/2407.17458)|null|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|null|
 |**2024-07-24**|**Quanv4EO: Empowering Earth Observation by means of Quanvolutional Neural Networks**|Alessandro Sebastianelli et.al.|[2407.17108](http://arxiv.org/abs/2407.17108)|null|
@@ -1977,7 +1986,7 @@ layout: default
 |**2024-07-20**|**CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation**|Yukai Shi et.al.|[2407.14823](http://arxiv.org/abs/2407.14823)|**[link](https://github.com/wengzp1/scaleupdehazing)**|
 |**2024-07-20**|**Representing Topological Self-Similarity Using Fractal Feature Maps for Accurate Segmentation of Tubular Structures**|Jiaxing Huang et.al.|[2407.14754](http://arxiv.org/abs/2407.14754)|**[link](https://github.com/cbmi-group/ffm-multi-decoder-network)**|
 |**2024-07-20**|**$\infty$ -Brush: Controllable Large Image Synthesis with Diffusion Models in Infinite Dimensions**|Minh-Quan Le et.al.|[2407.14709](http://arxiv.org/abs/2407.14709)|null|
-|**2024-07-19**|**Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images**|Bo Yuan et.al.|[2407.14242](http://arxiv.org/abs/2407.14242)|null|
+|**2024-07-25**|**Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images**|Bo Yuan et.al.|[2407.14242](http://arxiv.org/abs/2407.14242)|null|
 |**2024-07-19**|**The Cardinality of Identifying Code Sets for Soccer Ball Graph with Application to Remote Sensing**|Anna L. D. Latour et.al.|[2407.14120](http://arxiv.org/abs/2407.14120)|**[link](https://github.com/latower/SBG-bounds)**|
 |**2024-07-19**|**Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance**|Yongshuo Zhu et.al.|[2407.14032](http://arxiv.org/abs/2407.14032)|null|
 |**2024-07-18**|**Quantifying uncertainty in area and regression coefficient estimation from remote sensing maps**|Kerri Lu et.al.|[2407.13659](http://arxiv.org/abs/2407.13659)|null|

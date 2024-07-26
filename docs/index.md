@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1974,10 +1974,10 @@ layout: default
 |**2024-07-22**|**Fever Detection with Infrared Thermography: Enhancing Accuracy through Machine Learning Techniques**|Parsa Razmara et.al.|[2407.15302](http://arxiv.org/abs/2407.15302)|null|
 |**2024-07-21**|**Rethinking Feature Backbone Fine-tuning for Remote Sensing Object Detection**|Yechan Kim et.al.|[2407.15143](http://arxiv.org/abs/2407.15143)|null|
 |**2024-07-20**|**PolyR-CNN: R-CNN for end-to-end polygonal building outline extraction**|Weiqin Jiao et.al.|[2407.14912](http://arxiv.org/abs/2407.14912)|null|
-|**2024-07-20**|**CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation**|Yukai Shi et.al.|[2407.14823](http://arxiv.org/abs/2407.14823)|null|
-|**2024-07-20**|**Representing Topological Self-Similarity Using Fractal Feature Maps for Accurate Segmentation of Tubular Structures**|Jiaxing Huang et.al.|[2407.14754](http://arxiv.org/abs/2407.14754)|null|
+|**2024-07-20**|**CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation**|Yukai Shi et.al.|[2407.14823](http://arxiv.org/abs/2407.14823)|**[link](https://github.com/wengzp1/scaleupdehazing)**|
+|**2024-07-20**|**Representing Topological Self-Similarity Using Fractal Feature Maps for Accurate Segmentation of Tubular Structures**|Jiaxing Huang et.al.|[2407.14754](http://arxiv.org/abs/2407.14754)|**[link](https://github.com/cbmi-group/ffm-multi-decoder-network)**|
 |**2024-07-20**|**$\infty$ -Brush: Controllable Large Image Synthesis with Diffusion Models in Infinite Dimensions**|Minh-Quan Le et.al.|[2407.14709](http://arxiv.org/abs/2407.14709)|null|
-|**2024-07-19**|**Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images**|Bo Yuan et.al.|[2407.14242](http://arxiv.org/abs/2407.14242)|**[link](https://github.com/YBIO/CPP)**|
+|**2024-07-19**|**Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images**|Bo Yuan et.al.|[2407.14242](http://arxiv.org/abs/2407.14242)|null|
 |**2024-07-19**|**The Cardinality of Identifying Code Sets for Soccer Ball Graph with Application to Remote Sensing**|Anna L. D. Latour et.al.|[2407.14120](http://arxiv.org/abs/2407.14120)|**[link](https://github.com/latower/SBG-bounds)**|
 |**2024-07-19**|**Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance**|Yongshuo Zhu et.al.|[2407.14032](http://arxiv.org/abs/2407.14032)|null|
 |**2024-07-18**|**Quantifying uncertainty in area and regression coefficient estimation from remote sensing maps**|Kerri Lu et.al.|[2407.13659](http://arxiv.org/abs/2407.13659)|null|

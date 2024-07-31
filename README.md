@@ -212,6 +212,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Edge Learning Based Collaborative Automatic Modulation Classification for Hierarchical Cognitive Radio Networks**|Peihao Dong et.al.|[2407.20772](http://arxiv.org/abs/2407.20772)|**[link](https://github.com/AI4CogComm/CAMC)**|
+|**2024-07-30**|**Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications**|Yi Ju et.al.|[2407.20717](http://arxiv.org/abs/2407.20717)|null|
+|**2024-07-29**|**Homomorphic data compression for real time photon correlation analysis**|Sebastian Strempfer et.al.|[2407.20356](http://arxiv.org/abs/2407.20356)|null|
+|**2024-07-24**|**Accelerating the Low-Rank Decomposed Models**|Habib Hajimolahoseini et.al.|[2407.20266](http://arxiv.org/abs/2407.20266)|null|
 |**2024-07-29**|**ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck**|Chia-Hao Kao et.al.|[2407.19651](http://arxiv.org/abs/2407.19651)|null|
 |**2024-07-28**|**NVC-1B: A Large Neural Video Coding Model**|Xihua Sheng et.al.|[2407.19402](http://arxiv.org/abs/2407.19402)|null|
 |**2024-07-18**|**Generative AI Augmented Induction-based Formal Verification**|Aman Kumar et.al.|[2407.18965](http://arxiv.org/abs/2407.18965)|null|
@@ -632,6 +636,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Simultaneous Multi-Slice Diffusion Imaging using Navigator-free Multishot Spiral Acquisition**|Yuancheng Jiang et.al.|[2407.20904](http://arxiv.org/abs/2407.20904)|null|
+|**2024-07-30**|**Highly Efficient No-reference 4K Video Quality Assessment with Full-Pixel Covering Sampling and Training Strategy**|Xiaoheng Tan et.al.|[2407.20766](http://arxiv.org/abs/2407.20766)|null|
+|**2024-07-30**|**Questionnaires for Everyone: Streamlining Cross-Cultural Questionnaire Adaptation with GPT-Based Translation Quality Evaluation**|Otso Haavisto et.al.|[2407.20608](http://arxiv.org/abs/2407.20608)|null|
+|**2024-07-29**|**Mean Opinion Score as a New Metric for User-Evaluation of XAI Methods**|Hyeon Yu et.al.|[2407.20427](http://arxiv.org/abs/2407.20427)|null|
+|**2024-07-29**|**Sun Off, Lights On: Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception**|Konstantinos Tzevelekakis et.al.|[2407.20336](http://arxiv.org/abs/2407.20336)|null|
 |**2024-07-29**|**DDAP: Dual-Domain Anti-Personalization against Text-to-Image Diffusion Models**|Jing Yang et.al.|[2407.20141](http://arxiv.org/abs/2407.20141)|null|
 |**2024-07-29**|**HeadsetOff: Enabling Photorealistic Video Conferencing on Economical VR Headsets**|Yili Jin et.al.|[2407.19988](http://arxiv.org/abs/2407.19988)|null|
 |**2024-07-29**|**Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation**|Shiyuan Li et.al.|[2407.19944](http://arxiv.org/abs/2407.19944)|null|
@@ -1511,7 +1520,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-29**|**Efficient Face Super-Resolution via Wavelet-based Feature Enhancement Network**|Wenjie Li et.al.|[2407.19768](http://arxiv.org/abs/2407.19768)|**[link](https://github.com/pris-cv/wfen)**|
+|**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784](http://arxiv.org/abs/2407.20784)|null|
+|**2024-07-30**|**What makes for good morphology representations for spatial omics?**|Eduard Chelebian et.al.|[2407.20660](http://arxiv.org/abs/2407.20660)|null|
+|**2024-07-30**|**Efficient Channel Estimation for Millimeter Wave and Terahertz Systems Enabled by Integrated Super-resolution Sensing and Communication**|Jingran Xu et.al.|[2407.20607](http://arxiv.org/abs/2407.20607)|null|
+|**2024-07-29**|**Spatial sub-Rayleigh imaging via structured speckle illumination**|Liming Li et.al.|[2407.20460](http://arxiv.org/abs/2407.20460)|null|
+|**2024-07-29**|**Deep Learning for Super-resolution Ultrasound Imaging with Spatiotemporal Data**|David A. Redfern et.al.|[2407.20407](http://arxiv.org/abs/2407.20407)|null|
+|**2024-07-30**|**Efficient Face Super-Resolution via Wavelet-based Feature Enhancement Network**|Wenjie Li et.al.|[2407.19768](http://arxiv.org/abs/2407.19768)|**[link](https://github.com/pris-cv/wfen)**|
 |**2024-07-28**|**Giant Purcell broadening and Lamb shift for DNA-assembled near-infrared quantum emitters**|Sachin Verlekar et.al.|[2407.19513](http://arxiv.org/abs/2407.19513)|null|
 |**2024-07-28**|**Perfect Hyperlens**|Tao Hou et.al.|[2407.19506](http://arxiv.org/abs/2407.19506)|null|
 |**2024-07-28**|**Model-based Super-resolution: Towards a Unified Framework for Super-resolution**|Zetao Fei et.al.|[2407.19480](http://arxiv.org/abs/2407.19480)|null|
@@ -2005,6 +2019,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition**|Hao Tan et.al.|[2407.20920](http://arxiv.org/abs/2407.20920)|null|
 |**2024-07-29**|**Urban Traffic Accident Risk Prediction Revisited: Regionality, Proximity, Similarity and Sparsity**|Minxiao Chen et.al.|[2407.19668](http://arxiv.org/abs/2407.19668)|**[link](https://github.com/faceless0124/mghstn)**|
 |**2024-07-29**|**Towards a Knowledge guided Multimodal Foundation Model for Spatio-Temporal Remote Sensing Applications**|Praveen Ravirathinam et.al.|[2407.19660](http://arxiv.org/abs/2407.19660)|null|
 |**2024-07-25**|**HAMSTER: Hyperspectral Albedo Maps dataset with high Spatial and TEmporal Resolution**|Giulia Roccetti et.al.|[2407.18030](http://arxiv.org/abs/2407.18030)|null|

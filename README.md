@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -206,7 +206,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 ## Compression
 
@@ -631,7 +631,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -641,7 +641,7 @@
 |**2024-07-31**|**Benchmarking AIGC Video Quality Assessment: A Dataset and Unified Model**|Zhichao Zhang et.al.|[2407.21408](http://arxiv.org/abs/2407.21408)|null|
 |**2024-07-31**|**An all-sky catalogue of stellar reddening values**|E. Paunzen et.al.|[2407.21373](http://arxiv.org/abs/2407.21373)|null|
 |**2024-07-31**|**ESIQA: Perceptual Quality Assessment of Vision-Pro-based Egocentric Spatial Images**|Xilei Zhu et.al.|[2407.21363](http://arxiv.org/abs/2407.21363)|null|
-|**2024-07-31**|**Outlier Detection in Large Radiological Datasets using UMAP**|Mohammad Tariqul Islam et.al.|[2407.21263](http://arxiv.org/abs/2407.21263)|null|
+|**2024-08-01**|**Outlier Detection in Large Radiological Datasets using UMAP**|Mohammad Tariqul Islam et.al.|[2407.21263](http://arxiv.org/abs/2407.21263)|null|
 |**2024-07-30**|**MP-You: A Web-based MPI Simulation Tool**|The-Vinh Tran-Luu et.al.|[2407.21155](http://arxiv.org/abs/2407.21155)|null|
 |**2024-07-30**|**Simultaneous Multi-Slice Diffusion Imaging using Navigator-free Multishot Spiral Acquisition**|Yuancheng Jiang et.al.|[2407.20904](http://arxiv.org/abs/2407.20904)|null|
 |**2024-07-30**|**Highly Efficient No-reference 4K Video Quality Assessment with Full-Pixel Covering Sampling and Training Strategy**|Xiaoheng Tan et.al.|[2407.20766](http://arxiv.org/abs/2407.20766)|null|
@@ -1521,7 +1521,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -1529,7 +1529,7 @@
 |---|---|---|---|---|
 |**2024-07-31**|**Accelerating Image Super-Resolution Networks with Pixel-Level Classification**|Jinho Jeong et.al.|[2407.21448](http://arxiv.org/abs/2407.21448)|null|
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784](http://arxiv.org/abs/2407.20784)|null|
-|**2024-07-30**|**What makes for good morphology representations for spatial omics?**|Eduard Chelebian et.al.|[2407.20660](http://arxiv.org/abs/2407.20660)|null|
+|**2024-08-01**|**What makes for good morphology representations for spatial omics?**|Eduard Chelebian et.al.|[2407.20660](http://arxiv.org/abs/2407.20660)|null|
 |**2024-07-30**|**Efficient Channel Estimation for Millimeter Wave and Terahertz Systems Enabled by Integrated Super-resolution Sensing and Communication**|Jingran Xu et.al.|[2407.20607](http://arxiv.org/abs/2407.20607)|null|
 |**2024-07-29**|**Spatial sub-Rayleigh imaging via structured speckle illumination**|Liming Li et.al.|[2407.20460](http://arxiv.org/abs/2407.20460)|null|
 |**2024-07-29**|**Deep Learning for Super-resolution Ultrasound Imaging with Spatiotemporal Data**|David A. Redfern et.al.|[2407.20407](http://arxiv.org/abs/2407.20407)|null|
@@ -2021,7 +2021,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -2593,7 +2593,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

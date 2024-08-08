@@ -205,10 +205,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-06**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
+|**2024-08-07**|**Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression**|Hamidreza Soltani et.al.|[2408.03842](http://arxiv.org/abs/2408.03842)|null|
+|**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
 |**2024-08-06**|**Enabling High-Throughput Parallel I/O in Particle-in-Cell Monte Carlo Simulations with openPMD and Darshan I/O Monitoring**|Jeremy J. Williams et.al.|[2408.02869](http://arxiv.org/abs/2408.02869)|null|
-|**2024-08-05**|**Dimensionality Reduction and Nearest Neighbors for Improving Out-of-Distribution Detection in Medical Image Segmentation**|McKell Woodland et.al.|[2408.02761](http://arxiv.org/abs/2408.02761)|null|
-|**2024-08-04**|**CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization**|Xiang He et.al.|[2408.01952](http://arxiv.org/abs/2408.01952)|null|
+|**2024-08-05**|**Dimensionality Reduction and Nearest Neighbors for Improving Out-of-Distribution Detection in Medical Image Segmentation**|McKell Woodland et.al.|[2408.02761](http://arxiv.org/abs/2408.02761)|**[link](https://github.com/mckellwoodland/dimen_reduce_mahal)**|
+|**2024-08-04**|**CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization**|Xiang He et.al.|[2408.01952](http://arxiv.org/abs/2408.01952)|**[link](https://github.com/brain-cog-lab/cace-net)**|
 |**2024-08-03**|**Channel-Aware Distributed Transmission Control and Video Streaming in UAV Networks**|Masoud Ghazikor et.al.|[2408.01885](http://arxiv.org/abs/2408.01885)|null|
 |**2024-08-02**|**An Adaptive Tensor-Train Decomposition Approach for Efficient Deep Neural Network Compression**|Shiyi Luo et.al.|[2408.01534](http://arxiv.org/abs/2408.01534)|null|
 |**2024-07-31**|**Exploiting Change Blindness for Video Coding: Perspectives from a Less Promising User Study**|Mitra Amiri et.al.|[2408.00052](http://arxiv.org/abs/2408.00052)|null|
@@ -635,6 +636,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Global-Local Progressive Integration Network for Blind Image Quality Assessment**|Xiaoqi Wang et.al.|[2408.03885](http://arxiv.org/abs/2408.03885)|null|
+|**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822](http://arxiv.org/abs/2408.03822)|null|
+|**2024-08-07**|**Soft-Hard Attention U-Net Model and Benchmark Dataset for Multiscale Image Shadow Removal**|Eirini Cholopoulou et.al.|[2408.03734](http://arxiv.org/abs/2408.03734)|null|
+|**2024-08-07**|**Monitoring of Hermit Crabs Using drone-captured imagery and Deep Learning based Super-Resolution Reconstruction and Improved YOLOv8**|Fan Zhao et.al.|[2408.03559](http://arxiv.org/abs/2408.03559)|null|
+|**2024-08-07**|**D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods**|Onkar Susladkar et.al.|[2408.03558](http://arxiv.org/abs/2408.03558)|**[link](https://github.com/onkarsus13/d2styler)**|
+|**2024-08-07**|**PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting**|Yijia Guo et.al.|[2408.03538](http://arxiv.org/abs/2408.03538)|null|
 |**2024-08-06**|**Image Quality Transfer of Diffusion MRI Guided By High-Resolution Structural MRI**|Alp G. Cicimen et.al.|[2408.03216](http://arxiv.org/abs/2408.03216)|null|
 |**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156](http://arxiv.org/abs/2408.03156)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
@@ -1543,6 +1550,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Underwater litter monitoring using consumer-grade aerial-aquatic speedy scanner (AASS) and deep learning based super-resolution reconstruction and detection network**|Fan Zhao et.al.|[2408.03564](http://arxiv.org/abs/2408.03564)|null|
+|**2024-08-07**|**Monitoring of Hermit Crabs Using drone-captured imagery and Deep Learning based Super-Resolution Reconstruction and Improved YOLOv8**|Fan Zhao et.al.|[2408.03559](http://arxiv.org/abs/2408.03559)|null|
 |**2024-08-06**|**SGSR: Structure-Guided Multi-Contrast MRI Super-Resolution via Spatio-Frequency Co-Query Attention**|Shaoming Zheng et.al.|[2408.03194](http://arxiv.org/abs/2408.03194)|null|
 |**2024-08-03**|**Supervised Image Translation from Visible to Infrared Domain for Object Detection**|Prahlad Anand et.al.|[2408.01843](http://arxiv.org/abs/2408.01843)|null|
 |**2024-08-03**|**Transformer for seismic image super-resolution**|Shiqi Dong et.al.|[2408.01695](http://arxiv.org/abs/2408.01695)|null|
@@ -2049,6 +2058,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Prospects for using drones to test formation-flying CubeSat concepts, and other astronomical applications**|John D. Monnier et.al.|[2408.03911](http://arxiv.org/abs/2408.03911)|null|
+|**2024-08-07**|**Monitoring of Hermit Crabs Using drone-captured imagery and Deep Learning based Super-Resolution Reconstruction and Improved YOLOv8**|Fan Zhao et.al.|[2408.03559](http://arxiv.org/abs/2408.03559)|null|
+|**2024-08-06**|**AI Foundation Models in Remote Sensing: A Survey**|Siqi Lu et.al.|[2408.03464](http://arxiv.org/abs/2408.03464)|null|
 |**2024-08-04**|**Masked Angle-Aware Autoencoder for Remote Sensing Images**|Zhihao Li et.al.|[2408.01946](http://arxiv.org/abs/2408.01946)|null|
 |**2024-08-03**|**Quantum Lotka-Volterra dynamics**|Yuechun Jiao et.al.|[2408.01726](http://arxiv.org/abs/2408.01726)|null|
 |**2024-08-02**|**Deep Learning Meets OBIA: Tasks, Challenges, Strategies, and Perspectives**|Lei Ma et.al.|[2408.01607](http://arxiv.org/abs/2408.01607)|null|

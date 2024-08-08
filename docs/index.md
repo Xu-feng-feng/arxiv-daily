@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -640,7 +640,7 @@ layout: default
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 |**2024-08-05**|**Cascading Refinement Video Denoising with Uncertainty Adaptivity**|Xinyuan Yu et.al.|[2408.02284](http://arxiv.org/abs/2408.02284)|null|
 |**2024-08-04**|**PanoFree: Tuning-Free Holistic Multi-view Image Generation with Cross-view Self-Guidance**|Aoming Liu et.al.|[2408.02157](http://arxiv.org/abs/2408.02157)|null|
-|**2024-08-04**|**RICA^2: Rubric-Informed, Calibrated Assessment of Actions**|Abrar Majeedi et.al.|[2408.02138](http://arxiv.org/abs/2408.02138)|null|
+|**2024-08-06**|**RICA2: Rubric-Informed, Calibrated Assessment of Actions**|Abrar Majeedi et.al.|[2408.02138](http://arxiv.org/abs/2408.02138)|null|
 |**2024-08-04**|**View-consistent Object Removal in Radiance Fields**|Yiren Lu et.al.|[2408.02100](http://arxiv.org/abs/2408.02100)|null|
 |**2024-08-04**|**Constructing Per-Shot Bitrate Ladders using Visual Information Fidelity**|Krishna Srikar Durbha et.al.|[2408.01932](http://arxiv.org/abs/2408.01932)|null|
 |**2024-08-03**|**Landmark-guided Diffusion Model for High-fidelity and Temporally Coherent Talking Head Generation**|Jintao Tan et.al.|[2408.01732](http://arxiv.org/abs/2408.01732)|null|

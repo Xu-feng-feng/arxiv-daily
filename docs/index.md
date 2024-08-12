@@ -205,6 +205,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Benchmarking Conventional and Learned Video Codecs with a Low-Delay Configuration**|Siyue Teng et.al.|[2408.05042](http://arxiv.org/abs/2408.05042)|null|
 |**2024-08-08**|**SG-JND: Semantic-Guided Just Noticeable Distortion Predictor For Image Compression**|Linhan Cao et.al.|[2408.04273](http://arxiv.org/abs/2408.04273)|null|
 |**2024-08-07**|**Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression**|Hamidreza Soltani et.al.|[2408.03842](http://arxiv.org/abs/2408.03842)|null|
 |**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
@@ -637,6 +638,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**CBCT scatter correction with dual-layer flat-panel detector**|Xin Zhang et.al.|[2408.04943](http://arxiv.org/abs/2408.04943)|null|
+|**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/abs/2408.04831)|null|
+|**2024-08-08**|**DaedalusData: Exploration, Knowledge Externalization and Labeling of Particles in Medical Manufacturing -- A Design Study**|Alexander Wyss et.al.|[2408.04749](http://arxiv.org/abs/2408.04749)|null|
 |**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586](http://arxiv.org/abs/2408.04586)|null|
 |**2024-08-08**|**Synchronous Multi-modal Semantic CommunicationSystem with Packet-level Coding**|Yun Tian et.al.|[2408.04535](http://arxiv.org/abs/2408.04535)|null|
 |**2024-08-08**|**Robustness investigation of quality measures for the assessment of machine learning models**|Thomas Most et.al.|[2408.04391](http://arxiv.org/abs/2408.04391)|null|
@@ -1558,6 +1562,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205](http://arxiv.org/abs/2408.05205)|null|
 |**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158](http://arxiv.org/abs/2408.04158)|null|
 |**2024-08-07**|**Underwater litter monitoring using consumer-grade aerial-aquatic speedy scanner (AASS) and deep learning based super-resolution reconstruction and detection network**|Fan Zhao et.al.|[2408.03564](http://arxiv.org/abs/2408.03564)|null|
 |**2024-08-07**|**Monitoring of Hermit Crabs Using drone-captured imagery and Deep Learning based Super-Resolution Reconstruction and Improved YOLOv8**|Fan Zhao et.al.|[2408.03559](http://arxiv.org/abs/2408.03559)|null|
@@ -2067,6 +2072,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Modeling and Analysis of Downlink Communications in a Heterogeneous LEO Satellite Network**|Chang-Sik Choi et.al.|[2408.05070](http://arxiv.org/abs/2408.05070)|null|
+|**2024-08-08**|**AI for operational methane emitter monitoring from space**|Anna Vaughan et.al.|[2408.04745](http://arxiv.org/abs/2408.04745)|null|
 |**2024-08-08**|**Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation**|Daniele Rege Cambrin et.al.|[2408.04523](http://arxiv.org/abs/2408.04523)|null|
 |**2024-08-08**|**Dual-branch PolSAR Image Classification Based on GraphMAE and Local Feature Extraction**|Yuchen Wang et.al.|[2408.04294](http://arxiv.org/abs/2408.04294)|null|
 |**2024-08-08**|**Quantum-Enhanced Polarimetric Imaging**|Meng-Yu Xie et.al.|[2408.04183](http://arxiv.org/abs/2408.04183)|null|

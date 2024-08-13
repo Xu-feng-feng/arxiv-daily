@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -642,7 +642,7 @@ layout: default
 |**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/abs/2408.04831)|null|
 |**2024-08-08**|**DaedalusData: Exploration, Knowledge Externalization and Labeling of Particles in Medical Manufacturing -- A Design Study**|Alexander Wyss et.al.|[2408.04749](http://arxiv.org/abs/2408.04749)|null|
 |**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586](http://arxiv.org/abs/2408.04586)|null|
-|**2024-08-08**|**Synchronous Multi-modal Semantic CommunicationSystem with Packet-level Coding**|Yun Tian et.al.|[2408.04535](http://arxiv.org/abs/2408.04535)|null|
+|**2024-08-11**|**Synchronous Multi-modal Semantic Communication System with Packet-level Coding**|Yun Tian et.al.|[2408.04535](http://arxiv.org/abs/2408.04535)|null|
 |**2024-08-08**|**Robustness investigation of quality measures for the assessment of machine learning models**|Thomas Most et.al.|[2408.04391](http://arxiv.org/abs/2408.04391)|null|
 |**2024-08-08**|**SG-JND: Semantic-Guided Just Noticeable Distortion Predictor For Image Compression**|Linhan Cao et.al.|[2408.04273](http://arxiv.org/abs/2408.04273)|null|
 |**2024-08-08**|**LLDif: Diffusion Models for Low-light Emotion Recognition**|Zhifeng Wang et.al.|[2408.04235](http://arxiv.org/abs/2408.04235)|null|

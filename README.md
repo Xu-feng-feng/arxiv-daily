@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
 |**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|null|
 |**2024-08-01**|**Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control**|Michael Rudolph et.al.|[2408.00599](http://arxiv.org/abs/2408.00599)|null|
 |**2024-07-22**|**Double Deep Learning-based Event Data Coding and Classification**|Abdelrahman Seleem et.al.|[2407.15531](http://arxiv.org/abs/2407.15531)|null|
@@ -214,6 +215,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
+|**2024-08-16**|**Bi-Directional Deep Contextual Video Compression**|Xihua Sheng et.al.|[2408.08604](http://arxiv.org/abs/2408.08604)|null|
+|**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](http://arxiv.org/abs/2408.08575)|null|
+|**2024-08-15**|**Algebraic Vertex Ordering of a Sparse Graph for Adjacency Access Locality and Graph Compression**|Dimitris Floros et.al.|[2408.08439](http://arxiv.org/abs/2408.08439)|null|
 |**2024-08-15**|**When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding**|Pingping Zhang et.al.|[2408.08093](http://arxiv.org/abs/2408.08093)|null|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
 |**2024-08-14**|**Towards Real-time Video Compressive Sensing on Mobile Devices**|Miao Cao et.al.|[2408.07530](http://arxiv.org/abs/2408.07530)|**[link](https://github.com/mcao92/mobilesci)**|
@@ -657,6 +662,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Evaluating the Evaluator: Measuring LLMs' Adherence to Task Evaluation Instructions**|Bhuvanashree Murugadoss et.al.|[2408.08781](http://arxiv.org/abs/2408.08781)|null|
+|**2024-08-16**|**Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data**|Sanjjushri Varshini R et.al.|[2408.08774](http://arxiv.org/abs/2408.08774)|null|
+|**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](http://arxiv.org/abs/2408.08575)|null|
+|**2024-08-16**|**Visual-Friendly Concept Protection via Selective Adversarial Perturbations**|Xiaoyue Mi et.al.|[2408.08518](http://arxiv.org/abs/2408.08518)|**[link](https://github.com/KululuMi/VCPro)**|
+|**2024-08-16**|**Achieving Complex Image Edits via Function Aggregation with Diffusion Models**|Mohammadreza Samadi et.al.|[2408.08495](http://arxiv.org/abs/2408.08495)|null|
+|**2024-08-15**|**Level Up Your Tutorials: VLMs for Game Tutorials Quality Assessment**|Daniele Rege Cambrin et.al.|[2408.08396](http://arxiv.org/abs/2408.08396)|null|
+|**2024-08-15**|**METR: Image Watermarking with Large Number of Unique Messages**|Alexander Varlamov et.al.|[2408.08340](http://arxiv.org/abs/2408.08340)|**[link](https://github.com/deepvk/metr)**|
 |**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306](http://arxiv.org/abs/2408.08306)|null|
 |**2024-08-15**|**Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective**|Zixuan Pan et.al.|[2408.08228](http://arxiv.org/abs/2408.08228)|**[link](https://github.com/zx-pan/medanomalydetection-iqa)**|
 |**2024-08-15**|**When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding**|Pingping Zhang et.al.|[2408.08093](http://arxiv.org/abs/2408.08093)|null|
@@ -1615,6 +1627,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736](http://arxiv.org/abs/2408.08736)|null|
+|**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665](http://arxiv.org/abs/2408.08665)|null|
+|**2024-08-16**|**Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**|Kyungryun Lee et.al.|[2408.08616](http://arxiv.org/abs/2408.08616)|**[link](https://github.com/hvcl/inr-diffusion)**|
+|**2024-08-16**|**Enhancing Events in Neutrino Telescopes through Deep Learning-Driven Super-Resolution**|Felix J. Yu et.al.|[2408.08474](http://arxiv.org/abs/2408.08474)|null|
+|**2024-08-15**|**SuperNANO: Enabling Nano-Scale Laser an-ti-counterfeiting Marking and Precision Cutting with Super-Resolution Imaging**|Yiduo Chen et.al.|[2408.08455](http://arxiv.org/abs/2408.08455)|null|
 |**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2408.07605](http://arxiv.org/abs/2408.07605)|null|
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516](http://arxiv.org/abs/2408.07516)|null|
 |**2024-08-14**|**GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution**|Yuzhen Li et.al.|[2408.07484](http://arxiv.org/abs/2408.07484)|**[link](https://github.com/sisrformer/grformer)**|
@@ -2137,6 +2154,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data**|Sanjjushri Varshini R et.al.|[2408.08774](http://arxiv.org/abs/2408.08774)|null|
+|**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576](http://arxiv.org/abs/2408.08576)|null|
+|**2024-08-16**|**Improving the measurement of air-water flow properties using remote distance sensing technology**|Matthias Kramer et.al.|[2408.08466](http://arxiv.org/abs/2408.08466)|null|
+|**2024-08-15**|**SpectralEarth: Training Hyperspectral Foundation Models at Scale**|Nassim Ait Ali Braham et.al.|[2408.08447](http://arxiv.org/abs/2408.08447)|null|
 |**2024-08-15**|**The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation**|Arpan Mahara et.al.|[2408.08216](http://arxiv.org/abs/2408.08216)|null|
 |**2024-08-15**|**The Effect of Horizontal Shear on Extracting Water Currents From Surface Wave Data**|Stefan Weichert et.al.|[2408.08197](http://arxiv.org/abs/2408.08197)|null|
 |**2024-08-15**|**Treat Stillness with Movement: Remote Sensing Change Detection via Coarse-grained Temporal Foregrounds Mining**|Xixi Wang et.al.|[2408.08078](http://arxiv.org/abs/2408.08078)|**[link](https://github.com/event-ahu/ctm_remote_sensing_change_detection)**|

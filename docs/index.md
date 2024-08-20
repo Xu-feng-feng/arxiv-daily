@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1623,7 +1623,7 @@ layout: default
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516](http://arxiv.org/abs/2408.07516)|null|
 |**2024-08-14**|**GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution**|Yuzhen Li et.al.|[2408.07484](http://arxiv.org/abs/2408.07484)|**[link](https://github.com/sisrformer/grformer)**|
 |**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476](http://arxiv.org/abs/2408.07476)|**[link](https://github.com/learninghx/tad-sr)**|
-|**2024-08-14**|**Deep-sub-cycle attosecond optical pulses**|Hongliang Dang et.al.|[2408.07306](http://arxiv.org/abs/2408.07306)|null|
+|**2024-08-17**|**Deep-sub-cycle attosecond optical pulses**|Hongliang Dang et.al.|[2408.07306](http://arxiv.org/abs/2408.07306)|null|
 |**2024-08-13**|**Event-Stream Super Resolution using Sigma-Delta Neural Network**|Waseem Shariff et.al.|[2408.06968](http://arxiv.org/abs/2408.06968)|null|
 |**2024-08-12**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition Live Streaming**|Xinqi Jin et.al.|[2408.06152](http://arxiv.org/abs/2408.06152)|null|
 |**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145](http://arxiv.org/abs/2408.06145)|**[link](https://github.com/johnromanelis/spvd)**|

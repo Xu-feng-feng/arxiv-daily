@@ -225,7 +225,7 @@
 |**2024-08-14**|**Encoding and Decoding Algorithms of ANS Variants and Evaluation of Their Average Code Lengths**|Hirosuke Yamamoto et.al.|[2408.07322](http://arxiv.org/abs/2408.07322)|null|
 |**2024-08-13**|**Subjective and Objective Quality Assessment of Rendered Human Avatar Videos in Virtual Reality**|Yu-Chih Chen et.al.|[2408.07041](http://arxiv.org/abs/2408.07041)|null|
 |**2024-08-13**|**Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines**|Samuel Fernández Menduiña et.al.|[2408.07028](http://arxiv.org/abs/2408.07028)|null|
-|**2024-08-13**|**Joint Source-Channel Optimization for UAV Video Coding and Transmission**|Kesong Wu et.al.|[2408.06667](http://arxiv.org/abs/2408.06667)|null|
+|**2024-08-19**|**Joint Source-Channel Optimization for UAV Video Coding and Transmission**|Kesong Wu et.al.|[2408.06667](http://arxiv.org/abs/2408.06667)|null|
 |**2024-08-08**|**Flow-Lenia.png: Evolving Multi-Scale Complexity by Means of Compression**|Tadashi Adachi et.al.|[2408.06374](http://arxiv.org/abs/2408.06374)|null|
 |**2024-08-09**|**Benchmarking Conventional and Learned Video Codecs with a Low-Delay Configuration**|Siyue Teng et.al.|[2408.05042](http://arxiv.org/abs/2408.05042)|null|
 |**2024-08-08**|**SG-JND: Semantic-Guided Just Noticeable Distortion Predictor For Image Compression**|Linhan Cao et.al.|[2408.04273](http://arxiv.org/abs/2408.04273)|null|
@@ -662,6 +662,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Perceptual Depth Quality Assessment of Stereoscopic Omnidirectional Images**|Wei Zhou et.al.|[2408.10134](http://arxiv.org/abs/2408.10134)|null|
+|**2024-08-19**|**Sliced Maximal Information Coefficient: A Training-Free Approach for Image Quality Assessment Enhancement**|Kang Xiao et.al.|[2408.09920](http://arxiv.org/abs/2408.09920)|**[link](https://github.com/kangx99/smic)**|
+|**2024-08-19**|**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation**|Yunxin Li et.al.|[2408.09787](http://arxiv.org/abs/2408.09787)|**[link](https://github.com/hitsz-tmg/anim-director)**|
+|**2024-08-19**|**Diff2CT: Diffusion Learning to Reconstruct Spine CT from Biplanar X-Rays**|Zhi Qiao et.al.|[2408.09731](http://arxiv.org/abs/2408.09731)|null|
+|**2024-08-18**|**FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model**|Ziyu Yao et.al.|[2408.09384](http://arxiv.org/abs/2408.09384)|null|
+|**2024-08-17**|**Optimal Strip Attitude Command of Earth Observation Satellite using Differential Dynamic Programming**|Seungyeop Han et.al.|[2408.09244](http://arxiv.org/abs/2408.09244)|null|
+|**2024-08-16**|**Explore Cross-Codec Quality-Rate Convex Hulls Relation for Adaptive Streaming**|Masoumeh Farhadi Nia et.al.|[2408.09044](http://arxiv.org/abs/2408.09044)|null|
 |**2024-08-16**|**Evaluating the Evaluator: Measuring LLMs' Adherence to Task Evaluation Instructions**|Bhuvanashree Murugadoss et.al.|[2408.08781](http://arxiv.org/abs/2408.08781)|null|
 |**2024-08-16**|**Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data**|Sanjjushri Varshini R et.al.|[2408.08774](http://arxiv.org/abs/2408.08774)|null|
 |**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](http://arxiv.org/abs/2408.08575)|null|
@@ -1627,6 +1634,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940](http://arxiv.org/abs/2408.09940)|null|
+|**2024-08-19**|**Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration**|Alik Pramanick et.al.|[2408.09912](http://arxiv.org/abs/2408.09912)|**[link](https://github.com/alik033/lit-net)**|
+|**2024-08-19**|**Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space**|Ruikun Li et.al.|[2408.09845](http://arxiv.org/abs/2408.09845)|null|
+|**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674](http://arxiv.org/abs/2408.09674)|**[link](https://github.com/dslisleedh/IGConv)**|
+|**2024-08-18**|**Angle of Arrival Estimation with Transformer: A Sparse and Gridless Method with Zero-Shot Capability**|Zhaoxuan Zhu et.al.|[2408.09362](http://arxiv.org/abs/2408.09362)|null|
+|**2024-08-17**|**Discovery of Limb-Brightening in the Parsec-Scale Jet of NGC 315 through Global VLBI Observations and Its Implications for Jet Models**|Jongho Park et.al.|[2408.09069](http://arxiv.org/abs/2408.09069)|null|
+|**2024-08-16**|**AI-assisted super-resolution cosmological simulations IV: An emulator for deterministic realizations**|Xiaowen Zhang et.al.|[2408.09051](http://arxiv.org/abs/2408.09051)|null|
 |**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736](http://arxiv.org/abs/2408.08736)|null|
 |**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665](http://arxiv.org/abs/2408.08665)|null|
 |**2024-08-16**|**Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**|Kyungryun Lee et.al.|[2408.08616](http://arxiv.org/abs/2408.08616)|**[link](https://github.com/hvcl/inr-diffusion)**|
@@ -2154,6 +2168,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Assessment of Spectral based Solutions for the Detection of Floating Marine Debris**|Muhammad Alì et.al.|[2408.10187](http://arxiv.org/abs/2408.10187)|null|
+|**2024-08-17**|**Pursuing Truth: Improving Retrievals on Mid-Infrared Exo-Earth Spectra with Physically Motivated Water Abundance Profiles and Cloud Models**|Björn S. Konrad et.al.|[2408.09129](http://arxiv.org/abs/2408.09129)|null|
+|**2024-08-17**|**Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community**|Jiancheng Pan et.al.|[2408.09110](http://arxiv.org/abs/2408.09110)|null|
 |**2024-08-16**|**Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data**|Sanjjushri Varshini R et.al.|[2408.08774](http://arxiv.org/abs/2408.08774)|null|
 |**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576](http://arxiv.org/abs/2408.08576)|null|
 |**2024-08-16**|**Improving the measurement of air-water flow properties using remote distance sensing technology**|Matthias Kramer et.al.|[2408.08466](http://arxiv.org/abs/2408.08466)|null|

@@ -655,6 +655,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive Prompt Weighting**|Liyao Jiang et.al.|[2408.11706](http://arxiv.org/abs/2408.11706)|null|
+|**2024-08-21**|**Interpretable Long-term Action Quality Assessment**|Xu Dong et.al.|[2408.11687](http://arxiv.org/abs/2408.11687)|**[link](https://github.com/dx199771/interpretability-aqa)**|
+|**2024-08-21**|**E-Bench: Subjective-Aligned Benchmark Suite for Text-Driven Video Editing Quality Assessment**|Shangkun Sun et.al.|[2408.11481](http://arxiv.org/abs/2408.11481)|**[link](https://github.com/littlespray/e-bench)**|
+|**2024-08-21**|**Fairness measures for biometric quality assessment**|André Dörsch et.al.|[2408.11392](http://arxiv.org/abs/2408.11392)|null|
+|**2024-08-21**|**Gender Bias Evaluation in Text-to-image Generation: A Survey**|Yankun Wu et.al.|[2408.11358](http://arxiv.org/abs/2408.11358)|null|
+|**2024-08-21**|**Image Score: Learning and Evaluating Human Preferences for Mercari Search**|Chingis Oinar et.al.|[2408.11349](http://arxiv.org/abs/2408.11349)|null|
+|**2024-08-21**|**High-quality imaging of large areas through path-difference ptychography**|Jizhe Cui et.al.|[2408.11332](http://arxiv.org/abs/2408.11332)|null|
+|**2024-08-21**|**Optimizing Transmit Field Inhomogeneity of Parallel RF Transmit Design in 7T MRI using Deep Learning**|Zhengyi Lu et.al.|[2408.11323](http://arxiv.org/abs/2408.11323)|null|
+|**2024-08-21**|**Transfer Learning and the Early Estimation of Single-Photon Source Quality using Machine Learning Methods**|David Jacob Kedziora et.al.|[2408.11322](http://arxiv.org/abs/2408.11322)|null|
+|**2024-08-20**|**Compress Guidance in Conditional Diffusion Sampling**|Anh-Dung Dinh et.al.|[2408.11194](http://arxiv.org/abs/2408.11194)|null|
 |**2024-08-20**|**Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for Interpretable Image Enhancement**|Satoshi Kosugi et.al.|[2408.11055](http://arxiv.org/abs/2408.11055)|**[link](https://github.com/satoshi-kosugi/pg-ia-nilut)**|
 |**2024-08-20**|**Denoising Plane Wave Ultrasound Images Using Diffusion Probabilistic Models**|Hojat Asgariandehkordi et.al.|[2408.10987](http://arxiv.org/abs/2408.10987)|null|
 |**2024-08-20**|**Influence of Medical Foreign Bodies on Dark-Field Chest Radiographs: First experiences**|Lennard Kaster et.al.|[2408.10855](http://arxiv.org/abs/2408.10855)|null|
@@ -1629,6 +1639,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|null|
+|**2024-08-21**|**Quantum super-resolution microscopy by photon statistics and structured light**|Fabio Picariello et.al.|[2408.11654](http://arxiv.org/abs/2408.11654)|null|
 |**2024-08-20**|**MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling**|Zili Liu et.al.|[2408.10854](http://arxiv.org/abs/2408.10854)|null|
 |**2024-08-19**|**Webcam-based Pupil Diameter Prediction Benefits from Upscaling**|Vijul Shah et.al.|[2408.10397](http://arxiv.org/abs/2408.10397)|null|
 |**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940](http://arxiv.org/abs/2408.09940)|null|
@@ -2163,6 +2175,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**UNetMamba: Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images**|Enze Zhu et.al.|[2408.11545](http://arxiv.org/abs/2408.11545)|null|
+|**2024-08-21**|**High Performance Simulation of Spaceborne Radar for Remote-Sensing Oceanography: Application to an Altimetry Scenario**|Goulven Monnier et.al.|[2408.11472](http://arxiv.org/abs/2408.11472)|null|
+|**2024-08-21**|**Near-Field Signal Processing: Unleashing the Power of Proximity**|Ahmet M. Elbir et.al.|[2408.11434](http://arxiv.org/abs/2408.11434)|null|
+|**2024-08-20**|**Unified Deep Learning Model for Global Prediction of Aboveground Biomass, Canopy Height and Cover from High-Resolution, Multi-Sensor Satellite Imagery**|Manuel Weber et.al.|[2408.11234](http://arxiv.org/abs/2408.11234)|null|
 |**2024-08-20**|**Reactive molecular dynamics simulations of micrometeoroid bombardment for space weathering of asteroid (162173) Ryugu**|Daigo Shoji et.al.|[2408.10959](http://arxiv.org/abs/2408.10959)|null|
 |**2024-08-20**|**Novel Change Detection Framework in Remote Sensing Imagery Using Diffusion Models and Structural Similarity Index (SSIM)**|Andrew Kiruluta et.al.|[2408.10619](http://arxiv.org/abs/2408.10619)|null|
 |**2024-08-19**|**Assessment of Spectral based Solutions for the Detection of Floating Marine Debris**|Muhammad Alì et.al.|[2408.10187](http://arxiv.org/abs/2408.10187)|null|

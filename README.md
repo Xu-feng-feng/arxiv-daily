@@ -217,6 +217,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Semantic Variational Bayes Based on a Semantic Information Theory for Solving Latent Variables**|Chenguang Lu et.al.|[2408.13122](http://arxiv.org/abs/2408.13122)|null|
+|**2024-08-22**|**Quantization-free Lossy Image Compression Using Integer Matrix Factorization**|Pooya Ashtari et.al.|[2408.12691](http://arxiv.org/abs/2408.12691)|**[link](https://github.com/pashtari/lrf)**|
 |**2024-08-22**|**DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding**|Jooyoung Lee et.al.|[2408.12150](http://arxiv.org/abs/2408.12150)|null|
 |**2024-08-21**|**AIM 2024 Challenge on Compressed Video Quality Assessment: Methods and Results**|Maksim Smirnov et.al.|[2408.11982](http://arxiv.org/abs/2408.11982)|**[link](https://github.com/msu-video-group/msu_vqm_compression_benchmark)**|
 |**2024-08-20**|**Trustworthy Compression? Impact of AI-based Codecs on Biometrics for Law Enforcement**|Sandra Bergmann et.al.|[2408.10823](http://arxiv.org/abs/2408.10823)|null|
@@ -668,6 +670,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Re-evaluation of Face Anti-spoofing Algorithm in Post COVID-19 Era Using Mask Based Occlusion Attack**|Vaibhav Sundharam et.al.|[2408.13251](http://arxiv.org/abs/2408.13251)|null|
+|**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225](http://arxiv.org/abs/2408.13225)|null|
+|**2024-08-23**|**A density ratio framework for evaluating the utility of synthetic data**|Thom Benjamin Volker et.al.|[2408.13167](http://arxiv.org/abs/2408.13167)|null|
+|**2024-08-23**|**When Diffusion MRI Meets Diffusion Model: A Novel Deep Generative Model for Diffusion MRI Generation**|Xi Zhu et.al.|[2408.12897](http://arxiv.org/abs/2408.12897)|null|
+|**2024-08-22**|**Variable Stars in M31 Stellar Clusters from the Panchromatic Hubble Andromeda Treasury**|Richard Smith et.al.|[2408.12765](http://arxiv.org/abs/2408.12765)|null|
+|**2024-08-22**|**Visual Verity in AI-Generated Imagery: Computational Metrics and Human-Centric Analysis**|Memoona Aziz et.al.|[2408.12762](http://arxiv.org/abs/2408.12762)|null|
+|**2024-08-22**|**Unlocking Intrinsic Fairness in Stable Diffusion**|Eunji Kim et.al.|[2408.12692](http://arxiv.org/abs/2408.12692)|null|
 |**2024-08-22**|**Developing vocal system impaired patient-aimed voice quality assessment approach using ASR representation-included multiple features**|Shaoxiang Dang et.al.|[2408.12279](http://arxiv.org/abs/2408.12279)|null|
 |**2024-08-21**|**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**|Eyal Hanania et.al.|[2408.11992](http://arxiv.org/abs/2408.11992)|null|
 |**2024-08-21**|**AIM 2024 Challenge on Compressed Video Quality Assessment: Methods and Results**|Maksim Smirnov et.al.|[2408.11982](http://arxiv.org/abs/2408.11982)|**[link](https://github.com/msu-video-group/msu_vqm_compression_benchmark)**|
@@ -1658,6 +1667,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225](http://arxiv.org/abs/2408.13225)|null|
+|**2024-08-23**|**SIMPLE: Simultaneous Multi-Plane Self-Supervised Learning for Isotropic MRI Restoration from Anisotropic Data**|Rotem Benisty et.al.|[2408.13065](http://arxiv.org/abs/2408.13065)|null|
 |**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100](http://arxiv.org/abs/2408.12100)|null|
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|null|
 |**2024-08-21**|**Quantum super-resolution microscopy by photon statistics and structured light**|Fabio Picariello et.al.|[2408.11654](http://arxiv.org/abs/2408.11654)|null|
@@ -2198,6 +2209,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225](http://arxiv.org/abs/2408.13225)|null|
+|**2024-08-23**|**A plug-and-play framework for curvilinear structure segmentation based on a learned reconnecting regularization**|Sophie Carneiro-Esteves et.al.|[2408.12943](http://arxiv.org/abs/2408.12943)|null|
+|**2024-08-22**|**Hierarchical Attention and Parallel Filter Fusion Network for Multi-Source Data Classification**|Han Luo et.al.|[2408.12760](http://arxiv.org/abs/2408.12760)|null|
+|**2024-08-22**|**Research on Improved U-net Based Remote Sensing Image Segmentation Algorithm**|Qiming Yang et.al.|[2408.12672](http://arxiv.org/abs/2408.12672)|null|
 |**2024-08-21**|**UNetMamba: Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images**|Enze Zhu et.al.|[2408.11545](http://arxiv.org/abs/2408.11545)|null|
 |**2024-08-21**|**High Performance Simulation of Spaceborne Radar for Remote-Sensing Oceanography: Application to an Altimetry Scenario**|Goulven Monnier et.al.|[2408.11472](http://arxiv.org/abs/2408.11472)|null|
 |**2024-08-21**|**Near-Field Signal Processing: Unleashing the Power of Proximity**|Ahmet M. Elbir et.al.|[2408.11434](http://arxiv.org/abs/2408.11434)|null|

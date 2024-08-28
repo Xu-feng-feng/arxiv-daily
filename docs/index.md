@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -661,8 +661,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-26**|**Gallery-Aware Uncertainty Estimation For Open-Set Face Recognition**|Leonid Erlygin et.al.|[2408.14229](http://arxiv.org/abs/2408.14229)|null|
-|**2024-08-26**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
-|**2024-08-26**|**Improving Water Quality Time-Series Prediction in Hong Kong using Sentinel-2 MSI Data and Google Earth Engine Cloud Computing**|Rohin Sood et.al.|[2408.14010](http://arxiv.org/abs/2408.14010)|null|
+|**2024-08-27**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
+|**2024-08-27**|**Improving Water Quality Time-Series Prediction in Hong Kong using Sentinel-2 MSI Data and Google Earth Engine Cloud Computing**|Rohin Sood et.al.|[2408.14010](http://arxiv.org/abs/2408.14010)|null|
 |**2024-08-26**|**LMM-VQA: Advancing Video Quality Assessment with Large Multimodal Models**|Qihang Ge et.al.|[2408.14008](http://arxiv.org/abs/2408.14008)|null|
 |**2024-08-25**|**Draw Like an Artist: Complex Scene Generation with Diffusion Model via Composition, Painting, and Retouching**|Minghao Liu et.al.|[2408.13858](http://arxiv.org/abs/2408.13858)|null|
 |**2024-08-25**|**Guardians of the Machine Translation Meta-Evaluation: Sentinel Metrics Fall In!**|Stefano Perrella et.al.|[2408.13831](http://arxiv.org/abs/2408.13831)|**[link](https://github.com/sapienzanlp/guardians-mt-eval)**|
@@ -2208,7 +2208,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-26**|**MSFMamba: Multi-Scale Feature Fusion State Space Model for Multi-Source Remote Sensing Image Classification**|Feng Gao et.al.|[2408.14255](http://arxiv.org/abs/2408.14255)|null|
-|**2024-08-26**|**Improving Water Quality Time-Series Prediction in Hong Kong using Sentinel-2 MSI Data and Google Earth Engine Cloud Computing**|Rohin Sood et.al.|[2408.14010](http://arxiv.org/abs/2408.14010)|null|
+|**2024-08-27**|**Improving Water Quality Time-Series Prediction in Hong Kong using Sentinel-2 MSI Data and Google Earth Engine Cloud Computing**|Rohin Sood et.al.|[2408.14010](http://arxiv.org/abs/2408.14010)|null|
 |**2024-08-25**|**GeoPlant: Spatial Plant Species Prediction Dataset**|Lukas Picek et.al.|[2408.13928](http://arxiv.org/abs/2408.13928)|null|
 |**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225](http://arxiv.org/abs/2408.13225)|null|
 |**2024-08-23**|**A plug-and-play framework for curvilinear structure segmentation based on a learned reconnecting regularization**|Sophie Carneiro-Esteves et.al.|[2408.12943](http://arxiv.org/abs/2408.12943)|null|

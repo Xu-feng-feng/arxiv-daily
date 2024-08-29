@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -213,7 +213,7 @@ layout: default
 |**2024-08-12**|**Semantic Variational Bayes Based on a Semantic Information Theory for Solving Latent Variables**|Chenguang Lu et.al.|[2408.13122](http://arxiv.org/abs/2408.13122)|null|
 |**2024-08-22**|**Quantization-free Lossy Image Compression Using Integer Matrix Factorization**|Pooya Ashtari et.al.|[2408.12691](http://arxiv.org/abs/2408.12691)|**[link](https://github.com/pashtari/lrf)**|
 |**2024-08-22**|**DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding**|Jooyoung Lee et.al.|[2408.12150](http://arxiv.org/abs/2408.12150)|null|
-|**2024-08-21**|**AIM 2024 Challenge on Compressed Video Quality Assessment: Methods and Results**|Maksim Smirnov et.al.|[2408.11982](http://arxiv.org/abs/2408.11982)|**[link](https://github.com/msu-video-group/msu_vqm_compression_benchmark)**|
+|**2024-08-28**|**AIM 2024 Challenge on Compressed Video Quality Assessment: Methods and Results**|Maksim Smirnov et.al.|[2408.11982](http://arxiv.org/abs/2408.11982)|**[link](https://github.com/msu-video-group/msu_vqm_compression_benchmark)**|
 |**2024-08-20**|**Trustworthy Compression? Impact of AI-based Codecs on Biometrics for Law Enforcement**|Sandra Bergmann et.al.|[2408.10823](http://arxiv.org/abs/2408.10823)|null|
 |**2024-08-20**|**Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds**|Kai Liu et.al.|[2408.10543](http://arxiv.org/abs/2408.10543)|null|
 |**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|

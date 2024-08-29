@@ -672,6 +672,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995](http://arxiv.org/abs/2408.15995)|null|
+|**2024-08-28**|**Segmentation-guided Layer-wise Image Vectorization with Gradient Fills**|Hengyu Zhou et.al.|[2408.15741](http://arxiv.org/abs/2408.15741)|null|
+|**2024-08-28**|**Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas**|Fabio Quattrini et.al.|[2408.15660](http://arxiv.org/abs/2408.15660)|**[link](https://github.com/aimagelab/mad)**|
+|**2024-08-28**|**Avoiding Generative Model Writer's Block With Embedding Nudging**|Ali Zand et.al.|[2408.15450](http://arxiv.org/abs/2408.15450)|null|
+|**2024-08-27**|**Pitfalls and Outlooks in Using COMET**|Vilém Zouhar et.al.|[2408.15366](http://arxiv.org/abs/2408.15366)|**[link](https://github.com/PinzhenChen/sacreCOMET)**|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218](http://arxiv.org/abs/2408.15218)|null|
 |**2024-08-27**|**CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP**|Zhenchen Tang et.al.|[2408.15098](http://arxiv.org/abs/2408.15098)|null|
 |**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916](http://arxiv.org/abs/2408.14916)|**[link](https://github.com/intelpro/elednet)**|
@@ -1682,6 +1687,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Multi-Feature Aggregation in Diffusion Models for Enhanced Face Super-Resolution**|Marcelo dos Santos et.al.|[2408.15386](http://arxiv.org/abs/2408.15386)|**[link](https://github.com/marcelowds/fasr)**|
+|**2024-08-22**|**3D Photon Counting CT Image Super-Resolution Using Conditional Diffusion Model**|Chuang Niu et.al.|[2408.15283](http://arxiv.org/abs/2408.15283)|null|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218](http://arxiv.org/abs/2408.15218)|null|
 |**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143](http://arxiv.org/abs/2408.15143)|null|
 |**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103](http://arxiv.org/abs/2408.15103)|**[link](https://github.com/valfride/lpsr-lacd)**|
@@ -1692,7 +1699,7 @@
 |**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225](http://arxiv.org/abs/2408.13225)|null|
 |**2024-08-23**|**SIMPLE: Simultaneous Multi-Plane Self-Supervised Learning for Isotropic MRI Restoration from Anisotropic Data**|Rotem Benisty et.al.|[2408.13065](http://arxiv.org/abs/2408.13065)|null|
 |**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100](http://arxiv.org/abs/2408.12100)|null|
-|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|null|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|**[link](https://github.com/renyulin-f/mambacsr)**|
 |**2024-08-21**|**Quantum super-resolution microscopy by photon statistics and structured light**|Fabio Picariello et.al.|[2408.11654](http://arxiv.org/abs/2408.11654)|null|
 |**2024-08-22**|**Phase-Based Approaches for Rapid Construction of Magnetic Fields in NV Magnetometry**|Prabhat Anand et.al.|[2408.11069](http://arxiv.org/abs/2408.11069)|null|
 |**2024-08-20**|**MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling**|Zili Liu et.al.|[2408.10854](http://arxiv.org/abs/2408.10854)|null|
@@ -2231,6 +2238,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**A Survey on Evaluation of Multimodal Large Language Models**|Jiaxing Huang et.al.|[2408.15769](http://arxiv.org/abs/2408.15769)|null|
+|**2024-08-28**|**Can SAR improve RSVQA performance?**|Lucrezia Tosato et.al.|[2408.15642](http://arxiv.org/abs/2408.15642)|null|
 |**2024-08-27**|**RSTeller: Scaling Up Visual Language Modeling in Remote Sensing with Rich Linguistic Semantics from Openly Available Data and Large Language Models**|Junyao Ge et.al.|[2408.14744](http://arxiv.org/abs/2408.14744)|**[link](https://github.com/slytheringe/rsteller)**|
 |**2024-08-26**|**MSFMamba: Multi-Scale Feature Fusion State Space Model for Multi-Source Remote Sensing Image Classification**|Feng Gao et.al.|[2408.14255](http://arxiv.org/abs/2408.14255)|null|
 |**2024-08-27**|**Improving Water Quality Time-Series Prediction in Hong Kong using Sentinel-2 MSI Data and Google Earth Engine Cloud Computing**|Rohin Sood et.al.|[2408.14010](http://arxiv.org/abs/2408.14010)|null|

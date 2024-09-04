@@ -672,15 +672,15 @@ layout: default
 |**2024-08-29**|**Legacy Learning Using Few-Shot Font Generation Models for Automatic Text Design in Metaverse Content: Cases Studies in Korean and Chinese**|Younghwi Kim et.al.|[2408.16900](http://arxiv.org/abs/2408.16900)|null|
 |**2024-08-29**|**The Continuous Electron Beam Accelerator Facility at 12 GeV**|P. A. Adderley et.al.|[2408.16880](http://arxiv.org/abs/2408.16880)|null|
 |**2024-08-29**|**MSLIQA: Enhancing Learning Representations for Image Quality Assessment through Multi-Scale Learning**|Nasim Jamshidi Avanaki et.al.|[2408.16879](http://arxiv.org/abs/2408.16879)|null|
-|**2024-08-29**|**Auto-resolving atomic structure at van der Waal interfaces using a generative model**|Wenqiang Huang et.al.|[2408.16802](http://arxiv.org/abs/2408.16802)|**[link](https://github.com/dptech-corp/TED-Gen)**|
-|**2024-08-29**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
-|**2024-08-29**|**A Deep-Learning-Based Lable-free No-Reference Image Quality Assessment Metric: Application in Sodium MRI Denoising**|Shuaiyu Yuan et.al.|[2408.16481](http://arxiv.org/abs/2408.16481)|null|
+|**2024-09-02**|**Auto-resolving atomic structure at van der Waal interfaces using a generative model**|Wenqiang Huang et.al.|[2408.16802](http://arxiv.org/abs/2408.16802)|**[link](https://github.com/dptech-corp/TED-Gen)**|
+|**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
+|**2024-09-02**|**A Deep-Learning-Based Label-free No-Reference Image Quality Assessment Metric: Application in Sodium MRI Denoising**|Shuaiyu Yuan et.al.|[2408.16481](http://arxiv.org/abs/2408.16481)|null|
 |**2024-08-29**|**LMT-GP: Combined Latent Mean-Teacher and Gaussian Process for Semi-supervised Low-light Image Enhancement**|Ye Yu et.al.|[2408.16235](http://arxiv.org/abs/2408.16235)|**[link](https://github.com/hfut-cv/lmt-gp)**|
 |**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995](http://arxiv.org/abs/2408.15995)|null|
 |**2024-08-28**|**Segmentation-guided Layer-wise Image Vectorization with Gradient Fills**|Hengyu Zhou et.al.|[2408.15741](http://arxiv.org/abs/2408.15741)|null|
 |**2024-08-28**|**Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas**|Fabio Quattrini et.al.|[2408.15660](http://arxiv.org/abs/2408.15660)|**[link](https://github.com/aimagelab/mad)**|
 |**2024-08-28**|**Avoiding Generative Model Writer's Block With Embedding Nudging**|Ali Zand et.al.|[2408.15450](http://arxiv.org/abs/2408.15450)|null|
-|**2024-08-27**|**Pitfalls and Outlooks in Using COMET**|Vilém Zouhar et.al.|[2408.15366](http://arxiv.org/abs/2408.15366)|**[link](https://github.com/PinzhenChen/sacreCOMET)**|
+|**2024-09-02**|**Pitfalls and Outlooks in Using COMET**|Vilém Zouhar et.al.|[2408.15366](http://arxiv.org/abs/2408.15366)|**[link](https://github.com/PinzhenChen/sacreCOMET)**|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218](http://arxiv.org/abs/2408.15218)|null|
 |**2024-08-27**|**CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP**|Zhenchen Tang et.al.|[2408.15098](http://arxiv.org/abs/2408.15098)|null|
 |**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916](http://arxiv.org/abs/2408.14916)|**[link](https://github.com/intelpro/elednet)**|

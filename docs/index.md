@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.04
+## Updated on 2024.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -672,7 +672,7 @@ layout: default
 |**2024-08-29**|**Legacy Learning Using Few-Shot Font Generation Models for Automatic Text Design in Metaverse Content: Cases Studies in Korean and Chinese**|Younghwi Kim et.al.|[2408.16900](http://arxiv.org/abs/2408.16900)|null|
 |**2024-08-29**|**The Continuous Electron Beam Accelerator Facility at 12 GeV**|P. A. Adderley et.al.|[2408.16880](http://arxiv.org/abs/2408.16880)|null|
 |**2024-08-29**|**MSLIQA: Enhancing Learning Representations for Image Quality Assessment through Multi-Scale Learning**|Nasim Jamshidi Avanaki et.al.|[2408.16879](http://arxiv.org/abs/2408.16879)|null|
-|**2024-09-02**|**Auto-resolving atomic structure at van der Waal interfaces using a generative model**|Wenqiang Huang et.al.|[2408.16802](http://arxiv.org/abs/2408.16802)|**[link](https://github.com/dptech-corp/TED-Gen)**|
+|**2024-09-04**|**Auto-resolving atomic structure at van der Waal interfaces using a generative model**|Wenqiang Huang et.al.|[2408.16802](http://arxiv.org/abs/2408.16802)|**[link](https://github.com/dptech-corp/TED-Gen)**|
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-09-02**|**A Deep-Learning-Based Label-free No-Reference Image Quality Assessment Metric: Application in Sodium MRI Denoising**|Shuaiyu Yuan et.al.|[2408.16481](http://arxiv.org/abs/2408.16481)|null|
 |**2024-08-29**|**LMT-GP: Combined Latent Mean-Teacher and Gaussian Process for Semi-supervised Low-light Image Enhancement**|Ye Yu et.al.|[2408.16235](http://arxiv.org/abs/2408.16235)|**[link](https://github.com/hfut-cv/lmt-gp)**|

@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-02**|**GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling**|Huawei Sun et.al.|[2409.02720](http://arxiv.org/abs/2409.02720)|null|
+|**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581](http://arxiv.org/abs/2409.01581)|null|
 |**2024-08-20**|**End-to-end learned Lossy Dynamic Point Cloud Attribute Compression**|Dat Thanh Nguyen et.al.|[2408.10665](http://arxiv.org/abs/2408.10665)|null|
 |**2024-08-20**|**Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds**|Kai Liu et.al.|[2408.10543](http://arxiv.org/abs/2408.10543)|null|
 |**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
@@ -208,6 +210,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Efficient Image_Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
+|**2024-09-04**|**FrameCorr: Adaptive, Autoencoder-based Neural Compression for Video Reconstruction in Resource and Timing Constrained Network Settings**|John Li et.al.|[2409.02453](http://arxiv.org/abs/2409.02453)|null|
+|**2024-09-03**|**Compressed learning based onboard semantic compression for remote sensing platforms**|Protim Bhattacharjee et.al.|[2409.01988](http://arxiv.org/abs/2409.01988)|null|
+|**2024-09-03**|**Map-Assisted Remote-Sensing Image Compression at Extremely Low Bitrates**|Yixuan Ye et.al.|[2409.01935](http://arxiv.org/abs/2409.01935)|**[link](https://github.com/whuyyx/magc)**|
+|**2024-09-03**|**Privacy-Preserving Multimedia Mobile Cloud Computing Using Protective Perturbation**|Zhongze Tang et.al.|[2409.01710](http://arxiv.org/abs/2409.01710)|null|
+|**2024-09-02**|**Multi-Reference Generative Face Video Compression with Contrastive Learning**|Goluck Konuko et.al.|[2409.01029](http://arxiv.org/abs/2409.01029)|null|
+|**2024-09-02**|**Accelerating block-level rate control for learned image compression**|Muchen Dong et.al.|[2409.01009](http://arxiv.org/abs/2409.01009)|null|
+|**2024-09-02**|**PNVC: Towards Practical INR-based Video Compression**|Ge Gao et.al.|[2409.00953](http://arxiv.org/abs/2409.00953)|null|
+|**2024-09-01**|**BWT construction and search at the terabase scale**|Heng Li et.al.|[2409.00613](http://arxiv.org/abs/2409.00613)|null|
+|**2024-08-30**|**Prioritized Information Bottleneck Theoretic Framework with Distributed Online Learning for Edge Video Analytics**|Zhengru Fang et.al.|[2409.00146](http://arxiv.org/abs/2409.00146)|null|
+|**2024-08-28**|**Quantum Kernel Principal Components Analysis for Compact Readout of Chemiresistive Sensor Arrays**|Zeheng Wang et.al.|[2409.00115](http://arxiv.org/abs/2409.00115)|null|
 |**2024-08-30**|**NDP: Next Distribution Prediction as a More Broad Target**|Junhao Ruan et.al.|[2408.17377](http://arxiv.org/abs/2408.17377)|null|
 |**2024-08-30**|**Approximately Invertible Neural Network for Learned Image Compression**|Yanbo Gao et.al.|[2408.17073](http://arxiv.org/abs/2408.17073)|null|
 |**2024-08-29**|**UAV-Based Human Body Detector Selection and Fusion for Geolocated Saliency Map Generation**|Piotr Rudol et.al.|[2408.16501](http://arxiv.org/abs/2408.16501)|null|
@@ -665,6 +678,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models**|Pujing Yang et.al.|[2409.02597](http://arxiv.org/abs/2409.02597)|null|
+|**2024-09-04**|**Coral Model Generation from Single Images for Virtual Reality Applications**|Jie Fu et.al.|[2409.02376](http://arxiv.org/abs/2409.02376)|null|
+|**2024-09-04**|**Image Registration with Averaging Network and Edge-Based Loss for Low-SNR Cardiac MRI**|Xuan Lei et.al.|[2409.02348](http://arxiv.org/abs/2409.02348)|null|
+|**2024-09-03**|**Coaching a Robotic Sonographer: Learning Robotic Ultrasound with Sparse Expert's Feedback**|Deepak Raina et.al.|[2409.02337](http://arxiv.org/abs/2409.02337)|null|
+|**2024-09-03**|**Unveiling Deep Shadows: A Survey on Image and Video Shadow Detection, Removal, and Generation in the Era of Deep Learning**|Xiaowei Hu et.al.|[2409.02108](http://arxiv.org/abs/2409.02108)|**[link](https://github.com/xw-hu/unveiling-deep-shadows)**|
+|**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045](http://arxiv.org/abs/2409.02045)|null|
+|**2024-09-03**|**Map-Assisted Remote-Sensing Image Compression at Extremely Low Bitrates**|Yixuan Ye et.al.|[2409.01935](http://arxiv.org/abs/2409.01935)|**[link](https://github.com/whuyyx/magc)**|
+|**2024-09-03**|**UWStereo: A Large Synthetic Dataset for Underwater Stereo Matching**|Qingxuan Lv et.al.|[2409.01782](http://arxiv.org/abs/2409.01782)|null|
+|**2024-09-03**|**Boron Isotope Effects on Raman Scattering in Bulk BN, BP, and BAs: A Density-Functional Theory Study**|Nima Ghafari Cherati et.al.|[2409.01671](http://arxiv.org/abs/2409.01671)|null|
+|**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581](http://arxiv.org/abs/2409.01581)|null|
+|**2024-09-03**|**Learning Task-Specific Sampling Strategy for Sparse-View CT Reconstruction**|Liutao Yang et.al.|[2409.01544](http://arxiv.org/abs/2409.01544)|null|
+|**2024-09-03**|**Long-Range Biometric Identification in Real World Scenarios: A Comprehensive Evaluation Framework Based on Missions**|Deniz Aykac et.al.|[2409.01540](http://arxiv.org/abs/2409.01540)|null|
+|**2024-09-02**|**Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions**|Ryan Wen Liu et.al.|[2409.01500](http://arxiv.org/abs/2409.01500)|null|
+|**2024-09-02**|**Spectron: Target Speaker Extraction using Conditional Transformer with Adversarial Refinement**|Tathagata Bandyopadhyay et.al.|[2409.01352](http://arxiv.org/abs/2409.01352)|null|
+|**2024-09-02**|**A Roadmap to Holographic Focused Ultrasound Approaches to Generate Thermal Patterns**|Ceren Cengiz et.al.|[2409.01323](http://arxiv.org/abs/2409.01323)|null|
+|**2024-09-02**|**Investigation of the spatial resolution of PET imaging system measuring polarization-correlated Compton events**|Ana Marija Kožuljević et.al.|[2409.01238](http://arxiv.org/abs/2409.01238)|null|
+|**2024-09-02**|**MobileIQA: Exploiting Mobile-level Diverse Opinion Network For No-Reference Image Quality Assessment Using Knowledge Distillation**|Zewen Chen et.al.|[2409.01212](http://arxiv.org/abs/2409.01212)|**[link](https://github.com/chencn2020/mobileiqa)**|
+|**2024-09-02**|**Generating Synthetic Satellite Imagery for Rare Objects: An Empirical Comparison of Models and Metrics**|Tuong Vy Nguyen et.al.|[2409.01138](http://arxiv.org/abs/2409.01138)|null|
+|**2024-09-02**|**Rapid GPU-Based Pangenome Graph Layout**|Jiajie Li et.al.|[2409.00876](http://arxiv.org/abs/2409.00876)|null|
+|**2024-09-01**|**An Optimized Binning and Probabilistic Slice Sharing Algorithm for Motion Correction in Abdominal DW-MRI**|Michelle Su et.al.|[2409.00798](http://arxiv.org/abs/2409.00798)|null|
 |**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
 |**2024-08-30**|**Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution**|Yixin Wu et.al.|[2408.17285](http://arxiv.org/abs/2408.17285)|null|
 |**2024-08-30**|**LAR-IQA: A Lightweight, Accurate, and Robust No-Reference Image Quality Assessment Model**|Nasim Jamshidi Avanaki et.al.|[2408.17057](http://arxiv.org/abs/2408.17057)|**[link](https://github.com/nasimjamshidi/lar-iqa)**|
@@ -1689,6 +1722,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
+|**2024-09-04**|**Solving Video Inverse Problems Using Image Diffusion Models**|Taesung Kwon et.al.|[2409.02574](http://arxiv.org/abs/2409.02574)|null|
+|**2024-09-02**|**EarthGen: Generating the World from Top-Down Views**|Ansh Sharma et.al.|[2409.01491](http://arxiv.org/abs/2409.01491)|**[link](https://github.com/anshgs/earthgen)**|
+|**2024-09-02**|**DiffEyeSyn: Diffusion-based User-specific Eye Movement Synthesis**|Chuhan Jiao et.al.|[2409.01240](http://arxiv.org/abs/2409.01240)|null|
+|**2024-09-02**|**Single-photon super-resolved spectroscopy from spatial-mode demultiplexing**|Luigi Santamaria Amato et.al.|[2409.01190](http://arxiv.org/abs/2409.01190)|null|
+|**2024-09-02**|**SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**|Mevan Ekanayake et.al.|[2409.01013](http://arxiv.org/abs/2409.01013)|null|
+|**2024-09-01**|**DMRA: An Adaptive Line Spectrum Estimation Method through Dynamical Multi-Resolution of Atoms**|Mingguang Han et.al.|[2409.00799](http://arxiv.org/abs/2409.00799)|null|
+|**2024-09-01**|**Rethinking Image Super-Resolution from Training Data Perspectives**|Go Ohtani et.al.|[2409.00768](http://arxiv.org/abs/2409.00768)|null|
+|**2024-09-01**|**Attention-Guided Multi-scale Interaction Network for Face Super-Resolution**|Xujie Wan et.al.|[2409.00591](http://arxiv.org/abs/2409.00591)|null|
 |**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959](http://arxiv.org/abs/2408.16959)|**[link](https://github.com/bia006/hitsr)**|
 |**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
 |**2024-08-30**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562](http://arxiv.org/abs/2408.16562)|null|
@@ -2244,6 +2286,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-03**|**Impact Evaluations in Data Poor Settings: The Case of Stress-Tolerant Rice Varieties in Bangladesh**|Jeffrey D. Michler et.al.|[2409.02201](http://arxiv.org/abs/2409.02201)|null|
+|**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
+|**2024-09-03**|**Compressed learning based onboard semantic compression for remote sensing platforms**|Protim Bhattacharjee et.al.|[2409.01988](http://arxiv.org/abs/2409.01988)|null|
+|**2024-09-03**|**Map-Assisted Remote-Sensing Image Compression at Extremely Low Bitrates**|Yixuan Ye et.al.|[2409.01935](http://arxiv.org/abs/2409.01935)|**[link](https://github.com/whuyyx/magc)**|
+|**2024-09-01**|**Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification**|Karim El Khoury et.al.|[2409.00698](http://arxiv.org/abs/2409.00698)|**[link](https://github.com/elkhouryk/rs-transclip)**|
+|**2024-08-31**|**Incremental Open-set Domain Adaptation**|Sayan Rakshit et.al.|[2409.00530](http://arxiv.org/abs/2409.00530)|null|
+|**2024-08-31**|**Mapping earth mounds from space**|Baki Uzun et.al.|[2409.00518](http://arxiv.org/abs/2409.00518)|null|
+|**2024-08-31**|**Plant detection from ultra high resolution remote sensing images: A Semantic Segmentation approach based on fuzzy loss**|Shivam Pande et.al.|[2409.00513](http://arxiv.org/abs/2409.00513)|null|
+|**2024-08-31**|**Geospatial foundation models for image analysis: evaluating and enhancing NASA-IBM Prithvi's domain adaptability**|Chia-Yu Hsu et.al.|[2409.00489](http://arxiv.org/abs/2409.00489)|null|
+|**2024-08-31**|**Self-supervised Fusarium Head Blight Detection with Hyperspectral Image and Feature Mining**|Yu-Fan Lin et.al.|[2409.00395](http://arxiv.org/abs/2409.00395)|null|
 |**2024-08-30**|**FissionVAE: Federated Non-IID Image Generation with Latent Space and Decoder Decomposition**|Chen Hu et.al.|[2408.17090](http://arxiv.org/abs/2408.17090)|**[link](https://github.com/rand2ai/fissionvae)**|
 |**2024-08-29**|**Low Saturation Confidence Distribution-based Test-Time Adaptation for Cross-Domain Remote Sensing Image Classification**|Yu Liang et.al.|[2408.16265](http://arxiv.org/abs/2408.16265)|null|
 |**2024-08-28**|**A Survey on Evaluation of Multimodal Large Language Models**|Jiaxing Huang et.al.|[2408.15769](http://arxiv.org/abs/2408.15769)|null|

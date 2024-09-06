@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -210,7 +210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-04**|**Efficient Image_Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
+|**2024-09-05**|**Efficient Image Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
 |**2024-09-04**|**FrameCorr: Adaptive, Autoencoder-based Neural Compression for Video Reconstruction in Resource and Timing Constrained Network Settings**|John Li et.al.|[2409.02453](http://arxiv.org/abs/2409.02453)|null|
 |**2024-09-03**|**Compressed learning based onboard semantic compression for remote sensing platforms**|Protim Bhattacharjee et.al.|[2409.01988](http://arxiv.org/abs/2409.01988)|null|
 |**2024-09-03**|**Map-Assisted Remote-Sensing Image Compression at Extremely Low Bitrates**|Yixuan Ye et.al.|[2409.01935](http://arxiv.org/abs/2409.01935)|**[link](https://github.com/whuyyx/magc)**|

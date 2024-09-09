@@ -710,7 +710,7 @@
 |**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581](http://arxiv.org/abs/2409.01581)|null|
 |**2024-09-03**|**Learning Task-Specific Sampling Strategy for Sparse-View CT Reconstruction**|Liutao Yang et.al.|[2409.01544](http://arxiv.org/abs/2409.01544)|null|
 |**2024-09-03**|**Long-Range Biometric Identification in Real World Scenarios: A Comprehensive Evaluation Framework Based on Missions**|Deniz Aykac et.al.|[2409.01540](http://arxiv.org/abs/2409.01540)|null|
-|**2024-09-02**|**Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions**|Ryan Wen Liu et.al.|[2409.01500](http://arxiv.org/abs/2409.01500)|null|
+|**2024-09-02**|**Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions**|Ryan Wen Liu et.al.|[2409.01500](http://arxiv.org/abs/2409.01500)|**[link](https://github.com/LouisYuxuLu/ERANet)**|
 |**2024-09-02**|**Spectron: Target Speaker Extraction using Conditional Transformer with Adversarial Refinement**|Tathagata Bandyopadhyay et.al.|[2409.01352](http://arxiv.org/abs/2409.01352)|null|
 |**2024-09-02**|**A Roadmap to Holographic Focused Ultrasound Approaches to Generate Thermal Patterns**|Ceren Cengiz et.al.|[2409.01323](http://arxiv.org/abs/2409.01323)|null|
 |**2024-09-02**|**Investigation of the spatial resolution of PET imaging system measuring polarization-correlated Compton events**|Ana Marija Kožuljević et.al.|[2409.01238](http://arxiv.org/abs/2409.01238)|null|
@@ -1022,7 +1022,7 @@
 |**2024-06-27**|**Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without**|Ruida Zhou et.al.|[2406.19248](http://arxiv.org/abs/2406.19248)|null|
 |**2024-06-27**|**Local Manifold Learning for No-Reference Image Quality Assessment**|Timin Gao et.al.|[2406.19247](http://arxiv.org/abs/2406.19247)|null|
 |**2024-06-27**|**Complex-valued scatter compensation in nonlinear microscopy**|Maximilian Sohmen et.al.|[2406.19031](http://arxiv.org/abs/2406.19031)|null|
-|**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030](http://arxiv.org/abs/2406.19030)|null|
+|**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030](http://arxiv.org/abs/2406.19030)|**[link](https://github.com/josephtitan/diffloss)**|
 |**2024-06-26**|**IDA-UIE: An Iterative Framework for Deep Network-based Degradation Aware Underwater Image Enhancement**|Pranjali Singh et.al.|[2406.18628](http://arxiv.org/abs/2406.18628)|null|
 |**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/abs/2406.18533)|**[link](https://github.com/nyu-systems/grendel-gs)**|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524](http://arxiv.org/abs/2406.18524)|null|
@@ -1135,7 +1135,7 @@
 |**2024-06-10**|**Generalized Nested Latent Variable Models for Lossy Coding applied to Wind Turbine Scenarios**|Raül Pérez-Gonzalo et.al.|[2406.06165](http://arxiv.org/abs/2406.06165)|null|
 |**2024-06-10**|**JenGAN: Stacked Shifted Filters in GAN-Based Speech Synthesis**|Hyunjae Cho et.al.|[2406.06111](http://arxiv.org/abs/2406.06111)|null|
 |**2024-06-10**|**GAIA: Rethinking Action Quality Assessment for AI-Generated Videos**|Zijian Chen et.al.|[2406.06087](http://arxiv.org/abs/2406.06087)|**[link](https://github.com/zijianchen98/gaia)**|
-|**2024-06-10**|**FRAG: Frequency Adapting Group for Diffusion Video Editing**|Sunjae Yoon et.al.|[2406.06044](http://arxiv.org/abs/2406.06044)|null|
+|**2024-06-10**|**FRAG: Frequency Adapting Group for Diffusion Video Editing**|Sunjae Yoon et.al.|[2406.06044](http://arxiv.org/abs/2406.06044)|**[link](https://github.com/dbstjswo505/FRAG)**|
 |**2024-06-12**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
 |**2024-06-08**|**Energy-Efficient Approximate Full Adders Applying Memristive Serial IMPLY Logic For Image Processing**|Seyed Erfan Fatemieh et.al.|[2406.05525](http://arxiv.org/abs/2406.05525)|null|
 |**2024-06-08**|**Blurry-Consistency Segmentation Framework with Selective Stacking on Differential Interference Contrast 3D Breast Cancer Spheroid**|Thanh-Huy Nguyen et.al.|[2406.05349](http://arxiv.org/abs/2406.05349)|null|
@@ -1702,7 +1702,7 @@
 |**2024-02-27**|**Bit Distribution Study and Implementation of Spatial Quality Map in the JPEG-AI Standardization**|Panqi Jia et.al.|[2402.17470](http://arxiv.org/abs/2402.17470)|null|
 |**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
 |**2024-02-27**|**Sora Generates Videos with Stunning Geometrical Consistency**|Xuanyi Li et.al.|[2402.17403](http://arxiv.org/abs/2402.17403)|null|
-|**2024-03-10**|**Learning Exposure Correction in Dynamic Scenes**|Jin Liu et.al.|[2402.17296](http://arxiv.org/abs/2402.17296)|null|
+|**2024-03-10**|**Learning Exposure Correction in Dynamic Scenes**|Jin Liu et.al.|[2402.17296](http://arxiv.org/abs/2402.17296)|**[link](https://github.com/kravrolens/vecnet)**|
 |**2024-02-27**|**DivAvatar: Diverse 3D Avatar Generation with a Single Prompt**|Weijing Tao et.al.|[2402.17292](http://arxiv.org/abs/2402.17292)|null|
 |**2024-03-01**|**Advancing Generative Model Evaluation: A Novel Algorithm for Realistic Image Synthesis and Comparison in OCR System**|Majid Memari et.al.|[2402.17204](http://arxiv.org/abs/2402.17204)|null|
 |**2024-03-19**|**Enhancing Quality of Compressed Images by Mitigating Enhancement Bias Towards Compression Domain**|Qunliang Xing et.al.|[2402.17200](http://arxiv.org/abs/2402.17200)|null|
@@ -2218,7 +2218,7 @@
 |**2024-01-25**|**Combined Generative and Predictive Modeling for Speech Super-resolution**|Heming Wang et.al.|[2401.14269](http://arxiv.org/abs/2401.14269)|null|
 |**2024-01-25**|**Conditional Neural Video Coding with Spatial-Temporal Super-Resolution**|Henan Wang et.al.|[2401.13959](http://arxiv.org/abs/2401.13959)|null|
 |**2024-02-05**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945](http://arxiv.org/abs/2401.12945)|null|
-|**2024-01-22**|**Observation-Guided Meteorological Field Downscaling at Station Scale: A Benchmark and a New Method**|Zili Liu et.al.|[2401.11960](http://arxiv.org/abs/2401.11960)|null|
+|**2024-01-22**|**Observation-Guided Meteorological Field Downscaling at Station Scale: A Benchmark and a New Method**|Zili Liu et.al.|[2401.11960](http://arxiv.org/abs/2401.11960)|**[link](https://github.com/ESDALab/HyperDS_tgrs)**|
 |**2024-01-24**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859](http://arxiv.org/abs/2401.11859)|**[link](https://github.com/sad192/large-kernel-transformer)**|
 |**2024-01-22**|**Simultaneous Blind Demixing and Super-resolution via Vectorized Hankel Lift**|Haifeng Wang et.al.|[2401.11805](http://arxiv.org/abs/2401.11805)|null|
 |**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404](http://arxiv.org/abs/2401.10404)|null|
@@ -2612,7 +2612,7 @@
 |**2024-05-02**|**A text-based, generative deep learning model for soil reflectance spectrum simulation in the VIS-NIR (400-2499 nm) bands**|Tong Lei et.al.|[2405.01060](http://arxiv.org/abs/2405.01060)|**[link](https://github.com/gemini-breeding/sogm_soil_spectra_simulation)**|
 |**2024-05-02**|**Hyperspectral Band Selection based on Generalized 3DTV and Tensor CUR Decomposition**|Katherine Henneberger et.al.|[2405.00951](http://arxiv.org/abs/2405.00951)|null|
 |**2024-05-01**|**Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**|Thanh Huy Nguyen et.al.|[2405.00567](http://arxiv.org/abs/2405.00567)|null|
-|**2024-05-01**|**Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring**|Sizhuo Li et.al.|[2405.00514](http://arxiv.org/abs/2405.00514)|null|
+|**2024-05-01**|**Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring**|Sizhuo Li et.al.|[2405.00514](http://arxiv.org/abs/2405.00514)|**[link](https://github.com/sizhuoli/Domain_adaptive_regression_GOL)**|
 |**2024-04-30**|**Context-Aware Mobile Network Performance Prediction Using Network & Remote Sensing Data**|Ali Shibli et.al.|[2405.00220](http://arxiv.org/abs/2405.00220)|null|
 |**2024-04-30**|**Analysis and Enhancement of Lossless Image Compression in JPEG-XL**|Rustam Mamedov et.al.|[2404.19755](http://arxiv.org/abs/2404.19755)|null|
 |**2024-04-30**|**Data-Driven Invertible Neural Surrogates of Atmospheric Transmission**|James Koch et.al.|[2404.19605](http://arxiv.org/abs/2404.19605)|null|
@@ -2632,7 +2632,7 @@
 |**2024-04-27**|**Spatial, Temporal, and Geometric Fusion for Remote Sensing Images**|Hessah Albanwan et.al.|[2404.17851](http://arxiv.org/abs/2404.17851)|null|
 |**2024-04-27**|**RFL-CDNet: Towards Accurate Change Detection via Richer Feature Learning**|Yuhang Gan et.al.|[2404.17765](http://arxiv.org/abs/2404.17765)|**[link](https://github.com/hhaizee/rfl-cdnet)**|
 |**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565](http://arxiv.org/abs/2404.17565)|**[link](https://github.com/techmn/changebind)**|
-|**2024-04-26**|**Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**|Zishu Yao et.al.|[2404.17400](http://arxiv.org/abs/2404.17400)|null|
+|**2024-04-26**|**Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**|Zishu Yao et.al.|[2404.17400](http://arxiv.org/abs/2404.17400)|**[link](https://github.com/iijjlk/dffn)**|
 |**2024-04-26**|**MCSDNet: Mesoscale Convective System Detection Network via Multi-scale Spatiotemporal Information**|Jiajun Liang et.al.|[2404.17186](http://arxiv.org/abs/2404.17186)|**[link](https://github.com/250handsomeliang/mcsdnet)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|

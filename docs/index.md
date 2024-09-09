@@ -210,6 +210,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Convolutional Transformer-Based Image Compression**|Bouzid Arezki et.al.|[2409.04118](http://arxiv.org/abs/2409.04118)|null|
+|**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013](http://arxiv.org/abs/2409.04013)|null|
+|**2024-09-05**|**TropNNC: Structured Neural Network Compression Using Tropical Geometry**|Konstantinos Fotopoulos et.al.|[2409.03945](http://arxiv.org/abs/2409.03945)|null|
 |**2024-09-05**|**Unified Framework for Neural Network Compression via Decomposition and Optimal Rank Selection**|Ali Aghababaei-Harandi et.al.|[2409.03555](http://arxiv.org/abs/2409.03555)|null|
 |**2024-09-05**|**Efficient Image Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
 |**2024-09-04**|**FrameCorr: Adaptive, Autoencoder-based Neural Compression for Video Reconstruction in Resource and Timing Constrained Network Settings**|John Li et.al.|[2409.02453](http://arxiv.org/abs/2409.02453)|null|
@@ -679,6 +682,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Whole Heart Perfusion with High-Multiband Simultaneous Multislice Imaging via Linear Phase Modulated Extended Field of View (SMILE)**|Shen Zhao et.al.|[2409.04353](http://arxiv.org/abs/2409.04353)|null|
+|**2024-09-06**|**Design and Characterization of MRI-compatible Plastic Ultrasonic Motor**|Zhanyue Zhao et.al.|[2409.04006](http://arxiv.org/abs/2409.04006)|null|
+|**2024-09-06**|**Bi-modality Images Transfer with a Discrete Process Matching Method**|Zhe Xiong et.al.|[2409.03977](http://arxiv.org/abs/2409.03977)|null|
 |**2024-09-03**|**Applications and Advances of Artificial Intelligence in Music Generation:A Review**|Yanxu Chen et.al.|[2409.03715](http://arxiv.org/abs/2409.03715)|null|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
 |**2024-09-05**|**Use of triplet loss for facial restoration in low-resolution images**|Sebastian Pulgar et.al.|[2409.03530](http://arxiv.org/abs/2409.03530)|null|
@@ -1731,6 +1737,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384](http://arxiv.org/abs/2409.04384)|null|
+|**2024-09-06**|**Adaptive Super-Resolution Imaging Without Prior Knowledge Using a Programmable Spatial-Mode Sorter**|Itay Ozer et.al.|[2409.04323](http://arxiv.org/abs/2409.04323)|null|
+|**2024-09-06**|**EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution**|Xi Su et.al.|[2409.04050](http://arxiv.org/abs/2409.04050)|null|
 |**2024-09-05**|**Use of triplet loss for facial restoration in low-resolution images**|Sebastian Pulgar et.al.|[2409.03530](http://arxiv.org/abs/2409.03530)|null|
 |**2024-09-05**|**LMLT: Low-to-high Multi-Level Vision Transformer for Image Super-Resolution**|Jeongsoo Kim et.al.|[2409.03516](http://arxiv.org/abs/2409.03516)|**[link](https://github.com/jwgdmkj/lmlt)**|
 |**2024-09-05**|**Raw Speech Enhancement with Deep State Space Modeling**|Yan Ru Pei et.al.|[2409.03377](http://arxiv.org/abs/2409.03377)|**[link](https://github.com/Brainchip-Inc/aTENNuate)**|
@@ -2300,6 +2309,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Ab initio quantum dynamics as a scalable solution to the exoplanet opacity challenge: A case study of CO $_2$ in hydrogen atmosphere**|Laurent Wiesenfeld et.al.|[2409.04439](http://arxiv.org/abs/2409.04439)|null|
+|**2024-09-06**|**How to Identify Good Superpixels for Deforestation Detection on Tropical Rainforests**|Isabela Borlido et.al.|[2409.04330](http://arxiv.org/abs/2409.04330)|null|
+|**2024-09-06**|**An OpenMetBuoy dataset of Marginal Ice Zone dynamics collected around Svalbard in 2022 and 2023**|Jean Rabault et.al.|[2409.04151](http://arxiv.org/abs/2409.04151)|null|
+|**2024-09-05**|**Deep Clustering of Remote Sensing Scenes through Heterogeneous Transfer Learning**|Isaac Ray et.al.|[2409.03938](http://arxiv.org/abs/2409.03938)|null|
+|**2024-09-05**|**On-board Satellite Image Classification for Earth Observation: A Comparative Study of Pre-Trained Vision Transformer Models**|Thanh-Dung Le et.al.|[2409.03901](http://arxiv.org/abs/2409.03901)|null|
 |**2024-09-06**|**UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images**|Lulin Li et.al.|[2409.03431](http://arxiv.org/abs/2409.03431)|null|
 |**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
 |**2024-09-03**|**Impact Evaluations in Data Poor Settings: The Case of Stress-Tolerant Rice Varieties in Bangladesh**|Jeffrey D. Michler et.al.|[2409.02201](http://arxiv.org/abs/2409.02201)|null|

@@ -210,6 +210,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Design and Implementation of TAO DAQ System**|Shuihan Zhang et.al.|[2409.05522](http://arxiv.org/abs/2409.05522)|null|
+|**2024-09-09**|**A Taxonomy of Miscompressions: Preparing Image Forensics for Neural Compression**|Nora Hofer et.al.|[2409.05490](http://arxiv.org/abs/2409.05490)|null|
+|**2024-09-09**|**Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds**|Xiao Li et.al.|[2409.05357](http://arxiv.org/abs/2409.05357)|null|
 |**2024-09-06**|**Convolutional Transformer-Based Image Compression**|Bouzid Arezki et.al.|[2409.04118](http://arxiv.org/abs/2409.04118)|null|
 |**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013](http://arxiv.org/abs/2409.04013)|null|
 |**2024-09-05**|**TropNNC: Structured Neural Network Compression Using Tropical Geometry**|Konstantinos Fotopoulos et.al.|[2409.03945](http://arxiv.org/abs/2409.03945)|null|
@@ -682,6 +685,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**SynMorph: Generating Synthetic Face Morphing Dataset with Mated Samples**|Haoyu Zhang et.al.|[2409.05595](http://arxiv.org/abs/2409.05595)|null|
+|**2024-09-09**|**Efficient Quality Estimation of True Random Bit-streams**|Cesare Caratozzolo et.al.|[2409.05543](http://arxiv.org/abs/2409.05543)|null|
+|**2024-09-09**|**Exploring Rich Subjective Quality Information for Image Quality Assessment in the Wild**|Xiongkuo Min et.al.|[2409.05540](http://arxiv.org/abs/2409.05540)|null|
+|**2024-09-09**|**A Taxonomy of Miscompressions: Preparing Image Forensics for Neural Compression**|Nora Hofer et.al.|[2409.05490](http://arxiv.org/abs/2409.05490)|null|
+|**2024-09-09**|**Boosting CLIP Adaptation for Image Quality Assessment via Meta-Prompt Learning and Gradient Regularization**|Xudong Li et.al.|[2409.05381](http://arxiv.org/abs/2409.05381)|null|
+|**2024-09-09**|**PersonaTalk: Bring Attention to Your Persona in Visual Dubbing**|Longhao Zhang et.al.|[2409.05379](http://arxiv.org/abs/2409.05379)|null|
+|**2024-09-09**|**BigCodec: Pushing the Limits of Low-Bitrate Neural Speech Codec**|Detai Xin et.al.|[2409.05377](http://arxiv.org/abs/2409.05377)|null|
+|**2024-09-09**|**Adaptive Offloading and Enhancement for Low-Light Video Analytics on Mobile Devices**|Yuanyi He et.al.|[2409.05297](http://arxiv.org/abs/2409.05297)|null|
+|**2024-09-08**|**Ultron: Enabling Temporal Geometry Compression of 3D Mesh Sequences using Temporal Correspondence and Mesh Deformation**|Haichao Zhu et.al.|[2409.05151](http://arxiv.org/abs/2409.05151)|null|
+|**2024-09-07**|**Plug-and-Hide: Provable and Adjustable Diffusion Generative Steganography**|Jiahao Zhu et.al.|[2409.04878](http://arxiv.org/abs/2409.04878)|null|
+|**2024-09-07**|**Metadata augmented deep neural networks for wild animal classification**|Aslak Tøn et.al.|[2409.04825](http://arxiv.org/abs/2409.04825)|**[link](https://github.com/ammarlodhi255/metadata-augmented-neural-networks-for-wild-animal-classification)**|
+|**2024-09-07**|**Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras**|Zimu Liao et.al.|[2409.04751](http://arxiv.org/abs/2409.04751)|null|
 |**2024-09-06**|**Whole Heart Perfusion with High-Multiband Simultaneous Multislice Imaging via Linear Phase Modulated Extended Field of View (SMILE)**|Shen Zhao et.al.|[2409.04353](http://arxiv.org/abs/2409.04353)|null|
 |**2024-09-06**|**Design and Characterization of MRI-compatible Plastic Ultrasonic Motor**|Zhanyue Zhao et.al.|[2409.04006](http://arxiv.org/abs/2409.04006)|null|
 |**2024-09-06**|**Bi-modality Images Transfer with a Discrete Process Matching Method**|Zhe Xiong et.al.|[2409.03977](http://arxiv.org/abs/2409.03977)|null|
@@ -1737,6 +1752,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-07**|**Single-snapshot machine learning for turbulence super resolution**|Kai Fukami et.al.|[2409.04923](http://arxiv.org/abs/2409.04923)|null|
 |**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384](http://arxiv.org/abs/2409.04384)|null|
 |**2024-09-06**|**Adaptive Super-Resolution Imaging Without Prior Knowledge Using a Programmable Spatial-Mode Sorter**|Itay Ozer et.al.|[2409.04323](http://arxiv.org/abs/2409.04323)|null|
 |**2024-09-06**|**EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution**|Xi Su et.al.|[2409.04050](http://arxiv.org/abs/2409.04050)|null|
@@ -2309,12 +2325,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Real-time optical gas sensing with two-dimensional materials**|Gia Quyet Ngo et.al.|[2409.05693](http://arxiv.org/abs/2409.05693)|null|
+|**2024-09-09**|**AnomalyCD: A benchmark for Earth anomaly change detection with high-resolution and time-series observations**|Jingtao Li et.al.|[2409.05679](http://arxiv.org/abs/2409.05679)|null|
+|**2024-09-09**|**Renormalized Connection for Scale-preferred Object Detection in Satellite Imagery**|Fan Zhang et.al.|[2409.05624](http://arxiv.org/abs/2409.05624)|null|
+|**2024-09-09**|**Localization of macroscopic sources of magnetic field using optical fibers doped with NV-rich sub-micron diamonds and zero-field resonance**|Mariusz Mrózek et.al.|[2409.05452](http://arxiv.org/abs/2409.05452)|null|
 |**2024-09-06**|**Ab initio quantum dynamics as a scalable solution to the exoplanet opacity challenge: A case study of CO $_2$ in hydrogen atmosphere**|Laurent Wiesenfeld et.al.|[2409.04439](http://arxiv.org/abs/2409.04439)|null|
 |**2024-09-06**|**How to Identify Good Superpixels for Deforestation Detection on Tropical Rainforests**|Isabela Borlido et.al.|[2409.04330](http://arxiv.org/abs/2409.04330)|null|
 |**2024-09-06**|**An OpenMetBuoy dataset of Marginal Ice Zone dynamics collected around Svalbard in 2022 and 2023**|Jean Rabault et.al.|[2409.04151](http://arxiv.org/abs/2409.04151)|null|
 |**2024-09-05**|**Deep Clustering of Remote Sensing Scenes through Heterogeneous Transfer Learning**|Isaac Ray et.al.|[2409.03938](http://arxiv.org/abs/2409.03938)|null|
 |**2024-09-05**|**On-board Satellite Image Classification for Earth Observation: A Comparative Study of Pre-Trained Vision Transformer Models**|Thanh-Dung Le et.al.|[2409.03901](http://arxiv.org/abs/2409.03901)|null|
-|**2024-09-06**|**UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images**|Lulin Li et.al.|[2409.03431](http://arxiv.org/abs/2409.03431)|null|
+|**2024-09-09**|**UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images**|Lulin Li et.al.|[2409.03431](http://arxiv.org/abs/2409.03431)|**[link](https://github.com/Devin-Egber/UV-Mamba)**|
 |**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
 |**2024-09-03**|**Impact Evaluations in Data Poor Settings: The Case of Stress-Tolerant Rice Varieties in Bangladesh**|Jeffrey D. Michler et.al.|[2409.02201](http://arxiv.org/abs/2409.02201)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|

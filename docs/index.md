@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
 |**2024-09-08**|**GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling**|Huawei Sun et.al.|[2409.02720](http://arxiv.org/abs/2409.02720)|**[link](https://github.com/harborsarah/get-up)**|
 |**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581](http://arxiv.org/abs/2409.01581)|null|
 |**2024-08-20**|**End-to-end learned Lossy Dynamic Point Cloud Attribute Compression**|Dat Thanh Nguyen et.al.|[2408.10665](http://arxiv.org/abs/2408.10665)|null|
@@ -218,7 +219,7 @@ layout: default
 |**2024-09-09**|**A Taxonomy of Miscompressions: Preparing Image Forensics for Neural Compression**|Nora Hofer et.al.|[2409.05490](http://arxiv.org/abs/2409.05490)|null|
 |**2024-09-09**|**Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds**|Xiao Li et.al.|[2409.05357](http://arxiv.org/abs/2409.05357)|null|
 |**2024-09-06**|**Convolutional Transformer-Based Image Compression**|Bouzid Arezki et.al.|[2409.04118](http://arxiv.org/abs/2409.04118)|null|
-|**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013](http://arxiv.org/abs/2409.04013)|null|
+|**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013](http://arxiv.org/abs/2409.04013)|**[link](https://github.com/YujunHuang063/3D-GP-LMVIC)**|
 |**2024-09-05**|**TropNNC: Structured Neural Network Compression Using Tropical Geometry**|Konstantinos Fotopoulos et.al.|[2409.03945](http://arxiv.org/abs/2409.03945)|null|
 |**2024-09-05**|**Unified Framework for Neural Network Compression via Decomposition and Optimal Rank Selection**|Ali Aghababaei-Harandi et.al.|[2409.03555](http://arxiv.org/abs/2409.03555)|null|
 |**2024-09-05**|**Efficient Image Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
@@ -229,7 +230,7 @@ layout: default
 |**2024-09-02**|**Multi-Reference Generative Face Video Compression with Contrastive Learning**|Goluck Konuko et.al.|[2409.01029](http://arxiv.org/abs/2409.01029)|null|
 |**2024-09-02**|**Accelerating block-level rate control for learned image compression**|Muchen Dong et.al.|[2409.01009](http://arxiv.org/abs/2409.01009)|null|
 |**2024-09-02**|**PNVC: Towards Practical INR-based Video Compression**|Ge Gao et.al.|[2409.00953](http://arxiv.org/abs/2409.00953)|null|
-|**2024-09-01**|**BWT construction and search at the terabase scale**|Heng Li et.al.|[2409.00613](http://arxiv.org/abs/2409.00613)|null|
+|**2024-09-01**|**BWT construction and search at the terabase scale**|Heng Li et.al.|[2409.00613](http://arxiv.org/abs/2409.00613)|**[link](https://github.com/lh3/ropebwt3)**|
 |**2024-08-30**|**Prioritized Information Bottleneck Theoretic Framework with Distributed Online Learning for Edge Video Analytics**|Zhengru Fang et.al.|[2409.00146](http://arxiv.org/abs/2409.00146)|null|
 |**2024-08-28**|**Quantum Kernel Principal Components Analysis for Compact Readout of Chemiresistive Sensor Arrays**|Zeheng Wang et.al.|[2409.00115](http://arxiv.org/abs/2409.00115)|null|
 |**2024-08-30**|**NDP: Next Distribution Prediction as a More Broad Target**|Junhao Ruan et.al.|[2408.17377](http://arxiv.org/abs/2408.17377)|null|
@@ -689,6 +690,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Expansive Supervision for Neural Radiance Field**|Weixiang Zhang et.al.|[2409.08056](http://arxiv.org/abs/2409.08056)|null|
+|**2024-09-12**|**OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation**|Shun Zou et.al.|[2409.08000](http://arxiv.org/abs/2409.08000)|**[link](https://github.com/zs1314/octamamba)**|
+|**2024-09-12**|**Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment**|Shaode Yu et.al.|[2409.07762](http://arxiv.org/abs/2409.07762)|null|
+|**2024-09-11**|**Foundation Models Boost Low-Level Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2409.07650](http://arxiv.org/abs/2409.07650)|null|
+|**2024-09-11**|**Machine Learning and Constraint Programming for Efficient Healthcare Scheduling**|Aymen Ben Said et.al.|[2409.07547](http://arxiv.org/abs/2409.07547)|null|
 |**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
 |**2024-09-11**|**EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**|Jian Zhang et.al.|[2409.07255](http://arxiv.org/abs/2409.07255)|null|
 |**2024-09-12**|**3DGCQA: A Quality Assessment Database for 3D AI-Generated Contents**|Yingjie Zhou et.al.|[2409.07236](http://arxiv.org/abs/2409.07236)|null|
@@ -1770,6 +1776,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Mapping the nanoscale optical topological textures with a fiber-integrated plasmonic probe**|Yunkun Wu et.al.|[2409.07894](http://arxiv.org/abs/2409.07894)|null|
+|**2024-09-12**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769](http://arxiv.org/abs/2409.07769)|null|
+|**2024-09-11**|**Dual scale Residual-Network for turbulent flow sub grid scale resolving: A prior analysis**|Omar Sallam et.al.|[2409.07605](http://arxiv.org/abs/2409.07605)|null|
 |**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|null|
 |**2024-09-11**|**CWT-Net: Super-resolution of Histopathology Images Using a Cross-scale Wavelet-based Transformer**|Feiyang Jia et.al.|[2409.07092](http://arxiv.org/abs/2409.07092)|null|
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
@@ -2348,6 +2357,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Ultra-wideband integrated microwave photonic multi-parameter measurement system on thin-film lithium niobate**|Yong Zheng et.al.|[2409.07817](http://arxiv.org/abs/2409.07817)|null|
+|**2024-09-12**|**Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Qinglong Cao et.al.|[2409.07683](http://arxiv.org/abs/2409.07683)|null|
+|**2024-09-11**|**The Mismeasure of Weather: Using Remotely Sensed Earth Observation Data in Economic Context**|Anna Josephson et.al.|[2409.07506](http://arxiv.org/abs/2409.07506)|null|
 |**2024-09-11**|**Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations**|Keumgang Cha et.al.|[2409.07048](http://arxiv.org/abs/2409.07048)|null|
 |**2024-09-11**|**Insight Any Instance: Promptable Instance Segmentation for Remote Sensing Images**|Xuexue Li et.al.|[2409.07022](http://arxiv.org/abs/2409.07022)|null|
 |**2024-09-10**|**PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation**|Yin Hu et.al.|[2409.06309](http://arxiv.org/abs/2409.06309)|null|

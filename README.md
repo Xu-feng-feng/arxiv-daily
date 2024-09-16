@@ -731,7 +731,7 @@
 |**2024-09-08**|**Ultron: Enabling Temporal Geometry Compression of 3D Mesh Sequences using Temporal Correspondence and Mesh Deformation**|Haichao Zhu et.al.|[2409.05151](http://arxiv.org/abs/2409.05151)|null|
 |**2024-09-07**|**Plug-and-Hide: Provable and Adjustable Diffusion Generative Steganography**|Jiahao Zhu et.al.|[2409.04878](http://arxiv.org/abs/2409.04878)|null|
 |**2024-09-07**|**Metadata augmented deep neural networks for wild animal classification**|Aslak Tøn et.al.|[2409.04825](http://arxiv.org/abs/2409.04825)|**[link](https://github.com/ammarlodhi255/metadata-augmented-neural-networks-for-wild-animal-classification)**|
-|**2024-09-11**|**Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras**|Zimu Liao et.al.|[2409.04751](http://arxiv.org/abs/2409.04751)|null|
+|**2024-09-11**|**Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras**|Zimu Liao et.al.|[2409.04751](http://arxiv.org/abs/2409.04751)|**[link](https://github.com/zmliao/fisheye-gs)**|
 |**2024-09-06**|**Whole Heart Perfusion with High-Multiband Simultaneous Multislice Imaging via Linear Phase Modulated Extended Field of View (SMILE)**|Shen Zhao et.al.|[2409.04353](http://arxiv.org/abs/2409.04353)|null|
 |**2024-09-06**|**Design and Characterization of MRI-compatible Plastic Ultrasonic Motor**|Zhanyue Zhao et.al.|[2409.04006](http://arxiv.org/abs/2409.04006)|null|
 |**2024-09-06**|**Bi-modality Images Transfer with a Discrete Process Matching Method**|Zhe Xiong et.al.|[2409.03977](http://arxiv.org/abs/2409.03977)|null|
@@ -775,7 +775,7 @@
 |**2024-09-02**|**A Deep-Learning-Based Label-free No-Reference Image Quality Assessment Metric: Application in Sodium MRI Denoising**|Shuaiyu Yuan et.al.|[2408.16481](http://arxiv.org/abs/2408.16481)|null|
 |**2024-08-29**|**LMT-GP: Combined Latent Mean-Teacher and Gaussian Process for Semi-supervised Low-light Image Enhancement**|Ye Yu et.al.|[2408.16235](http://arxiv.org/abs/2408.16235)|**[link](https://github.com/hfut-cv/lmt-gp)**|
 |**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995](http://arxiv.org/abs/2408.15995)|null|
-|**2024-08-28**|**Segmentation-guided Layer-wise Image Vectorization with Gradient Fills**|Hengyu Zhou et.al.|[2408.15741](http://arxiv.org/abs/2408.15741)|null|
+|**2024-08-28**|**Segmentation-guided Layer-wise Image Vectorization with Gradient Fills**|Hengyu Zhou et.al.|[2408.15741](http://arxiv.org/abs/2408.15741)|**[link](https://github.com/Rhacoal/SGLIVE)**|
 |**2024-08-28**|**Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas**|Fabio Quattrini et.al.|[2408.15660](http://arxiv.org/abs/2408.15660)|**[link](https://github.com/aimagelab/mad)**|
 |**2024-08-28**|**Avoiding Generative Model Writer's Block With Embedding Nudging**|Ali Zand et.al.|[2408.15450](http://arxiv.org/abs/2408.15450)|null|
 |**2024-09-02**|**Pitfalls and Outlooks in Using COMET**|Vilém Zouhar et.al.|[2408.15366](http://arxiv.org/abs/2408.15366)|**[link](https://github.com/PinzhenChen/sacreCOMET)**|
@@ -835,7 +835,7 @@
 |**2024-08-15**|**Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective**|Zixuan Pan et.al.|[2408.08228](http://arxiv.org/abs/2408.08228)|**[link](https://github.com/zx-pan/medanomalydetection-iqa)**|
 |**2024-08-15**|**When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding**|Pingping Zhang et.al.|[2408.08093](http://arxiv.org/abs/2408.08093)|null|
 |**2024-08-15**|**KGV: Integrating Large Language Models with Knowledge Graphs for Cyber Threat Intelligence Credibility Assessment**|Zongzong Wu et.al.|[2408.08088](http://arxiv.org/abs/2408.08088)|null|
-|**2024-08-15**|**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation**|Seon-Hoon Kim et.al.|[2408.07947](http://arxiv.org/abs/2408.07947)|null|
+|**2024-08-15**|**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation**|Seon-Hoon Kim et.al.|[2408.07947](http://arxiv.org/abs/2408.07947)|**[link](https://github.com/egshkim/ConditionalBBDM-for-VHR-SAR-to-Optical)**|
 |**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932](http://arxiv.org/abs/2408.07932)|**[link](https://github.com/lucaskirsten/mobilemef)**|
 |**2024-08-14**|**New Curriculum, New Chance -- Retrieval Augmented Generation for Lesson Planning in Ugandan Secondary Schools. Prototype Quality Evaluation**|Simon Kloker et.al.|[2408.07542](http://arxiv.org/abs/2408.07542)|null|
 |**2024-08-14**|**Unsupervised Blind Joint Dereverberation and Room Acoustics Estimation with Diffusion Models**|Jean-Marie Lemercier et.al.|[2408.07472](http://arxiv.org/abs/2408.07472)|null|
@@ -861,7 +861,7 @@
 |**2024-08-11**|**LaWa: Using Latent Space for In-Generation Image Watermarking**|Ahmad Rezaei et.al.|[2408.05868](http://arxiv.org/abs/2408.05868)|null|
 |**2024-08-14**|**Iterative Improvement of an Additively Regularized Topic Model**|Alex Gorbulev et.al.|[2408.05840](http://arxiv.org/abs/2408.05840)|null|
 |**2024-08-11**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713](http://arxiv.org/abs/2408.05713)|**[link](https://github.com/chrisdud0257/ssl)**|
-|**2024-08-11**|**Efficient Diffusion Transformer with Step-wise Dynamic Attention Mediators**|Yifan Pu et.al.|[2408.05710](http://arxiv.org/abs/2408.05710)|null|
+|**2024-08-11**|**Efficient Diffusion Transformer with Step-wise Dynamic Attention Mediators**|Yifan Pu et.al.|[2408.05710](http://arxiv.org/abs/2408.05710)|**[link](https://github.com/leaplabthu/attention-mediators)**|
 |**2024-08-11**|**Evaluating BM3D and NBNet: A Comprehensive Study of Image Denoising Across Multiple Datasets**|Ghazal Kaviani et.al.|[2408.05697](http://arxiv.org/abs/2408.05697)|null|
 |**2024-08-09**|**CBCT scatter correction with dual-layer flat-panel detector**|Xin Zhang et.al.|[2408.04943](http://arxiv.org/abs/2408.04943)|null|
 |**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/abs/2408.04831)|null|
@@ -891,7 +891,7 @@
 |**2024-08-03**|**JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Model**|Farzaneh Jafari et.al.|[2408.01627](http://arxiv.org/abs/2408.01627)|null|
 |**2024-08-02**|**Guardians of Image Quality: Benchmarking Defenses Against Adversarial Attacks on Image Quality Metrics**|Alexander Gushchin et.al.|[2408.01541](http://arxiv.org/abs/2408.01541)|**[link](https://github.com/msu-video-group/adversarial-defenses-for-iqa)**|
 |**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|**[link](https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stablization)**|
-|**2024-08-02**|**Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement**|Wenbin Zou et.al.|[2408.01276](http://arxiv.org/abs/2408.01276)|null|
+|**2024-08-02**|**Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement**|Wenbin Zou et.al.|[2408.01276](http://arxiv.org/abs/2408.01276)|**[link](https://github.com/alexzou14/wave-mamba)**|
 |**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225](http://arxiv.org/abs/2408.01225)|**[link](https://github.com/uhhhci/realityfusion)**|
 |**2024-08-02**|**Validation of an Analysability Model in Hybrid Quantum Software**|Díaz-Muñoz Ana et.al.|[2408.01105](http://arxiv.org/abs/2408.01105)|null|
 |**2024-08-06**|**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation**|Xiang Gao et.al.|[2408.00998](http://arxiv.org/abs/2408.00998)|**[link](https://github.com/xianggao1102/fbsdiff)**|
@@ -1082,7 +1082,7 @@
 |**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/abs/2406.17265)|null|
 |**2024-06-25**|**Disentangled Motion Modeling for Video Frame Interpolation**|Jaihyun Lew et.al.|[2406.17256](http://arxiv.org/abs/2406.17256)|**[link](https://github.com/jhlew/momo)**|
 |**2024-06-24**|**Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models**|Bei Yan et.al.|[2406.17115](http://arxiv.org/abs/2406.17115)|**[link](https://github.com/hqhbench/hqhbench)**|
-|**2024-06-24**|**Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation**|Zhenyi Liao et.al.|[2406.17100](http://arxiv.org/abs/2406.17100)|null|
+|**2024-06-24**|**Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation**|Zhenyi Liao et.al.|[2406.17100](http://arxiv.org/abs/2406.17100)|**[link](https://github.com/oppo-mente-lab/facescore)**|
 |**2024-06-24**|**Reducing the Memory Footprint of 3D Gaussian Splatting**|Panagiotis Papantonakis et.al.|[2406.17074](http://arxiv.org/abs/2406.17074)|null|
 |**2024-06-24**|**3D distortion-free, reduced field of view diffusion-prepared GRE at 3T**|Sarah McElroy et.al.|[2406.16809](http://arxiv.org/abs/2406.16809)|null|
 |**2024-06-24**|**Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**|Katherine M. Collins et.al.|[2406.16807](http://arxiv.org/abs/2406.16807)|null|
@@ -1091,7 +1091,7 @@
 |**2024-06-24**|**Approximate DCT and Quantization Techniques for Energy-Constrained Image Sensors**|Ming-Che Li et.al.|[2406.16358](http://arxiv.org/abs/2406.16358)|null|
 |**2024-06-24**|**Priorformer: A UGC-VQA Method with content and distortion priors**|Yajing Pei et.al.|[2406.16297](http://arxiv.org/abs/2406.16297)|null|
 |**2024-06-23**|**Listen and Move: Improving GANs Coherency in Agnostic Sound-to-Video Generation**|Rafael Redondo et.al.|[2406.16155](http://arxiv.org/abs/2406.16155)|null|
-|**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073](http://arxiv.org/abs/2406.16073)|null|
+|**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073](http://arxiv.org/abs/2406.16073)|**[link](https://github.com/CUHK-AIM-Group/LGS)**|
 |**2024-06-22**|**Quality-guided Skin Tone Enhancement for Portrait Photography**|Shiqi Gao et.al.|[2406.15848](http://arxiv.org/abs/2406.15848)|null|
 |**2024-06-21**|**Adaptive Self-Supervised Consistency-Guided Diffusion Model for Accelerated MRI Reconstruction**|Mojtaba Safari et.al.|[2406.15656](http://arxiv.org/abs/2406.15656)|null|
 |**2024-06-21**|**Contrastive Entity Coreference and Disambiguation for Historical Texts**|Abhishek Arora et.al.|[2406.15576](http://arxiv.org/abs/2406.15576)|null|
@@ -1197,7 +1197,7 @@
 |**2024-06-06**|**Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance**|Reyhane Askari Hemmat et.al.|[2406.04551](http://arxiv.org/abs/2406.04551)|null|
 |**2024-06-06**|**A Versatile Collage Visualization Technique**|Zhenyu Wang et.al.|[2406.04008](http://arxiv.org/abs/2406.04008)|null|
 |**2024-06-06**|**JIGMARK: A Black-Box Approach for Enhancing Image Watermarks against Diffusion Model Edits**|Minzhou Pan et.al.|[2406.03720](http://arxiv.org/abs/2406.03720)|**[link](https://github.com/pmzzs/JigMark)**|
-|**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697](http://arxiv.org/abs/2406.03697)|null|
+|**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697](http://arxiv.org/abs/2406.03697)|**[link](https://github.com/dnvtmf/SP_GS)**|
 |**2024-06-05**|**Anatomy-based quality metric of diffusion-weighted MRI data for accurate derivation of muscle fiber orientation**|Nadya Shusharina et.al.|[2406.03560](http://arxiv.org/abs/2406.03560)|null|
 |**2024-06-05**|**Globally and Locally Optimized Pannini Projection for High FoV Rendering of 360-degree Images**|Falah Jabar et.al.|[2406.03282](http://arxiv.org/abs/2406.03282)|null|
 |**2024-06-05**|**FAPNet: An Effective Frequency Adaptive Point-based Eye Tracker**|Xiaopeng Lin et.al.|[2406.03177](http://arxiv.org/abs/2406.03177)|null|

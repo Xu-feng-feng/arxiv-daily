@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -702,7 +702,7 @@ layout: default
 |**2024-09-12**|**OpenACE: An Open Benchmark for Evaluating Audio Coding Performance**|Jozef Coldenhoff et.al.|[2409.08374](http://arxiv.org/abs/2409.08374)|null|
 |**2024-09-12**|**Expansive Supervision for Neural Radiance Field**|Weixiang Zhang et.al.|[2409.08056](http://arxiv.org/abs/2409.08056)|null|
 |**2024-09-12**|**OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation**|Shun Zou et.al.|[2409.08000](http://arxiv.org/abs/2409.08000)|**[link](https://github.com/zs1314/octamamba)**|
-|**2024-09-12**|**Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment**|Shaode Yu et.al.|[2409.07762](http://arxiv.org/abs/2409.07762)|null|
+|**2024-09-14**|**Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment**|Shaode Yu et.al.|[2409.07762](http://arxiv.org/abs/2409.07762)|null|
 |**2024-09-11**|**Foundation Models Boost Low-Level Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2409.07650](http://arxiv.org/abs/2409.07650)|null|
 |**2024-09-11**|**Machine Learning and Constraint Programming for Efficient Healthcare Scheduling**|Aymen Ben Said et.al.|[2409.07547](http://arxiv.org/abs/2409.07547)|null|
 |**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|

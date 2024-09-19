@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -214,7 +214,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Compression
 
@@ -703,7 +703,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -713,7 +713,7 @@
 |**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
 |**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373](http://arxiv.org/abs/2409.11373)|null|
 |**2024-09-17**|**Edge-based Denoising Image Compression**|Ryugo Morita et.al.|[2409.10978](http://arxiv.org/abs/2409.10978)|null|
-|**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schr"{o}dinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966](http://arxiv.org/abs/2409.10966)|null|
+|**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966](http://arxiv.org/abs/2409.10966)|null|
 |**2024-09-17**|**Towards Effective User Attribution for Latent Diffusion Models via Watermark-Informed Blending**|Yongyang Pan et.al.|[2409.10958](http://arxiv.org/abs/2409.10958)|null|
 |**2024-09-17**|**Neural Fields for Adaptive Photoacoustic Computed Tomography**|Tianao Li et.al.|[2409.10876](http://arxiv.org/abs/2409.10876)|**[link](https://github.com/Lukeli0425/NF-APACT)**|
 |**2024-09-16**|**Investigating Training Objectives for Generative Speech Enhancement**|Julius Richter et.al.|[2409.10753](http://arxiv.org/abs/2409.10753)|null|
@@ -1815,7 +1815,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -1835,7 +1835,7 @@
 |**2024-09-13**|**Think Twice Before You Act: Improving Inverse Problem Solving With MCMC**|Yaxuan Zhu et.al.|[2409.08551](http://arxiv.org/abs/2409.08551)|null|
 |**2024-09-12**|**Learned Compression for Images and Point Clouds**|Mateen Ulhaq et.al.|[2409.08376](http://arxiv.org/abs/2409.08376)|**[link](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification)**|
 |**2024-09-12**|**Mapping the nanoscale optical topological textures with a fiber-integrated plasmonic probe**|Yunkun Wu et.al.|[2409.07894](http://arxiv.org/abs/2409.07894)|null|
-|**2024-09-12**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769](http://arxiv.org/abs/2409.07769)|null|
+|**2024-09-17**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769](http://arxiv.org/abs/2409.07769)|null|
 |**2024-09-11**|**Dual scale Residual-Network for turbulent flow sub grid scale resolving: A prior analysis**|Omar Sallam et.al.|[2409.07605](http://arxiv.org/abs/2409.07605)|null|
 |**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|null|
 |**2024-09-11**|**CWT-Net: Super-resolution of Histopathology Images Using a Cross-scale Wavelet-based Transformer**|Feiyang Jia et.al.|[2409.07092](http://arxiv.org/abs/2409.07092)|null|
@@ -2411,7 +2411,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -3071,7 +3071,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

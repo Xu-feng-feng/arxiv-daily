@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -702,7 +702,7 @@ layout: default
 |**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
 |**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373](http://arxiv.org/abs/2409.11373)|null|
 |**2024-09-17**|**Edge-based Denoising Image Compression**|Ryugo Morita et.al.|[2409.10978](http://arxiv.org/abs/2409.10978)|null|
-|**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schr"{o}dinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966](http://arxiv.org/abs/2409.10966)|null|
+|**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966](http://arxiv.org/abs/2409.10966)|null|
 |**2024-09-17**|**Towards Effective User Attribution for Latent Diffusion Models via Watermark-Informed Blending**|Yongyang Pan et.al.|[2409.10958](http://arxiv.org/abs/2409.10958)|null|
 |**2024-09-17**|**Neural Fields for Adaptive Photoacoustic Computed Tomography**|Tianao Li et.al.|[2409.10876](http://arxiv.org/abs/2409.10876)|**[link](https://github.com/Lukeli0425/NF-APACT)**|
 |**2024-09-16**|**Investigating Training Objectives for Generative Speech Enhancement**|Julius Richter et.al.|[2409.10753](http://arxiv.org/abs/2409.10753)|null|
@@ -1822,7 +1822,7 @@ layout: default
 |**2024-09-13**|**Think Twice Before You Act: Improving Inverse Problem Solving With MCMC**|Yaxuan Zhu et.al.|[2409.08551](http://arxiv.org/abs/2409.08551)|null|
 |**2024-09-12**|**Learned Compression for Images and Point Clouds**|Mateen Ulhaq et.al.|[2409.08376](http://arxiv.org/abs/2409.08376)|**[link](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification)**|
 |**2024-09-12**|**Mapping the nanoscale optical topological textures with a fiber-integrated plasmonic probe**|Yunkun Wu et.al.|[2409.07894](http://arxiv.org/abs/2409.07894)|null|
-|**2024-09-12**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769](http://arxiv.org/abs/2409.07769)|null|
+|**2024-09-17**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769](http://arxiv.org/abs/2409.07769)|null|
 |**2024-09-11**|**Dual scale Residual-Network for turbulent flow sub grid scale resolving: A prior analysis**|Omar Sallam et.al.|[2409.07605](http://arxiv.org/abs/2409.07605)|null|
 |**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|null|
 |**2024-09-11**|**CWT-Net: Super-resolution of Histopathology Images Using a Cross-scale Wavelet-based Transformer**|Feiyang Jia et.al.|[2409.07092](http://arxiv.org/abs/2409.07092)|null|

@@ -2416,12 +2416,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111](http://arxiv.org/abs/2409.12111)|null|
 |**2024-09-18**|**Multi-Sensor Deep Learning for Glacier Mapping**|Codruţ-Andrei Diaconu et.al.|[2409.12034](http://arxiv.org/abs/2409.12034)|null|
-|**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/abs/2409.12014)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
+|**2024-09-22**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/abs/2409.12014)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
 |**2024-09-18**|**Photothermal Spectroscopy for Planetary Sciences: Mid-IR Absorption Made Easy**|Christopher Cox et.al.|[2409.11626](http://arxiv.org/abs/2409.11626)|null|
-|**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|null|
+|**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|**[link](https://github.com/cliffbb/oem-fewshot-challenge)**|
 |**2024-09-17**|**On-policy Actor-Critic Reinforcement Learning for Multi-UAV Exploration**|Ali Moltajaei Farid et.al.|[2409.11058](http://arxiv.org/abs/2409.11058)|null|
 |**2024-09-16**|**Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation**|Hanbo Bi et.al.|[2409.10389](http://arxiv.org/abs/2409.10389)|null|
-|**2024-09-16**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272](http://arxiv.org/abs/2409.10272)|null|
+|**2024-09-22**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272](http://arxiv.org/abs/2409.10272)|null|
 |**2024-09-16**|**BAFNet: Bilateral Attention Fusion Network for Lightweight Semantic Segmentation of Urban Remote Sensing Images**|Wentao Wang et.al.|[2409.10269](http://arxiv.org/abs/2409.10269)|null|
 |**2024-09-15**|**Fuzzy logic for reconstructing arbitrary moments of multiplicity distributions**|Anar Rustamov et.al.|[2409.09814](http://arxiv.org/abs/2409.09814)|null|
 |**2024-09-15**|**SITSMamba for Crop Classification based on Satellite Image Time Series**|Xiaolei Qin et.al.|[2409.09673](http://arxiv.org/abs/2409.09673)|**[link](https://github.com/xiaoleiqinn/sitsmamba)**|

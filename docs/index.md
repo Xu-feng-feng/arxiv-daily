@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-19**|**PVContext: Hybrid Context Model for Point Cloud Compression**|Guoqing Zhang et.al.|[2409.12724](http://arxiv.org/abs/2409.12724)|null|
 |**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
 |**2024-09-08**|**GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling**|Huawei Sun et.al.|[2409.02720](http://arxiv.org/abs/2409.02720)|**[link](https://github.com/harborsarah/get-up)**|
 |**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581](http://arxiv.org/abs/2409.01581)|null|
@@ -211,6 +212,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**AIM 2024 Challenge on UHD Blind Photo Quality Assessment**|Vlad Hosu et.al.|[2409.16271](http://arxiv.org/abs/2409.16271)|null|
+|**2024-09-25**|**COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models**|Kehui Liu et.al.|[2409.15146](http://arxiv.org/abs/2409.15146)|null|
+|**2024-09-23**|**AlphaZip: Neural Network-Enhanced Lossless Text Compression**|Swathi Shree Narashiman et.al.|[2409.15046](http://arxiv.org/abs/2409.15046)|null|
+|**2024-09-23**|**Anomaly Detection from a Tensor Train Perspective**|Alejandro Mata Ali et.al.|[2409.15030](http://arxiv.org/abs/2409.15030)|null|
+|**2024-09-23**|**AIM 2024 Challenge on Video Saliency Prediction: Methods and Results**|Andrey Moskalenko et.al.|[2409.14827](http://arxiv.org/abs/2409.14827)|**[link](https://github.com/msu-video-group/ECCVW24_Saliency_Prediction)**|
+|**2024-09-21**|**Window-based Channel Attention for Wavelet-enhanced Learned Image Compression**|Heng Xu et.al.|[2409.14090](http://arxiv.org/abs/2409.14090)|null|
+|**2024-09-20**|**Reduced bit median quantization: A middle process for Efficient Image Compression**|Fikresilase Wondmeneh Abebayew et.al.|[2409.13789](http://arxiv.org/abs/2409.13789)|null|
+|**2024-09-20**|**Data Compression using Rank-1 Lattices for Parameter Estimation in Machine Learning**|Michael Gnewuch et.al.|[2409.13453](http://arxiv.org/abs/2409.13453)|null|
+|**2024-09-19**|**Breaking the Barriers of One-to-One Usage of Implicit Neural Representation in Image Compression: A Linear Combination Approach with Performance Guarantees**|Sai Sanjeet et.al.|[2409.13117](http://arxiv.org/abs/2409.13117)|null|
+|**2024-09-19**|**Optimal Coding for Randomized Kolmogorov Complexity and Its Applications**|Shuichi Hirahara et.al.|[2409.12744](http://arxiv.org/abs/2409.12744)|null|
+|**2024-09-19**|**Multi-Scale Feature Prediction with Auxiliary-Info for Neural Image Compression**|Chajin Shin et.al.|[2409.12719](http://arxiv.org/abs/2409.12719)|null|
 |**2024-09-18**|**One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation**|Finn Lukas Busch et.al.|[2409.11764](http://arxiv.org/abs/2409.11764)|null|
 |**2024-09-18**|**LFIC-DRASC: Deep Light Field Image Compression Using Disentangled Representation and Asymmetrical Strip Convolution**|Shiyu Feng et.al.|[2409.11711](http://arxiv.org/abs/2409.11711)|null|
 |**2024-09-18**|**k-mer-based approaches to bridging pangenomics and population genetics**|Miles D. Roberts et.al.|[2409.11683](http://arxiv.org/abs/2409.11683)|null|
@@ -701,6 +713,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**AIM 2024 Challenge on UHD Blind Photo Quality Assessment**|Vlad Hosu et.al.|[2409.16271](http://arxiv.org/abs/2409.16271)|null|
+|**2024-09-24**|**Enhanced Unsupervised Image-to-Image Translation Using Contrastive Learning and Histogram of Oriented Gradients**|Wanchen Zhao et.al.|[2409.16042](http://arxiv.org/abs/2409.16042)|null|
+|**2024-09-24**|**Deep chroma compression of tone-mapped images**|Xenios Milidonis et.al.|[2409.16032](http://arxiv.org/abs/2409.16032)|**[link](https://github.com/DeepCamera/HDR-chroma-compression)**|
+|**2024-09-24**|**VascX Models: Model Ensembles for Retinal Vascular Analysis from Color Fundus Images**|Jose Vargas Quiros et.al.|[2409.16016](http://arxiv.org/abs/2409.16016)|null|
+|**2024-09-24**|**Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality**|Hannah Schieber et.al.|[2409.15959](http://arxiv.org/abs/2409.15959)|null|
+|**2024-09-24**|**Unsupervised dMRI Artifact Detection via Angular Resolution Enhancement and Cycle Consistency Learning**|Sheng Chen et.al.|[2409.15883](http://arxiv.org/abs/2409.15883)|null|
+|**2024-09-25**|**Ring Artifacts Removal Based on Implicit Neural Representation of Sinogram Data**|Ligen Shi et.al.|[2409.15731](http://arxiv.org/abs/2409.15731)|null|
+|**2024-09-23**|**Blind Localization of Early Room Reflections with Arbitrary Microphone Array**|Yogev Hadadi et.al.|[2409.15484](http://arxiv.org/abs/2409.15484)|null|
+|**2024-09-23**|**Simplifying Triangle Meshes in the Wild**|Hsueh-Ti Derek Liu et.al.|[2409.15458](http://arxiv.org/abs/2409.15458)|null|
+|**2024-09-23**|**MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**|Yue Han et.al.|[2409.15179](http://arxiv.org/abs/2409.15179)|null|
+|**2024-09-23**|**Advancing Video Quality Assessment for AIGC**|Xinli Yue et.al.|[2409.14888](http://arxiv.org/abs/2409.14888)|null|
+|**2024-09-23**|**Revisiting Video Quality Assessment from the Perspective of Generalization**|Xinli Yue et.al.|[2409.14847](http://arxiv.org/abs/2409.14847)|null|
+|**2024-09-23**|**AIM 2024 Challenge on Video Saliency Prediction: Methods and Results**|Andrey Moskalenko et.al.|[2409.14827](http://arxiv.org/abs/2409.14827)|**[link](https://github.com/msu-video-group/ECCVW24_Saliency_Prediction)**|
+|**2024-09-23**|**HiFi-Glot: Neural Formant Synthesis with Differentiable Resonant Filters**|Lauri Juvela et.al.|[2409.14823](http://arxiv.org/abs/2409.14823)|null|
+|**2024-09-22**|**Robust Audio-Visual Speech Enhancement: Correcting Misassignments in Complex Environments with Advanced Post-Processing**|Wenze Ren et.al.|[2409.14554](http://arxiv.org/abs/2409.14554)|null|
+|**2024-09-22**|**Improved direction of arrival estimations with a wearable microphone array for dynamic environments by reliability weighting**|Daniel A. Mitchell et.al.|[2409.14346](http://arxiv.org/abs/2409.14346)|null|
+|**2024-09-22**|**MQM-APE: Toward High-Quality Error Annotation Predictors with Automatic Post-Editing in LLM Translation Evaluators**|Qingyu Lu et.al.|[2409.14335](http://arxiv.org/abs/2409.14335)|null|
+|**2024-09-22**|**Quantitative and Qualitative Evaluation of NLM and Wavelet Methods in Image Enhancement**|Cameron Khanpour et.al.|[2409.14334](http://arxiv.org/abs/2409.14334)|null|
+|**2024-09-21**|**JVID: Joint Video-Image Diffusion for Visual-Quality and Temporal-Consistency in Video Generation**|Hadrien Reynaud et.al.|[2409.14149](http://arxiv.org/abs/2409.14149)|null|
+|**2024-09-21**|**N-Version Assessment and Enhancement of Generative AI**|Marcus Kessel et.al.|[2409.14071](http://arxiv.org/abs/2409.14071)|null|
 |**2024-09-18**|**An Efficient Projection-Based Next-best-view Planning Framework for Reconstruction of Unknown Objects**|Zhizhou Jia et.al.|[2409.12096](http://arxiv.org/abs/2409.12096)|null|
 |**2024-09-18**|**Dense-TSNet: Dense Connected Two-Stage Structure for Ultra-Lightweight Speech Enhancement**|Zizhen Lin et.al.|[2409.11725](http://arxiv.org/abs/2409.11725)|null|
 |**2024-09-18**|**DAF-Net: A Dual-Branch Feature Decomposition Fusion Network with Domain Adaptive for Infrared and Visible Image Fusion**|Jian Xu et.al.|[2409.11642](http://arxiv.org/abs/2409.11642)|**[link](https://github.com/xujian000/daf-net)**|
@@ -1815,6 +1847,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Compressed Depth Map Super-Resolution and Restoration: AIM 2024 Challenge Results**|Marcos V. Conde et.al.|[2409.16277](http://arxiv.org/abs/2409.16277)|null|
+|**2024-09-24**|**Super-resolution positron emission tomography by intensity modulation: Proof of concept**|Youdong Lang et.al.|[2409.16085](http://arxiv.org/abs/2409.16085)|null|
+|**2024-09-24**|**Denoising Graph Super-Resolution towards Improved Collider Event Reconstruction**|Nilotpal Kakati et.al.|[2409.16052](http://arxiv.org/abs/2409.16052)|null|
+|**2024-09-24**|**Stochastically Structured Illumination Microscopy scan less super resolution imaging**|Denzel Fusco et.al.|[2409.16006](http://arxiv.org/abs/2409.16006)|null|
+|**2024-09-24**|**Dual-Comb Photothermal Microscopy**|Peter Chang et.al.|[2409.15685](http://arxiv.org/abs/2409.15685)|null|
+|**2024-09-21**|**BurstM: Deep Burst Multi-scale SR using Fourier Space with Optical Flow**|EungGu Kang et.al.|[2409.15384](http://arxiv.org/abs/2409.15384)|**[link](https://github.com/egkang-luis/burstm)**|
+|**2024-09-22**|**One Model for Two Tasks: Cooperatively Recognizing and Recovering Low-Resolution Scene Text Images by Iterative Mutual Guidance**|Minyi Zhao et.al.|[2409.14483](http://arxiv.org/abs/2409.14483)|null|
+|**2024-09-22**|**Prior Knowledge Distillation Network for Face Super-Resolution**|Qiu Yang et.al.|[2409.14385](http://arxiv.org/abs/2409.14385)|null|
+|**2024-09-22**|**Thinking in Granularity: Dynamic Quantization for Image Super-Resolution by Intriguing Multi-Granularity Clues**|Mingshen Wang et.al.|[2409.14330](http://arxiv.org/abs/2409.14330)|null|
+|**2024-09-21**|**A Sinkhorn Regularized Adversarial Network for Image Guided DEM Super-resolution using Frequency Selective Hybrid Graph Transformer**|Subhajit Paul et.al.|[2409.14198](http://arxiv.org/abs/2409.14198)|null|
+|**2024-09-21**|**Vortex Interference Enables optimal 3D Interferometric Nanoscopy**|Wei Wang et.al.|[2409.14033](http://arxiv.org/abs/2409.14033)|null|
+|**2024-09-21**|**On the Effectiveness of Neural Operators at Zero-Shot Weather Downscaling**|Saumya Sinha et.al.|[2409.13955](http://arxiv.org/abs/2409.13955)|null|
+|**2024-09-20**|**PlainUSR: Chasing Faster ConvNet for Efficient Super-Resolution**|Yan Wang et.al.|[2409.13435](http://arxiv.org/abs/2409.13435)|null|
+|**2024-09-20**|**Super-Resolution via Learned Predictor**|Sampath Kumar Dondapati et.al.|[2409.13326](http://arxiv.org/abs/2409.13326)|null|
+|**2024-09-20**|**Deep Learning based Optical Image Super-Resolution via Generative Diffusion Models for Layerwise in-situ LPBF Monitoring**|Francis Ogoke et.al.|[2409.13171](http://arxiv.org/abs/2409.13171)|null|
+|**2024-09-19**|**Image inpainting for corrupted images by using the semi-super resolution GAN**|Mehrshad Momen-Tayefeh et.al.|[2409.12636](http://arxiv.org/abs/2409.12636)|null|
+|**2024-09-19**|**HSIGene: A Foundation Model For Hyperspectral Image Generation**|Li Pang et.al.|[2409.12470](http://arxiv.org/abs/2409.12470)|**[link](https://github.com/lipang/hsigene)**|
 |**2024-09-17**|**NSSR-DIL: Null-Shot Image Super-Resolution Using Deep Identity Learning**|Sree Rama Vamsidhar S et.al.|[2409.12165](http://arxiv.org/abs/2409.12165)|null|
 |**2024-09-18**|**Quantum-like nonlinear interferometry with frequency-engineered classical light**|Romain Dalidet et.al.|[2409.12049](http://arxiv.org/abs/2409.12049)|null|
 |**2024-09-19**|**Adaptive Selection of Sampling-Reconstruction in Fourier Compressed Sensing**|Seongmin Hong et.al.|[2409.11738](http://arxiv.org/abs/2409.11738)|null|
@@ -2414,6 +2463,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
+|**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252](http://arxiv.org/abs/2409.16252)|null|
+|**2024-09-23**|**Estimating the total energy content in escaping accelerated solar electron beams**|Alexander W. James et.al.|[2409.15091](http://arxiv.org/abs/2409.15091)|null|
+|**2024-09-23**|**Functional control of anomalous reflection via engineered metagratings without polarization limitations**|Jingwen Li et.al.|[2409.14663](http://arxiv.org/abs/2409.14663)|null|
+|**2024-09-21**|**Cloud Adversarial Example Generation for Remote Sensing Image Classification**|Fei Ma et.al.|[2409.14240](http://arxiv.org/abs/2409.14240)|null|
+|**2024-09-21**|**A Sinkhorn Regularized Adversarial Network for Image Guided DEM Super-resolution using Frequency Selective Hybrid Graph Transformer**|Subhajit Paul et.al.|[2409.14198](http://arxiv.org/abs/2409.14198)|null|
+|**2024-09-20**|**Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation**|Sen Lei et.al.|[2409.13637](http://arxiv.org/abs/2409.13637)|null|
+|**2024-09-20**|**Tackling fluffy clouds: field boundaries detection using time series of S2 and/or S1 imagery**|Foivos I. Diakogiannis et.al.|[2409.13568](http://arxiv.org/abs/2409.13568)|**[link](https://github.com/feevos/tfcl)**|
+|**2024-09-20**|**PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images**|Nanqing Liu et.al.|[2409.13401](http://arxiv.org/abs/2409.13401)|null|
+|**2024-09-20**|**RingMo-Aerial: An Aerial Remote Sensing Foundation Model With A Affine Transformation Contrastive Learning**|Wenhui Diao et.al.|[2409.13366](http://arxiv.org/abs/2409.13366)|null|
+|**2024-09-20**|**A Novel Adaptive Fine-Tuning Algorithm for Multimodal Models: Self-Optimizing Classification and Selection of High-Quality Datasets in Remote Sensing**|Yi Ren et.al.|[2409.13345](http://arxiv.org/abs/2409.13345)|null|
+|**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151](http://arxiv.org/abs/2409.13151)|null|
+|**2024-09-19**|**Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning**|Cong Yang et.al.|[2409.12612](http://arxiv.org/abs/2409.12612)|**[link](https://github.com/yangcong356/kcfi)**|
 |**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111](http://arxiv.org/abs/2409.12111)|null|
 |**2024-09-18**|**Multi-Sensor Deep Learning for Glacier Mapping**|Codruţ-Andrei Diaconu et.al.|[2409.12034](http://arxiv.org/abs/2409.12034)|null|
 |**2024-09-22**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/abs/2409.12014)|**[link](https://github.com/lulinzhang/brdf-nerf)**|

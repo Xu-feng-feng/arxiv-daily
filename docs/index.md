@@ -732,7 +732,7 @@ layout: default
 |**2024-09-24**|**Low Latency Point Cloud Rendering with Learned Splatting**|Yueyu Hu et.al.|[2409.16504](http://arxiv.org/abs/2409.16504)|**[link](https://github.com/huzi96/gaussian-pcloud-render)**|
 |**2024-09-24**|**A Unified Hallucination Mitigation Framework for Large Vision-Language Models**|Yue Chang et.al.|[2409.16494](http://arxiv.org/abs/2409.16494)|null|
 |**2024-09-24**|**AIM 2024 Challenge on UHD Blind Photo Quality Assessment**|Vlad Hosu et.al.|[2409.16271](http://arxiv.org/abs/2409.16271)|null|
-|**2024-09-24**|**Enhanced Unsupervised Image-to-Image Translation Using Contrastive Learning and Histogram of Oriented Gradients**|Wanchen Zhao et.al.|[2409.16042](http://arxiv.org/abs/2409.16042)|null|
+|**2024-09-26**|**Enhanced Unsupervised Image-to-Image Translation Using Contrastive Learning and Histogram of Oriented Gradients**|Wanchen Zhao et.al.|[2409.16042](http://arxiv.org/abs/2409.16042)|null|
 |**2024-09-24**|**Deep chroma compression of tone-mapped images**|Xenios Milidonis et.al.|[2409.16032](http://arxiv.org/abs/2409.16032)|**[link](https://github.com/DeepCamera/HDR-chroma-compression)**|
 |**2024-09-24**|**VascX Models: Model Ensembles for Retinal Vascular Analysis from Color Fundus Images**|Jose Vargas Quiros et.al.|[2409.16016](http://arxiv.org/abs/2409.16016)|null|
 |**2024-09-24**|**Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality**|Hannah Schieber et.al.|[2409.15959](http://arxiv.org/abs/2409.15959)|null|
@@ -2493,7 +2493,7 @@ layout: default
 |**2024-09-23**|**Functional control of anomalous reflection via engineered metagratings without polarization limitations**|Jingwen Li et.al.|[2409.14663](http://arxiv.org/abs/2409.14663)|null|
 |**2024-09-21**|**Cloud Adversarial Example Generation for Remote Sensing Image Classification**|Fei Ma et.al.|[2409.14240](http://arxiv.org/abs/2409.14240)|null|
 |**2024-09-21**|**A Sinkhorn Regularized Adversarial Network for Image Guided DEM Super-resolution using Frequency Selective Hybrid Graph Transformer**|Subhajit Paul et.al.|[2409.14198](http://arxiv.org/abs/2409.14198)|null|
-|**2024-09-20**|**Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation**|Sen Lei et.al.|[2409.13637](http://arxiv.org/abs/2409.13637)|null|
+|**2024-09-20**|**Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation**|Sen Lei et.al.|[2409.13637](http://arxiv.org/abs/2409.13637)|**[link](https://github.com/Shaosifan/FIANet)**|
 |**2024-09-20**|**Tackling fluffy clouds: field boundaries detection using time series of S2 and/or S1 imagery**|Foivos I. Diakogiannis et.al.|[2409.13568](http://arxiv.org/abs/2409.13568)|**[link](https://github.com/feevos/tfcl)**|
 |**2024-09-20**|**PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images**|Nanqing Liu et.al.|[2409.13401](http://arxiv.org/abs/2409.13401)|null|
 |**2024-09-20**|**RingMo-Aerial: An Aerial Remote Sensing Foundation Model With A Affine Transformation Contrastive Learning**|Wenhui Diao et.al.|[2409.13366](http://arxiv.org/abs/2409.13366)|null|

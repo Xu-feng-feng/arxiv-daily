@@ -212,6 +212,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
+|**2024-09-30**|**PerCo (SD): Open Perceptual Compression**|Nikolai Körber et.al.|[2409.20255](http://arxiv.org/abs/2409.20255)|**[link](https://github.com/Nikolai10/PerCo)**|
+|**2024-09-29**|**All-in-One Image Coding for Joint Human-Machine Vision with Multi-Path Aggregation**|Xu Zhang et.al.|[2409.19660](http://arxiv.org/abs/2409.19660)|null|
+|**2024-09-28**|**Fast Encoding and Decoding for Implicit Video Representation**|Hao Chen et.al.|[2409.19429](http://arxiv.org/abs/2409.19429)|null|
+|**2024-09-27**|**Learning-Based Image Compression for Machines**|Kartik Gupta et.al.|[2409.19184](http://arxiv.org/abs/2409.19184)|null|
 |**2024-09-27**|**Effectiveness of learning-based image codecs on fingerprint storage**|Daniele Mari et.al.|[2409.18730](http://arxiv.org/abs/2409.18730)|null|
 |**2024-09-27**|**Decoding Complexity-Rate-Quality Pareto-Front for Adaptive VVC Streaming**|Angeliki Katsenou et.al.|[2409.18713](http://arxiv.org/abs/2409.18713)|null|
 |**2024-09-27**|**Neural Video Representation for Redundancy Reduction and Consistency Preservation**|Taiga Hayami et.al.|[2409.18497](http://arxiv.org/abs/2409.18497)|null|
@@ -720,6 +725,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|null|
+|**2024-09-30**|**Segmenting Wood Rot using Computer Vision Models**|Roland Kammerbauer et.al.|[2409.20137](http://arxiv.org/abs/2409.20137)|null|
+|**2024-09-30**|**Machine Learning in Industrial Quality Control of Glass Bottle Prints**|Maximilian Bundscherer et.al.|[2409.20132](http://arxiv.org/abs/2409.20132)|null|
+|**2024-09-30**|**Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs**|Zicheng Zhang et.al.|[2409.20063](http://arxiv.org/abs/2409.20063)|null|
+|**2024-09-30**|**Is Preference Alignment Always the Best Option to Enhance LLM-Based Translation? An Empirical Analysis**|Hippolyte Gisserot-Boukhlef et.al.|[2409.20059](http://arxiv.org/abs/2409.20059)|null|
+|**2024-09-30**|**UniSumEval: Towards Unified, Fine-Grained, Multi-Dimensional Summarization Evaluation for LLMs**|Yuho Lee et.al.|[2409.19898](http://arxiv.org/abs/2409.19898)|**[link](https://github.com/disl-lab/unisumeval-v1.0)**|
+|**2024-09-29**|**OrganiQ: Mitigating Classical Resource Bottlenecks of Quantum Generative Adversarial Networks on NISQ-Era Machines**|Daniel Silver et.al.|[2409.19823](http://arxiv.org/abs/2409.19823)|null|
+|**2024-09-29**|**SemiDDM-Weather: A Semi-supervised Learning Framework for All-in-one Adverse Weather Removal**|Fang Long et.al.|[2409.19679](http://arxiv.org/abs/2409.19679)|null|
+|**2024-09-29**|**Effective Diffusion Transformer Architecture for Image Super-Resolution**|Kun Cheng et.al.|[2409.19589](http://arxiv.org/abs/2409.19589)|**[link](https://github.com/kunncheng/dit-sr)**|
+|**2024-09-29**|**High Quality Human Image Animation using Regional Supervision and Motion Blur Condition**|Zhongcong Xu et.al.|[2409.19580](http://arxiv.org/abs/2409.19580)|null|
+|**2024-09-27**|**A comprehensive review and new taxonomy on superpixel segmentation**|I. B. Barcelos et.al.|[2409.19179](http://arxiv.org/abs/2409.19179)|**[link](https://github.com/imscience-ppginf-pucminas/superpixel-benchmark)**|
+|**2024-09-27**|**Multimodal Pragmatic Jailbreak on Text-to-image Models**|Tong Liu et.al.|[2409.19149](http://arxiv.org/abs/2409.19149)|null|
 |**2024-09-27**|**ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions**|Wenfeng Huang et.al.|[2409.18932](http://arxiv.org/abs/2409.18932)|null|
 |**2024-09-27**|**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**|Yunlong Lin et.al.|[2409.18899](http://arxiv.org/abs/2409.18899)|null|
 |**2024-09-27**|**Effectiveness of learning-based image codecs on fingerprint storage**|Daniele Mari et.al.|[2409.18730](http://arxiv.org/abs/2409.18730)|null|
@@ -1887,6 +1904,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**Effective Diffusion Transformer Architecture for Image Super-Resolution**|Kun Cheng et.al.|[2409.19589](http://arxiv.org/abs/2409.19589)|**[link](https://github.com/kunncheng/dit-sr)**|
 |**2024-09-27**|**A Generalized Tensor Formulation for Hyperspectral Image Super-Resolution Under General Spatial Blurring**|Yinjian Wang et.al.|[2409.18731](http://arxiv.org/abs/2409.18731)|null|
 |**2024-09-27**|**Simpler Gradient Methods for Blind Super-Resolution with Lower Iteration Complexity**|Jinsheng Li et.al.|[2409.18387](http://arxiv.org/abs/2409.18387)|**[link](https://github.com/Jinshengg/SimplerGDs-VHL)**|
 |**2024-09-26**|**Toward Efficient Deep Blind RAW Image Restoration**|Marcos V. Conde et.al.|[2409.18204](http://arxiv.org/abs/2409.18204)|**[link](https://github.com/mv-lab/AISP)**|
@@ -2517,6 +2535,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**GrokLST: Towards High-Resolution Benchmark and Toolkit for Land Surface Temperature Downscaling**|Qun Dai et.al.|[2409.19835](http://arxiv.org/abs/2409.19835)|**[link](https://github.com/grokcv/groklst)**|
+|**2024-09-29**|**OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images**|Jiaqi Zhao et.al.|[2409.19648](http://arxiv.org/abs/2409.19648)|**[link](https://github.com/wokaikaixinxin/OrientedFormer)**|
+|**2024-09-29**|**Perspectives and challenges in bolide infrasound processing and interpretation: A focused review with case studies**|Elizabeth A. Silber et.al.|[2409.19537](http://arxiv.org/abs/2409.19537)|null|
+|**2024-09-28**|**Contrastive ground-level image and remote sensing pre-training improves representation learning for natural world imagery**|Andy V. Huynh et.al.|[2409.19439](http://arxiv.org/abs/2409.19439)|null|
 |**2024-09-27**|**Deep Learning Enhanced Quantum Holography with Undetected Photons**|Weiru Fan et.al.|[2409.18887](http://arxiv.org/abs/2409.18887)|null|
 |**2024-09-27**|**Seeing the Invisible through Speckle Images**|Weiru Fan et.al.|[2409.18815](http://arxiv.org/abs/2409.18815)|null|
 |**2024-09-27**|**A TextGCN-Based Decoding Approach for Improving Remote Sensing Image Captioning**|Swadhin Das et.al.|[2409.18467](http://arxiv.org/abs/2409.18467)|null|

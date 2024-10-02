@@ -2545,7 +2545,7 @@ layout: default
 |**2024-09-26**|**Find Rhinos without Finding Rhinos: Active Learning with Multimodal Imagery of South African Rhino Habitats**|Lucia Gordon et.al.|[2409.18104](http://arxiv.org/abs/2409.18104)|**[link](https://github.com/lgordon99/rhino-midden-detector)**|
 |**2024-09-26**|**LDA-MIG Detectors for Maritime Targets in Nonhomogeneous Sea Clutter**|Xiaoqiang Hua et.al.|[2409.17911](http://arxiv.org/abs/2409.17911)|null|
 |**2024-09-26**|**AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing**|Hanbo Bi et.al.|[2409.17453](http://arxiv.org/abs/2409.17453)|null|
-|**2024-09-30**|**Improving satellite imagery segmentation using multiple Sentinel-2 revisits**|Kartik Jindgar et.al.|[2409.17363](http://arxiv.org/abs/2409.17363)|null|
+|**2024-09-30**|**Improving satellite imagery segmentation using multiple Sentinel-2 revisits**|Kartik Jindgar et.al.|[2409.17363](http://arxiv.org/abs/2409.17363)|**[link](https://github.com/Lindsay-Lab/substation-seg)**|
 |**2024-09-25**|**Sparsity, Regularization and Causality in Agricultural Yield: The Case of Paddy Rice in Peru**|Rita Rocio Guzman-Lopez et.al.|[2409.17298](http://arxiv.org/abs/2409.17298)|null|
 |**2024-09-25**|**SEN12-WATER: A New Dataset for Hydrological Applications and its Benchmarking**|Luigi Russo et.al.|[2409.17087](http://arxiv.org/abs/2409.17087)|null|
 |**2024-09-25**|**Sub-Meter Remote Sensing of Soil Moisture Using Portable L-band Microwave Radiometer**|Runze Zhang et.al.|[2409.17024](http://arxiv.org/abs/2409.17024)|null|

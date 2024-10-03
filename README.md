@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -215,7 +215,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Compression
 
@@ -225,8 +225,8 @@
 |**2024-09-30**|**PerCo (SD): Open Perceptual Compression**|Nikolai Körber et.al.|[2409.20255](http://arxiv.org/abs/2409.20255)|**[link](https://github.com/Nikolai10/PerCo)**|
 |**2024-09-29**|**All-in-One Image Coding for Joint Human-Machine Vision with Multi-Path Aggregation**|Xu Zhang et.al.|[2409.19660](http://arxiv.org/abs/2409.19660)|**[link](https://github.com/NJUVISION/MPA)**|
 |**2024-09-28**|**Fast Encoding and Decoding for Implicit Video Representation**|Hao Chen et.al.|[2409.19429](http://arxiv.org/abs/2409.19429)|null|
-|**2024-09-27**|**Learning-Based Image Compression for Machines**|Kartik Gupta et.al.|[2409.19184](http://arxiv.org/abs/2409.19184)|null|
-|**2024-09-27**|**Effectiveness of learning-based image codecs on fingerprint storage**|Daniele Mari et.al.|[2409.18730](http://arxiv.org/abs/2409.18730)|null|
+|**2024-09-27**|**Learning-Based Image Compression for Machines**|Kartik Gupta et.al.|[2409.19184](http://arxiv.org/abs/2409.19184)|**[link](https://github.com/kimberley-faria/learning_based_img_compression)**|
+|**2024-09-27**|**Effectiveness of learning-based image codecs on fingerprint storage**|Daniele Mari et.al.|[2409.18730](http://arxiv.org/abs/2409.18730)|**[link](https://github.com/Dan8991/Learning-based-fingerprint-coding)**|
 |**2024-09-27**|**Decoding Complexity-Rate-Quality Pareto-Front for Adaptive VVC Streaming**|Angeliki Katsenou et.al.|[2409.18713](http://arxiv.org/abs/2409.18713)|null|
 |**2024-09-27**|**Neural Video Representation for Redundancy Reduction and Consistency Preservation**|Taiga Hayami et.al.|[2409.18497](http://arxiv.org/abs/2409.18497)|null|
 |**2024-09-20**|**Blockchain-Enabled Variational Information Bottleneck for Data Extraction Based on Mutual Information in Internet of Vehicles**|Cui Zhang et.al.|[2409.17287](http://arxiv.org/abs/2409.17287)|null|
@@ -730,32 +730,32 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Quality Assessment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|null|
+|**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|**[link](https://github.com/justones/uir-lora)**|
 |**2024-09-30**|**Segmenting Wood Rot using Computer Vision Models**|Roland Kammerbauer et.al.|[2409.20137](http://arxiv.org/abs/2409.20137)|null|
 |**2024-09-30**|**Machine Learning in Industrial Quality Control of Glass Bottle Prints**|Maximilian Bundscherer et.al.|[2409.20132](http://arxiv.org/abs/2409.20132)|null|
 |**2024-09-30**|**Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs**|Zicheng Zhang et.al.|[2409.20063](http://arxiv.org/abs/2409.20063)|null|
 |**2024-09-30**|**Is Preference Alignment Always the Best Option to Enhance LLM-Based Translation? An Empirical Analysis**|Hippolyte Gisserot-Boukhlef et.al.|[2409.20059](http://arxiv.org/abs/2409.20059)|null|
 |**2024-10-01**|**UniSumEval: Towards Unified, Fine-Grained, Multi-Dimensional Summarization Evaluation for LLMs**|Yuho Lee et.al.|[2409.19898](http://arxiv.org/abs/2409.19898)|**[link](https://github.com/disl-lab/unisumeval-v1.0)**|
 |**2024-09-29**|**OrganiQ: Mitigating Classical Resource Bottlenecks of Quantum Generative Adversarial Networks on NISQ-Era Machines**|Daniel Silver et.al.|[2409.19823](http://arxiv.org/abs/2409.19823)|null|
-|**2024-09-29**|**SemiDDM-Weather: A Semi-supervised Learning Framework for All-in-one Adverse Weather Removal**|Fang Long et.al.|[2409.19679](http://arxiv.org/abs/2409.19679)|null|
+|**2024-09-29**|**SemiDDM-Weather: A Semi-supervised Learning Framework for All-in-one Adverse Weather Removal**|Fang Long et.al.|[2409.19679](http://arxiv.org/abs/2409.19679)|**[link](https://github.com/longfafffa/SemiDDM-Weather)**|
 |**2024-09-29**|**Effective Diffusion Transformer Architecture for Image Super-Resolution**|Kun Cheng et.al.|[2409.19589](http://arxiv.org/abs/2409.19589)|**[link](https://github.com/kunncheng/dit-sr)**|
 |**2024-09-29**|**High Quality Human Image Animation using Regional Supervision and Motion Blur Condition**|Zhongcong Xu et.al.|[2409.19580](http://arxiv.org/abs/2409.19580)|null|
 |**2024-09-27**|**A comprehensive review and new taxonomy on superpixel segmentation**|I. B. Barcelos et.al.|[2409.19179](http://arxiv.org/abs/2409.19179)|**[link](https://github.com/imscience-ppginf-pucminas/superpixel-benchmark)**|
 |**2024-09-27**|**Multimodal Pragmatic Jailbreak on Text-to-image Models**|Tong Liu et.al.|[2409.19149](http://arxiv.org/abs/2409.19149)|null|
 |**2024-09-27**|**ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions**|Wenfeng Huang et.al.|[2409.18932](http://arxiv.org/abs/2409.18932)|null|
 |**2024-09-27**|**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**|Yunlong Lin et.al.|[2409.18899](http://arxiv.org/abs/2409.18899)|null|
-|**2024-09-27**|**Effectiveness of learning-based image codecs on fingerprint storage**|Daniele Mari et.al.|[2409.18730](http://arxiv.org/abs/2409.18730)|null|
+|**2024-09-27**|**Effectiveness of learning-based image codecs on fingerprint storage**|Daniele Mari et.al.|[2409.18730](http://arxiv.org/abs/2409.18730)|**[link](https://github.com/Dan8991/Learning-based-fingerprint-coding)**|
 |**2024-09-27**|**Decoding Complexity-Rate-Quality Pareto-Front for Adaptive VVC Streaming**|Angeliki Katsenou et.al.|[2409.18713](http://arxiv.org/abs/2409.18713)|null|
 |**2024-09-27**|**Align $^2$ LLaVA: Cascaded Human and Large Language Model Preference Alignment for Multi-modal Instruction Curation**|Hongzhe Huang et.al.|[2409.18541](http://arxiv.org/abs/2409.18541)|null|
 |**2024-09-27**|**Underwater Image Enhancement with Physical-based Denoising Diffusion Implicit Models**|Nguyen Gia Bach et.al.|[2409.18476](http://arxiv.org/abs/2409.18476)|**[link](https://github.com/bachzz/uw-diffphys)**|
 |**2024-09-27**|**GenesisTex2: Stable, Consistent and High-Quality Text-to-Texture Generation**|Jiawei Lu et.al.|[2409.18401](http://arxiv.org/abs/2409.18401)|null|
-|**2024-09-27**|**SinoSynth: A Physics-based Domain Randomization Approach for Generalizable CBCT Image Enhancement**|Yunkui Pang et.al.|[2409.18355](http://arxiv.org/abs/2409.18355)|null|
+|**2024-09-27**|**SinoSynth: A Physics-based Domain Randomization Approach for Generalizable CBCT Image Enhancement**|Yunkui Pang et.al.|[2409.18355](http://arxiv.org/abs/2409.18355)|**[link](https://github.com/Pangyk/SinoSynth)**|
 |**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
 |**2024-09-26**|**Low Photon Number Non-Invasive Imaging Through Time-Varying Diffusers**|Adrian Makowski et.al.|[2409.18072](http://arxiv.org/abs/2409.18072)|null|
 |**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057](http://arxiv.org/abs/2409.18057)|**[link](https://github.com/mingsun-tse/lightavatar-tensorflow)**|
@@ -1911,7 +1911,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -2544,7 +2544,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -2559,7 +2559,7 @@
 |**2024-10-01**|**A TextGCN-Based Decoding Approach for Improving Remote Sensing Image Captioning**|Swadhin Das et.al.|[2409.18467](http://arxiv.org/abs/2409.18467)|null|
 |**2024-09-26**|**Find Rhinos without Finding Rhinos: Active Learning with Multimodal Imagery of South African Rhino Habitats**|Lucia Gordon et.al.|[2409.18104](http://arxiv.org/abs/2409.18104)|**[link](https://github.com/lgordon99/rhino-midden-detector)**|
 |**2024-09-26**|**LDA-MIG Detectors for Maritime Targets in Nonhomogeneous Sea Clutter**|Xiaoqiang Hua et.al.|[2409.17911](http://arxiv.org/abs/2409.17911)|null|
-|**2024-09-26**|**AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing**|Hanbo Bi et.al.|[2409.17453](http://arxiv.org/abs/2409.17453)|null|
+|**2024-09-26**|**AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing**|Hanbo Bi et.al.|[2409.17453](http://arxiv.org/abs/2409.17453)|**[link](https://github.com/HanboBizl/AgMTR)**|
 |**2024-09-30**|**Improving satellite imagery segmentation using multiple Sentinel-2 revisits**|Kartik Jindgar et.al.|[2409.17363](http://arxiv.org/abs/2409.17363)|**[link](https://github.com/Lindsay-Lab/substation-seg)**|
 |**2024-09-25**|**Sparsity, Regularization and Causality in Agricultural Yield: The Case of Paddy Rice in Peru**|Rita Rocio Guzman-Lopez et.al.|[2409.17298](http://arxiv.org/abs/2409.17298)|null|
 |**2024-09-25**|**SEN12-WATER: A New Dataset for Hydrological Applications and its Benchmarking**|Luigi Russo et.al.|[2409.17087](http://arxiv.org/abs/2409.17087)|null|
@@ -3236,7 +3236,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

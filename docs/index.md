@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-01**|**Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection**|Pengxi Zeng et.al.|[2410.00582](http://arxiv.org/abs/2410.00582)|null|
 |**2024-09-19**|**PVContext: Hybrid Context Model for Point Cloud Compression**|Guoqing Zhang et.al.|[2409.12724](http://arxiv.org/abs/2409.12724)|null|
 |**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
 |**2024-09-08**|**GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling**|Huawei Sun et.al.|[2409.02720](http://arxiv.org/abs/2409.02720)|**[link](https://github.com/harborsarah/get-up)**|
@@ -212,6 +213,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation**|Ziyuan Zhang et.al.|[2410.01698](http://arxiv.org/abs/2410.01698)|**[link](https://github.com/joanna-0421/cosmic)**|
+|**2024-10-02**|**Unleashing Parameter Potential of Neural Representation for Efficient Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
+|**2024-10-02**|**Task-Oriented Edge-Assisted Cooperative Data Compression, Communications and Computing for UGV-Enhanced Warehouse Logistics**|Jiaming Yang et.al.|[2410.01515](http://arxiv.org/abs/2410.01515)|null|
+|**2024-10-01**|**STanH : Parametric Quantization for Variable Rate Learned Image Compression**|Alberto Presta et.al.|[2410.00557](http://arxiv.org/abs/2410.00557)|null|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
 |**2024-09-30**|**PerCo (SD): Open Perceptual Compression**|Nikolai Körber et.al.|[2409.20255](http://arxiv.org/abs/2409.20255)|**[link](https://github.com/Nikolai10/PerCo)**|
 |**2024-09-29**|**All-in-One Image Coding for Joint Human-Machine Vision with Multi-Path Aggregation**|Xu Zhang et.al.|[2409.19660](http://arxiv.org/abs/2409.19660)|**[link](https://github.com/NJUVISION/MPA)**|
@@ -725,6 +730,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**|Rinon Gal et.al.|[2410.01731](http://arxiv.org/abs/2410.01731)|null|
+|**2024-10-02**|**HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration**|Yushi Huang et.al.|[2410.01723](http://arxiv.org/abs/2410.01723)|null|
+|**2024-10-02**|**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**|Yao Teng et.al.|[2410.01699](http://arxiv.org/abs/2410.01699)|null|
+|**2024-10-02**|**SAFE: Semantic Adaptive Feature Extraction with Rate Control for 6G Wireless Communications**|Yuna Yan et.al.|[2410.01597](http://arxiv.org/abs/2410.01597)|null|
+|**2024-10-02**|**Frequency-Dependent F-Numbers Suppress Grating Lobes and Improve the Lateral Resolution in Line-by-Line Scanning**|Martin F. Schiffner et.al.|[2410.01593](http://arxiv.org/abs/2410.01593)|null|
+|**2024-10-02**|**Imaging foundation model for universal enhancement of non-ideal measurement CT**|Yuxin Liu et.al.|[2410.01591](http://arxiv.org/abs/2410.01591)|**[link](https://github.com/yutinghe-list/tamp)**|
+|**2024-10-02**|**HARMONI at ELT: tolerance analysis and expected as-build imaging performance of the infrared spectrograph**|Eduard Muslimov et.al.|[2410.01581](http://arxiv.org/abs/2410.01581)|null|
+|**2024-10-02**|**Adaptive Radiofrequency Shimming in MRI using Reconfigurable Dielectric Materials**|Paulina Šiurytė et.al.|[2410.01501](http://arxiv.org/abs/2410.01501)|null|
+|**2024-10-02**|**Quo Vadis RankList-based System in Face Recognition?**|Xinyi Zhang et.al.|[2410.01498](http://arxiv.org/abs/2410.01498)|null|
+|**2024-10-02**|**Design of a custom wideband camera for MISTRAL imager-spectrograph**|Eduard Muslimov et.al.|[2410.01414](http://arxiv.org/abs/2410.01414)|null|
+|**2024-10-02**|**CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**|Safouane El Ghazouali et.al.|[2410.01411](http://arxiv.org/abs/2410.01411)|null|
+|**2024-10-01**|**Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency**|Sitong Liu et.al.|[2410.01072](http://arxiv.org/abs/2410.01072)|null|
+|**2024-10-01**|**LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details**|Jian Yang et.al.|[2410.00990](http://arxiv.org/abs/2410.00990)|null|
+|**2024-10-01**|**Energy-Quality-aware Variable Framerate Pareto-Front for Adaptive Video Streaming**|Prajit T Rajendran et.al.|[2410.00849](http://arxiv.org/abs/2410.00849)|null|
+|**2024-10-01**|**Maximum entropy and quantized metric models for absolute category ratings**|Dietmar Saupe et.al.|[2410.00817](http://arxiv.org/abs/2410.00817)|null|
+|**2024-10-01**|**Basis function compression for field probe monitoring**|Paul Dubovan et.al.|[2410.00754](http://arxiv.org/abs/2410.00754)|null|
+|**2024-10-01**|**Development of the normalization method for the first large field-of-view plastic-based PET Modular scanner**|A. Coussat et.al.|[2410.00669](http://arxiv.org/abs/2410.00669)|null|
+|**2024-10-01**|**Contribution of soundscape appropriateness to soundscape quality assessment in space: a mediating variable affecting acoustic comfort**|Xinhao Yang et.al.|[2410.00667](http://arxiv.org/abs/2410.00667)|null|
+|**2024-10-01**|**AutoTM 2.0: Automatic Topic Modeling Framework for Documents Analysis**|Maria Khodorchenko et.al.|[2410.00655](http://arxiv.org/abs/2410.00655)|null|
+|**2024-10-01**|**Dynamic and Scalable Data Preparation for Object-Centric Process Mining**|Lien Bosmans et.al.|[2410.00596](http://arxiv.org/abs/2410.00596)|null|
 |**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|**[link](https://github.com/justones/uir-lora)**|
 |**2024-09-30**|**Segmenting Wood Rot using Computer Vision Models**|Roland Kammerbauer et.al.|[2409.20137](http://arxiv.org/abs/2409.20137)|null|
 |**2024-09-30**|**Machine Learning in Industrial Quality Control of Glass Bottle Prints**|Maximilian Bundscherer et.al.|[2409.20132](http://arxiv.org/abs/2409.20132)|null|
@@ -1904,6 +1929,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-01**|**Optimizing Drug Delivery in Smart Pharmacies: A Novel Framework of Multi-Stage Grasping Network Combined with Adaptive Robotics Mechanism**|Rui Tang et.al.|[2410.00753](http://arxiv.org/abs/2410.00753)|null|
+|**2024-10-01**|**Enhancing Sentinel-2 Image Resolution: Evaluating Advanced Techniques based on Convolutional and Generative Neural Networks**|Patrick Kramer et.al.|[2410.00516](http://arxiv.org/abs/2410.00516)|null|
 |**2024-09-29**|**Effective Diffusion Transformer Architecture for Image Super-Resolution**|Kun Cheng et.al.|[2409.19589](http://arxiv.org/abs/2409.19589)|**[link](https://github.com/kunncheng/dit-sr)**|
 |**2024-09-27**|**A Generalized Tensor Formulation for Hyperspectral Image Super-Resolution Under General Spatial Blurring**|Yinjian Wang et.al.|[2409.18731](http://arxiv.org/abs/2409.18731)|null|
 |**2024-09-27**|**Simpler Gradient Methods for Blind Super-Resolution with Lower Iteration Complexity**|Jinsheng Li et.al.|[2409.18387](http://arxiv.org/abs/2409.18387)|**[link](https://github.com/Jinshengg/SimplerGDs-VHL)**|
@@ -2535,6 +2562,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](http://arxiv.org/abs/2410.01768)|null|
+|**2024-10-02**|**SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation**|Osher Rafaeli et.al.|[2410.01473](http://arxiv.org/abs/2410.01473)|**[link](https://github.com/osherr1996/sinksam)**|
+|**2024-10-01**|**Semantic Segmentation of Unmanned Aerial Vehicle Remote Sensing Images using SegFormer**|Vlatko Spasev et.al.|[2410.01092](http://arxiv.org/abs/2410.01092)|null|
+|**2024-10-01**|**Deep Multimodal Fusion for Semantic Segmentation of Remote Sensing Earth Observation Data**|Ivica Dimitrovski et.al.|[2410.00469](http://arxiv.org/abs/2410.00469)|null|
 |**2024-09-30**|**GrokLST: Towards High-Resolution Benchmark and Toolkit for Land Surface Temperature Downscaling**|Qun Dai et.al.|[2409.19835](http://arxiv.org/abs/2409.19835)|**[link](https://github.com/grokcv/groklst)**|
 |**2024-09-29**|**OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images**|Jiaqi Zhao et.al.|[2409.19648](http://arxiv.org/abs/2409.19648)|**[link](https://github.com/wokaikaixinxin/OrientedFormer)**|
 |**2024-09-29**|**Perspectives and challenges in bolide infrasound processing and interpretation: A focused review with case studies**|Elizabeth A. Silber et.al.|[2409.19537](http://arxiv.org/abs/2409.19537)|null|

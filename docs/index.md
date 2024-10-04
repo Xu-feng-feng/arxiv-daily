@@ -213,8 +213,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Diffusion-based Extreme Image Compression with Compressed Feature Initialization**|Zhiyuan Li et.al.|[2410.02640](http://arxiv.org/abs/2410.02640)|**[link](https://github.com/huai-chang/rdeic)**|
+|**2024-10-03**|**High-Efficiency Neural Video Compression via Hierarchical Predictive Learning**|Ming Lu et.al.|[2410.02598](http://arxiv.org/abs/2410.02598)|null|
+|**2024-10-02**|**A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation**|Liang Chen et.al.|[2410.01912](http://arxiv.org/abs/2410.01912)|**[link](https://github.com/chenllliang/dnd-transformer)**|
 |**2024-10-02**|**COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation**|Ziyuan Zhang et.al.|[2410.01698](http://arxiv.org/abs/2410.01698)|**[link](https://github.com/joanna-0421/cosmic)**|
-|**2024-10-02**|**Unleashing Parameter Potential of Neural Representation for Efficient Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
+|**2024-10-03**|**Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
 |**2024-10-02**|**Task-Oriented Edge-Assisted Cooperative Data Compression, Communications and Computing for UGV-Enhanced Warehouse Logistics**|Jiaming Yang et.al.|[2410.01515](http://arxiv.org/abs/2410.01515)|null|
 |**2024-10-01**|**STanH : Parametric Quantization for Variable Rate Learned Image Compression**|Alberto Presta et.al.|[2410.00557](http://arxiv.org/abs/2410.00557)|null|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
@@ -730,6 +733,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Diffusion-based Extreme Image Compression with Compressed Feature Initialization**|Zhiyuan Li et.al.|[2410.02640](http://arxiv.org/abs/2410.02640)|**[link](https://github.com/huai-chang/rdeic)**|
+|**2024-10-03**|**An Improved Variational Method for Image Denoising**|Jing-En Huang et.al.|[2410.02587](http://arxiv.org/abs/2410.02587)|null|
+|**2024-10-03**|**Combining Pre- and Post-Demosaicking Noise Removal for RAW Video**|Marco Sánchez-Beeckman et.al.|[2410.02572](http://arxiv.org/abs/2410.02572)|null|
+|**2024-10-03**|**Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment**|Kai Liu et.al.|[2410.02505](http://arxiv.org/abs/2410.02505)|**[link](https://github.com/kai-liu001/dog-iqa)**|
+|**2024-10-03**|**Eliminating Oversaturation and Artifacts of High Guidance Scales in Diffusion Models**|Seyedmorteza Sadat et.al.|[2410.02416](http://arxiv.org/abs/2410.02416)|null|
+|**2024-10-03**|**Morphological evaluation of subwords vocabulary used by BETO language model**|Óscar García-Sierra et.al.|[2410.02283](http://arxiv.org/abs/2410.02283)|null|
+|**2024-10-03**|**SC-CDM: Enhancing Quality of Image Semantic Communication with a Compact Diffusion Model**|Kexin Zhang et.al.|[2410.02121](http://arxiv.org/abs/2410.02121)|null|
+|**2024-10-02**|**DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation**|Jing He et.al.|[2410.02067](http://arxiv.org/abs/2410.02067)|null|
+|**2024-10-02**|**Impact of White-Box Adversarial Attacks on Convolutional Neural Networks**|Rakesh Podder et.al.|[2410.02043](http://arxiv.org/abs/2410.02043)|null|
+|**2024-10-02**|**Social Media Authentication and Combating Deepfakes using Semi-fragile Invisible Image Watermarking**|Aakash Varma Nadimpalli et.al.|[2410.01906](http://arxiv.org/abs/2410.01906)|null|
+|**2024-10-02**|**Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement**|Shouvon Sarker et.al.|[2410.01869](http://arxiv.org/abs/2410.01869)|null|
 |**2024-10-02**|**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**|Rinon Gal et.al.|[2410.01731](http://arxiv.org/abs/2410.01731)|null|
 |**2024-10-02**|**HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration**|Yushi Huang et.al.|[2410.01723](http://arxiv.org/abs/2410.01723)|null|
 |**2024-10-02**|**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**|Yao Teng et.al.|[2410.01699](http://arxiv.org/abs/2410.01699)|null|
@@ -1929,6 +1943,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
+|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|null|
+|**2024-10-03**|**Ultrathin BIC metasurfaces based on ultralow-loss Sb2Se3 phase-change material**|Zhaoyang Xie et.al.|[2410.02413](http://arxiv.org/abs/2410.02413)|null|
+|**2024-10-02**|**Stochastic Deep Restoration Priors for Imaging Inverse Problems**|Yuyang Hu et.al.|[2410.02057](http://arxiv.org/abs/2410.02057)|null|
 |**2024-10-01**|**Optimizing Drug Delivery in Smart Pharmacies: A Novel Framework of Multi-Stage Grasping Network Combined with Adaptive Robotics Mechanism**|Rui Tang et.al.|[2410.00753](http://arxiv.org/abs/2410.00753)|null|
 |**2024-10-01**|**Enhancing Sentinel-2 Image Resolution: Evaluating Advanced Techniques based on Convolutional and Generative Neural Networks**|Patrick Kramer et.al.|[2410.00516](http://arxiv.org/abs/2410.00516)|null|
 |**2024-09-29**|**Effective Diffusion Transformer Architecture for Image Super-Resolution**|Kun Cheng et.al.|[2409.19589](http://arxiv.org/abs/2409.19589)|**[link](https://github.com/kunncheng/dit-sr)**|
@@ -2562,7 +2580,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](http://arxiv.org/abs/2410.01768)|null|
+|**2024-10-03**|**Exact Bayesian Inference for Multivariate Spatial Data of Any Size with Application to Air Pollution Monitoring**|Madelyn Clinch et.al.|[2410.02655](http://arxiv.org/abs/2410.02655)|null|
+|**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](http://arxiv.org/abs/2410.01768)|**[link](https://github.com/likyoo/SegEarth-OV)**|
 |**2024-10-02**|**SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation**|Osher Rafaeli et.al.|[2410.01473](http://arxiv.org/abs/2410.01473)|**[link](https://github.com/osherr1996/sinksam)**|
 |**2024-10-01**|**Semantic Segmentation of Unmanned Aerial Vehicle Remote Sensing Images using SegFormer**|Vlatko Spasev et.al.|[2410.01092](http://arxiv.org/abs/2410.01092)|null|
 |**2024-10-01**|**Deep Multimodal Fusion for Semantic Segmentation of Remote Sensing Earth Observation Data**|Ivica Dimitrovski et.al.|[2410.00469](http://arxiv.org/abs/2410.00469)|null|

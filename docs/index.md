@@ -213,6 +213,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**A Framework for Automatic Validation and Application of Lossy Data Compression in Ensemble Data Assimilation**|Kai Keller et.al.|[2410.03184](http://arxiv.org/abs/2410.03184)|null|
+|**2024-10-03**|**GABIC: Graph-based Attention Block for Image Compression**|Gabriele Spadaro et.al.|[2410.02981](http://arxiv.org/abs/2410.02981)|null|
 |**2024-10-03**|**Diffusion-based Extreme Image Compression with Compressed Feature Initialization**|Zhiyuan Li et.al.|[2410.02640](http://arxiv.org/abs/2410.02640)|**[link](https://github.com/huai-chang/rdeic)**|
 |**2024-10-03**|**High-Efficiency Neural Video Compression via Hierarchical Predictive Learning**|Ming Lu et.al.|[2410.02598](http://arxiv.org/abs/2410.02598)|null|
 |**2024-10-02**|**A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation**|Liang Chen et.al.|[2410.01912](http://arxiv.org/abs/2410.01912)|**[link](https://github.com/chenllliang/dnd-transformer)**|
@@ -733,6 +735,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**|Doohyuk Jang et.al.|[2410.03355](http://arxiv.org/abs/2410.03355)|null|
+|**2024-10-04**|**CLOVE: Travelling Salesman's approach to hyperbolic embeddings of complex networks with communities**|Sámuel G. Balogh et.al.|[2410.03270](http://arxiv.org/abs/2410.03270)|null|
+|**2024-10-04**|**Parallel Corpus Augmentation using Masked Language Models**|Vibhuti Kumari et.al.|[2410.03194](http://arxiv.org/abs/2410.03194)|null|
+|**2024-10-04**|**ECHOPulse: ECG controlled echocardio-grams video generation**|Yiwei Li et.al.|[2410.03143](http://arxiv.org/abs/2410.03143)|**[link](https://github.com/levyisthebest/echopulse_prelease)**|
 |**2024-10-03**|**Diffusion-based Extreme Image Compression with Compressed Feature Initialization**|Zhiyuan Li et.al.|[2410.02640](http://arxiv.org/abs/2410.02640)|**[link](https://github.com/huai-chang/rdeic)**|
 |**2024-10-03**|**An Improved Variational Method for Image Denoising**|Jing-En Huang et.al.|[2410.02587](http://arxiv.org/abs/2410.02587)|null|
 |**2024-10-03**|**Combining Pre- and Post-Demosaicking Noise Removal for RAW Video**|Marco Sánchez-Beeckman et.al.|[2410.02572](http://arxiv.org/abs/2410.02572)|null|
@@ -745,7 +751,7 @@ layout: default
 |**2024-10-02**|**Social Media Authentication and Combating Deepfakes using Semi-fragile Invisible Image Watermarking**|Aakash Varma Nadimpalli et.al.|[2410.01906](http://arxiv.org/abs/2410.01906)|null|
 |**2024-10-02**|**Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement**|Shouvon Sarker et.al.|[2410.01869](http://arxiv.org/abs/2410.01869)|null|
 |**2024-10-02**|**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**|Rinon Gal et.al.|[2410.01731](http://arxiv.org/abs/2410.01731)|null|
-|**2024-10-02**|**HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration**|Yushi Huang et.al.|[2410.01723](http://arxiv.org/abs/2410.01723)|null|
+|**2024-10-04**|**HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration**|Yushi Huang et.al.|[2410.01723](http://arxiv.org/abs/2410.01723)|null|
 |**2024-10-02**|**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**|Yao Teng et.al.|[2410.01699](http://arxiv.org/abs/2410.01699)|null|
 |**2024-10-02**|**SAFE: Semantic Adaptive Feature Extraction with Rate Control for 6G Wireless Communications**|Yuna Yan et.al.|[2410.01597](http://arxiv.org/abs/2410.01597)|null|
 |**2024-10-02**|**Frequency-Dependent F-Numbers Suppress Grating Lobes and Improve the Lateral Resolution in Line-by-Line Scanning**|Martin F. Schiffner et.al.|[2410.01593](http://arxiv.org/abs/2410.01593)|null|
@@ -1943,6 +1949,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Point-Spread-Function Engineering in MINFLUX: Optimality of Donut and Half-Moon Excitation Patterns**|Yan Liu et.al.|[2410.03349](http://arxiv.org/abs/2410.03349)|null|
+|**2024-10-04**|**Atom Camera: Super-resolution scanning microscope of a light pattern with a single ultracold atom**|Takafumi Tomita et.al.|[2410.03241](http://arxiv.org/abs/2410.03241)|null|
+|**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|null|
 |**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
 |**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|null|
 |**2024-10-03**|**Ultrathin BIC metasurfaces based on ultralow-loss Sb2Se3 phase-change material**|Zhaoyang Xie et.al.|[2410.02413](http://arxiv.org/abs/2410.02413)|null|
@@ -2580,6 +2589,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Machine Learning for Asymptomatic Ratoon Stunting Disease Detection With Freely Available Satellite Based Multispectral Imaging**|Ethan Kane Waters et.al.|[2410.03141](http://arxiv.org/abs/2410.03141)|null|
+|**2024-10-03**|**Multiscale Multi-Type Spatial Bayesian Analysis of Wildfires and Population Change That Avoids MCMC and Approximating the Posterior Distribution**|Shijie Zhou et.al.|[2410.02905](http://arxiv.org/abs/2410.02905)|null|
 |**2024-10-03**|**Exact Bayesian Inference for Multivariate Spatial Data of Any Size with Application to Air Pollution Monitoring**|Madelyn Clinch et.al.|[2410.02655](http://arxiv.org/abs/2410.02655)|null|
 |**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](http://arxiv.org/abs/2410.01768)|**[link](https://github.com/likyoo/SegEarth-OV)**|
 |**2024-10-02**|**SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation**|Osher Rafaeli et.al.|[2410.01473](http://arxiv.org/abs/2410.01473)|**[link](https://github.com/osherr1996/sinksam)**|

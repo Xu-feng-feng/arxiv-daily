@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -217,20 +217,20 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-07**|**Causal Context Adjustment Loss for Learned Image Compression**|Minghao Han et.al.|[2410.04847](http://arxiv.org/abs/2410.04847)|null|
+|**2024-10-07**|**Causal Context Adjustment Loss for Learned Image Compression**|Minghao Han et.al.|[2410.04847](http://arxiv.org/abs/2410.04847)|**[link](https://github.com/LabShuHangGU/CCA)**|
 |**2024-10-06**|**Channel-Aware Throughput Maximization for Cooperative Data Fusion in CAV**|Haonan An et.al.|[2410.04320](http://arxiv.org/abs/2410.04320)|null|
 |**2024-10-05**|**Robust Task-Oriented Communication Framework for Real-Time Collaborative Vision Perception**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|null|
 |**2024-10-04**|**On the Rate-Distortion-Complexity Trade-offs of Neural Video Coding**|Yi-Hsin Chen et.al.|[2410.03898](http://arxiv.org/abs/2410.03898)|null|
 |**2024-10-04**|**A Framework for Automatic Validation and Application of Lossy Data Compression in Ensemble Data Assimilation**|Kai Keller et.al.|[2410.03184](http://arxiv.org/abs/2410.03184)|null|
 |**2024-10-03**|**GABIC: Graph-based Attention Block for Image Compression**|Gabriele Spadaro et.al.|[2410.02981](http://arxiv.org/abs/2410.02981)|**[link](https://github.com/EIDOSLAB/GABIC)**|
 |**2024-10-03**|**Diffusion-based Extreme Image Compression with Compressed Feature Initialization**|Zhiyuan Li et.al.|[2410.02640](http://arxiv.org/abs/2410.02640)|**[link](https://github.com/huai-chang/rdeic)**|
-|**2024-10-03**|**High-Efficiency Neural Video Compression via Hierarchical Predictive Learning**|Ming Lu et.al.|[2410.02598](http://arxiv.org/abs/2410.02598)|null|
+|**2024-10-03**|**High-Efficiency Neural Video Compression via Hierarchical Predictive Learning**|Ming Lu et.al.|[2410.02598](http://arxiv.org/abs/2410.02598)|**[link](https://github.com/NJUVISION/DHVC)**|
 |**2024-10-02**|**A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation**|Liang Chen et.al.|[2410.01912](http://arxiv.org/abs/2410.01912)|**[link](https://github.com/chenllliang/dnd-transformer)**|
 |**2024-10-02**|**COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation**|Ziyuan Zhang et.al.|[2410.01698](http://arxiv.org/abs/2410.01698)|**[link](https://github.com/joanna-0421/cosmic)**|
 |**2024-10-03**|**Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
@@ -745,7 +745,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -760,7 +760,7 @@
 |**2024-10-06**|**Towards Unsupervised Blind Face Restoration using Diffusion Prior**|Tianshu Kuai et.al.|[2410.04618](http://arxiv.org/abs/2410.04618)|null|
 |**2024-10-06**|**How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?**|Zhuoyan Li et.al.|[2410.04545](http://arxiv.org/abs/2410.04545)|null|
 |**2024-10-06**|**VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide**|Dohun Lee et.al.|[2410.04364](http://arxiv.org/abs/2410.04364)|null|
-|**2024-10-05**|**Persona Knowledge-Aligned Prompt Tuning Method for Online Debate**|Chunkit Chan et.al.|[2410.04239](http://arxiv.org/abs/2410.04239)|null|
+|**2024-10-05**|**Persona Knowledge-Aligned Prompt Tuning Method for Online Debate**|Chunkit Chan et.al.|[2410.04239](http://arxiv.org/abs/2410.04239)|**[link](https://github.com/HKUST-KnowComp/PersonaPrompt)**|
 |**2024-10-05**|**AIM 2024 Challenge on Video Super-Resolution Quality Assessment: Methods and Results**|Ivan Molodetskikh et.al.|[2410.04225](http://arxiv.org/abs/2410.04225)|null|
 |**2024-10-05**|**Deep Transfer Learning Based Peer Review Aggregation and Meta-review Generation for Scientific Articles**|Md. Tarek Hasan et.al.|[2410.04202](http://arxiv.org/abs/2410.04202)|null|
 |**2024-10-05**|**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**|Keda Tao et.al.|[2410.04161](http://arxiv.org/abs/2410.04161)|null|
@@ -1976,7 +1976,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -1991,8 +1991,8 @@
 |**2024-10-01**|**Resolution Enhancement of Scanning Electron Micrographs using Artificial Intelligence**|Tom Reclik et.al.|[2410.03746](http://arxiv.org/abs/2410.03746)|null|
 |**2024-10-04**|**Point-Spread-Function Engineering in MINFLUX: Optimality of Donut and Half-Moon Excitation Patterns**|Yan Liu et.al.|[2410.03349](http://arxiv.org/abs/2410.03349)|null|
 |**2024-10-04**|**Atom Camera: Super-resolution scanning microscope of a light pattern with a single ultracold atom**|Takafumi Tomita et.al.|[2410.03241](http://arxiv.org/abs/2410.03241)|null|
-|**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|null|
-|**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
+|**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|**[link](https://github.com/OmarSZamzam/PixelShuffler)**|
+|**2024-10-07**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
 |**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|**[link](https://github.com/annegnx/PnP-Flow)**|
 |**2024-10-03**|**Ultrathin BIC metasurfaces based on ultralow-loss Sb2Se3 phase-change material**|Zhaoyang Xie et.al.|[2410.02413](http://arxiv.org/abs/2410.02413)|null|
 |**2024-10-02**|**Stochastic Deep Restoration Priors for Imaging Inverse Problems**|Yuyang Hu et.al.|[2410.02057](http://arxiv.org/abs/2410.02057)|null|
@@ -2625,14 +2625,14 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-07**|**IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification**|Yan He et.al.|[2410.05100](http://arxiv.org/abs/2410.05100)|null|
-|**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|null|
+|**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|**[link](https://github.com/doem97/deblora)**|
 |**2024-10-05**|**Molecular Hydrogen Line Identifications in Solar Flares Observed by IRIS: Lower Atmospheric Structure from Radiometric Analysis**|Sarah A. Jaeggli et.al.|[2410.04267](http://arxiv.org/abs/2410.04267)|null|
 |**2024-10-04**|**SpecSAR-Former: A Lightweight Transformer-based Network for Global LULC Mapping Using Integrated Sentinel-1 and Sentinel-2**|Hao Yu et.al.|[2410.03962](http://arxiv.org/abs/2410.03962)|null|
 |**2024-10-07**|**Machine Learning for Asymptomatic Ratoon Stunting Disease Detection With Freely Available Satellite Based Multispectral Imaging**|Ethan Kane Waters et.al.|[2410.03141](http://arxiv.org/abs/2410.03141)|null|
@@ -3328,7 +3328,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

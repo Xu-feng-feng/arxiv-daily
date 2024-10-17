@@ -224,7 +224,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-14**|**Large Language Model Evaluation via Matrix Nuclear-Norm**|Yahan Li et.al.|[2410.10672](http://arxiv.org/abs/2410.10672)|null|
+|**2024-10-16**|**Test-time adaptation for image compression with distribution regularization**|Kecheng Chen et.al.|[2410.12191](http://arxiv.org/abs/2410.12191)|null|
+|**2024-10-16**|**Joint Data Compression, Secure Multi-Part Collaborative Task Offloading and Resource Assignment in Ultra-Dense Networks**|Tianqing Zhou et.al.|[2410.12186](http://arxiv.org/abs/2410.12186)|null|
+|**2024-10-14**|**Large Language Model Evaluation via Matrix Nuclear-Norm**|Yahan Li et.al.|[2410.10672](http://arxiv.org/abs/2410.10672)|**[link](https://github.com/mlgroupjlu/matrixnuclearnorm)**|
 |**2024-10-14**|**QIANets: Quantum-Integrated Adaptive Networks for Reduced Latency and Improved Inference Times in CNN Models**|Zhumazhan Balapanov et.al.|[2410.10318](http://arxiv.org/abs/2410.10318)|null|
 |**2024-10-14**|**Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization**|Shanzhi Yin et.al.|[2410.10171](http://arxiv.org/abs/2410.10171)|null|
 |**2024-10-13**|**Towards Reproducible Learning-based Compression**|Jiahao Pang et.al.|[2410.09872](http://arxiv.org/abs/2410.09872)|null|
@@ -777,6 +779,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization**|Xingqi Wang et.al.|[2410.12700](http://arxiv.org/abs/2410.12700)|**[link](https://github.com/achernarwang/LiVO)**|
+|**2024-10-16**|**SWIM: An Attention-Only Model for Speech Quality Assessment Under Subjective Variance**|Imran E Kibria et.al.|[2410.12675](http://arxiv.org/abs/2410.12675)|null|
+|**2024-10-16**|**MambaPainter: Neural Stroke-Based Rendering in a Single Step**|Tomoya Sawada et.al.|[2410.12524](http://arxiv.org/abs/2410.12524)|null|
+|**2024-10-16**|**Conditional Outcome Equivalence: A Quantile Alternative to CATE**|Josh Givens et.al.|[2410.12454](http://arxiv.org/abs/2410.12454)|**[link](https://github.com/joshgivens/ConditionalOutcomeEquivalence)**|
+|**2024-10-16**|**Triplet: Triangle Patchlet for Mesh-Based Inverse Rendering and Scene Parameters Approximation**|Jiajie Yang et.al.|[2410.12414](http://arxiv.org/abs/2410.12414)|null|
+|**2024-10-14**|**Learnable Optimization-Based Algorithms for Low-Dose CT Reconstruction**|Daisy Chen et.al.|[2410.11903](http://arxiv.org/abs/2410.11903)|null|
 |**2024-10-15**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
 |**2024-10-15**|**Fast Local Neural Regression for Low-Cost, Path Traced Lambertian Global Illumination**|Arturo Salmi et.al.|[2410.11625](http://arxiv.org/abs/2410.11625)|null|
 |**2024-10-15**|**Rician Denoising Diffusion Probabilistic Models For Sodium Breast MRI Enhancement**|Shuaiyu Yuan et.al.|[2410.11511](http://arxiv.org/abs/2410.11511)|null|
@@ -2067,9 +2075,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Transformer based super-resolution downscaling for regional reanalysis: Full domain vs tiling approaches**|Antonio Pérez et.al.|[2410.12728](http://arxiv.org/abs/2410.12728)|null|
+|**2024-10-16**|**Approximations of MINFLUX Localization Precision with Background**|Zach Marin et.al.|[2410.12427](http://arxiv.org/abs/2410.12427)|null|
+|**2024-10-16**|**Superoscillation focusing of high-order cylindrical-vector beams**|Zhongwei Jin et.al.|[2410.12335](http://arxiv.org/abs/2410.12335)|null|
 |**2024-10-15**|**Temporal resolution enhancement in Structured Illumination Microscopy using cascaded reconstruction**|Doron Shterman et.al.|[2410.11770](http://arxiv.org/abs/2410.11770)|null|
 |**2024-10-15**|**Degradation Oriented and Regularized Network for Real-World Depth Super-Resolution**|Zhengxue Wang et.al.|[2410.11666](http://arxiv.org/abs/2410.11666)|null|
-|**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506](http://arxiv.org/abs/2410.11506)|null|
+|**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506](http://arxiv.org/abs/2410.11506)|**[link](https://github.com/nichenxingmeng/STDAN)**|
 |**2024-10-14**|**Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution**|Junbo Qiao et.al.|[2410.10140](http://arxiv.org/abs/2410.10140)|null|
 |**2024-10-14**|**Optimizing Fingerprint-Spectrum-Based Synchronization in Integrated Sensing and Communications**|Xiao-Yang Wang et.al.|[2410.10134](http://arxiv.org/abs/2410.10134)|null|
 |**2024-10-14**|**REHRSeg: Unleashing the Power of Self-Supervised Super-Resolution for Resource-Efficient 3D MRI Segmentation**|Zhiyun Song et.al.|[2410.10097](http://arxiv.org/abs/2410.10097)|null|

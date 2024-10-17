@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -228,7 +228,7 @@ layout: default
 |**2024-10-11**|**Compressing regularised dynamics improves link prediction in sparse networks**|Maja Lindström et.al.|[2410.08777](http://arxiv.org/abs/2410.08777)|null|
 |**2024-10-11**|**Beyond GFVC: A Progressive Face Video Compression Framework with Adaptive Visual Tokens**|Bolin Chen et.al.|[2410.08485](http://arxiv.org/abs/2410.08485)|**[link](https://github.com/berlin0610/pfvc)**|
 |**2024-10-10**|**What is Left After Distillation? How Knowledge Transfer Impacts Fairness and Bias**|Aida Mohammadshahi et.al.|[2410.08407](http://arxiv.org/abs/2410.08407)|null|
-|**2024-10-10**|**Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression**|Takahiro Shindo et.al.|[2410.07669](http://arxiv.org/abs/2410.07669)|null|
+|**2024-10-16**|**Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression**|Takahiro Shindo et.al.|[2410.07669](http://arxiv.org/abs/2410.07669)|null|
 |**2024-10-10**|**MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion**|Onkar Susladkar et.al.|[2410.07659](http://arxiv.org/abs/2410.07659)|null|
 |**2024-10-10**|**R-Adaptive Mesh Optimization to Enhance Finite Element Basis Compression**|Graham Harper et.al.|[2410.07646](http://arxiv.org/abs/2410.07646)|null|
 |**2024-10-09**|**JPEG Inspired Deep Learning**|Ahmed H. Salamah et.al.|[2410.07081](http://arxiv.org/abs/2410.07081)|**[link](https://github.com/jpeginspireddl/jpeg-inspired-dl)**|

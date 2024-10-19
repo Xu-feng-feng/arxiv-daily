@@ -237,7 +237,7 @@
 |**2024-10-11**|**Fast Data-independent KLT Approximations Based on Integer Functions**|A. P. Radünz et.al.|[2410.09227](http://arxiv.org/abs/2410.09227)|null|
 |**2024-10-10**|**Compressing high-resolution data through latent representation encoding for downscaling large-scale AI weather forecast model**|Qian Liu et.al.|[2410.09109](http://arxiv.org/abs/2410.09109)|null|
 |**2024-10-11**|**Data-Driven Neural Estimation of Indirect Rate-Distortion Function**|Zichao Yu et.al.|[2410.09018](http://arxiv.org/abs/2410.09018)|null|
-|**2024-10-11**|**Compressing regularised dynamics improves link prediction in sparse networks**|Maja Lindström et.al.|[2410.08777](http://arxiv.org/abs/2410.08777)|null|
+|**2024-10-11**|**Compressing regularised dynamics improves link prediction in sparse networks**|Maja Lindström et.al.|[2410.08777](http://arxiv.org/abs/2410.08777)|**[link](https://github.com/tangjianpku/LINE)**|
 |**2024-10-11**|**Beyond GFVC: A Progressive Face Video Compression Framework with Adaptive Visual Tokens**|Bolin Chen et.al.|[2410.08485](http://arxiv.org/abs/2410.08485)|**[link](https://github.com/berlin0610/pfvc)**|
 |**2024-10-10**|**What is Left After Distillation? How Knowledge Transfer Impacts Fairness and Bias**|Aida Mohammadshahi et.al.|[2410.08407](http://arxiv.org/abs/2410.08407)|null|
 |**2024-10-16**|**Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression**|Takahiro Shindo et.al.|[2410.07669](http://arxiv.org/abs/2410.07669)|null|
@@ -791,9 +791,9 @@
 |**2024-10-16**|**Super-resolving Real-world Image Illumination Enhancement: A New Dataset and A Conditional Diffusion Model**|Yang Liu et.al.|[2410.12961](http://arxiv.org/abs/2410.12961)|null|
 |**2024-10-16**|**Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization**|Xingqi Wang et.al.|[2410.12700](http://arxiv.org/abs/2410.12700)|**[link](https://github.com/achernarwang/LiVO)**|
 |**2024-10-16**|**SWIM: An Attention-Only Model for Speech Quality Assessment Under Subjective Variance**|Imran E Kibria et.al.|[2410.12675](http://arxiv.org/abs/2410.12675)|null|
-|**2024-10-16**|**MambaPainter: Neural Stroke-Based Rendering in a Single Step**|Tomoya Sawada et.al.|[2410.12524](http://arxiv.org/abs/2410.12524)|null|
+|**2024-10-16**|**MambaPainter: Neural Stroke-Based Rendering in a Single Step**|Tomoya Sawada et.al.|[2410.12524](http://arxiv.org/abs/2410.12524)|**[link](https://github.com/STomoya/MambaPainter)**|
 |**2024-10-16**|**Conditional Outcome Equivalence: A Quantile Alternative to CATE**|Josh Givens et.al.|[2410.12454](http://arxiv.org/abs/2410.12454)|**[link](https://github.com/joshgivens/ConditionalOutcomeEquivalence)**|
-|**2024-10-16**|**Triplet: Triangle Patchlet for Mesh-Based Inverse Rendering and Scene Parameters Approximation**|Jiajie Yang et.al.|[2410.12414](http://arxiv.org/abs/2410.12414)|null|
+|**2024-10-16**|**Triplet: Triangle Patchlet for Mesh-Based Inverse Rendering and Scene Parameters Approximation**|Jiajie Yang et.al.|[2410.12414](http://arxiv.org/abs/2410.12414)|**[link](https://github.com/rando11199/triplet)**|
 |**2024-10-14**|**Learnable Optimization-Based Algorithms for Low-Dose CT Reconstruction**|Daisy Chen et.al.|[2410.11903](http://arxiv.org/abs/2410.11903)|null|
 |**2024-10-15**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
 |**2024-10-15**|**Fast Local Neural Regression for Low-Cost, Path Traced Lambertian Global Illumination**|Arturo Salmi et.al.|[2410.11625](http://arxiv.org/abs/2410.11625)|null|
@@ -2760,7 +2760,7 @@
 |**2024-10-17**|**SiamSeg: Self-Training with Contrastive Learning for Unsupervised Domain Adaptation in Remote Sensing**|Bin Wang et.al.|[2410.13471](http://arxiv.org/abs/2410.13471)|**[link](https://github.com/woldier/siamseg)**|
 |**2024-10-17**|**RescueADI: Adaptive Disaster Interpretation in Remote Sensing Images with Autonomous Agents**|Zhuoran Liu et.al.|[2410.13384](http://arxiv.org/abs/2410.13384)|null|
 |**2024-10-16**|**Revisiting the hydrodynamic modulation of short surface waves by longer waves**|Milan Curcic et.al.|[2410.12960](http://arxiv.org/abs/2410.12960)|null|
-|**2024-10-14**|**LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism**|Wenyu Liu et.al.|[2410.11580](http://arxiv.org/abs/2410.11580)|null|
+|**2024-10-14**|**LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism**|Wenyu Liu et.al.|[2410.11580](http://arxiv.org/abs/2410.11580)|**[link](https://github.com/wenyuliu6/lcd-net)**|
 |**2024-10-15**|**MANet: Fine-Tuning Segment Anything Model for Multimodal Remote Sensing Semantic Segmentation**|Xianping Ma et.al.|[2410.11160](http://arxiv.org/abs/2410.11160)|**[link](https://github.com/sstary/ssrs)**|
 |**2024-10-14**|**Real-Time Localization and Bimodal Point Pattern Analysis of Palms Using UAV Imagery**|Kangning Cui et.al.|[2410.11124](http://arxiv.org/abs/2410.11124)|null|
 |**2024-10-11**|**Advancements in Ship Detection: Comparative Analysis of Optical and Hyperspectral Sensors**|Alyazia Al Shamsi et.al.|[2410.10888](http://arxiv.org/abs/2410.10888)|null|

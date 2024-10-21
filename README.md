@@ -355,7 +355,7 @@
 |**2024-08-03**|**Channel-Aware Distributed Transmission Control and Video Streaming in UAV Networks**|Masoud Ghazikor et.al.|[2408.01885](http://arxiv.org/abs/2408.01885)|null|
 |**2024-08-02**|**An Adaptive Tensor-Train Decomposition Approach for Efficient Deep Neural Network Compression**|Shiyi Luo et.al.|[2408.01534](http://arxiv.org/abs/2408.01534)|null|
 |**2024-07-31**|**Exploiting Change Blindness for Video Coding: Perspectives from a Less Promising User Study**|Mitra Amiri et.al.|[2408.00052](http://arxiv.org/abs/2408.00052)|null|
-|**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
+|**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|**[link](https://github.com/alibaba/Tora)**|
 |**2024-07-30**|**Edge Learning Based Collaborative Automatic Modulation Classification for Hierarchical Cognitive Radio Networks**|Peihao Dong et.al.|[2407.20772](http://arxiv.org/abs/2407.20772)|**[link](https://github.com/AI4CogComm/CAMC)**|
 |**2024-07-30**|**Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications**|Yi Ju et.al.|[2407.20717](http://arxiv.org/abs/2407.20717)|null|
 |**2024-07-29**|**Homomorphic data compression for real time photon correlation analysis**|Sebastian Strempfer et.al.|[2407.20356](http://arxiv.org/abs/2407.20356)|null|
@@ -505,7 +505,7 @@
 |**2024-05-07**|**DMOFC: Discrimination Metric-Optimized Feature Compression**|Changsheng Gao et.al.|[2405.04044](http://arxiv.org/abs/2405.04044)|null|
 |**2024-05-06**|**Computational ghost imaging with hybrid transforms by integrating Hadamard, discrete cosine, and Haar matrices**|Yi-Ning Zhao et.al.|[2405.03729](http://arxiv.org/abs/2405.03729)|null|
 |**2024-05-06**|**A Rate-Distortion-Classification Approach for Lossy Image Compression**|Yuefeng Zhang et.al.|[2405.03500](http://arxiv.org/abs/2405.03500)|null|
-|**2024-05-06**|**Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition**|Xitong Zhang et.al.|[2405.03089](http://arxiv.org/abs/2405.03089)|null|
+|**2024-05-06**|**Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition**|Xitong Zhang et.al.|[2405.03089](http://arxiv.org/abs/2405.03089)|**[link](https://github.com/xitongsystem/lorita)**|
 |**2024-05-04**|**Deep Pulse-Signal Magnification for remote Heart Rate Estimation in Compressed Videos**|Joaquim Comas et.al.|[2405.02652](http://arxiv.org/abs/2405.02652)|null|
 |**2024-05-06**|**Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design**|Jian Meng et.al.|[2405.01775](http://arxiv.org/abs/2405.01775)|**[link](https://github.com/seolabcornell/torch2chip)**|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
@@ -821,7 +821,7 @@
 |**2024-10-11**|**Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars**|Xuan Huang et.al.|[2410.08840](http://arxiv.org/abs/2410.08840)|**[link](https://github.com/xuanhuang0/guassianhand)**|
 |**2024-10-11**|**Towards virtual painting recolouring using Vision Transformer on X-Ray Fluorescence datacubes**|Alessandro Bombini et.al.|[2410.08826](http://arxiv.org/abs/2410.08826)|null|
 |**2024-10-11**|**A Theoretical Framework for AI-driven data quality monitoring in high-volume data environments**|Nikhil Bangad et.al.|[2410.08576](http://arxiv.org/abs/2410.08576)|null|
-|**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascl Zwick et.al.|[2410.08551](http://arxiv.org/abs/2410.08551)|null|
+|**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascl Zwick et.al.|[2410.08551](http://arxiv.org/abs/2410.08551)|**[link](https://github.com/fzi-forschungszentrum-informatik/fadm)**|
 |**2024-10-11**|**Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities**|Abhijay Ghildyal et.al.|[2410.08534](http://arxiv.org/abs/2410.08534)|null|
 |**2024-10-10**|**Koala-36M: A Large-scale Video Dataset Improving Consistency between Fine-grained Conditions and Video Content**|Qiuheng Wang et.al.|[2410.08260](http://arxiv.org/abs/2410.08260)|null|
 |**2024-10-10**|**Exploring ASR-Based Wav2Vec2 for Automated Speech Disorder Assessment: Insights and Analysis**|Tuan Nguyen et.al.|[2410.08250](http://arxiv.org/abs/2410.08250)|null|
@@ -840,7 +840,7 @@
 |**2024-10-09**|**Diff-FMT: Diffusion Models for Fluorescence Molecular Tomography**|Qianqian Xue et.al.|[2410.06757](http://arxiv.org/abs/2410.06757)|null|
 |**2024-10-09**|**MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**|Zhenhui Ye et.al.|[2410.06734](http://arxiv.org/abs/2410.06734)|null|
 |**2024-10-09**|**Perceptual Quality Assessment of Octree-RAHT Encoded 3D Point Clouds**|Dongshuai Duan et.al.|[2410.06729](http://arxiv.org/abs/2410.06729)|**[link](https://github.com/qdushl/Waterloo-Point-Cloud-Database-5.0)**|
-|**2024-10-09**|**Perceptual Quality Assessment of Trisoup-Lifting Encoded 3D Point Clouds**|Juncheng Long et.al.|[2410.06689](http://arxiv.org/abs/2410.06689)|null|
+|**2024-10-09**|**Perceptual Quality Assessment of Trisoup-Lifting Encoded 3D Point Clouds**|Juncheng Long et.al.|[2410.06689](http://arxiv.org/abs/2410.06689)|**[link](https://github.com/qdushl/waterloo-point-cloud-database-6.0)**|
 |**2024-10-09**|**SCOREQ: Speech Quality Assessment with Contrastive Regression**|Alessandro Ragano et.al.|[2410.06675](http://arxiv.org/abs/2410.06675)|**[link](https://github.com/alessandroragano/scoreq)**|
 |**2024-10-09**|**InstantIR: Blind Image Restoration with Instant Generative Reference**|Jen-Yuan Huang et.al.|[2410.06551](http://arxiv.org/abs/2410.06551)|null|
 |**2024-10-08**|**Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?**|Shenbin Qian et.al.|[2410.06338](http://arxiv.org/abs/2410.06338)|**[link](https://github.com/surrey-nlp/LLMs4MTQE-UGC)**|
@@ -2131,7 +2131,7 @@
 |**2024-09-26**|**LGFN: Lightweight Light Field Image Super-Resolution using Local Convolution Modulation and Global Attention Feature Extraction**|Zhongxin Yu et.al.|[2409.17759](http://arxiv.org/abs/2409.17759)|null|
 |**2024-09-26**|**Unifying Dimensions: A Linear Adaptive Approach to Lightweight Image Super-Resolution**|Zhenyu Hu et.al.|[2409.17597](http://arxiv.org/abs/2409.17597)|null|
 |**2024-09-26**|**Study of Subjective and Objective Quality in Super-Resolution Enhanced Broadcast Images on a Novel SR-IQA Dataset**|Yongrok Kim et.al.|[2409.17451](http://arxiv.org/abs/2409.17451)|null|
-|**2024-09-25**|**PSWF-Radon approach to reconstruction from band-limited Hankel transform**|Fedor Goncharov et.al.|[2409.17409](http://arxiv.org/abs/2409.17409)|null|
+|**2024-09-25**|**PSWF-Radon approach to reconstruction from band-limited Hankel transform**|Fedor Goncharov et.al.|[2409.17409](http://arxiv.org/abs/2409.17409)|**[link](https://github.com/fedor-goncharov/pswf-radon)**|
 |**2024-09-25**|**Implicit Neural Representations for Simultaneous Reduction and Continuous Reconstruction of Multi-Altitude Climate Data**|Alif Bin Abdul Qayyum et.al.|[2409.17367](http://arxiv.org/abs/2409.17367)|**[link](https://github.com/alifbinabdulqayyum/multi-altitude-inn)**|
 |**2024-09-25**|**AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content**|Marcos V Conde et.al.|[2409.17256](http://arxiv.org/abs/2409.17256)|null|
 |**2024-09-25**|**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors**|Aiping Zhang et.al.|[2409.17058](http://arxiv.org/abs/2409.17058)|**[link](https://github.com/arctichare105/s3diff)**|
@@ -2149,7 +2149,7 @@
 |**2024-09-21**|**A Sinkhorn Regularized Adversarial Network for Image Guided DEM Super-resolution using Frequency Selective Hybrid Graph Transformer**|Subhajit Paul et.al.|[2409.14198](http://arxiv.org/abs/2409.14198)|null|
 |**2024-09-21**|**Vortex Interference Enables optimal 3D Interferometric Nanoscopy**|Wei Wang et.al.|[2409.14033](http://arxiv.org/abs/2409.14033)|null|
 |**2024-09-21**|**On the Effectiveness of Neural Operators at Zero-Shot Weather Downscaling**|Saumya Sinha et.al.|[2409.13955](http://arxiv.org/abs/2409.13955)|null|
-|**2024-09-20**|**PlainUSR: Chasing Faster ConvNet for Efficient Super-Resolution**|Yan Wang et.al.|[2409.13435](http://arxiv.org/abs/2409.13435)|null|
+|**2024-09-20**|**PlainUSR: Chasing Faster ConvNet for Efficient Super-Resolution**|Yan Wang et.al.|[2409.13435](http://arxiv.org/abs/2409.13435)|**[link](https://github.com/icandle/plainusr)**|
 |**2024-09-20**|**Super-Resolution via Learned Predictor**|Sampath Kumar Dondapati et.al.|[2409.13326](http://arxiv.org/abs/2409.13326)|null|
 |**2024-09-20**|**Deep Learning based Optical Image Super-Resolution via Generative Diffusion Models for Layerwise in-situ LPBF Monitoring**|Francis Ogoke et.al.|[2409.13171](http://arxiv.org/abs/2409.13171)|null|
 |**2024-09-19**|**Image inpainting for corrupted images by using the semi-super resolution GAN**|Mehrshad Momen-Tayefeh et.al.|[2409.12636](http://arxiv.org/abs/2409.12636)|null|

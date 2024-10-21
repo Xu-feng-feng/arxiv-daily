@@ -215,6 +215,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Design and Prototype of a Unified Framework for Error-robust Compression and Encryption in IoT**|Gajraj Kuldeep et.al.|[2410.14396](http://arxiv.org/abs/2410.14396)|null|
+|**2024-10-18**|**Compression using Discrete Multi-Level Divisor Transform for Heterogeneous Sensor Data**|Gajraj Kuldeep et.al.|[2410.14287](http://arxiv.org/abs/2410.14287)|null|
+|**2024-10-17**|**In-context learning and Occam's razor**|Eric Elmoznino et.al.|[2410.14086](http://arxiv.org/abs/2410.14086)|**[link](https://github.com/3rdcore/prequentialcode)**|
 |**2024-10-17**|**Co-Segmentation without any Pixel-level Supervision with Application to Large-Scale Sketch Classification**|Nikolaos-Antonios Ypsilantis et.al.|[2410.13582](http://arxiv.org/abs/2410.13582)|null|
 |**2024-10-16**|**Test-time adaptation for image compression with distribution regularization**|Kecheng Chen et.al.|[2410.12191](http://arxiv.org/abs/2410.12191)|null|
 |**2024-10-16**|**Joint Data Compression, Secure Multi-Part Collaborative Task Offloading and Resource Assignment in Ultra-Dense Networks**|Tianqing Zhou et.al.|[2410.12186](http://arxiv.org/abs/2410.12186)|null|
@@ -223,7 +226,7 @@ layout: default
 |**2024-10-14**|**Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization**|Shanzhi Yin et.al.|[2410.10171](http://arxiv.org/abs/2410.10171)|null|
 |**2024-10-13**|**Towards Reproducible Learning-based Compression**|Jiahao Pang et.al.|[2410.09872](http://arxiv.org/abs/2410.09872)|null|
 |**2024-10-13**|**Compressing Scene Dynamics: A Generative Approach**|Shanzhi Yin et.al.|[2410.09768](http://arxiv.org/abs/2410.09768)|**[link](https://github.com/xyzysz/gnvdc)**|
-|**2024-10-13**|**ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression**|Wei Jiang et.al.|[2410.09706](http://arxiv.org/abs/2410.09706)|null|
+|**2024-10-13**|**ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression**|Wei Jiang et.al.|[2410.09706](http://arxiv.org/abs/2410.09706)|**[link](https://github.com/jiangweibeta/ecvc)**|
 |**2024-10-12**|**Fine-grained subjective visual quality assessment for high-fidelity compressed images**|Michela Testolina et.al.|[2410.09501](http://arxiv.org/abs/2410.09501)|null|
 |**2024-10-11**|**Fast Data-independent KLT Approximations Based on Integer Functions**|A. P. Radünz et.al.|[2410.09227](http://arxiv.org/abs/2410.09227)|null|
 |**2024-10-10**|**Compressing high-resolution data through latent representation encoding for downscaling large-scale AI weather forecast model**|Qian Liu et.al.|[2410.09109](http://arxiv.org/abs/2410.09109)|null|
@@ -769,6 +772,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Dynamic Negative Guidance of Diffusion Models**|Felix Koulischer et.al.|[2410.14398](http://arxiv.org/abs/2410.14398)|null|
+|**2024-10-18**|**Gaia Data Release 3: spectroscopic binary-star orbital solutions and the SB1 processing chain**|E. Gosset et.al.|[2410.14372](http://arxiv.org/abs/2410.14372)|null|
+|**2024-10-18**|**2D-3D Deformable Image Registration of Histology Slide and Micro-CT with ML-based Initialization**|Junan Chen et.al.|[2410.14343](http://arxiv.org/abs/2410.14343)|null|
+|**2024-10-18**|**Advanced Underwater Image Quality Enhancement via Hybrid Super-Resolution Convolutional Neural Networks and Multi-Scale Retinex-Based Defogging Techniques**|Yugandhar Reddy Gogireddy et.al.|[2410.14285](http://arxiv.org/abs/2410.14285)|null|
+|**2024-10-18**|**Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization**|Bin Lin et.al.|[2410.14283](http://arxiv.org/abs/2410.14283)|null|
+|**2024-10-18**|**Combining Hough Transform and Deep Learning Approaches to Reconstruct ECG Signals From Printouts**|Felix Krones et.al.|[2410.14185](http://arxiv.org/abs/2410.14185)|null|
+|**2024-10-18**|**Unlabeled Action Quality Assessment Based on Multi-dimensional Adaptive Constrained Dynamic Time Warping**|Renguang Chen et.al.|[2410.14161](http://arxiv.org/abs/2410.14161)|null|
+|**2024-10-17**|**Generating Signed Language Instructions in Large-Scale Dialogue Systems**|Mert İnan et.al.|[2410.14026](http://arxiv.org/abs/2410.14026)|null|
 |**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
 |**2024-10-15**|**Comparison of Image Preprocessing Techniques for Vehicle License Plate Recognition Using OCR: Performance and Accuracy Evaluation**|Renato Augusto Tavares et.al.|[2410.13622](http://arxiv.org/abs/2410.13622)|null|
 |**2024-10-17**|**L3DG: Latent 3D Gaussian Diffusion**|Barbara Roessle et.al.|[2410.13530](http://arxiv.org/abs/2410.13530)|null|
@@ -2072,6 +2083,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Ultrasound matrix imaging for transcranial in-vivo localization microscopy**|Flavien Bureau et.al.|[2410.14499](http://arxiv.org/abs/2410.14499)|null|
+|**2024-10-18**|**Advanced Underwater Image Quality Enhancement via Hybrid Super-Resolution Convolutional Neural Networks and Multi-Scale Retinex-Based Defogging Techniques**|Yugandhar Reddy Gogireddy et.al.|[2410.14285](http://arxiv.org/abs/2410.14285)|null|
+|**2024-10-18**|**ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer**|Yuhao Wan et.al.|[2410.14279](http://arxiv.org/abs/2410.14279)|null|
+|**2024-10-17**|**MMAD-Purify: A Precision-Optimized Framework for Efficient and Scalable Multi-Modal Attacks**|Xinxin Liu et.al.|[2410.14089](http://arxiv.org/abs/2410.14089)|null|
 |**2024-10-17**|**ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution**|Junhao Gu et.al.|[2410.13807](http://arxiv.org/abs/2410.13807)|null|
 |**2024-10-17**|**Unsupervised Skull Segmentation via Contrastive MR-to-CT Modality Translation**|Kamil Kwarciak et.al.|[2410.13427](http://arxiv.org/abs/2410.13427)|null|
 |**2024-10-16**|**Super-resolving Real-world Image Illumination Enhancement: A New Dataset and A Conditional Diffusion Model**|Yang Liu et.al.|[2410.12961](http://arxiv.org/abs/2410.12961)|null|

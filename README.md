@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering**|Jiayi Song et.al.|[2410.15941](http://arxiv.org/abs/2410.15941)|null|
 |**2024-10-13**|**Towards Reproducible Learning-based Compression**|Jiahao Pang et.al.|[2410.09872](http://arxiv.org/abs/2410.09872)|null|
 |**2024-10-06**|**Tensor-Train Point Cloud Compression and Efficient Approximate Nearest-Neighbor Search**|Georgii Novikov et.al.|[2410.04462](http://arxiv.org/abs/2410.04462)|null|
 |**2024-10-01**|**Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection**|Pengxi Zeng et.al.|[2410.00582](http://arxiv.org/abs/2410.00582)|null|
@@ -224,6 +225,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Variable Rate Learned Wavelet Video Coding with Temporal Layer Adaptivity**|Anna Meyer et.al.|[2410.15873](http://arxiv.org/abs/2410.15873)|null|
+|**2024-10-20**|**Extensions on low-complexity DCT approximations for larger blocklengths based on minimal angle similarity**|A. P. Radünz et.al.|[2410.15244](http://arxiv.org/abs/2410.15244)|null|
+|**2024-10-19**|**Standardizing Generative Face Video Compression using Supplemental Enhancement Information**|Bolin Chen et.al.|[2410.15105](http://arxiv.org/abs/2410.15105)|null|
+|**2024-10-16**|**MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection**|Bokai Lin et.al.|[2410.14731](http://arxiv.org/abs/2410.14731)|null|
 |**2024-10-18**|**Design and Prototype of a Unified Framework for Error-robust Compression and Encryption in IoT**|Gajraj Kuldeep et.al.|[2410.14396](http://arxiv.org/abs/2410.14396)|null|
 |**2024-10-18**|**Compression using Discrete Multi-Level Divisor Transform for Heterogeneous Sensor Data**|Gajraj Kuldeep et.al.|[2410.14287](http://arxiv.org/abs/2410.14287)|null|
 |**2024-10-17**|**In-context learning and Occam's razor**|Eric Elmoznino et.al.|[2410.14086](http://arxiv.org/abs/2410.14086)|**[link](https://github.com/3rdcore/prequentialcode)**|
@@ -783,6 +788,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
+|**2024-10-21**|**Multispectral Texture Synthesis using RGB Convolutional Neural Networks**|Sélim Ollivier et.al.|[2410.16019](http://arxiv.org/abs/2410.16019)|null|
+|**2024-10-20**|**Wireless Link Quality Estimation Using LSTM Model**|Yuki Kanto et.al.|[2410.15357](http://arxiv.org/abs/2410.15357)|null|
+|**2024-10-19**|**A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends**|Junjun Jiang et.al.|[2410.15067](http://arxiv.org/abs/2410.15067)|null|
+|**2024-10-18**|**DRACO: Differentiable Reconstruction for Arbitrary CBCT Orbits**|Chengze Ye et.al.|[2410.14900](http://arxiv.org/abs/2410.14900)|null|
 |**2024-10-18**|**Dynamic Negative Guidance of Diffusion Models**|Felix Koulischer et.al.|[2410.14398](http://arxiv.org/abs/2410.14398)|null|
 |**2024-10-18**|**Gaia Data Release 3: spectroscopic binary-star orbital solutions and the SB1 processing chain**|E. Gosset et.al.|[2410.14372](http://arxiv.org/abs/2410.14372)|null|
 |**2024-10-18**|**2D-3D Deformable Image Registration of Histology Slide and Micro-CT with ML-based Initialization**|Junan Chen et.al.|[2410.14343](http://arxiv.org/abs/2410.14343)|null|
@@ -2096,6 +2106,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152](http://arxiv.org/abs/2410.16152)|null|
+|**2024-10-21**|**MINFLUX -- molecular resolution with minimal photons**|Lukas Scheiderer et.al.|[2410.15902](http://arxiv.org/abs/2410.15902)|null|
 |**2024-10-18**|**Ultrasound matrix imaging for transcranial in-vivo localization microscopy**|Flavien Bureau et.al.|[2410.14499](http://arxiv.org/abs/2410.14499)|null|
 |**2024-10-18**|**Advanced Underwater Image Quality Enhancement via Hybrid Super-Resolution Convolutional Neural Networks and Multi-Scale Retinex-Based Defogging Techniques**|Yugandhar Reddy Gogireddy et.al.|[2410.14285](http://arxiv.org/abs/2410.14285)|null|
 |**2024-10-18**|**ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer**|Yuhao Wan et.al.|[2410.14279](http://arxiv.org/abs/2410.14279)|null|
@@ -2770,6 +2782,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261](http://arxiv.org/abs/2410.16261)|**[link](https://github.com/opengvlab/internvl)**|
+|**2024-10-19**|**Wave (from) Polarized Light Learning (WPLL) method: high resolution spatio-temporal measurements of water surface waves in laboratory setups**|Noam Ginio et.al.|[2410.14988](http://arxiv.org/abs/2410.14988)|null|
+|**2024-10-18**|**Automated Road Extraction from Satellite Imagery Integrating Dense Depthwise Dilated Separable Spatial Pyramid Pooling with DeepLabV3+**|Arpan Mahara et.al.|[2410.14836](http://arxiv.org/abs/2410.14836)|null|
 |**2024-10-17**|**RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images**|Kejun Ren et.al.|[2410.13532](http://arxiv.org/abs/2410.13532)|null|
 |**2024-10-17**|**SAda-Net: A Self-Supervised Adaptive Stereo Estimation CNN For Remote Sensing Image Data**|Dominik Hirner et.al.|[2410.13500](http://arxiv.org/abs/2410.13500)|**[link](https://github.com/thedodo/sada-net)**|
 |**2024-10-17**|**SiamSeg: Self-Training with Contrastive Learning for Unsupervised Domain Adaptation in Remote Sensing**|Bin Wang et.al.|[2410.13471](http://arxiv.org/abs/2410.13471)|**[link](https://github.com/woldier/siamseg)**|

@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs**|Jihe Li et.al.|[2410.17001](http://arxiv.org/abs/2410.17001)|**[link](https://github.com/octree-nn/upsample-clean)**|
 |**2024-10-21**|**MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering**|Jiayi Song et.al.|[2410.15941](http://arxiv.org/abs/2410.15941)|null|
 |**2024-10-13**|**Towards Reproducible Learning-based Compression**|Jiahao Pang et.al.|[2410.09872](http://arxiv.org/abs/2410.09872)|null|
 |**2024-10-06**|**Tensor-Train Point Cloud Compression and Efficient Approximate Nearest-Neighbor Search**|Georgii Novikov et.al.|[2410.04462](http://arxiv.org/abs/2410.04462)|null|
@@ -779,7 +780,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
 |**2024-10-21**|**Multispectral Texture Synthesis using RGB Convolutional Neural Networks**|Sélim Ollivier et.al.|[2410.16019](http://arxiv.org/abs/2410.16019)|null|
-|**2024-10-20**|**Wireless Link Quality Estimation Using LSTM Model**|Yuki Kanto et.al.|[2410.15357](http://arxiv.org/abs/2410.15357)|null|
+|**2024-10-22**|**Wireless Link Quality Estimation Using LSTM Model**|Yuki Kanto et.al.|[2410.15357](http://arxiv.org/abs/2410.15357)|null|
 |**2024-10-19**|**A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends**|Junjun Jiang et.al.|[2410.15067](http://arxiv.org/abs/2410.15067)|null|
 |**2024-10-18**|**DRACO: Differentiable Reconstruction for Arbitrary CBCT Orbits**|Chengze Ye et.al.|[2410.14900](http://arxiv.org/abs/2410.14900)|null|
 |**2024-10-18**|**Dynamic Negative Guidance of Diffusion Models**|Felix Koulischer et.al.|[2410.14398](http://arxiv.org/abs/2410.14398)|null|
@@ -2093,7 +2094,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152](http://arxiv.org/abs/2410.16152)|null|
+|**2024-10-22**|**Multi Kernel Estimation based Object Segmentation**|Haim Goldfisher et.al.|[2410.17064](http://arxiv.org/abs/2410.17064)|null|
+|**2024-10-22**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152](http://arxiv.org/abs/2410.16152)|null|
 |**2024-10-21**|**MINFLUX -- molecular resolution with minimal photons**|Lukas Scheiderer et.al.|[2410.15902](http://arxiv.org/abs/2410.15902)|null|
 |**2024-10-18**|**Ultrasound matrix imaging for transcranial in-vivo localization microscopy**|Flavien Bureau et.al.|[2410.14499](http://arxiv.org/abs/2410.14499)|null|
 |**2024-10-18**|**Advanced Underwater Image Quality Enhancement via Hybrid Super-Resolution Convolutional Neural Networks and Multi-Scale Retinex-Based Defogging Techniques**|Yugandhar Reddy Gogireddy et.al.|[2410.14285](http://arxiv.org/abs/2410.14285)|null|
@@ -2767,7 +2769,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-21**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261](http://arxiv.org/abs/2410.16261)|**[link](https://github.com/opengvlab/internvl)**|
+|**2024-10-22**|**PGCS: Physical Law embedded Generative Cloud Synthesis in Remote Sensing Images**|Liying Xu et.al.|[2410.16955](http://arxiv.org/abs/2410.16955)|null|
+|**2024-10-22**|**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Aoran Xiao et.al.|[2410.16602](http://arxiv.org/abs/2410.16602)|null|
+|**2024-10-22**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261](http://arxiv.org/abs/2410.16261)|**[link](https://github.com/opengvlab/internvl)**|
 |**2024-10-19**|**Wave (from) Polarized Light Learning (WPLL) method: high resolution spatio-temporal measurements of water surface waves in laboratory setups**|Noam Ginio et.al.|[2410.14988](http://arxiv.org/abs/2410.14988)|null|
 |**2024-10-18**|**Automated Road Extraction from Satellite Imagery Integrating Dense Depthwise Dilated Separable Spatial Pyramid Pooling with DeepLabV3+**|Arpan Mahara et.al.|[2410.14836](http://arxiv.org/abs/2410.14836)|null|
 |**2024-10-17**|**RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images**|Kejun Ren et.al.|[2410.13532](http://arxiv.org/abs/2410.13532)|null|

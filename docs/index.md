@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds**|Kai Liu et.al.|[2410.17823](http://arxiv.org/abs/2410.17823)|**[link](https://github.com/i2-multimedia-lab/att2cpc)**|
 |**2024-10-22**|**Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs**|Jihe Li et.al.|[2410.17001](http://arxiv.org/abs/2410.17001)|**[link](https://github.com/octree-nn/upsample-clean)**|
 |**2024-10-21**|**MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering**|Jiayi Song et.al.|[2410.15941](http://arxiv.org/abs/2410.15941)|null|
 |**2024-10-13**|**Towards Reproducible Learning-based Compression**|Jiahao Pang et.al.|[2410.09872](http://arxiv.org/abs/2410.09872)|null|
@@ -217,6 +218,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**|Yang-Che Sun et.al.|[2410.18083](http://arxiv.org/abs/2410.18083)|null|
+|**2024-10-23**|**Learning Lossless Compression for High Bit-Depth Volumetric Medical Image**|Kai Wang et.al.|[2410.17814](http://arxiv.org/abs/2410.17814)|null|
 |**2024-10-21**|**Variable Rate Learned Wavelet Video Coding with Temporal Layer Adaptivity**|Anna Meyer et.al.|[2410.15873](http://arxiv.org/abs/2410.15873)|null|
 |**2024-10-20**|**Extensions on low-complexity DCT approximations for larger blocklengths based on minimal angle similarity**|A. P. Radünz et.al.|[2410.15244](http://arxiv.org/abs/2410.15244)|null|
 |**2024-10-19**|**Standardizing Generative Face Video Compression using Supplemental Enhancement Information**|Bolin Chen et.al.|[2410.15105](http://arxiv.org/abs/2410.15105)|null|
@@ -778,6 +781,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**In-Pixel Foreground and Contrast Enhancement Circuits with Customizable Mapping**|Md Rahatul Islam Udoy et.al.|[2410.18052](http://arxiv.org/abs/2410.18052)|null|
+|**2024-10-23**|**Scalable Ranked Preference Optimization for Text-to-Image Generation**|Shyamgopal Karthik et.al.|[2410.18013](http://arxiv.org/abs/2410.18013)|null|
+|**2024-10-23**|**Together We Can: Multilingual Automatic Post-Editing for Low-Resource Languages**|Sourabh Deoghare et.al.|[2410.17973](http://arxiv.org/abs/2410.17973)|null|
+|**2024-10-23**|**Non-intrusive Speech Quality Assessment with Diffusion Models Trained on Clean Speech**|Danilo de Oliveira et.al.|[2410.17834](http://arxiv.org/abs/2410.17834)|null|
+|**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815](http://arxiv.org/abs/2410.17815)|null|
+|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|null|
+|**2024-10-23**|**Testing Deep Learning Recommender Systems Models on Synthetic GAN-Generated Datasets**|Jesús Bobadilla et.al.|[2410.17651](http://arxiv.org/abs/2410.17651)|null|
+|**2024-10-23**|**Comprehensive Evaluation of Matrix Factorization Models for Collaborative Filtering Recommender Systems**|Jesús Bobadilla et.al.|[2410.17644](http://arxiv.org/abs/2410.17644)|null|
+|**2024-10-23**|**Bilateral Hippocampi Segmentation in Low Field MRIs Using Mutual Feature Learning via Dual-Views**|Himashi Peiris et.al.|[2410.17502](http://arxiv.org/abs/2410.17502)|**[link](https://github.com/himashi92/lofihippseg)**|
 |**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
 |**2024-10-21**|**Multispectral Texture Synthesis using RGB Convolutional Neural Networks**|Sélim Ollivier et.al.|[2410.16019](http://arxiv.org/abs/2410.16019)|null|
 |**2024-10-22**|**Wireless Link Quality Estimation Using LSTM Model**|Yuki Kanto et.al.|[2410.15357](http://arxiv.org/abs/2410.15357)|null|
@@ -2094,6 +2106,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**|Yang-Che Sun et.al.|[2410.18083](http://arxiv.org/abs/2410.18083)|null|
+|**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
+|**2024-10-23**|**Truly Sub-Nyquist Method Based Matrix Pencil and CRT with Super Resolution**|Huiguang Zhang et.al.|[2410.17841](http://arxiv.org/abs/2410.17841)|null|
+|**2024-10-23**|**AdaDiffSR: Adaptive Region-aware Dynamic Acceleration Diffusion Model for Real-World Image Super-Resolution**|Yuanting Fan et.al.|[2410.17752](http://arxiv.org/abs/2410.17752)|null|
+|**2024-10-23**|**Generalizable Motion Planning via Operator Learning**|Sharath Matada et.al.|[2410.17547](http://arxiv.org/abs/2410.17547)|null|
 |**2024-10-22**|**Multi Kernel Estimation based Object Segmentation**|Haim Goldfisher et.al.|[2410.17064](http://arxiv.org/abs/2410.17064)|**[link](https://github.com/kuty007/multi-kernel-gan)**|
 |**2024-10-22**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152](http://arxiv.org/abs/2410.16152)|null|
 |**2024-10-21**|**MINFLUX -- molecular resolution with minimal photons**|Lukas Scheiderer et.al.|[2410.15902](http://arxiv.org/abs/2410.15902)|null|
@@ -2769,6 +2786,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Marine Microplastics and Infant Health**|Xinming Du et.al.|[2410.17391](http://arxiv.org/abs/2410.17391)|null|
+|**2024-10-15**|**Advancements in Visual Language Models for Remote Sensing: Datasets, Capabilities, and Enhancement Techniques**|Lijie Tao et.al.|[2410.17283](http://arxiv.org/abs/2410.17283)|null|
 |**2024-10-22**|**PGCS: Physical Law embedded Generative Cloud Synthesis in Remote Sensing Images**|Liying Xu et.al.|[2410.16955](http://arxiv.org/abs/2410.16955)|null|
 |**2024-10-22**|**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Aoran Xiao et.al.|[2410.16602](http://arxiv.org/abs/2410.16602)|null|
 |**2024-10-22**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261](http://arxiv.org/abs/2410.16261)|**[link](https://github.com/opengvlab/internvl)**|

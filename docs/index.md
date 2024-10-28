@@ -354,7 +354,7 @@ layout: default
 |**2024-08-09**|**Benchmarking Conventional and Learned Video Codecs with a Low-Delay Configuration**|Siyue Teng et.al.|[2408.05042](http://arxiv.org/abs/2408.05042)|null|
 |**2024-08-08**|**SG-JND: Semantic-Guided Just Noticeable Distortion Predictor For Image Compression**|Linhan Cao et.al.|[2408.04273](http://arxiv.org/abs/2408.04273)|null|
 |**2024-08-07**|**Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression**|Hamidreza Soltani et.al.|[2408.03842](http://arxiv.org/abs/2408.03842)|null|
-|**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
+|**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|**[link](https://github.com/fan-aaron-zhang/bvi-aom)**|
 |**2024-08-06**|**Enabling High-Throughput Parallel I/O in Particle-in-Cell Monte Carlo Simulations with openPMD and Darshan I/O Monitoring**|Jeremy J. Williams et.al.|[2408.02869](http://arxiv.org/abs/2408.02869)|null|
 |**2024-08-05**|**Dimensionality Reduction and Nearest Neighbors for Improving Out-of-Distribution Detection in Medical Image Segmentation**|McKell Woodland et.al.|[2408.02761](http://arxiv.org/abs/2408.02761)|**[link](https://github.com/mckellwoodland/dimen_reduce_mahal)**|
 |**2024-08-04**|**CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization**|Xiang He et.al.|[2408.01952](http://arxiv.org/abs/2408.01952)|**[link](https://github.com/brain-cog-lab/cace-net)**|
@@ -653,7 +653,7 @@ layout: default
 |**2024-02-18**|**Learning to Learn Faster from Human Feedback with Language Model Predictive Control**|Jacky Liang et.al.|[2402.11450](http://arxiv.org/abs/2402.11450)|null|
 |**2024-02-17**|**TinyLIC-High efficiency lossy image compression method**|Gaocheng Ma et.al.|[2402.11164](http://arxiv.org/abs/2402.11164)|null|
 |**2024-02-15**|**Analysis of Neural Video Compression Networks for 360-Degree Video Coding**|Andy Regensky et.al.|[2402.10257](http://arxiv.org/abs/2402.10257)|null|
-|**2024-02-14**|**Reducing Texture Bias of Deep Neural Networks via Edge Enhancing Diffusion**|Edgar Heinert et.al.|[2402.09530](http://arxiv.org/abs/2402.09530)|null|
+|**2024-02-14**|**Reducing Texture Bias of Deep Neural Networks via Edge Enhancing Diffusion**|Edgar Heinert et.al.|[2402.09530](http://arxiv.org/abs/2402.09530)|**[link](https://github.com/eheinert/reducing-texture-bias-of-dnns-via-eed)**|
 |**2024-02-14**|**A Comprehensive Review of Software and Hardware Energy Efficiency of Video Decoders**|Matthias Kränzler et.al.|[2402.09001](http://arxiv.org/abs/2402.09001)|null|
 |**2024-02-14**|**Extreme Video Compression with Pre-trained Diffusion Models**|Bohan Li et.al.|[2402.08934](http://arxiv.org/abs/2402.08934)|**[link](https://github.com/elesionkyrie/extreme-video-compression-with-prediction-using-pre-trainded-diffusion-models-)**|
 |**2024-02-14**|**Saliency-aware End-to-end Learned Variable-Bitrate 360-degree Image Compression**|Oguzhan Gungordu et.al.|[2402.08862](http://arxiv.org/abs/2402.08862)|null|
@@ -1012,7 +1012,7 @@ layout: default
 |**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
 |**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373](http://arxiv.org/abs/2409.11373)|null|
 |**2024-09-17**|**Edge-based Denoising Image Compression**|Ryugo Morita et.al.|[2409.10978](http://arxiv.org/abs/2409.10978)|null|
-|**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966](http://arxiv.org/abs/2409.10966)|null|
+|**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966](http://arxiv.org/abs/2409.10966)|**[link](https://github.com/retinal-research/cunsb-rfie)**|
 |**2024-09-17**|**Towards Effective User Attribution for Latent Diffusion Models via Watermark-Informed Blending**|Yongyang Pan et.al.|[2409.10958](http://arxiv.org/abs/2409.10958)|null|
 |**2024-09-17**|**Neural Fields for Adaptive Photoacoustic Computed Tomography**|Tianao Li et.al.|[2409.10876](http://arxiv.org/abs/2409.10876)|null|
 |**2024-09-16**|**Investigating Training Objectives for Generative Speech Enhancement**|Julius Richter et.al.|[2409.10753](http://arxiv.org/abs/2409.10753)|**[link](https://github.com/sp-uhh/sgmse)**|
@@ -1185,7 +1185,7 @@ layout: default
 |**2024-08-12**|**FoVNet: Configurable Field-of-View Speech Enhancement with Low Computation and Distortion for Smart Glasses**|Zhongweiyang Xu et.al.|[2408.06468](http://arxiv.org/abs/2408.06468)|null|
 |**2024-08-12**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition Live Streaming**|Xinqi Jin et.al.|[2408.06152](http://arxiv.org/abs/2408.06152)|**[link](https://github.com/Palantir-SR/palantir)**|
 |**2024-08-12**|**A-BDD: Leveraging Data Augmentations for Safe Autonomous Driving in Adverse Weather and Lighting**|Felix Assion et.al.|[2408.06071](http://arxiv.org/abs/2408.06071)|null|
-|**2024-08-12**|**DiagESC: Dialogue Synthesis for Integrating Depression Diagnosis into Emotional Support Conversation**|Seungyeon Seo et.al.|[2408.06044](http://arxiv.org/abs/2408.06044)|null|
+|**2024-08-12**|**DiagESC: Dialogue Synthesis for Integrating Depression Diagnosis into Emotional Support Conversation**|Seungyeon Seo et.al.|[2408.06044](http://arxiv.org/abs/2408.06044)|**[link](https://github.com/seungyeon-seo/DiagESC)**|
 |**2024-08-12**|**A Sharpness Based Loss Function for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2408.06014](http://arxiv.org/abs/2408.06014)|**[link](https://github.com/aurangau/mmsp2024)**|
 |**2024-08-12**|**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**|Taehong Moon et.al.|[2408.05927](http://arxiv.org/abs/2408.05927)|**[link](https://github.com/taehong-moon/ee-diffusion)**|
 |**2024-08-12**|**Creating Arabic LLM Prompts at Scale**|Abdelrahman El-Sheikh et.al.|[2408.05882](http://arxiv.org/abs/2408.05882)|null|
@@ -1271,7 +1271,7 @@ layout: default
 |**2024-07-22**|**Enhancing Cell Instance Segmentation in Scanning Electron Microscopy Images via a Deep Contour Closing Operator**|Florian Robert et.al.|[2407.15817](http://arxiv.org/abs/2407.15817)|null|
 |**2024-07-22**|**SS-SFR: Synthetic Scenes Spatial Frequency Response on Virtual KITTI and Degraded Automotive Simulations for Object Detection**|Daniel Jakab et.al.|[2407.15646](http://arxiv.org/abs/2407.15646)|null|
 |**2024-07-22**|**Experimenting with Adaptive Bitrate Algorithms for Virtual Reality Streaming over Wi-Fi**|Ferran Maura et.al.|[2407.15614](http://arxiv.org/abs/2407.15614)|**[link](https://github.com/wn-upf/ALVR_ABR_UPF)**|
-|**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507](http://arxiv.org/abs/2407.15507)|null|
+|**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507](http://arxiv.org/abs/2407.15507)|**[link](https://github.com/stanifrolov/spotdiffusion)**|
 |**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
 |**2024-07-21**|**Assessing Sample Quality via the Latent Space of Generative Models**|Jingyi Xu et.al.|[2407.15171](http://arxiv.org/abs/2407.15171)|**[link](https://github.com/cvlab-stonybrook/ls-sample-quality)**|
 |**2024-07-20**|**Non-Reference Quality Assessment for Medical Imaging: Application to Synthetic Brain MRIs**|Karl Van Eeden Risager et.al.|[2407.14994](http://arxiv.org/abs/2407.14994)|null|
@@ -1555,7 +1555,7 @@ layout: default
 |**2024-06-04**|**Unsupervised Contrastive Analysis for Salient Pattern Detection using Conditional Diffusion Models**|Cristiano Patrício et.al.|[2406.00772](http://arxiv.org/abs/2406.00772)|**[link](https://github.com/cristianopatricio/unsupervised-contrastive-cond-diff)**|
 |**2024-06-02**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
 |**2024-06-01**|**Bilateral Guided Radiance Field Processing**|Yuehao Wang et.al.|[2406.00448](http://arxiv.org/abs/2406.00448)|null|
-|**2024-06-01**|**Localize, Understand, Collaborate: Semantic-Aware Dragging via Intention Reasoner**|Xing Cui et.al.|[2406.00432](http://arxiv.org/abs/2406.00432)|null|
+|**2024-06-01**|**Localize, Understand, Collaborate: Semantic-Aware Dragging via Intention Reasoner**|Xing Cui et.al.|[2406.00432](http://arxiv.org/abs/2406.00432)|**[link](https://github.com/cuixing100876/luciddrag-neurips2024)**|
 |**2024-06-01**|**Hybrid attention structure preserving network for reconstruction of under-sampled OCT images**|Zezhao Guo et.al.|[2406.00279](http://arxiv.org/abs/2406.00279)|null|
 |**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075](http://arxiv.org/abs/2405.21075)|null|
 |**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048](http://arxiv.org/abs/2405.21048)|null|
@@ -2913,7 +2913,7 @@ layout: default
 |**2024-09-06**|**How to Identify Good Superpixels for Deforestation Detection on Tropical Rainforests**|Isabela Borlido et.al.|[2409.04330](http://arxiv.org/abs/2409.04330)|null|
 |**2024-09-06**|**An OpenMetBuoy dataset of Marginal Ice Zone dynamics collected around Svalbard in 2022 and 2023**|Jean Rabault et.al.|[2409.04151](http://arxiv.org/abs/2409.04151)|**[link](https://github.com/jerabaul29/2024_OpenMetBuoy_data_release_MarginalIceZone_SeaIce_OpenOcean)**|
 |**2024-09-05**|**Deep Clustering of Remote Sensing Scenes through Heterogeneous Transfer Learning**|Isaac Ray et.al.|[2409.03938](http://arxiv.org/abs/2409.03938)|null|
-|**2024-09-05**|**On-board Satellite Image Classification for Earth Observation: A Comparative Study of Pre-Trained Vision Transformer Models**|Thanh-Dung Le et.al.|[2409.03901](http://arxiv.org/abs/2409.03901)|null|
+|**2024-09-05**|**On-board Satellite Image Classification for Earth Observation: A Comparative Study of Pre-Trained Vision Transformer Models**|Thanh-Dung Le et.al.|[2409.03901](http://arxiv.org/abs/2409.03901)|**[link](https://github.com/ltdung/snt-sentry)**|
 |**2024-09-09**|**UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images**|Lulin Li et.al.|[2409.03431](http://arxiv.org/abs/2409.03431)|**[link](https://github.com/Devin-Egber/UV-Mamba)**|
 |**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|**[link](https://github.com/gdaosu/albedo_aerial_photogrammetry)**|
 |**2024-09-03**|**Impact Evaluations in Data Poor Settings: The Case of Stress-Tolerant Rice Varieties in Bangladesh**|Jeffrey D. Michler et.al.|[2409.02201](http://arxiv.org/abs/2409.02201)|null|
@@ -3108,7 +3108,7 @@ layout: default
 |**2024-06-06**|**M3LEO: A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and RGB Data**|Matthew J Allen et.al.|[2406.04230](http://arxiv.org/abs/2406.04230)|**[link](https://github.com/spaceml-org/m3leo)**|
 |**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207](http://arxiv.org/abs/2406.04207)|**[link](https://github.com/zmoka-zht/cdmamba)**|
 |**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|**[link](https://github.com/mlkk518/ldm-rsic)**|
-|**2024-06-09**|**Partial Label Learning with Focal Loss for Sea Ice Classification Based on Ice Charts**|Behzad Vahedi et.al.|[2406.03645](http://arxiv.org/abs/2406.03645)|null|
+|**2024-06-09**|**Partial Label Learning with Focal Loss for Sea Ice Classification Based on Ice Charts**|Behzad Vahedi et.al.|[2406.03645](http://arxiv.org/abs/2406.03645)|**[link](https://github.com/geohai/pll-sea-ice-classification)**|
 |**2024-06-05**|**Foundation Models for Geophysics: Reviews and Perspectives**|Qi Liu et.al.|[2406.03163](http://arxiv.org/abs/2406.03163)|null|
 |**2024-06-05**|**P2PFormer: A Primitive-to-polygon Method for Regular Building Contour Extraction from Remote Sensing Images**|Tao Zhang et.al.|[2406.02930](http://arxiv.org/abs/2406.02930)|null|
 |**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|

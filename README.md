@@ -228,6 +228,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Conditional Hallucinations for Image Compression**|Till Aczel et.al.|[2410.19493](http://arxiv.org/abs/2410.19493)|null|
+|**2024-10-25**|**Integration of Communication and Computational Imaging**|Zhenming Yu et.al.|[2410.19415](http://arxiv.org/abs/2410.19415)|null|
 |**2024-10-24**|**DMVC: Multi-Camera Video Compression Network aimed at Improving Deep Learning Accuracy**|Huan Cui et.al.|[2410.18400](http://arxiv.org/abs/2410.18400)|null|
 |**2024-10-23**|**Predicting total time to compress a video corpus using online inference systems**|Xin Shu et.al.|[2410.18260](http://arxiv.org/abs/2410.18260)|null|
 |**2024-10-23**|**FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**|Yang-Che Sun et.al.|[2410.18083](http://arxiv.org/abs/2410.18083)|null|
@@ -795,6 +797,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**|Zhengyao Lv et.al.|[2410.19355](http://arxiv.org/abs/2410.19355)|null|
+|**2024-10-25**|**Simpler Diffusion (SiD2): 1.5 FID on ImageNet512 with pixel-space diffusion**|Emiel Hoogeboom et.al.|[2410.19324](http://arxiv.org/abs/2410.19324)|null|
+|**2024-10-24**|**Optimising image capture for low-light widefield quantitative fluorescence microscopy**|Zane Peterkovic et.al.|[2410.19210](http://arxiv.org/abs/2410.19210)|null|
 |**2024-10-24**|**Sort-free Gaussian Splatting via Weighted Sum Rendering**|Qiqi Hou et.al.|[2410.18931](http://arxiv.org/abs/2410.18931)|null|
 |**2024-10-24**|**SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models**|Zonghao Ying et.al.|[2410.18927](http://arxiv.org/abs/2410.18927)|null|
 |**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775](http://arxiv.org/abs/2410.18775)|**[link](https://github.com/shilin-lu/vine)**|
@@ -811,7 +816,7 @@
 |**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815](http://arxiv.org/abs/2410.17815)|null|
 |**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|**[link](https://github.com/Kaiwen-Zhu/AgenticIR)**|
 |**2024-10-24**|**Testing Deep Learning Recommender Systems Models on Synthetic GAN-Generated Datasets**|Jesús Bobadilla et.al.|[2410.17651](http://arxiv.org/abs/2410.17651)|null|
-|**2024-10-23**|**Comprehensive Evaluation of Matrix Factorization Models for Collaborative Filtering Recommender Systems**|Jesús Bobadilla et.al.|[2410.17644](http://arxiv.org/abs/2410.17644)|null|
+|**2024-10-25**|**Comprehensive Evaluation of Matrix Factorization Models for Collaborative Filtering Recommender Systems**|Jesús Bobadilla et.al.|[2410.17644](http://arxiv.org/abs/2410.17644)|null|
 |**2024-10-23**|**Bilateral Hippocampi Segmentation in Low Field MRIs Using Mutual Feature Learning via Dual-Views**|Himashi Peiris et.al.|[2410.17502](http://arxiv.org/abs/2410.17502)|**[link](https://github.com/himashi92/lofihippseg)**|
 |**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
 |**2024-10-21**|**Multispectral Texture Synthesis using RGB Convolutional Neural Networks**|Sélim Ollivier et.al.|[2410.16019](http://arxiv.org/abs/2410.16019)|null|
@@ -2131,6 +2136,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**A Flow-based Truncated Denoising Diffusion Model for Super-resolution Magnetic Resonance Spectroscopic Imaging**|Siyuan Dong et.al.|[2410.19288](http://arxiv.org/abs/2410.19288)|null|
+|**2024-10-24**|**A Spectral-based Physics-informed Finite Operator Learning for Prediction of Mechanical Behavior of Microstructures**|Ali Harandi et.al.|[2410.19027](http://arxiv.org/abs/2410.19027)|null|
 |**2024-10-25**|**Transferring Knowledge from High-Quality to Low-Quality MRI for Adult Glioma Diagnosis**|Yanguang Zhao et.al.|[2410.18698](http://arxiv.org/abs/2410.18698)|null|
 |**2024-10-24**|**Hyperspectral Spatial Super-Resolution using Keystone Error**|Ankur Garg et.al.|[2410.18691](http://arxiv.org/abs/2410.18691)|null|
 |**2024-10-24**|**Advancements in Image Resolution: Super-Resolution Algorithm for Enhanced EOS-06 OCM-3 Data**|Ankur Garg et.al.|[2410.18690](http://arxiv.org/abs/2410.18690)|null|
@@ -2817,6 +2824,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552](http://arxiv.org/abs/2410.19552)|null|
+|**2024-10-25**|**Spatioformer: A Geo-encoded Transformer for Large-Scale Plant Species Richness Prediction**|Yiqing Guo et.al.|[2410.19256](http://arxiv.org/abs/2410.19256)|null|
 |**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976](http://arxiv.org/abs/2410.18976)|**[link](https://github.com/mbzuai-oryx/CAMEL-Bench)**|
 |**2024-10-24**|**Advancements in Image Resolution: Super-Resolution Algorithm for Enhanced EOS-06 OCM-3 Data**|Ankur Garg et.al.|[2410.18690](http://arxiv.org/abs/2410.18690)|null|
 |**2024-10-24**|**Precision Soil Quality Analysis Using Transformer-based Data Fusion Strategies: A Systematic Review**|Mahdi Saki et.al.|[2410.18353](http://arxiv.org/abs/2410.18353)|null|

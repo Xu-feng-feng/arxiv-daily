@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Quality Analysis of the Coding Bitrate Tradeoff Between Geometry and Attributes for Colored Point Clouds**|Joao Prazeres et.al.|[2410.21613](http://arxiv.org/abs/2410.21613)|null|
 |**2024-10-09**|**Point Cloud Compression with Bits-back Coding**|Nguyen Quang Hieu et.al.|[2410.18115](http://arxiv.org/abs/2410.18115)|null|
 |**2024-10-23**|**Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds**|Kai Liu et.al.|[2410.17823](http://arxiv.org/abs/2410.17823)|**[link](https://github.com/i2-multimedia-lab/att2cpc)**|
 |**2024-10-22**|**Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs**|Jihe Li et.al.|[2410.17001](http://arxiv.org/abs/2410.17001)|**[link](https://github.com/octree-nn/upsample-clean)**|
@@ -228,10 +229,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-28**|**Enhancing Learned Image Compression via Cross Window-based Attention**|Priyanka Mudgal et.al.|[2410.21144](http://arxiv.org/abs/2410.21144)|null|
+|**2024-10-28**|**MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression**|Noel Elias et.al.|[2410.21548](http://arxiv.org/abs/2410.21548)|**[link](https://github.com/noelkelias/multitok)**|
+|**2024-10-29**|**Enhancing Learned Image Compression via Cross Window-based Attention**|Priyanka Mudgal et.al.|[2410.21144](http://arxiv.org/abs/2410.21144)|null|
 |**2024-10-26**|**Cross-Platform Neural Video Coding: A Case Study**|Ruhan Conceição et.al.|[2410.20145](http://arxiv.org/abs/2410.20145)|null|
 |**2024-10-25**|**Conditional Hallucinations for Image Compression**|Till Aczel et.al.|[2410.19493](http://arxiv.org/abs/2410.19493)|null|
-|**2024-10-25**|**Integration of Communication and Computational Imaging**|Zhenming Yu et.al.|[2410.19415](http://arxiv.org/abs/2410.19415)|null|
+|**2024-10-29**|**Integration of Communication and Computational Imaging**|Zhenming Yu et.al.|[2410.19415](http://arxiv.org/abs/2410.19415)|null|
 |**2024-10-24**|**DMVC: Multi-Camera Video Compression Network aimed at Improving Deep Learning Accuracy**|Huan Cui et.al.|[2410.18400](http://arxiv.org/abs/2410.18400)|null|
 |**2024-10-23**|**Predicting total time to compress a video corpus using online inference systems**|Xin Shu et.al.|[2410.18260](http://arxiv.org/abs/2410.18260)|null|
 |**2024-10-23**|**FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**|Yang-Che Sun et.al.|[2410.18083](http://arxiv.org/abs/2410.18083)|null|
@@ -799,6 +801,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**|Seetharam Killivalavan et.al.|[2410.22323](http://arxiv.org/abs/2410.22323)|null|
+|**2024-10-29**|**Multimodal Semantic Communication for Generative Audio-Driven Video Conferencing**|Haonan Tong et.al.|[2410.22112](http://arxiv.org/abs/2410.22112)|null|
+|**2024-10-29**|**Data Generation for Hardware-Friendly Post-Training Quantization**|Lior Dikstein et.al.|[2410.22110](http://arxiv.org/abs/2410.22110)|null|
+|**2024-10-29**|**Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis**|Deepak Sridhar et.al.|[2410.21638](http://arxiv.org/abs/2410.21638)|null|
+|**2024-10-28**|**Exploring the Design Space of Diffusion Bridge Models via Stochasticity Control**|Shaorong Zhang et.al.|[2410.21553](http://arxiv.org/abs/2410.21553)|null|
+|**2024-10-28**|**SpeechQE: Estimating the Quality of Direct Speech Translation**|HyoJung Han et.al.|[2410.21485](http://arxiv.org/abs/2410.21485)|null|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
 |**2024-10-28**|**A Simple Yet Effective Corpus Construction Framework for Indonesian Grammatical Error Correction**|Nankai Lin et.al.|[2410.20838](http://arxiv.org/abs/2410.20838)|**[link](https://github.com/gklmip/gec-construction-framework)**|
 |**2024-10-28**|**FreqMark: Invisible Image Watermarking via Frequency Based Optimization in Latent Space**|Yiyang Guo et.al.|[2410.20824](http://arxiv.org/abs/2410.20824)|null|
@@ -2153,6 +2161,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826](http://arxiv.org/abs/2410.21826)|**[link](https://github.com/Ahn-Ssu/VCM)**|
+|**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653](http://arxiv.org/abs/2410.21653)|null|
+|**2024-10-28**|**Super-resolution in disordered media using neural networks**|Alexander Christie et.al.|[2410.21556](http://arxiv.org/abs/2410.21556)|null|
 |**2024-10-28**|**Super-resolution with dynamics in the loss**|Jacob Page et.al.|[2410.20884](http://arxiv.org/abs/2410.20884)|null|
 |**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|null|
 |**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466](http://arxiv.org/abs/2410.20466)|**[link](https://github.com/jocelyney/gdnet)**|
@@ -2845,6 +2856,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Shining a Light on Hurricane Damage Estimation via Nighttime Light Data: Pre-processing Matters**|Nancy Thomas et.al.|[2410.22150](http://arxiv.org/abs/2410.22150)|null|
+|**2024-10-29**|**Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.|[2410.22101](http://arxiv.org/abs/2410.22101)|null|
+|**2024-10-29**|**Micro-Structures Graph-Based Point Cloud Registration for Balancing Efficiency and Accuracy**|Rongling Zhang et.al.|[2410.21857](http://arxiv.org/abs/2410.21857)|null|
+|**2024-10-28**|**Mapping the Sun's coronal magnetic field using the Zeeman effect**|Thomas A. Schad et.al.|[2410.21568](http://arxiv.org/abs/2410.21568)|null|
 |**2024-10-28**|**A minimal model of the deep-convection lifecycle and its verification in remote-sensing observations**|Tobias Bölle et.al.|[2410.20887](http://arxiv.org/abs/2410.20887)|null|
 |**2024-10-25**|**OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery**|Philipe Dias et.al.|[2410.19965](http://arxiv.org/abs/2410.19965)|null|
 |**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552](http://arxiv.org/abs/2410.19552)|null|

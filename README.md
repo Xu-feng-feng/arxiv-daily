@@ -801,12 +801,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**AdaptiveISP: Learning an Adaptive Image Signal Processor for Object Detection**|Yujin Wang et.al.|[2410.22939](http://arxiv.org/abs/2410.22939)|null|
+|**2024-10-30**|**Prune and Repaint: Content-Aware Image Retargeting for any Ratio**|Feihong Shen et.al.|[2410.22865](http://arxiv.org/abs/2410.22865)|null|
+|**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830](http://arxiv.org/abs/2410.22830)|null|
+|**2024-10-30**|**Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models**|Arash Marioriyad et.al.|[2410.22775](http://arxiv.org/abs/2410.22775)|null|
+|**2024-10-30**|**st-DTPM: Spatial-Temporal Guided Diffusion Transformer Probabilistic Model for Delayed Scan PET Image Prediction**|Ran Hong et.al.|[2410.22732](http://arxiv.org/abs/2410.22732)|null|
+|**2024-10-30**|**FlowDCN: Exploring DCN-like Architectures for Fast Image Generation with Arbitrary Resolution**|Shuai Wang et.al.|[2410.22655](http://arxiv.org/abs/2410.22655)|null|
+|**2024-10-30**|**Consistency Diffusion Bridge Models**|Guande He et.al.|[2410.22637](http://arxiv.org/abs/2410.22637)|null|
+|**2024-10-29**|**Deep Priors for Video Quality Prediction**|Siddharath Narayan Shakya et.al.|[2410.22566](http://arxiv.org/abs/2410.22566)|null|
 |**2024-10-29**|**Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**|Seetharam Killivalavan et.al.|[2410.22323](http://arxiv.org/abs/2410.22323)|null|
 |**2024-10-29**|**Multimodal Semantic Communication for Generative Audio-Driven Video Conferencing**|Haonan Tong et.al.|[2410.22112](http://arxiv.org/abs/2410.22112)|null|
 |**2024-10-29**|**Data Generation for Hardware-Friendly Post-Training Quantization**|Lior Dikstein et.al.|[2410.22110](http://arxiv.org/abs/2410.22110)|null|
 |**2024-10-29**|**Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis**|Deepak Sridhar et.al.|[2410.21638](http://arxiv.org/abs/2410.21638)|null|
 |**2024-10-28**|**Exploring the Design Space of Diffusion Bridge Models via Stochasticity Control**|Shaorong Zhang et.al.|[2410.21553](http://arxiv.org/abs/2410.21553)|null|
-|**2024-10-28**|**SpeechQE: Estimating the Quality of Direct Speech Translation**|HyoJung Han et.al.|[2410.21485](http://arxiv.org/abs/2410.21485)|null|
+|**2024-10-28**|**SpeechQE: Estimating the Quality of Direct Speech Translation**|HyoJung Han et.al.|[2410.21485](http://arxiv.org/abs/2410.21485)|**[link](https://github.com/h-j-han/speechqe)**|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
 |**2024-10-28**|**A Simple Yet Effective Corpus Construction Framework for Indonesian Grammatical Error Correction**|Nankai Lin et.al.|[2410.20838](http://arxiv.org/abs/2410.20838)|**[link](https://github.com/gklmip/gec-construction-framework)**|
 |**2024-10-28**|**FreqMark: Invisible Image Watermarking via Frequency Based Optimization in Latent Space**|Yiyang Guo et.al.|[2410.20824](http://arxiv.org/abs/2410.20824)|null|
@@ -2161,9 +2169,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|null|
+|**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830](http://arxiv.org/abs/2410.22830)|null|
 |**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826](http://arxiv.org/abs/2410.21826)|**[link](https://github.com/Ahn-Ssu/VCM)**|
 |**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653](http://arxiv.org/abs/2410.21653)|null|
-|**2024-10-28**|**Super-resolution in disordered media using neural networks**|Alexander Christie et.al.|[2410.21556](http://arxiv.org/abs/2410.21556)|null|
+|**2024-10-30**|**Super-resolution in disordered media using neural networks**|Alexander Christie et.al.|[2410.21556](http://arxiv.org/abs/2410.21556)|null|
 |**2024-10-28**|**Super-resolution with dynamics in the loss**|Jacob Page et.al.|[2410.20884](http://arxiv.org/abs/2410.20884)|null|
 |**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|**[link](https://github.com/idiosyncracies/Sebica)**|
 |**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466](http://arxiv.org/abs/2410.20466)|**[link](https://github.com/jocelyney/gdnet)**|
@@ -2856,6 +2866,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
+|**2024-10-30**|**Bio-optical characterization using Ocean Colour Monitor (OCM) on board EOS-06 in coastal region**|Anurag Gupta et.al.|[2410.22833](http://arxiv.org/abs/2410.22833)|null|
+|**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830](http://arxiv.org/abs/2410.22830)|null|
+|**2024-10-30**|**CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation**|Ziyang Gong et.al.|[2410.22629](http://arxiv.org/abs/2410.22629)|**[link](https://github.com/cuzyoung/crossearth)**|
+|**2024-10-29**|**Remote Sensing for Weed Detection and Control**|Ishita Bansal et.al.|[2410.22554](http://arxiv.org/abs/2410.22554)|null|
+|**2024-10-26**|**MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation**|Jialin Luo et.al.|[2410.22362](http://arxiv.org/abs/2410.22362)|null|
 |**2024-10-29**|**Shining a Light on Hurricane Damage Estimation via Nighttime Light Data: Pre-processing Matters**|Nancy Thomas et.al.|[2410.22150](http://arxiv.org/abs/2410.22150)|null|
 |**2024-10-29**|**Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.|[2410.22101](http://arxiv.org/abs/2410.22101)|null|
 |**2024-10-29**|**Micro-Structures Graph-Based Point Cloud Registration for Balancing Efficiency and Accuracy**|Rongling Zhang et.al.|[2410.21857](http://arxiv.org/abs/2410.21857)|null|

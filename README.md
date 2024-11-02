@@ -803,7 +803,7 @@
 |---|---|---|---|---|
 |**2024-10-31**|**Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning**|Penghui Ruan et.al.|[2410.24219](http://arxiv.org/abs/2410.24219)|**[link](https://github.com/pr-ryan/demo)**|
 |**2024-10-31**|**AIDOVECL: AI-generated Dataset of Outpainted Vehicles for Eye-level Classification and Localization**|Amir Kazemi et.al.|[2410.24116](http://arxiv.org/abs/2410.24116)|null|
-|**2024-10-31**|**Parameter choices in HaarPSI for IQA with medical images**|Clemens Karner et.al.|[2410.24098](http://arxiv.org/abs/2410.24098)|null|
+|**2024-10-31**|**Parameter choices in HaarPSI for IQA with medical images**|Clemens Karner et.al.|[2410.24098](http://arxiv.org/abs/2410.24098)|**[link](https://github.com/ideal-iqa/haarpsi-pytorch)**|
 |**2024-10-31**|**Advanced Predictive Quality Assessment for Ultrasonic Additive Manufacturing with Deep Learning Model**|Lokendra Poudel et.al.|[2410.24055](http://arxiv.org/abs/2410.24055)|null|
 |**2024-10-31**|**Image Synthesis with Class-Aware Semantic Diffusion Models for Surgical Scene Segmentation**|Yihang Zhou et.al.|[2410.23962](http://arxiv.org/abs/2410.23962)|null|
 |**2024-10-29**|**Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images**|Vishal Dubey et.al.|[2410.23898](http://arxiv.org/abs/2410.23898)|null|
@@ -2183,7 +2183,7 @@
 |**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006](http://arxiv.org/abs/2410.24006)|null|
 |**2024-10-29**|**Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images**|Vishal Dubey et.al.|[2410.23898](http://arxiv.org/abs/2410.23898)|null|
 |**2024-10-30**|**Enhancing Image Resolution: A Simulation Study and Sensitivity Analysis of System Parameters for Resourcesat-3S/3SA**|Ankur Garg et.al.|[2410.23319](http://arxiv.org/abs/2410.23319)|null|
-|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|null|
+|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|**[link](https://github.com/sunshangquan/EnsIR)**|
 |**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830](http://arxiv.org/abs/2410.22830)|null|
 |**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826](http://arxiv.org/abs/2410.21826)|**[link](https://github.com/Ahn-Ssu/VCM)**|
 |**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653](http://arxiv.org/abs/2410.21653)|null|
@@ -2880,11 +2880,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-31**|**Identifying Spatio-Temporal Drivers of Extreme Events**|Mohamad Hakam Shams Eddin et.al.|[2410.24075](http://arxiv.org/abs/2410.24075)|null|
+|**2024-10-31**|**Identifying Spatio-Temporal Drivers of Extreme Events**|Mohamad Hakam Shams Eddin et.al.|[2410.24075](http://arxiv.org/abs/2410.24075)|**[link](https://github.com/HakamShams/Synthetic_Multivariate_Anomalies)**|
 |**2024-10-31**|**Localization, balance and affinity: a stronger multifaceted collaborative salient object detector in remote sensing images**|Yakun Xie et.al.|[2410.23991](http://arxiv.org/abs/2410.23991)|null|
-|**2024-10-31**|**MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption**|Ruixun Liu et.al.|[2410.23946](http://arxiv.org/abs/2410.23946)|null|
-|**2024-10-31**|**AllClear: A Comprehensive Dataset and Benchmark for Cloud Removal in Satellite Imagery**|Hangyu Zhou et.al.|[2410.23891](http://arxiv.org/abs/2410.23891)|null|
-|**2024-10-31**|**Show Me What and Where has Changed? Question Answering and Grounding for Remote Sensing Change Detection**|Ke Li et.al.|[2410.23828](http://arxiv.org/abs/2410.23828)|null|
+|**2024-10-31**|**MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption**|Ruixun Liu et.al.|[2410.23946](http://arxiv.org/abs/2410.23946)|**[link](https://github.com/liuruixun/mv-cc)**|
+|**2024-10-31**|**AllClear: A Comprehensive Dataset and Benchmark for Cloud Removal in Satellite Imagery**|Hangyu Zhou et.al.|[2410.23891](http://arxiv.org/abs/2410.23891)|**[link](https://github.com/zhou-hangyu/allclear)**|
+|**2024-10-31**|**Show Me What and Where has Changed? Question Answering and Grounding for Remote Sensing Change Detection**|Ke Li et.al.|[2410.23828](http://arxiv.org/abs/2410.23828)|**[link](https://github.com/like413/vista)**|
 |**2024-10-30**|**Multilingual Vision-Language Pre-training for the Remote Sensing Domain**|João Daniel Silva et.al.|[2410.23370](http://arxiv.org/abs/2410.23370)|null|
 |**2024-10-30**|**Enhancing Image Resolution: A Simulation Study and Sensitivity Analysis of System Parameters for Resourcesat-3S/3SA**|Ankur Garg et.al.|[2410.23319](http://arxiv.org/abs/2410.23319)|null|
 |**2024-10-30**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|

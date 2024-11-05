@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
 |**2024-10-28**|**Quality Analysis of the Coding Bitrate Tradeoff Between Geometry and Attributes for Colored Point Clouds**|Joao Prazeres et.al.|[2410.21613](http://arxiv.org/abs/2410.21613)|null|
 |**2024-10-09**|**Point Cloud Compression with Bits-back Coding**|Nguyen Quang Hieu et.al.|[2410.18115](http://arxiv.org/abs/2410.18115)|null|
 |**2024-10-23**|**Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds**|Kai Liu et.al.|[2410.17823](http://arxiv.org/abs/2410.17823)|**[link](https://github.com/i2-multimedia-lab/att2cpc)**|
@@ -220,6 +221,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Neural optical flow for planar and stereo PIV**|Andrew I. Masker et.al.|[2411.02373](http://arxiv.org/abs/2411.02373)|null|
+|**2024-11-04**|**The evolution of volumetric video: A survey of smart transcoding and compression approaches**|Preetish Kakkar et.al.|[2411.02095](http://arxiv.org/abs/2411.02095)|null|
+|**2024-11-03**|**Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision**|Xiangzhong Luo et.al.|[2411.01431](http://arxiv.org/abs/2411.01431)|null|
+|**2024-11-02**|**Autoencoders for At-Source Data Reduction and Anomaly Detection in High Energy Particle Detectors**|Alexander Yue et.al.|[2411.01118](http://arxiv.org/abs/2411.01118)|null|
+|**2024-11-01**|**SANN-PSZ: Spatially Adaptive Neural Network for Head-Tracked Personal Sound Zones**|Yue Qiao et.al.|[2411.00772](http://arxiv.org/abs/2411.00772)|null|
 |**2024-10-28**|**MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression**|Noel Elias et.al.|[2410.21548](http://arxiv.org/abs/2410.21548)|**[link](https://github.com/noelkelias/multitok)**|
 |**2024-10-29**|**Enhancing Learned Image Compression via Cross Window-based Attention**|Priyanka Mudgal et.al.|[2410.21144](http://arxiv.org/abs/2410.21144)|null|
 |**2024-10-26**|**Cross-Platform Neural Video Coding: A Case Study**|Ruhan Conceição et.al.|[2410.20145](http://arxiv.org/abs/2410.20145)|null|
@@ -790,6 +796,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Physically Based Neural Bidirectional Reflectance Distribution Function**|Chenliang Zhou et.al.|[2411.02347](http://arxiv.org/abs/2411.02347)|null|
+|**2024-11-04**|**Diffusion-based Generative Multicasting with Intent-aware Semantic Decomposition**|Xinkai Liu et.al.|[2411.02334](http://arxiv.org/abs/2411.02334)|null|
+|**2024-11-03**|**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**|Xiaole Tang et.al.|[2411.01656](http://arxiv.org/abs/2411.01656)|null|
+|**2024-11-03**|**Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation**|Zhenbin Wang et.al.|[2411.01647](http://arxiv.org/abs/2411.01647)|null|
+|**2024-11-03**|**TPOT: Topology Preserving Optimal Transport in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2411.01403](http://arxiv.org/abs/2411.01403)|null|
+|**2024-11-02**|**Interacting Large Language Model Agents. Interpretable Models and Social Learning**|Adit Jain et.al.|[2411.01271](http://arxiv.org/abs/2411.01271)|null|
+|**2024-11-02**|**The impact of MRI image quality on statistical and predictive analysis on voxel based morphology**|Felix Hoffstaedter et.al.|[2411.01268](http://arxiv.org/abs/2411.01268)|null|
+|**2024-11-02**|**Enhancing Diabetic Retinopathy Detection with CNN-Based Models: A Comparative Study of UNET and Stacked UNET Architectures**|Ameya Uppina et.al.|[2411.01251](http://arxiv.org/abs/2411.01251)|null|
+|**2024-11-02**|**Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting**|Fengze Li et.al.|[2411.01218](http://arxiv.org/abs/2411.01218)|null|
+|**2024-11-01**|**Evaluation Metric for Quality Control and Generative Models in Histopathology Images**|Pranav Jeevan et.al.|[2411.01034](http://arxiv.org/abs/2411.01034)|null|
+|**2024-11-01**|**Re-thinking Richardson-Lucy without Iteration Cutoffs: Physically Motivated Bayesian Deconvolution**|Zachary H. Hendrix et.al.|[2411.00991](http://arxiv.org/abs/2411.00991)|null|
+|**2024-11-01**|**Inter-Feature-Map Differential Coding of Surveillance Video**|Kei Iino et.al.|[2411.00984](http://arxiv.org/abs/2411.00984)|null|
+|**2024-11-01**|**Scalable AI Framework for Defect Detection in Metal Additive Manufacturing**|Duy Nhat Phan et.al.|[2411.00960](http://arxiv.org/abs/2411.00960)|null|
+|**2024-11-01**|**Intensity Field Decomposition for Tissue-Guided Neural Tomography**|Meng-Xun Li et.al.|[2411.00900](http://arxiv.org/abs/2411.00900)|null|
+|**2024-11-01**|**CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes**|Yang Liu et.al.|[2411.00771](http://arxiv.org/abs/2411.00771)|null|
+|**2024-11-01**|**Face Anonymization Made Simple**|Han-Wei Kung et.al.|[2411.00762](http://arxiv.org/abs/2411.00762)|**[link](https://github.com/hanweikung/face_anon_simple)**|
+|**2024-11-01**|**Demystifying the use of Compression in Virtual Production**|Anil Kokaram et.al.|[2411.00547](http://arxiv.org/abs/2411.00547)|null|
+|**2024-11-01**|**MV-Adapter: Enhancing Underwater Instance Segmentation via Adaptive Channel Attention**|Lianjun Liu et.al.|[2411.00472](http://arxiv.org/abs/2411.00472)|null|
+|**2024-10-31**|**IO Transformer: Evaluating SwinV2-Based Reward Models for Computer Vision**|Maxwell Meyer et.al.|[2411.00252](http://arxiv.org/abs/2411.00252)|null|
+|**2024-10-31**|**Denoising study of Fluoroscopic Images in real time tumor tracking System based on Statistical model of noise**|Yongxuan Yan et.al.|[2411.00199](http://arxiv.org/abs/2411.00199)|null|
 |**2024-10-31**|**Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning**|Penghui Ruan et.al.|[2410.24219](http://arxiv.org/abs/2410.24219)|**[link](https://github.com/pr-ryan/demo)**|
 |**2024-10-31**|**AIDOVECL: AI-generated Dataset of Outpainted Vehicles for Eye-level Classification and Localization**|Amir Kazemi et.al.|[2410.24116](http://arxiv.org/abs/2410.24116)|null|
 |**2024-10-31**|**Parameter choices in HaarPSI for IQA with medical images**|Clemens Karner et.al.|[2410.24098](http://arxiv.org/abs/2410.24098)|**[link](https://github.com/ideal-iqa/haarpsi-pytorch)**|
@@ -2167,6 +2193,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D**|Wei Cheng et.al.|[2411.02336](http://arxiv.org/abs/2411.02336)|null|
+|**2024-11-01**|**A Robust Super-Resolution Classifier by Nonlinear Optics**|Ishan Darji et.al.|[2411.00953](http://arxiv.org/abs/2411.00953)|null|
+|**2024-10-31**|**Blind Time-of-Flight Imaging: Sparse Deconvolution on the Continuum with Unknown Kernels**|Ruiming Guo et.al.|[2411.00893](http://arxiv.org/abs/2411.00893)|null|
+|**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
 |**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006](http://arxiv.org/abs/2410.24006)|null|
 |**2024-10-29**|**Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images**|Vishal Dubey et.al.|[2410.23898](http://arxiv.org/abs/2410.23898)|null|
 |**2024-10-30**|**Enhancing Image Resolution: A Simulation Study and Sensitivity Analysis of System Parameters for Resourcesat-3S/3SA**|Ankur Garg et.al.|[2410.23319](http://arxiv.org/abs/2410.23319)|null|
@@ -2865,6 +2895,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Theoretical performance limitations and filter selection based on Fisher information of a computational photonic crystal spectrometer for trace-gas retrieval**|Marijn Siemons et.al.|[2411.02048](http://arxiv.org/abs/2411.02048)|null|
+|**2024-11-04**|**Shrinking the Giant : Quasi-Weightless Transformers for Low Energy Inference**|Shashank Nag et.al.|[2411.01818](http://arxiv.org/abs/2411.01818)|null|
+|**2024-11-04**|**AIWR: Aerial Image Water Resource Dataset for Segmentation Analysis**|Sangdaow Noppitaka et.al.|[2411.01797](http://arxiv.org/abs/2411.01797)|null|
+|**2024-11-03**|**PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation**|Xinyu Xu et.al.|[2411.01624](http://arxiv.org/abs/2411.01624)|null|
+|**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
+|**2024-11-03**|**Reconstructing MODIS Normalized Difference Snow Index Product on Greenland Ice Sheet Using Spatiotemporal Extreme Gradient Boosting Model**|Fan Ye et.al.|[2411.01450](http://arxiv.org/abs/2411.01450)|null|
+|**2024-11-01**|**A Robust Super-Resolution Classifier by Nonlinear Optics**|Ishan Darji et.al.|[2411.00953](http://arxiv.org/abs/2411.00953)|null|
 |**2024-10-31**|**Identifying Spatio-Temporal Drivers of Extreme Events**|Mohamad Hakam Shams Eddin et.al.|[2410.24075](http://arxiv.org/abs/2410.24075)|**[link](https://github.com/HakamShams/IDEE)**|
 |**2024-10-31**|**Localization, balance and affinity: a stronger multifaceted collaborative salient object detector in remote sensing images**|Yakun Xie et.al.|[2410.23991](http://arxiv.org/abs/2410.23991)|null|
 |**2024-10-31**|**MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption**|Ruixun Liu et.al.|[2410.23946](http://arxiv.org/abs/2410.23946)|**[link](https://github.com/liuruixun/mv-cc)**|
@@ -2872,7 +2909,7 @@ layout: default
 |**2024-10-31**|**Show Me What and Where has Changed? Question Answering and Grounding for Remote Sensing Change Detection**|Ke Li et.al.|[2410.23828](http://arxiv.org/abs/2410.23828)|**[link](https://github.com/like413/vista)**|
 |**2024-10-30**|**Multilingual Vision-Language Pre-training for the Remote Sensing Domain**|João Daniel Silva et.al.|[2410.23370](http://arxiv.org/abs/2410.23370)|null|
 |**2024-10-30**|**Enhancing Image Resolution: A Simulation Study and Sensitivity Analysis of System Parameters for Resourcesat-3S/3SA**|Ankur Garg et.al.|[2410.23319](http://arxiv.org/abs/2410.23319)|null|
-|**2024-10-30**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
+|**2024-11-03**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
 |**2024-10-30**|**Bio-optical characterization using Ocean Colour Monitor (OCM) on board EOS-06 in coastal region**|Anurag Gupta et.al.|[2410.22833](http://arxiv.org/abs/2410.22833)|null|
 |**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830](http://arxiv.org/abs/2410.22830)|null|
 |**2024-10-31**|**CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation**|Ziyang Gong et.al.|[2410.22629](http://arxiv.org/abs/2410.22629)|**[link](https://github.com/cuzyoung/crossearth)**|

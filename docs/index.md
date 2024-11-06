@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -798,7 +798,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-04**|**Physically Based Neural Bidirectional Reflectance Distribution Function**|Chenliang Zhou et.al.|[2411.02347](http://arxiv.org/abs/2411.02347)|null|
 |**2024-11-04**|**Diffusion-based Generative Multicasting with Intent-aware Semantic Decomposition**|Xinkai Liu et.al.|[2411.02334](http://arxiv.org/abs/2411.02334)|null|
-|**2024-11-03**|**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**|Xiaole Tang et.al.|[2411.01656](http://arxiv.org/abs/2411.01656)|null|
+|**2024-11-03**|**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**|Xiaole Tang et.al.|[2411.01656](http://arxiv.org/abs/2411.01656)|**[link](https://github.com/xl-tang3/DA-RCOT)**|
 |**2024-11-03**|**Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation**|Zhenbin Wang et.al.|[2411.01647](http://arxiv.org/abs/2411.01647)|null|
 |**2024-11-03**|**TPOT: Topology Preserving Optimal Transport in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2411.01403](http://arxiv.org/abs/2411.01403)|null|
 |**2024-11-02**|**Interacting Large Language Model Agents. Interpretable Models and Social Learning**|Adit Jain et.al.|[2411.01271](http://arxiv.org/abs/2411.01271)|null|

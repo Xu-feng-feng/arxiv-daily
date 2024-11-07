@@ -810,7 +810,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-05**|**Inward-Outward Ring Permanent Magnet Array for Portable Magnetic Resonance Imaging (MRI)**|Ting-Ou Liang et.al.|[2411.03249](http://arxiv.org/abs/2411.03249)|null|
+|**2024-11-06**|**X-ray Single-Pixel Imaging with MPGD-based detectors**|M. Simões et.al.|[2411.03907](http://arxiv.org/abs/2411.03907)|null|
+|**2024-11-06**|**VQA $^2$ :Visual Question Answering for Video Quality Assessment**|Ziheng Jia et.al.|[2411.03795](http://arxiv.org/abs/2411.03795)|null|
+|**2024-11-06**|**MOS-Bench: Benchmarking Generalization Abilities of Subjective Speech Quality Assessment Models**|Wen-Chin Huang et.al.|[2411.03715](http://arxiv.org/abs/2411.03715)|null|
+|**2024-11-06**|**Evaluating Eye Tracking Signal Quality with Real-time Gaze Interaction Simulation**|Mehedi Hasan Raju et.al.|[2411.03708](http://arxiv.org/abs/2411.03708)|null|
+|**2024-11-06**|**Investigation of Inward-Outward Ring Permanent Magnet Array for Portable Magnetic Resonance Imaging (MRI)**|Ting-Ou Liang et.al.|[2411.03249](http://arxiv.org/abs/2411.03249)|null|
 |**2024-11-05**|**The Impact of Medicaid Expansion on Medicare Quality Measures**|Hala Algrain et.al.|[2411.03140](http://arxiv.org/abs/2411.03140)|null|
 |**2024-11-05**|**Investigating the Applicability of a Snapshot Computed Tomography Imaging Spectrometer for the Prediction of Brix and pH of Grapes**|Mads Svanborg Peters et.al.|[2411.03114](http://arxiv.org/abs/2411.03114)|null|
 |**2024-11-05**|**Advances in Photoacoustic Imaging Reconstruction and Quantitative Analysis for Biomedical Applications**|Lei Wang et.al.|[2411.02843](http://arxiv.org/abs/2411.02843)|null|
@@ -2216,6 +2220,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**"Super-resolution" holographic optical tweezers array**|Keisuke Nishimura et.al.|[2411.03564](http://arxiv.org/abs/2411.03564)|null|
+|**2024-11-05**|**SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture**|Andrew Heschl et.al.|[2411.03505](http://arxiv.org/abs/2411.03505)|**[link](https://github.com/visionresearchlab/synthset)**|
 |**2024-11-05**|**Decoupling Fine Detail and Global Geometry for Compressed Depth Map Super-Resolution**|Huan Zheng et.al.|[2411.03239](http://arxiv.org/abs/2411.03239)|null|
 |**2024-11-05**|**Applications of Automatic Differentiation in Image Registration**|Warin Watson et.al.|[2411.02806](http://arxiv.org/abs/2411.02806)|**[link](https://github.com/wdwatson2/ImgRegPytorchProject)**|
 |**2024-11-05**|**Super-resolution generalized eigenvalue method with truly sub-Nyquist sampling**|Baoguo Liu et.al.|[2411.02700](http://arxiv.org/abs/2411.02700)|null|
@@ -2925,14 +2931,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-05**|**Beyond Grid Data: Exploring Graph Neural Networks for Earth Observation**|Shan Zhao et.al.|[2411.03223](http://arxiv.org/abs/2411.03223)|null|
+|**2024-11-06**|**An Edge Computing-Based Solution for Real-Time Leaf Disease Classification using Thermal Imaging**|Públio Elon Correa da Silva et.al.|[2411.03835](http://arxiv.org/abs/2411.03835)|null|
+|**2024-11-06**|**Beyond Grid Data: Exploring Graph Neural Networks for Earth Observation**|Shan Zhao et.al.|[2411.03223](http://arxiv.org/abs/2411.03223)|null|
 |**2024-11-05**|**EcoCropsAID: Economic Crops Aerial Image Dataset for Land Use Classification**|Sangdaow Noppitak et.al.|[2411.02762](http://arxiv.org/abs/2411.02762)|null|
 |**2024-11-05**|**DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark**|Haodong Li et.al.|[2411.02733](http://arxiv.org/abs/2411.02733)|**[link](https://github.com/haodongli2024/rspope)**|
 |**2024-11-05**|**Super-resolution generalized eigenvalue method with truly sub-Nyquist sampling**|Baoguo Liu et.al.|[2411.02700](http://arxiv.org/abs/2411.02700)|null|
 |**2024-11-04**|**Estimating the Number and Locations of Boundaries in Reverberant Environments with Deep Learning**|Toros Arikan et.al.|[2411.02609](http://arxiv.org/abs/2411.02609)|null|
 |**2024-11-04**|**Theoretical performance limitations and filter selection based on Fisher information of a computational photonic crystal spectrometer for trace-gas retrieval**|Marijn Siemons et.al.|[2411.02048](http://arxiv.org/abs/2411.02048)|null|
 |**2024-11-04**|**Shrinking the Giant : Quasi-Weightless Transformers for Low Energy Inference**|Shashank Nag et.al.|[2411.01818](http://arxiv.org/abs/2411.01818)|null|
-|**2024-11-04**|**AIWR: Aerial Image Water Resource Dataset for Segmentation Analysis**|Sangdaow Noppitaka et.al.|[2411.01797](http://arxiv.org/abs/2411.01797)|null|
+|**2024-11-06**|**AIWR: Aerial Image Water Resource Dataset for Segmentation Analysis**|Sangdaow Noppitak et.al.|[2411.01797](http://arxiv.org/abs/2411.01797)|null|
 |**2024-11-03**|**PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation**|Xinyu Xu et.al.|[2411.01624](http://arxiv.org/abs/2411.01624)|null|
 |**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
 |**2024-11-03**|**Reconstructing MODIS Normalized Difference Snow Index Product on Greenland Ice Sheet Using Spatiotemporal Extreme Gradient Boosting Model**|Fan Ye et.al.|[2411.01450](http://arxiv.org/abs/2411.01450)|null|

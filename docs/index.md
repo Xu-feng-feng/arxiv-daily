@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-09**|**Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data**|Xinran Liu et.al.|[2411.06055](http://arxiv.org/abs/2411.06055)|null|
 |**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
 |**2024-10-28**|**Quality Analysis of the Coding Bitrate Tradeoff Between Geometry and Attributes for Colored Point Clouds**|Joao Prazeres et.al.|[2410.21613](http://arxiv.org/abs/2410.21613)|null|
 |**2024-10-09**|**Point Cloud Compression with Bits-back Coding**|Nguyen Quang Hieu et.al.|[2410.18115](http://arxiv.org/abs/2410.18115)|null|
@@ -221,6 +222,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Low Complexity Learning-based Lossless Event-based Compression**|Ahmadreza Sezavar et.al.|[2411.07155](http://arxiv.org/abs/2411.07155)|null|
+|**2024-11-11**|**JPEG AI Image Compression Visual Artifacts: Detection Methods and Dataset**|Daria Tsereh et.al.|[2411.06810](http://arxiv.org/abs/2411.06810)|null|
+|**2024-11-11**|**Machine vision-aware quality metrics for compressed image and video assessment**|Mikhail Dremin et.al.|[2411.06776](http://arxiv.org/abs/2411.06776)|null|
+|**2024-11-11**|**High-Frequency Enhanced Hybrid Neural Representation for Video Compression**|Li Yu et.al.|[2411.06685](http://arxiv.org/abs/2411.06685)|null|
+|**2024-11-09**|**HiHa: Introducing Hierarchical Harmonic Decomposition to Implicit Neural Compression for Atmospheric Data**|Zhewen Xu et.al.|[2411.06155](http://arxiv.org/abs/2411.06155)|null|
+|**2024-11-08**|**A method based on Generative Adversarial Networks for disentangling physical and chemical properties of stars in astronomical spectra**|Raúl Santoveña et.al.|[2411.05960](http://arxiv.org/abs/2411.05960)|null|
 |**2024-11-07**|**Don't Look Twice: Faster Video Transformers with Run-Length Tokenization**|Rohan Choudhury et.al.|[2411.05222](http://arxiv.org/abs/2411.05222)|null|
 |**2024-11-05**|**Tuning into spatial frequency space: Satellite and space debris detection in the ZTF alert stream**|J. P. Carvajal et.al.|[2411.03258](http://arxiv.org/abs/2411.03258)|null|
 |**2024-11-05**|**ZipCache: A DRAM/SSD Cache with Built-in Transparent Compression**|Rui Xie et.al.|[2411.03174](http://arxiv.org/abs/2411.03174)|null|
@@ -800,6 +807,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
+|**2024-11-11**|**Multi-scale Frequency Enhancement Network for Blind Image Deblurring**|Yawen Xiang et.al.|[2411.06893](http://arxiv.org/abs/2411.06893)|null|
+|**2024-11-11**|**Wavehax: Aliasing-Free Neural Waveform Synthesis Based on 2D Convolution and Harmonic Prior for Reliable Complex Spectrogram Estimation**|Reo Yoneyama et.al.|[2411.06807](http://arxiv.org/abs/2411.06807)|null|
+|**2024-11-11**|**Machine vision-aware quality metrics for compressed image and video assessment**|Mikhail Dremin et.al.|[2411.06776](http://arxiv.org/abs/2411.06776)|null|
+|**2024-11-11**|**Loss-tolerant neural video codec aware congestion control for real time video communication**|Zhengxu Xia et.al.|[2411.06742](http://arxiv.org/abs/2411.06742)|null|
+|**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738](http://arxiv.org/abs/2411.06738)|null|
+|**2024-11-11**|**Accelerating Low-field MRI: Compressed Sensing and AI for fast noise-robust imaging**|Efrat Shimron et.al.|[2411.06704](http://arxiv.org/abs/2411.06704)|null|
+|**2024-11-10**|**CASC: Condition-Aware Semantic Communication with Latent Diffusion Models**|Weixuan Chen et.al.|[2411.06552](http://arxiv.org/abs/2411.06552)|null|
+|**2024-11-08**|**A Modular Conditional Diffusion Framework for Image Reconstruction**|Magauiya Zhussip et.al.|[2411.05993](http://arxiv.org/abs/2411.05993)|null|
+|**2024-11-08**|**Fine-Grained Reward Optimization for Machine Translation using Error Severity Mappings**|Miguel Moura Ramos et.al.|[2411.05986](http://arxiv.org/abs/2411.05986)|null|
+|**2024-11-08**|**Dictionary Learning with Convolutional Structure for Seismic Data Denoising and Interpolation**|Murad Almadani et.al.|[2411.05956](http://arxiv.org/abs/2411.05956)|null|
+|**2024-11-08**|**Alternative Learning Paradigms for Image Quality Transfer**|Ahmed Karam Eldaly et.al.|[2411.05885](http://arxiv.org/abs/2411.05885)|null|
+|**2024-11-08**|**Benchmarking 3D multi-coil NC-PDNet MRI reconstruction**|Asma Tanabene et.al.|[2411.05883](http://arxiv.org/abs/2411.05883)|null|
 |**2024-11-08**|**Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation**|Long Truong To et.al.|[2411.05641](http://arxiv.org/abs/2411.05641)|null|
 |**2024-11-08**|**DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions**|Rafael Berral-Soler et.al.|[2411.05552](http://arxiv.org/abs/2411.05552)|**[link](https://github.com/avauco/deeparuco)**|
 |**2024-11-08**|**Improving image synthesis with diffusion-negative sampling**|Alakh Desai et.al.|[2411.05473](http://arxiv.org/abs/2411.05473)|null|
@@ -2228,6 +2248,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|null|
+|**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738](http://arxiv.org/abs/2411.06738)|null|
+|**2024-11-11**|**Expansion microscopy reveals neural circuit organization in genetic animal models**|Shakila Behzadi et.al.|[2411.06676](http://arxiv.org/abs/2411.06676)|null|
+|**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442](http://arxiv.org/abs/2411.06442)|**[link](https://github.com/dmhdmhdmh/liwt)**|
+|**2024-11-10**|**SuperResolution Radar Gesture Recognitio**|Netanel Blumenfeld et.al.|[2411.06410](http://arxiv.org/abs/2411.06410)|null|
+|**2024-11-09**|**Quasi-Newton OMP Approach for Super-Resolution Channel Estimation and Extrapolation**|Yi Zeng et.al.|[2411.06082](http://arxiv.org/abs/2411.06082)|null|
+|**2024-11-09**|**Predicting band structures for 2D Photonic Crystals via Deep Learning**|Yueqi Wang et.al.|[2411.06063](http://arxiv.org/abs/2411.06063)|null|
+|**2024-11-08**|**A Modular Conditional Diffusion Framework for Image Reconstruction**|Magauiya Zhussip et.al.|[2411.05993](http://arxiv.org/abs/2411.05993)|null|
 |**2024-11-08**|**WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning**|Xiangyu Zhao et.al.|[2411.05420](http://arxiv.org/abs/2411.05420)|null|
 |**2024-11-08**|**Electro-diffusive modeling and the role of spine geometry on action potential propagation in neurons**|Rahul Gulati et.al.|[2411.05329](http://arxiv.org/abs/2411.05329)|null|
 |**2024-11-07**|**Reducing data resolution for better super-resolution: Reconstructing turbulent flows from noisy observation**|Kyongmin Yeo et.al.|[2411.05240](http://arxiv.org/abs/2411.05240)|null|
@@ -2941,9 +2969,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images**|Yanguang Sun et.al.|[2411.06703](http://arxiv.org/abs/2411.06703)|**[link](https://github.com/csysi/udcnet)**|
+|**2024-11-11**|**Flight Demonstration and Model Validation of a Prototype Variable-Altitude Venus Aerobot**|Jacob S. Izraelevitz et.al.|[2411.06643](http://arxiv.org/abs/2411.06643)|null|
+|**2024-11-09**|**Aquila-plus: Prompt-Driven Visual-Language Models for Pixel-Level Remote Sensing Image Understanding**|Kaixuan Lu et.al.|[2411.06142](http://arxiv.org/abs/2411.06142)|null|
+|**2024-11-09**|**Pattern Integration and Enhancement Vision Transformer for Self-Supervised Learning in Remote Sensing**|Kaixuan Lu et.al.|[2411.06091](http://arxiv.org/abs/2411.06091)|null|
+|**2024-11-09**|**Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension**|Kaixuan Lu et.al.|[2411.06074](http://arxiv.org/abs/2411.06074)|null|
+|**2024-11-09**|**Movable Antennas in Wireless Systems: A Tool for Connectivity or a New Security Threat?**|Youssef Maghrebi et.al.|[2411.06028](http://arxiv.org/abs/2411.06028)|null|
+|**2024-11-08**|**Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model**|Shuchang Lyu et.al.|[2411.05878](http://arxiv.org/abs/2411.05878)|**[link](https://github.com/cv-shuchanglyu/sam-joanet)**|
+|**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
 |**2024-11-08**|**STARS: Sensor-agnostic Transformer Architecture for Remote Sensing**|Ethan King et.al.|[2411.05714](http://arxiv.org/abs/2411.05714)|null|
 |**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
-|**2024-11-07**|**Anticipatory Understanding of Resilient Agriculture to Climate**|David Willmes et.al.|[2411.05219](http://arxiv.org/abs/2411.05219)|null|
+|**2024-11-11**|**Anticipatory Understanding of Resilient Agriculture to Climate**|David Willmes et.al.|[2411.05219](http://arxiv.org/abs/2411.05219)|null|
 |**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
 |**2024-11-07**|**ESC-MISR: Enhancing Spatial Correlations for Multi-Image Super-Resolution in Remote Sensing**|Zhihui Zhang et.al.|[2411.04706](http://arxiv.org/abs/2411.04706)|null|
 |**2024-11-07**|**DNN-based 3D Cloud Retrieval for Variable Solar Illumination and Multiview Spaceborne Imaging**|Tamar Klein et.al.|[2411.04682](http://arxiv.org/abs/2411.04682)|null|

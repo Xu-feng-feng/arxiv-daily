@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -229,7 +229,7 @@ layout: default
 |**2024-11-13**|**Learning Optimal and Interpretable Summary Statistics of Galaxy Catalogs with SBI**|Kai Lehman et.al.|[2411.08957](http://arxiv.org/abs/2411.08957)|null|
 |**2024-11-13**|**LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing**|Xiaonan Nie et.al.|[2411.08446](http://arxiv.org/abs/2411.08446)|null|
 |**2024-11-12**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
-|**2024-11-11**|**Accelerating radio astronomy imaging with RICK**|Emanuele De Rubeis et.al.|[2411.07321](http://arxiv.org/abs/2411.07321)|null|
+|**2024-11-11**|**Accelerating radio astronomy imaging with RICK**|Emanuele De Rubeis et.al.|[2411.07321](http://arxiv.org/abs/2411.07321)|**[link](https://github.com/ICSC-Spoke3/RICK)**|
 |**2024-11-11**|**Low Complexity Learning-based Lossless Event-based Compression**|Ahmadreza Sezavar et.al.|[2411.07155](http://arxiv.org/abs/2411.07155)|null|
 |**2024-11-11**|**JPEG AI Image Compression Visual Artifacts: Detection Methods and Dataset**|Daria Tsereh et.al.|[2411.06810](http://arxiv.org/abs/2411.06810)|null|
 |**2024-11-11**|**Machine vision-aware quality metrics for compressed image and video assessment**|Mikhail Dremin et.al.|[2411.06776](http://arxiv.org/abs/2411.06776)|null|
@@ -3018,7 +3018,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-14**|**Adaptively Augmented Consistency Learning: A Semi-supervised Segmentation Framework for Remote Sensing**|Hui Ye et.al.|[2411.09344](http://arxiv.org/abs/2411.09344)|null|
 |**2024-11-14**|**LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation**|Zhenshi Li et.al.|[2411.09301](http://arxiv.org/abs/2411.09301)|**[link](https://github.com/NJU-LHRS/LHRS-Bot)**|
-|**2024-11-14**|**Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery**|Ashim Dahal et.al.|[2411.09101](http://arxiv.org/abs/2411.09101)|null|
+|**2024-11-14**|**Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery**|Ashim Dahal et.al.|[2411.09101](http://arxiv.org/abs/2411.09101)|**[link](https://github.com/ashimdahal/vit-vs-cnn-image-segmentation)**|
 |**2024-11-13**|**High-resolution optical and acoustic remote sensing datasets of the Puck Lagoon, Southern Baltic**|Łukasz Janowski et.al.|[2411.08712](http://arxiv.org/abs/2411.08712)|null|
 |**2024-11-13**|**Slender Object Scene Segmentation in Remote Sensing Image Based on Learnable Morphological Skeleton with Segment Anything Model**|Jun Xie et.al.|[2411.08592](http://arxiv.org/abs/2411.08592)|null|
 |**2024-11-13**|**Restoration algorithms and system performance evaluation for active imagers**|Jerome Gilles et.al.|[2411.08291](http://arxiv.org/abs/2411.08291)|null|

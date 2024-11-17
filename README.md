@@ -232,7 +232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-14**|**Application of signal separation to diffraction image compression and serial crystallography**|Jérôme Kieffer et.al.|[2411.09515](http://arxiv.org/abs/2411.09515)|null|
+|**2024-11-14**|**Application of signal separation to diffraction image compression and serial crystallography**|Jérôme Kieffer et.al.|[2411.09515](http://arxiv.org/abs/2411.09515)|**[link](https://github.com/silx-kit/pyFAI)**|
 |**2024-11-14**|**DT-JRD: Deep Transformer based Just Recognizable Difference Prediction Model for Video Coding for Machines**|Junqi Liu et.al.|[2411.09308](http://arxiv.org/abs/2411.09308)|null|
 |**2024-11-14**|**Towards efficient compression and communication for prototype-based decentralized learning**|Pablo Fernández-Piñeiro et.al.|[2411.09267](http://arxiv.org/abs/2411.09267)|null|
 |**2024-11-13**|**Learning Optimal and Interpretable Summary Statistics of Galaxy Catalogs with SBI**|Kai Lehman et.al.|[2411.08957](http://arxiv.org/abs/2411.08957)|null|

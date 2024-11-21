@@ -232,6 +232,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Benchmarking Quantum Convolutional Neural Networks for Classification and Data Compression Tasks**|Jun Yong Khoo et.al.|[2411.13468](http://arxiv.org/abs/2411.13468)|null|
+|**2024-11-20**|**Practical Compact Deep Compressed Sensing**|Bin Chen et.al.|[2411.13081](http://arxiv.org/abs/2411.13081)|**[link](https://github.com/guaishou74851/pcnet)**|
+|**2024-11-20**|**LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression**|Shimon Murai et.al.|[2411.13033](http://arxiv.org/abs/2411.13033)|**[link](https://github.com/tokkiwa/imagetextcoding)**|
 |**2024-11-19**|**Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need**|Kecheng Chen et.al.|[2411.12448](http://arxiv.org/abs/2411.12448)|null|
 |**2024-11-19**|**Breathless: An 8-hour Performance Contrasting Human and Robot Expressiveness**|Catie Cuan et.al.|[2411.12361](http://arxiv.org/abs/2411.12361)|null|
 |**2024-11-18**|**Variable Rate Neural Compression for Sparse Detector Data**|Yi Huang et.al.|[2411.11942](http://arxiv.org/abs/2411.11942)|**[link](https://github.com/BNL-DAQ-LDRD/NeuralCompression_v3)**|
@@ -837,6 +840,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548](http://arxiv.org/abs/2411.13548)|null|
+|**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
+|**2024-11-20**|**OceanLens: An Adaptive Backscatter and Edge Correction using Deep Learning Model for Enhanced Underwater Imaging**|Rajini Makam et.al.|[2411.13230](http://arxiv.org/abs/2411.13230)|null|
+|**2024-11-20**|**ESARM: 3D Emotional Speech-to-Animation via Reward Model from Automatically-Ranked Demonstrations**|Xulong Zhang et.al.|[2411.13089](http://arxiv.org/abs/2411.13089)|null|
+|**2024-11-20**|**LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression**|Shimon Murai et.al.|[2411.13033](http://arxiv.org/abs/2411.13033)|**[link](https://github.com/tokkiwa/imagetextcoding)**|
+|**2024-11-19**|**HyperGAN-CLIP: A Unified Framework for Domain Adaptation, Image Synthesis and Manipulation**|Abdul Basit Anees et.al.|[2411.12832](http://arxiv.org/abs/2411.12832)|null|
+|**2024-11-19**|**Mitigating Perception Bias: A Training-Free Approach to Enhance LMM for Image Quality Assessment**|Siyi Pan et.al.|[2411.12791](http://arxiv.org/abs/2411.12791)|null|
 |**2024-11-19**|**Stochastic BIQA: Median Randomized Smoothing for Certified Blind Image Quality Assessment**|Ekaterina Shumitskaya et.al.|[2411.12575](http://arxiv.org/abs/2411.12575)|null|
 |**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510](http://arxiv.org/abs/2411.12510)|**[link](https://github.com/SanoScience/PR-ENDO)**|
 |**2024-11-19**|**A $\ell_2-\ell_p$ regulariser based model for Poisson noise removal using augmented Lagrangian method**|Abdul Halim et.al.|[2411.12457](http://arxiv.org/abs/2411.12457)|null|
@@ -2339,6 +2349,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548](http://arxiv.org/abs/2411.13548)|null|
+|**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383](http://arxiv.org/abs/2411.13383)|null|
+|**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
+|**2024-11-19**|**Efficient Medicinal Image Transmission and Resolution Enhancement via GAN**|Rishabh Kumar Sharma et.al.|[2411.12833](http://arxiv.org/abs/2411.12833)|null|
 |**2024-11-19**|**ISAC Super-Resolution Receivers: The Effect of Different Dictionary Matrices**|Iman Valiulahi et.al.|[2411.12672](http://arxiv.org/abs/2411.12672)|null|
 |**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou et.al.|[2411.12530](http://arxiv.org/abs/2411.12530)|**[link](https://github.com/hey-it-s-me/corple)**|
 |**2024-11-18**|**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution**|Brian B. Moser et.al.|[2411.12072](http://arxiv.org/abs/2411.12072)|**[link](https://github.com/Brian-Moser/zido)**|
@@ -3085,6 +3099,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Adapting Vision Foundation Models for Robust Cloud Segmentation in Remote Sensing Images**|Xuechao Zou et.al.|[2411.13127](http://arxiv.org/abs/2411.13127)|**[link](https://github.com/xavierjiezou/cloud-adapter)**|
+|**2024-11-20**|**Automatic marker-free registration based on similar tetrahedras for single-tree point clouds**|Jing Ren et.al.|[2411.13069](http://arxiv.org/abs/2411.13069)|null|
+|**2024-11-20**|**Attentive Contextual Attention for Cloud Removal**|Wenli Huang et.al.|[2411.13042](http://arxiv.org/abs/2411.13042)|**[link](https://github.com/huangwenwenlili/aca-crnet)**|
+|**2024-11-20**|**Machine learned reconstruction of tsunami dynamics from sparse observations**|Edward McDugald et.al.|[2411.12948](http://arxiv.org/abs/2411.12948)|null|
+|**2024-11-19**|**Characterization of sea ice kinematics over oceanic eddies**|Minki Kim et.al.|[2411.12926](http://arxiv.org/abs/2411.12926)|null|
+|**2024-11-19**|**Tree Species Classification using Machine Learning and 3D Tomographic SAR -- a case study in Northern Europe**|Colverd Grace et.al.|[2411.12897](http://arxiv.org/abs/2411.12897)|null|
 |**2024-11-19**|**Machine Learning Approaches on Crop Pattern Recognition a Comparative Analysis**|Kazi Hasibul Kabir et.al.|[2411.12667](http://arxiv.org/abs/2411.12667)|null|
 |**2024-11-18**|**Terahertz Photonics on a Chip: Monolithically Integrated Terahertz Optoelectronics based on Quantum Well Structures**|Yifan Zhao et.al.|[2411.12046](http://arxiv.org/abs/2411.12046)|null|
 |**2024-11-16**|**GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding**|Yue Zhou et.al.|[2411.11904](http://arxiv.org/abs/2411.11904)|**[link](https://github.com/zytx121/geoground)**|

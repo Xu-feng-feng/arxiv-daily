@@ -223,6 +223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Differentiable SVD based on Moore-Penrose Pseudoinverse for Inverse Imaging Problems**|Yinghao Zhang et.al.|[2411.14141](http://arxiv.org/abs/2411.14141)|**[link](https://github.com/yhao-z/svd-inv)**|
+|**2024-11-21**|**Compact Visual Data Representation for Green Multimedia -- A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](http://arxiv.org/abs/2411.14135)|null|
+|**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
+|**2024-11-20**|**Sparse Input View Synthesis: 3D Representations and Reliable Priors**|Nagabhushan Somraj et.al.|[2411.13631](http://arxiv.org/abs/2411.13631)|null|
 |**2024-11-20**|**Benchmarking Quantum Convolutional Neural Networks for Classification and Data Compression Tasks**|Jun Yong Khoo et.al.|[2411.13468](http://arxiv.org/abs/2411.13468)|null|
 |**2024-11-20**|**Practical Compact Deep Compressed Sensing**|Bin Chen et.al.|[2411.13081](http://arxiv.org/abs/2411.13081)|**[link](https://github.com/guaishou74851/pcnet)**|
 |**2024-11-20**|**LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression**|Shimon Murai et.al.|[2411.13033](http://arxiv.org/abs/2411.13033)|**[link](https://github.com/tokkiwa/imagetextcoding)**|
@@ -829,12 +833,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Regional Attention for Shadow Removal**|Hengxing Liu et.al.|[2411.14201](http://arxiv.org/abs/2411.14201)|**[link](https://github.com/CalcuLuUus/RASM)**|
+|**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
+|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|null|
+|**2024-11-21**|**Robust Steganography with Boundary-Preserving Overflow Alleviation and Adaptive Error Correction**|Yu Cheng et.al.|[2411.13819](http://arxiv.org/abs/2411.13819)|null|
+|**2024-11-21**|**Edge-Cloud Routing for Text-to-Image Model with Token-Level Multi-Metric Prediction**|Zewei Xin et.al.|[2411.13787](http://arxiv.org/abs/2411.13787)|null|
+|**2024-11-20**|**What You See Is What Matters: A Novel Visual and Physics-Based Metric for Evaluating Video Generation Quality**|Zihan Wang et.al.|[2411.13609](http://arxiv.org/abs/2411.13609)|null|
 |**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548](http://arxiv.org/abs/2411.13548)|null|
 |**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
 |**2024-11-20**|**OceanLens: An Adaptive Backscatter and Edge Correction using Deep Learning Model for Enhanced Underwater Imaging**|Rajini Makam et.al.|[2411.13230](http://arxiv.org/abs/2411.13230)|null|
 |**2024-11-20**|**ESARM: 3D Emotional Speech-to-Animation via Reward Model from Automatically-Ranked Demonstrations**|Xulong Zhang et.al.|[2411.13089](http://arxiv.org/abs/2411.13089)|null|
 |**2024-11-20**|**LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression**|Shimon Murai et.al.|[2411.13033](http://arxiv.org/abs/2411.13033)|**[link](https://github.com/tokkiwa/imagetextcoding)**|
-|**2024-11-19**|**HyperGAN-CLIP: A Unified Framework for Domain Adaptation, Image Synthesis and Manipulation**|Abdul Basit Anees et.al.|[2411.12832](http://arxiv.org/abs/2411.12832)|null|
+|**2024-11-19**|**HyperGAN-CLIP: A Unified Framework for Domain Adaptation, Image Synthesis and Manipulation**|Abdul Basit Anees et.al.|[2411.12832](http://arxiv.org/abs/2411.12832)|**[link](https://github.com/adobe-research/domain-expansion)**|
 |**2024-11-19**|**Mitigating Perception Bias: A Training-Free Approach to Enhance LMM for Image Quality Assessment**|Siyi Pan et.al.|[2411.12791](http://arxiv.org/abs/2411.12791)|null|
 |**2024-11-19**|**Stochastic BIQA: Median Randomized Smoothing for Certified Blind Image Quality Assessment**|Ekaterina Shumitskaya et.al.|[2411.12575](http://arxiv.org/abs/2411.12575)|null|
 |**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510](http://arxiv.org/abs/2411.12510)|**[link](https://github.com/SanoScience/PR-ENDO)**|
@@ -2336,6 +2346,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**UPdec-Webb: A Dataset for Coaddition of JWST NIRCam Images**|Lei Wang et.al.|[2411.13891](http://arxiv.org/abs/2411.13891)|null|
 |**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548](http://arxiv.org/abs/2411.13548)|null|
 |**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383](http://arxiv.org/abs/2411.13383)|null|
 |**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
@@ -2345,7 +2356,7 @@ layout: default
 |**2024-11-18**|**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution**|Brian B. Moser et.al.|[2411.12072](http://arxiv.org/abs/2411.12072)|**[link](https://github.com/Brian-Moser/zido)**|
 |**2024-11-16**|**$\text{S}^{3}$ Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model**|Peizhe Xia et.al.|[2411.11906](http://arxiv.org/abs/2411.11906)|null|
 |**2024-11-17**|**Low-Complexity Algorithms for Multichannel Spectral Super-Resolution**|Xunmeng Wu et.al.|[2411.10938](http://arxiv.org/abs/2411.10938)|null|
-|**2024-11-16**|**Unveiling Hidden Details: A RAW Data-Enhanced Paradigm for Real-World Super-Resolution**|Long Peng et.al.|[2411.10798](http://arxiv.org/abs/2411.10798)|null|
+|**2024-11-21**|**Unveiling Hidden Details: A RAW Data-Enhanced Paradigm for Real-World Super-Resolution**|Long Peng et.al.|[2411.10798](http://arxiv.org/abs/2411.10798)|null|
 |**2024-11-15**|**Experimental demonstration of Tessellation Structured Illumination Microscopy**|Doron Shterman et.al.|[2411.10405](http://arxiv.org/abs/2411.10405)|null|
 |**2024-11-15**|**A Low-Resolution Image is Worth 1x1 Words: Enabling Fine Image Super-Resolution with Transformers and TaylorShift**|Sanath Budakegowdanadoddi Nagaraju et.al.|[2411.10231](http://arxiv.org/abs/2411.10231)|null|
 |**2024-11-15**|**DiffFNO: Diffusion Fourier Neural Operator**|Xiaoyi Liu et.al.|[2411.09911](http://arxiv.org/abs/2411.09911)|null|
@@ -3084,6 +3095,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Uncertainty-Aware Regression for Socio-Economic Estimation via Multi-View Remote Sensing**|Fan Yang et.al.|[2411.14119](http://arxiv.org/abs/2411.14119)|**[link](https://github.com/lukeyf/multiview_remote_sensing)**|
+|**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-20**|**Adapting Vision Foundation Models for Robust Cloud Segmentation in Remote Sensing Images**|Xuechao Zou et.al.|[2411.13127](http://arxiv.org/abs/2411.13127)|**[link](https://github.com/xavierjiezou/cloud-adapter)**|
 |**2024-11-20**|**Automatic marker-free registration based on similar tetrahedras for single-tree point clouds**|Jing Ren et.al.|[2411.13069](http://arxiv.org/abs/2411.13069)|null|
 |**2024-11-20**|**Attentive Contextual Attention for Cloud Removal**|Wenli Huang et.al.|[2411.13042](http://arxiv.org/abs/2411.13042)|**[link](https://github.com/huangwenwenlili/aca-crnet)**|

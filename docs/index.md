@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -835,7 +835,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-21**|**Regional Attention for Shadow Removal**|Hengxing Liu et.al.|[2411.14201](http://arxiv.org/abs/2411.14201)|**[link](https://github.com/CalcuLuUus/RASM)**|
 |**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
-|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|null|
+|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|**[link](https://github.com/wangkaihong/hadm)**|
 |**2024-11-21**|**Robust Steganography with Boundary-Preserving Overflow Alleviation and Adaptive Error Correction**|Yu Cheng et.al.|[2411.13819](http://arxiv.org/abs/2411.13819)|null|
 |**2024-11-21**|**Edge-Cloud Routing for Text-to-Image Model with Token-Level Multi-Metric Prediction**|Zewei Xin et.al.|[2411.13787](http://arxiv.org/abs/2411.13787)|null|
 |**2024-11-20**|**What You See Is What Matters: A Novel Visual and Physics-Based Metric for Evaluating Video Generation Quality**|Zihan Wang et.al.|[2411.13609](http://arxiv.org/abs/2411.13609)|null|

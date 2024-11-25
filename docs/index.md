@@ -223,6 +223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**U-Motion: Learned Point Cloud Video Compression with U-Structured Motion Estimation**|Tingyu Fan et.al.|[2411.14501](http://arxiv.org/abs/2411.14501)|null|
 |**2024-11-21**|**Differentiable SVD based on Moore-Penrose Pseudoinverse for Inverse Imaging Problems**|Yinghao Zhang et.al.|[2411.14141](http://arxiv.org/abs/2411.14141)|**[link](https://github.com/yhao-z/svd-inv)**|
 |**2024-11-21**|**Compact Visual Data Representation for Green Multimedia -- A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](http://arxiv.org/abs/2411.14135)|null|
 |**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
@@ -230,7 +231,7 @@ layout: default
 |**2024-11-20**|**Benchmarking Quantum Convolutional Neural Networks for Classification and Data Compression Tasks**|Jun Yong Khoo et.al.|[2411.13468](http://arxiv.org/abs/2411.13468)|null|
 |**2024-11-20**|**Practical Compact Deep Compressed Sensing**|Bin Chen et.al.|[2411.13081](http://arxiv.org/abs/2411.13081)|**[link](https://github.com/guaishou74851/pcnet)**|
 |**2024-11-20**|**LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression**|Shimon Murai et.al.|[2411.13033](http://arxiv.org/abs/2411.13033)|**[link](https://github.com/tokkiwa/imagetextcoding)**|
-|**2024-11-19**|**Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need**|Kecheng Chen et.al.|[2411.12448](http://arxiv.org/abs/2411.12448)|null|
+|**2024-11-22**|**Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need**|Kecheng Chen et.al.|[2411.12448](http://arxiv.org/abs/2411.12448)|null|
 |**2024-11-19**|**Breathless: An 8-hour Performance Contrasting Human and Robot Expressiveness**|Catie Cuan et.al.|[2411.12361](http://arxiv.org/abs/2411.12361)|null|
 |**2024-11-18**|**Variable Rate Neural Compression for Sparse Detector Data**|Yi Huang et.al.|[2411.11942](http://arxiv.org/abs/2411.11942)|**[link](https://github.com/BNL-DAQ-LDRD/NeuralCompression_v3)**|
 |**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795](http://arxiv.org/abs/2411.11795)|null|
@@ -833,6 +834,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**|Yu Xu et.al.|[2411.15034](http://arxiv.org/abs/2411.15034)|null|
+|**2024-11-22**|**FloAt: Flow Warping of Self-Attention for Clothing Animation Generation**|Swasti Shreya Mishra et.al.|[2411.15028](http://arxiv.org/abs/2411.15028)|null|
+|**2024-11-22**|**Information Extraction from Heterogenous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation**|Aniket Bhattacharyya et.al.|[2411.14957](http://arxiv.org/abs/2411.14957)|null|
+|**2024-11-22**|**Evaluating Vision Transformer Models for Visual Quality Control in Industrial Manufacturing**|Miriam Alber et.al.|[2411.14953](http://arxiv.org/abs/2411.14953)|**[link](https://github.com/visiontransformerad/vit-ad)**|
+|**2024-11-22**|**Fast High-Quality Enhanced Imaging Algorithm for Layered Dielectric Targets Based on MMW MIMO-SAR System**|Xu Chen et.al.|[2411.14837](http://arxiv.org/abs/2411.14837)|null|
+|**2024-11-22**|**BrightVAE: Luminosity Enhancement in Underexposed Endoscopic Images**|Farzaneh Koohestani et.al.|[2411.14663](http://arxiv.org/abs/2411.14663)|null|
+|**2024-11-22**|**VQalAttent: a Transparent Speech Generation Pipeline based on Transformer-learned VQ-VAE Latent Space**|Armani Rodriguez et.al.|[2411.14642](http://arxiv.org/abs/2411.14642)|null|
+|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
+|**2024-11-21**|**Optimal Transcoding Preset Selection for Live Video Streaming**|Zahra Nabizadeh et.al.|[2411.14613](http://arxiv.org/abs/2411.14613)|null|
+|**2024-11-21**|**Roadmap on Advances in Visual and Physiological Optics**|Jesús E. Gómez-Correa et.al.|[2411.14606](http://arxiv.org/abs/2411.14606)|null|
+|**2024-11-21**|**Night-to-Day Translation via Illumination Degradation Disentanglement**|Guanzhou Lan et.al.|[2411.14504](http://arxiv.org/abs/2411.14504)|null|
 |**2024-11-21**|**Regional Attention for Shadow Removal**|Hengxing Liu et.al.|[2411.14201](http://arxiv.org/abs/2411.14201)|**[link](https://github.com/CalcuLuUus/RASM)**|
 |**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
 |**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|**[link](https://github.com/wangkaihong/hadm)**|
@@ -3095,6 +3107,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Resolution-Adaptive Micro-Doppler Spectrogram for Human Activity Recognition**|Do-Hyun Park et.al.|[2411.15057](http://arxiv.org/abs/2411.15057)|null|
+|**2024-11-22**|**Reconciling Semantic Controllability and Diversity for Remote Sensing Image Synthesis with Hybrid Semantic Embedding**|Junde Liu et.al.|[2411.14781](http://arxiv.org/abs/2411.14781)|null|
+|**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|**[link](https://github.com/ZbaoSun/CMPAGL)**|
 |**2024-11-21**|**Uncertainty-Aware Regression for Socio-Economic Estimation via Multi-View Remote Sensing**|Fan Yang et.al.|[2411.14119](http://arxiv.org/abs/2411.14119)|**[link](https://github.com/lukeyf/multiview_remote_sensing)**|
 |**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-20**|**Adapting Vision Foundation Models for Robust Cloud Segmentation in Remote Sensing Images**|Xuechao Zou et.al.|[2411.13127](http://arxiv.org/abs/2411.13127)|**[link](https://github.com/xavierjiezou/cloud-adapter)**|

@@ -223,6 +223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**WTDUN: Wavelet Tree-Structured Sampling and Deep Unfolding Network for Image Compressed Sensing**|Kai Han et.al.|[2411.16336](http://arxiv.org/abs/2411.16336)|null|
+|**2024-11-25**|**Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression**|Xi Zhang et.al.|[2411.16119](http://arxiv.org/abs/2411.16119)|null|
+|**2024-11-25**|**TransCompressor: LLM-Powered Multimodal Data Compression for Smart Transportation**|Huanqi Yang et.al.|[2411.16020](http://arxiv.org/abs/2411.16020)|null|
+|**2024-11-24**|**Variable-size Symmetry-based Graph Fourier Transforms for image compression**|Alessandro Gnutti et.al.|[2411.15824](http://arxiv.org/abs/2411.15824)|null|
+|**2024-11-24**|**M3-CVC: Controllable Video Compression with Multimodal Generative Models**|Rui Wan et.al.|[2411.15798](http://arxiv.org/abs/2411.15798)|null|
+|**2024-11-24**|**Advanced Learning-Based Inter Prediction for Future Video Coding**|Yanchen Zhao et.al.|[2411.15759](http://arxiv.org/abs/2411.15759)|null|
+|**2024-11-24**|**PEnG: Pose-Enhanced Geo-Localisation**|Tavis Shore et.al.|[2411.15742](http://arxiv.org/abs/2411.15742)|null|
 |**2024-11-21**|**U-Motion: Learned Point Cloud Video Compression with U-Structured Motion Estimation**|Tingyu Fan et.al.|[2411.14501](http://arxiv.org/abs/2411.14501)|null|
 |**2024-11-21**|**Differentiable SVD based on Moore-Penrose Pseudoinverse for Inverse Imaging Problems**|Yinghao Zhang et.al.|[2411.14141](http://arxiv.org/abs/2411.14141)|**[link](https://github.com/yhao-z/svd-inv)**|
 |**2024-11-21**|**Compact Visual Data Representation for Green Multimedia -- A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](http://arxiv.org/abs/2411.14135)|null|
@@ -834,6 +841,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629](http://arxiv.org/abs/2411.16629)|null|
+|**2024-11-25**|**Human-Activity AGV Quality Assessment: A Benchmark Dataset and an Objective Evaluation Metric**|Zhichao Zhang et.al.|[2411.16619](http://arxiv.org/abs/2411.16619)|null|
+|**2024-11-25**|**Coherence Based Sound Speed Aberration Correction -- with clinical validation in obstetric ultrasound**|Anders Emil Vrålstad et.al.|[2411.16551](http://arxiv.org/abs/2411.16551)|null|
+|**2024-11-25**|**Synthesising Handwritten Music with GANs: A Comprehensive Evaluation of CycleWGAN, ProGAN, and DCGAN**|Elona Shatri et.al.|[2411.16405](http://arxiv.org/abs/2411.16405)|null|
+|**2024-11-25**|**Human-Calibrated Automated Testing and Validation of Generative Language Models**|Agus Sudjianto et.al.|[2411.16391](http://arxiv.org/abs/2411.16391)|null|
+|**2024-11-25**|**Bounds for the maximum modulus of polynomial roots with nearly optimal worst-case overestimation**|Prashant Batra et.al.|[2411.16385](http://arxiv.org/abs/2411.16385)|null|
+|**2024-11-25**|**Privacy-Preserving Federated Foundation Model for Generalist Ultrasound Artificial Intelligence**|Yuncheng Jiang et.al.|[2411.16380](http://arxiv.org/abs/2411.16380)|null|
+|**2024-11-25**|**Sonic: Shifting Focus to Global Audio Perception in Portrait Animation**|Xiaozhong Ji et.al.|[2411.16331](http://arxiv.org/abs/2411.16331)|null|
+|**2024-11-25**|**EPS: Efficient Patch Sampling for Video Overfitting in Deep Super-Resolution Model Training**|Yiying Wei et.al.|[2411.16312](http://arxiv.org/abs/2411.16312)|null|
+|**2024-11-25**|**Weakly supervised image segmentation for defect-based grading of fresh produce**|Manuel Knott et.al.|[2411.16219](http://arxiv.org/abs/2411.16219)|null|
+|**2024-11-25**|**VIRES: Video Instance Repainting with Sketch and Text Guidance**|Shuchen Weng et.al.|[2411.16199](http://arxiv.org/abs/2411.16199)|null|
+|**2024-11-25**|**Image Generation Diversity Issues and How to Tame Them**|Mischa Dombrowski et.al.|[2411.16171](http://arxiv.org/abs/2411.16171)|**[link](https://github.com/mischad/beyondfid)**|
+|**2024-11-25**|**ENCLIP: Ensembling and Clustering-Based Contrastive Language-Image Pretraining for Fashion Multimodal Search with Limited Data and Low-Quality Images**|Prithviraj Purushottam Naik et.al.|[2411.16096](http://arxiv.org/abs/2411.16096)|null|
+|**2024-11-25**|**AI-Generated Image Quality Assessment Based on Task-Specific Prompt and Multi-Granularity Similarity**|Jili Xia et.al.|[2411.16087](http://arxiv.org/abs/2411.16087)|null|
+|**2024-11-24**|**Distribution models of antennas in radio astronomy: Efficiency comparison of the golden spiral interferometry**|Elio Quiroga Rodriguez et.al.|[2411.15904](http://arxiv.org/abs/2411.15904)|null|
+|**2024-11-24**|**A review on Machine Learning based User-Centric Multimedia Streaming Techniques**|Monalisa Ghosh et.al.|[2411.15801](http://arxiv.org/abs/2411.15801)|null|
+|**2024-11-24**|**LTCF-Net: A Transformer-Enhanced Dual-Channel Fourier Framework for Low-Light Image Restoration**|Gaojing Zhang et.al.|[2411.15740](http://arxiv.org/abs/2411.15740)|null|
+|**2024-11-23**|**SPA: Efficient User-Preference Alignment against Uncertainty in Medical Image Segmentation**|Jiayuan Zhu et.al.|[2411.15513](http://arxiv.org/abs/2411.15513)|null|
+|**2024-11-23**|**Automatic Evaluation for Text-to-image Generation: Task-decomposed Framework, Distilled Training, and Meta-evaluation Benchmark**|Rong-Cheng Tu et.al.|[2411.15488](http://arxiv.org/abs/2411.15488)|null|
 |**2024-11-22**|**HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**|Yu Xu et.al.|[2411.15034](http://arxiv.org/abs/2411.15034)|null|
 |**2024-11-22**|**FloAt: Flow Warping of Self-Attention for Clothing Animation Generation**|Swasti Shreya Mishra et.al.|[2411.15028](http://arxiv.org/abs/2411.15028)|null|
 |**2024-11-22**|**Information Extraction from Heterogenous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation**|Aniket Bhattacharyya et.al.|[2411.14957](http://arxiv.org/abs/2411.14957)|null|
@@ -2358,6 +2384,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**EPS: Efficient Patch Sampling for Video Overfitting in Deep Super-Resolution Model Training**|Yiying Wei et.al.|[2411.16312](http://arxiv.org/abs/2411.16312)|null|
+|**2024-11-25**|**High-Resolution Be Aware! Improving the Self-Supervised Real-World Super-Resolution**|Yuehan Zhang et.al.|[2411.16175](http://arxiv.org/abs/2411.16175)|null|
+|**2024-11-23**|**FFT-Enhanced Low-Complexity Near-Field Super-Resolution Sensing**|Yuxiao Wu et.al.|[2411.15532](http://arxiv.org/abs/2411.15532)|null|
 |**2024-11-21**|**UPdec-Webb: A Dataset for Coaddition of JWST NIRCam Images**|Lei Wang et.al.|[2411.13891](http://arxiv.org/abs/2411.13891)|null|
 |**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548](http://arxiv.org/abs/2411.13548)|null|
 |**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383](http://arxiv.org/abs/2411.13383)|null|
@@ -3107,15 +3136,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**GeoFormer: A Multi-Polygon Segmentation Transformer**|Maxim Khomiakov et.al.|[2411.16616](http://arxiv.org/abs/2411.16616)|null|
+|**2024-11-25**|**Coronal hole picoflare jets are the progenitors of both the fast and the Alfvénic slow solar wind**|L. P. Chitta et.al.|[2411.16513](http://arxiv.org/abs/2411.16513)|null|
+|**2024-11-24**|**DRIVE: Dual-Robustness via Information Variability and Entropic Consistency in Source-Free Unsupervised Domain Adaptation**|Ruiqiang Xiao et.al.|[2411.15976](http://arxiv.org/abs/2411.15976)|null|
+|**2024-11-24**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|null|
+|**2024-11-24**|**LRSAA: Large-scale Remote Sensing Image Target Recognition and Automatic Annotation**|Yujuan Zhu et.al.|[2411.15808](http://arxiv.org/abs/2411.15808)|**[link](https://github.com/anaerovane/lrsaa)**|
+|**2024-11-24**|**Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering**|Zhicheng Zhao et.al.|[2411.15770](http://arxiv.org/abs/2411.15770)|null|
+|**2024-11-23**|**AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation**|Datao Tang et.al.|[2411.15497](http://arxiv.org/abs/2411.15497)|null|
+|**2024-11-22**|**Improved Background Estimation for Gas Plume Identification in Hyperspectral Images**|Scout Jarman et.al.|[2411.15378](http://arxiv.org/abs/2411.15378)|null|
+|**2024-11-20**|**Multimodal large language model for wheat breeding: a new exploration of smart breeding**|Guofeng Yang et.al.|[2411.15203](http://arxiv.org/abs/2411.15203)|null|
 |**2024-11-22**|**Resolution-Adaptive Micro-Doppler Spectrogram for Human Activity Recognition**|Do-Hyun Park et.al.|[2411.15057](http://arxiv.org/abs/2411.15057)|null|
 |**2024-11-22**|**Reconciling Semantic Controllability and Diversity for Remote Sensing Image Synthesis with Hybrid Semantic Embedding**|Junde Liu et.al.|[2411.14781](http://arxiv.org/abs/2411.14781)|null|
 |**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|**[link](https://github.com/ZbaoSun/CMPAGL)**|
 |**2024-11-21**|**Uncertainty-Aware Regression for Socio-Economic Estimation via Multi-View Remote Sensing**|Fan Yang et.al.|[2411.14119](http://arxiv.org/abs/2411.14119)|**[link](https://github.com/lukeyf/multiview_remote_sensing)**|
 |**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
-|**2024-11-20**|**Adapting Vision Foundation Models for Robust Cloud Segmentation in Remote Sensing Images**|Xuechao Zou et.al.|[2411.13127](http://arxiv.org/abs/2411.13127)|**[link](https://github.com/xavierjiezou/cloud-adapter)**|
+|**2024-11-23**|**Adapting Vision Foundation Models for Robust Cloud Segmentation in Remote Sensing Images**|Xuechao Zou et.al.|[2411.13127](http://arxiv.org/abs/2411.13127)|**[link](https://github.com/xavierjiezou/cloud-adapter)**|
 |**2024-11-20**|**Automatic marker-free registration based on similar tetrahedras for single-tree point clouds**|Jing Ren et.al.|[2411.13069](http://arxiv.org/abs/2411.13069)|null|
 |**2024-11-20**|**Attentive Contextual Attention for Cloud Removal**|Wenli Huang et.al.|[2411.13042](http://arxiv.org/abs/2411.13042)|**[link](https://github.com/huangwenwenlili/aca-crnet)**|
-|**2024-11-20**|**Machine learned reconstruction of tsunami dynamics from sparse observations**|Edward McDugald et.al.|[2411.12948](http://arxiv.org/abs/2411.12948)|null|
+|**2024-11-23**|**Machine learned reconstruction of tsunami dynamics from sparse observations**|Edward McDugald et.al.|[2411.12948](http://arxiv.org/abs/2411.12948)|null|
 |**2024-11-19**|**Characterization of sea ice kinematics over oceanic eddies**|Minki Kim et.al.|[2411.12926](http://arxiv.org/abs/2411.12926)|null|
 |**2024-11-19**|**Tree Species Classification using Machine Learning and 3D Tomographic SAR -- a case study in Northern Europe**|Colverd Grace et.al.|[2411.12897](http://arxiv.org/abs/2411.12897)|null|
 |**2024-11-19**|**Machine Learning Approaches on Crop Pattern Recognition a Comparative Analysis**|Kazi Hasibul Kabir et.al.|[2411.12667](http://arxiv.org/abs/2411.12667)|null|

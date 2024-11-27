@@ -232,6 +232,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Evaluating the Overhead of the Performance Profiler Cloudprofiler With MooBench**|Shinhyung Yang et.al.|[2411.17413](http://arxiv.org/abs/2411.17413)|null|
+|**2024-11-26**|**Motion Free B-frame Coding for Neural Video Compression**|Van Thang Nguyen et.al.|[2411.17160](http://arxiv.org/abs/2411.17160)|null|
+|**2024-11-23**|**An Information-Theoretic Regularizer for Lossy Neural Image Compression**|Yingwen Zhang et.al.|[2411.16727](http://arxiv.org/abs/2411.16727)|null|
 |**2024-11-25**|**WTDUN: Wavelet Tree-Structured Sampling and Deep Unfolding Network for Image Compressed Sensing**|Kai Han et.al.|[2411.16336](http://arxiv.org/abs/2411.16336)|null|
 |**2024-11-25**|**Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression**|Xi Zhang et.al.|[2411.16119](http://arxiv.org/abs/2411.16119)|null|
 |**2024-11-25**|**TransCompressor: LLM-Powered Multimodal Data Compression for Smart Transportation**|Huanqi Yang et.al.|[2411.16020](http://arxiv.org/abs/2411.16020)|null|
@@ -852,6 +855,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Perceptually Optimized Super Resolution**|Volodymyr Karpenko et.al.|[2411.17513](http://arxiv.org/abs/2411.17513)|null|
+|**2024-11-26**|**Puzzle Similarity: A Perceptually-guided No-Reference Metric for Artifact Detection in 3D Scene Reconstructions**|Nicolai Hermann et.al.|[2411.17489](http://arxiv.org/abs/2411.17489)|null|
+|**2024-11-26**|**Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging**|Jiaxu Zheng et.al.|[2411.17488](http://arxiv.org/abs/2411.17488)|null|
+|**2024-11-26**|**Dual-Representation Interaction Driven Image Quality Assessment with Restoration Assistance**|Jingtong Yue et.al.|[2411.17390](http://arxiv.org/abs/2411.17390)|**[link](https://github.com/Jingtong0527/DRI-IQA)**|
+|**2024-11-26**|**InsightEdit: Towards Better Instruction Following for Image Editing**|Yingjing Xu et.al.|[2411.17323](http://arxiv.org/abs/2411.17323)|null|
+|**2024-11-26**|**Reward Incremental Learning in Text-to-Image Generation**|Maorong Wang et.al.|[2411.17310](http://arxiv.org/abs/2411.17310)|null|
+|**2024-11-26**|**Grounding-IQA: Multimodal Language Grounding Model for Image Quality Assessment**|Zheng Chen et.al.|[2411.17237](http://arxiv.org/abs/2411.17237)|**[link](https://github.com/zhengchen1999/grounding-iqa)**|
+|**2024-11-26**|**AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM**|Jiarui Wang et.al.|[2411.17221](http://arxiv.org/abs/2411.17221)|**[link](https://github.com/wangjiarui153/AIGV-Assessor)**|
+|**2024-11-26**|**ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting**|Chengyou Jia et.al.|[2411.17176](http://arxiv.org/abs/2411.17176)|null|
+|**2024-11-26**|**OSDFace: One-Step Diffusion Model for Face Restoration**|Jingkai Wang et.al.|[2411.17163](http://arxiv.org/abs/2411.17163)|**[link](https://github.com/jkwang28/osdface)**|
+|**2024-11-26**|**Motion Free B-frame Coding for Neural Video Compression**|Van Thang Nguyen et.al.|[2411.17160](http://arxiv.org/abs/2411.17160)|null|
+|**2024-11-26**|**4D Scaffold Gaussian Splatting for Memory Efficient Dynamic Scene Reconstruction**|Woong Oh Cho et.al.|[2411.17044](http://arxiv.org/abs/2411.17044)|null|
+|**2024-11-26**|**TED-VITON: Transformer-Empowered Diffusion Models for Virtual Try-On**|Zhenchen Wan et.al.|[2411.17017](http://arxiv.org/abs/2411.17017)|null|
+|**2024-11-25**|**G2SDF: Surface Reconstruction from Explicit Gaussians with Implicit SDFs**|Kunyi Li et.al.|[2411.16898](http://arxiv.org/abs/2411.16898)|null|
+|**2024-11-25**|**Fully Automatic Deep Learning Pipeline for Whole Slide Image Quality Assessment**|Falah Jabar et.al.|[2411.16885](http://arxiv.org/abs/2411.16885)|null|
 |**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629](http://arxiv.org/abs/2411.16629)|null|
 |**2024-11-25**|**Human-Activity AGV Quality Assessment: A Benchmark Dataset and an Objective Evaluation Metric**|Zhichao Zhang et.al.|[2411.16619](http://arxiv.org/abs/2411.16619)|null|
 |**2024-11-25**|**Coherence Based Sound Speed Aberration Correction -- with clinical validation in obstetric ultrasound**|Anders Emil Vrålstad et.al.|[2411.16551](http://arxiv.org/abs/2411.16551)|null|
@@ -2397,6 +2415,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Perceptually Optimized Super Resolution**|Volodymyr Karpenko et.al.|[2411.17513](http://arxiv.org/abs/2411.17513)|null|
+|**2024-11-26**|**MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution**|Chengxing Xie et.al.|[2411.17214](http://arxiv.org/abs/2411.17214)|null|
+|**2024-11-26**|**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2411.17106](http://arxiv.org/abs/2411.17106)|**[link](https://github.com/libozhu03/passionsr)**|
+|**2024-11-26**|**ΩSFormer: Dual-Modal Ω-like Super-Resolution Transformer Network for Cross-scale and High-accuracy Terraced Field Vectorization Extraction**|Chang Li et.al.|[2411.17088](http://arxiv.org/abs/2411.17088)|null|
+|**2024-11-25**|**ZoomLDM: Latent Diffusion Model for multi-scale image generation**|Srikar Yellapragada et.al.|[2411.16969](http://arxiv.org/abs/2411.16969)|null|
+|**2024-11-25**|**From Diffusion to Resolution: Leveraging 2D Diffusion Models for 3D Super-Resolution Task**|Bohao Chen et.al.|[2411.16792](http://arxiv.org/abs/2411.16792)|null|
 |**2024-11-25**|**EPS: Efficient Patch Sampling for Video Overfitting in Deep Super-Resolution Model Training**|Yiying Wei et.al.|[2411.16312](http://arxiv.org/abs/2411.16312)|null|
 |**2024-11-25**|**High-Resolution Be Aware! Improving the Self-Supervised Real-World Super-Resolution**|Yuehan Zhang et.al.|[2411.16175](http://arxiv.org/abs/2411.16175)|null|
 |**2024-11-23**|**FFT-Enhanced Low-Complexity Near-Field Super-Resolution Sensing**|Yuxiao Wu et.al.|[2411.15532](http://arxiv.org/abs/2411.15532)|null|
@@ -3151,18 +3175,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-25**|**GeoFormer: A Multi-Polygon Segmentation Transformer**|Maxim Khomiakov et.al.|[2411.16616](http://arxiv.org/abs/2411.16616)|null|
+|**2024-11-26**|**Machine Learning and Multi-source Remote Sensing in Forest Carbon Stock Estimation: A Review**|Autumn Nguyen et.al.|[2411.17624](http://arxiv.org/abs/2411.17624)|null|
+|**2024-11-26**|**MRIFE: A Mask-Recovering and Interactive-Feature-Enhancing Semantic Segmentation Network For Relic Landslide Detection**|Juefei He et.al.|[2411.17167](http://arxiv.org/abs/2411.17167)|null|
+|**2024-11-26**|**ΩSFormer: Dual-Modal Ω-like Super-Resolution Transformer Network for Cross-scale and High-accuracy Terraced Field Vectorization Extraction**|Chang Li et.al.|[2411.17088](http://arxiv.org/abs/2411.17088)|null|
+|**2024-11-26**|**SatVision-TOA: A Geospatial Foundation Model for Coarse-Resolution All-Sky Remote Sensing Imagery**|Caleb S. Spradlin et.al.|[2411.17000](http://arxiv.org/abs/2411.17000)|**[link](https://github.com/nasa-nccs-hpda/pytorch-caney)**|
+|**2024-11-25**|**CMAViT: Integrating Climate, Managment, and Remote Sensing Data for Crop Yield Estimation with Multimodel Vision Transformers**|Hamid Kamangir et.al.|[2411.16989](http://arxiv.org/abs/2411.16989)|null|
+|**2024-11-23**|**Gradient-Guided Parameter Mask for Multi-Scenario Image Restoration Under Adverse Weather**|Jilong Guo et.al.|[2411.16739](http://arxiv.org/abs/2411.16739)|**[link](https://github.com/aierlab/multitask)**|
+|**2024-11-25**|**GeoFormer: A Multi-Polygon Segmentation Transformer**|Maxim Khomiakov et.al.|[2411.16616](http://arxiv.org/abs/2411.16616)|**[link](https://github.com/pihalf/GeoFormer)**|
 |**2024-11-25**|**Coronal hole picoflare jets are the progenitors of both the fast and the Alfvénic slow solar wind**|L. P. Chitta et.al.|[2411.16513](http://arxiv.org/abs/2411.16513)|null|
 |**2024-11-24**|**DRIVE: Dual-Robustness via Information Variability and Entropic Consistency in Source-Free Unsupervised Domain Adaptation**|Ruiqiang Xiao et.al.|[2411.15976](http://arxiv.org/abs/2411.15976)|null|
 |**2024-11-24**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|null|
-|**2024-11-24**|**LRSAA: Large-scale Remote Sensing Image Target Recognition and Automatic Annotation**|Yujuan Zhu et.al.|[2411.15808](http://arxiv.org/abs/2411.15808)|**[link](https://github.com/anaerovane/lrsaa)**|
+|**2024-11-26**|**LRSAA: Large-scale Remote Sensing Image Target Recognition and Automatic Annotation**|Wuzheng Dong et.al.|[2411.15808](http://arxiv.org/abs/2411.15808)|**[link](https://github.com/anaerovane/lrsaa)**|
 |**2024-11-24**|**Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering**|Zhicheng Zhao et.al.|[2411.15770](http://arxiv.org/abs/2411.15770)|null|
-|**2024-11-23**|**AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation**|Datao Tang et.al.|[2411.15497](http://arxiv.org/abs/2411.15497)|null|
+|**2024-11-26**|**AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation**|Datao Tang et.al.|[2411.15497](http://arxiv.org/abs/2411.15497)|null|
 |**2024-11-22**|**Improved Background Estimation for Gas Plume Identification in Hyperspectral Images**|Scout Jarman et.al.|[2411.15378](http://arxiv.org/abs/2411.15378)|null|
 |**2024-11-20**|**Multimodal large language model for wheat breeding: a new exploration of smart breeding**|Guofeng Yang et.al.|[2411.15203](http://arxiv.org/abs/2411.15203)|null|
 |**2024-11-22**|**Resolution-Adaptive Micro-Doppler Spectrogram for Human Activity Recognition**|Do-Hyun Park et.al.|[2411.15057](http://arxiv.org/abs/2411.15057)|null|
 |**2024-11-22**|**Reconciling Semantic Controllability and Diversity for Remote Sensing Image Synthesis with Hybrid Semantic Embedding**|Junde Liu et.al.|[2411.14781](http://arxiv.org/abs/2411.14781)|null|
-|**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|**[link](https://github.com/ZbaoSun/CMPAGL)**|
+|**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|null|
 |**2024-11-21**|**Uncertainty-Aware Regression for Socio-Economic Estimation via Multi-View Remote Sensing**|Fan Yang et.al.|[2411.14119](http://arxiv.org/abs/2411.14119)|**[link](https://github.com/lukeyf/multiview_remote_sensing)**|
 |**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-23**|**Adapting Vision Foundation Models for Robust Cloud Segmentation in Remote Sensing Images**|Xuechao Zou et.al.|[2411.13127](http://arxiv.org/abs/2411.13127)|**[link](https://github.com/xavierjiezou/cloud-adapter)**|

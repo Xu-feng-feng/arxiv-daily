@@ -223,6 +223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Learning Optimal Linear Block Transform by Rate Distortion Minimization**|Alessandro Gnutti et.al.|[2411.18494](http://arxiv.org/abs/2411.18494)|null|
+|**2024-11-27**|**HEMGS: A Hybrid Entropy Model for 3D Gaussian Splatting Data Compression**|Lei Liu et.al.|[2411.18473](http://arxiv.org/abs/2411.18473)|null|
 |**2024-11-26**|**Evaluating the Overhead of the Performance Profiler Cloudprofiler With MooBench**|Shinhyung Yang et.al.|[2411.17413](http://arxiv.org/abs/2411.17413)|null|
 |**2024-11-26**|**Motion Free B-frame Coding for Neural Video Compression**|Van Thang Nguyen et.al.|[2411.17160](http://arxiv.org/abs/2411.17160)|null|
 |**2024-11-23**|**An Information-Theoretic Regularizer for Lossy Neural Image Compression**|Yingwen Zhang et.al.|[2411.16727](http://arxiv.org/abs/2411.16727)|null|
@@ -236,7 +238,7 @@ layout: default
 |**2024-11-21**|**U-Motion: Learned Point Cloud Video Compression with U-Structured Motion Estimation**|Tingyu Fan et.al.|[2411.14501](http://arxiv.org/abs/2411.14501)|null|
 |**2024-11-21**|**Differentiable SVD based on Moore-Penrose Pseudoinverse for Inverse Imaging Problems**|Yinghao Zhang et.al.|[2411.14141](http://arxiv.org/abs/2411.14141)|**[link](https://github.com/yhao-z/svd-inv)**|
 |**2024-11-21**|**Compact Visual Data Representation for Green Multimedia -- A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](http://arxiv.org/abs/2411.14135)|null|
-|**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
+|**2024-11-27**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
 |**2024-11-20**|**Sparse Input View Synthesis: 3D Representations and Reliable Priors**|Nagabhushan Somraj et.al.|[2411.13631](http://arxiv.org/abs/2411.13631)|null|
 |**2024-11-20**|**Benchmarking Quantum Convolutional Neural Networks for Classification and Data Compression Tasks**|Jun Yong Khoo et.al.|[2411.13468](http://arxiv.org/abs/2411.13468)|null|
 |**2024-11-20**|**Practical Compact Deep Compressed Sensing**|Bin Chen et.al.|[2411.13081](http://arxiv.org/abs/2411.13081)|**[link](https://github.com/guaishou74851/pcnet)**|
@@ -844,6 +846,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Textured Gaussians for Enhanced 3D Scene Appearance Modeling**|Brian Chao et.al.|[2411.18625](http://arxiv.org/abs/2411.18625)|null|
+|**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372](http://arxiv.org/abs/2411.18372)|null|
+|**2024-11-27**|**HUPE: Heuristic Underwater Perceptual Enhancement with Semantic Collaborative Learning**|Zengxi Zhang et.al.|[2411.18296](http://arxiv.org/abs/2411.18296)|**[link](https://github.com/zengxizhang/hupe)**|
+|**2024-11-27**|**Deep End-to-end Adaptive k-Space Sampling, Reconstruction, and Registration for Dynamic MRI**|George Yiasemis et.al.|[2411.18249](http://arxiv.org/abs/2411.18249)|null|
+|**2024-11-27**|**Towards Improved Objective Perceptual Audio Quality Assessment -- Part 1: A Novel Data-Driven Cognitive Model**|Pablo M. Delgado et.al.|[2411.18222](http://arxiv.org/abs/2411.18222)|null|
+|**2024-11-27**|**KAN See Your Face**|Dong Han et.al.|[2411.18165](http://arxiv.org/abs/2411.18165)|null|
+|**2024-11-27**|**Type-R: Automatically Retouching Typos for Text-to-Image Generation**|Wataru Shimoda et.al.|[2411.18159](http://arxiv.org/abs/2411.18159)|null|
+|**2024-11-26**|**MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework**|Xiangcheng Hu et.al.|[2411.17928](http://arxiv.org/abs/2411.17928)|null|
+|**2024-11-26**|**SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation**|Ximing Xing et.al.|[2411.17832](http://arxiv.org/abs/2411.17832)|null|
+|**2024-11-26**|**Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient**|Zigeng Chen et.al.|[2411.17787](http://arxiv.org/abs/2411.17787)|**[link](https://github.com/czg1225/code)**|
+|**2024-11-27**|**Diffusion Autoencoders for Few-shot Image Generation in Hyperbolic Space**|Lingxiao Li et.al.|[2411.17784](http://arxiv.org/abs/2411.17784)|null|
 |**2024-11-26**|**Perceptually Optimized Super Resolution**|Volodymyr Karpenko et.al.|[2411.17513](http://arxiv.org/abs/2411.17513)|null|
 |**2024-11-26**|**Puzzle Similarity: A Perceptually-guided No-Reference Metric for Artifact Detection in 3D Scene Reconstructions**|Nicolai Hermann et.al.|[2411.17489](http://arxiv.org/abs/2411.17489)|null|
 |**2024-11-26**|**Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging**|Jiaxu Zheng et.al.|[2411.17488](http://arxiv.org/abs/2411.17488)|null|
@@ -2402,6 +2415,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372](http://arxiv.org/abs/2411.18372)|null|
+|**2024-11-27**|**TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution**|Linwei Dong et.al.|[2411.18263](http://arxiv.org/abs/2411.18263)|null|
+|**2024-11-27**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003](http://arxiv.org/abs/2411.18003)|null|
+|**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980](http://arxiv.org/abs/2411.17980)|**[link](https://github.com/boa2004plaust/vimd)**|
 |**2024-11-26**|**Perceptually Optimized Super Resolution**|Volodymyr Karpenko et.al.|[2411.17513](http://arxiv.org/abs/2411.17513)|null|
 |**2024-11-26**|**MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution**|Chengxing Xie et.al.|[2411.17214](http://arxiv.org/abs/2411.17214)|null|
 |**2024-11-26**|**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2411.17106](http://arxiv.org/abs/2411.17106)|**[link](https://github.com/libozhu03/passionsr)**|
@@ -3160,6 +3177,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Weakly Supervised Framework Considering Multi-temporal Information for Large-scale Cropland Mapping with Satellite Imagery**|Yuze Wang et.al.|[2411.18475](http://arxiv.org/abs/2411.18475)|null|
+|**2024-11-27**|**MM-Path: Multi-modal, Multi-granularity Path Representation Learning -- Extended Version**|Ronghui Xu et.al.|[2411.18428](http://arxiv.org/abs/2411.18428)|null|
+|**2024-11-27**|**COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models**|Xiao An et.al.|[2411.18145](http://arxiv.org/abs/2411.18145)|null|
+|**2024-11-27**|**RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model**|Huiyang Hu et.al.|[2411.17984](http://arxiv.org/abs/2411.17984)|null|
+|**2024-11-27**|**Improved implicit diffusion model with knowledge distillation to estimate the spatial distribution density of carbon stock in remote sensing imagery**|Zhenyu Yu et.al.|[2411.17973](http://arxiv.org/abs/2411.17973)|null|
+|**2024-11-26**|**Exploring Superpixel Segmentation Methods in the Context of Citizen Science and Deforestation Detection**|Hugo Resende et.al.|[2411.17922](http://arxiv.org/abs/2411.17922)|null|
 |**2024-11-26**|**Machine Learning and Multi-source Remote Sensing in Forest Carbon Stock Estimation: A Review**|Autumn Nguyen et.al.|[2411.17624](http://arxiv.org/abs/2411.17624)|null|
 |**2024-11-26**|**MRIFE: A Mask-Recovering and Interactive-Feature-Enhancing Semantic Segmentation Network For Relic Landslide Detection**|Juefei He et.al.|[2411.17167](http://arxiv.org/abs/2411.17167)|null|
 |**2024-11-26**|**ΩSFormer: Dual-Modal Ω-like Super-Resolution Transformer Network for Cross-scale and High-accuracy Terraced Field Vectorization Extraction**|Chang Li et.al.|[2411.17088](http://arxiv.org/abs/2411.17088)|null|

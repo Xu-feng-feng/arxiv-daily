@@ -232,6 +232,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Efficient Algorithms for Low Tubal Rank Tensor Approximation with Applications to Image Compression, Super-Resolution and Deep Learning**|Salman Ahmadi-Asl et.al.|[2412.02598](http://arxiv.org/abs/2412.02598)|null|
+|**2024-12-03**|**Randomized algorithms for Kroncecker tensor decomposition and applications**|Salman Ahmadi-Asl et.al.|[2412.02597](http://arxiv.org/abs/2412.02597)|null|
+|**2024-12-03**|**Efficient Model Compression Techniques with FishLeg**|Jamie McGowan et.al.|[2412.02328](http://arxiv.org/abs/2412.02328)|null|
+|**2024-12-02**|**Efficient Compression of Sparse Accelerator Data Using Implicit Neural Representations and Importance Sampling**|Xihaier Luo et.al.|[2412.01754](http://arxiv.org/abs/2412.01754)|null|
+|**2024-12-02**|**Robust and Transferable Backdoor Attacks Against Deep Image Compression With Selective Frequency Prior**|Yi Yu et.al.|[2412.01646](http://arxiv.org/abs/2412.01646)|null|
+|**2024-12-01**|**Construction of generalized samplets in Banach spaces**|Peter Balazs et.al.|[2412.00954](http://arxiv.org/abs/2412.00954)|null|
+|**2024-11-30**|**Good, Cheap, and Fast: Overfitted Image Compression with Wasserstein Distortion**|Jona Ballé et.al.|[2412.00505](http://arxiv.org/abs/2412.00505)|null|
+|**2024-11-30**|**Hybrid Local-Global Context Learning for Neural Video Compression**|Yongqi Zhai et.al.|[2412.00446](http://arxiv.org/abs/2412.00446)|null|
+|**2024-11-30**|**DeepFGS: Fine-Grained Scalable Coding for Learned Image Compression**|Yongqi Zhai et.al.|[2412.00437](http://arxiv.org/abs/2412.00437)|null|
 |**2024-11-29**|**AIDetx: a compression-based method for identification of machine-learning generated text**|Leonardo Almeida et.al.|[2411.19869](http://arxiv.org/abs/2411.19869)|**[link](https://github.com/aidetx/aidetx)**|
 |**2024-11-29**|**Memristive Nanowire Network for Energy Efficient Audio Classification: Pre-Processing-Free Reservoir Computing with Reduced Latency**|Akshaya Rajesh et.al.|[2411.19611](http://arxiv.org/abs/2411.19611)|null|
 |**2024-11-29**|**MCUCoder: Adaptive Bitrate Learned Video Compression for IoT Devices**|Ali Hojjat et.al.|[2411.19442](http://arxiv.org/abs/2411.19442)|**[link](https://github.com/ds-kiel/mcucoder)**|
@@ -862,6 +871,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-03**|**High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method**|Yi Zeng et.al.|[2412.02413](http://arxiv.org/abs/2412.02413)|null|
+|**2024-12-03**|**Switchable deep beamformer for high-quality and real-time passive acoustic mapping**|Yi Zeng et.al.|[2412.02327](http://arxiv.org/abs/2412.02327)|null|
+|**2024-12-03**|**Initial Study On Improving Segmentation By Combining Preoperative CT And Intraoperative CBCT Using Synthetic Data**|Maximilian E. Tschuchnig et.al.|[2412.02294](http://arxiv.org/abs/2412.02294)|null|
+|**2024-12-02**|**NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic Adversarial Training**|Dar-Yen Chen et.al.|[2412.02030](http://arxiv.org/abs/2412.02030)|null|
+|**2024-12-02**|**HybridMQA: Exploring Geometry-Texture Interactions for Colored Mesh Quality Assessment**|Armin Shafiee Sarvestani et.al.|[2412.01986](http://arxiv.org/abs/2412.01986)|null|
+|**2024-12-02**|**IQA-Adapter: Exploring Knowledge Transfer from Image Quality Assessment to Diffusion-based Generative Models**|Khaled Abud et.al.|[2412.01794](http://arxiv.org/abs/2412.01794)|**[link](https://github.com/x1716/iqa-adapter)**|
+|**2024-12-02**|**OmniGuard: Hybrid Manipulation Localization via Augmented Versatile Deep Image Watermarking**|Xuanyu Zhang et.al.|[2412.01615](http://arxiv.org/abs/2412.01615)|null|
+|**2024-12-02**|**Negative Token Merging: Image-based Adversarial Feature Guidance**|Jaskirat Singh et.al.|[2412.01339](http://arxiv.org/abs/2412.01339)|null|
+|**2024-12-02**|**Data Uncertainty-Aware Learning for Multimodal Aspect-based Sentiment Analysis**|Hao Yang et.al.|[2412.01249](http://arxiv.org/abs/2412.01249)|null|
+|**2024-12-02**|**Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation**|Zilyu Ye et.al.|[2412.01243](http://arxiv.org/abs/2412.01243)|null|
+|**2024-12-02**|**PainterNet: Adaptive Image Inpainting with Actual-Token Attention and Diverse Mask Control**|Ruichen Wang et.al.|[2412.01223](http://arxiv.org/abs/2412.01223)|null|
+|**2024-12-02**|**Assessing GPT Model Uncertainty in Mathematical OCR Tasks via Entropy Analysis**|Alexei Kaltchenko et.al.|[2412.01221](http://arxiv.org/abs/2412.01221)|null|
+|**2024-12-02**|**LoyalDiffusion: A Diffusion Model Guarding Against Data Replication**|Chenghao Li et.al.|[2412.01118](http://arxiv.org/abs/2412.01118)|null|
+|**2024-12-02**|**FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**|Taekyung Ki et.al.|[2412.01064](http://arxiv.org/abs/2412.01064)|null|
+|**2024-12-02**|**Evaluating Automated Radiology Report Quality through Fine-Grained Phrasal Grounding of Clinical Findings**|Razi Mahmood et.al.|[2412.01031](http://arxiv.org/abs/2412.01031)|null|
+|**2024-12-01**|**Optimal Algorithms for Augmented Testing of Discrete Distributions**|Maryam Aliakbarpour et.al.|[2412.00974](http://arxiv.org/abs/2412.00974)|null|
+|**2024-12-01**|**Generating AI Literacy MCQs: A Multi-Agent LLM Approach**|Jiayi Wang et.al.|[2412.00970](http://arxiv.org/abs/2412.00970)|null|
+|**2024-12-01**|**Playable Game Generation**|Mingyu Yang et.al.|[2412.00887](http://arxiv.org/abs/2412.00887)|**[link](https://github.com/greatx3/playable-game-generation)**|
+|**2024-11-30**|**Multi-resolution Guided 3D GANs for Medical Image Translation**|Juhyung Ha et.al.|[2412.00575](http://arxiv.org/abs/2412.00575)|null|
 |**2024-11-29**|**INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge**|Angelika Romanou et.al.|[2411.19799](http://arxiv.org/abs/2411.19799)|null|
 |**2024-11-29**|**ChineseWebText 2.0: Large-Scale High-quality Chinese Web Text with Multi-dimensional and fine-grained information**|Wanyue Zhang et.al.|[2411.19668](http://arxiv.org/abs/2411.19668)|**[link](https://github.com/casia-lm/chinesewebtext-2.0)**|
 |**2024-11-29**|**Tortho-Gaussian: Splatting True Digital Orthophoto Maps**|Xin Wang et.al.|[2411.19594](http://arxiv.org/abs/2411.19594)|null|
@@ -2448,6 +2477,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Efficient Algorithms for Low Tubal Rank Tensor Approximation with Applications to Image Compression, Super-Resolution and Deep Learning**|Salman Ahmadi-Asl et.al.|[2412.02598](http://arxiv.org/abs/2412.02598)|null|
+|**2024-12-03**|**Randomized algorithms for Kroncecker tensor decomposition and applications**|Salman Ahmadi-Asl et.al.|[2412.02597](http://arxiv.org/abs/2412.02597)|null|
+|**2024-12-03**|**CubeFormer: A Simple yet Effective Baseline for Lightweight Image Super-Resolution**|Jikai Wang et.al.|[2412.02234](http://arxiv.org/abs/2412.02234)|null|
+|**2024-12-02**|**SUICA: Learning Super-high Dimensional Sparse Implicit Neural Representations for Spatial Transcriptomics**|Qingtian Zhu et.al.|[2412.01124](http://arxiv.org/abs/2412.01124)|null|
+|**2024-12-03**|**VISION-XL: High Definition Video Inverse Problem Solver using Latent Image Diffusion Models**|Taesung Kwon et.al.|[2412.00156](http://arxiv.org/abs/2412.00156)|null|
+|**2024-11-28**|**Auto-Encoded Supervision for Perceptual Image Super-Resolution**|MinKyu Lee et.al.|[2412.00124](http://arxiv.org/abs/2412.00124)|null|
 |**2024-11-28**|**Stochastic Frequency Fluctuation Super-Resolution Imaging**|Yifan Chen et.al.|[2411.19369](http://arxiv.org/abs/2411.19369)|null|
 |**2024-11-27**|**FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution**|Junyang Chen et.al.|[2411.18824](http://arxiv.org/abs/2411.18824)|null|
 |**2024-11-27**|**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**|Li-Yuan Tsao et.al.|[2411.18662](http://arxiv.org/abs/2411.18662)|**[link](https://github.com/liyuantsao/HoliSDiP)**|
@@ -2457,7 +2492,7 @@
 |**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980](http://arxiv.org/abs/2411.17980)|**[link](https://github.com/boa2004plaust/vimd)**|
 |**2024-11-26**|**Perceptually Optimized Super Resolution**|Volodymyr Karpenko et.al.|[2411.17513](http://arxiv.org/abs/2411.17513)|null|
 |**2024-11-26**|**MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution**|Chengxing Xie et.al.|[2411.17214](http://arxiv.org/abs/2411.17214)|null|
-|**2024-11-30**|**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2411.17106](http://arxiv.org/abs/2411.17106)|**[link](https://github.com/libozhu03/passionsr)**|
+|**2024-12-03**|**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2411.17106](http://arxiv.org/abs/2411.17106)|**[link](https://github.com/libozhu03/passionsr)**|
 |**2024-11-26**|**ΩSFormer: Dual-Modal Ω-like Super-Resolution Transformer Network for Cross-scale and High-accuracy Terraced Field Vectorization Extraction**|Chang Li et.al.|[2411.17088](http://arxiv.org/abs/2411.17088)|null|
 |**2024-11-25**|**ZoomLDM: Latent Diffusion Model for multi-scale image generation**|Srikar Yellapragada et.al.|[2411.16969](http://arxiv.org/abs/2411.16969)|null|
 |**2024-11-25**|**From Diffusion to Resolution: Leveraging 2D Diffusion Models for 3D Super-Resolution Task**|Bohao Chen et.al.|[2411.16792](http://arxiv.org/abs/2411.16792)|null|
@@ -3215,6 +3250,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Copy-Move Forgery Detection and Question Answering for Remote Sensing Image**|Ze Zhang et.al.|[2412.02575](http://arxiv.org/abs/2412.02575)|**[link](https://github.com/shenyedepisa/rscmqa)**|
+|**2024-12-03**|**Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey**|Chenyang Liu et.al.|[2412.02573](http://arxiv.org/abs/2412.02573)|**[link](https://github.com/chen-yang-liu/awesome-rs-temporal-vlm)**|
+|**2024-12-03**|**Multimodal Remote Sensing Scene Classification Using VLMs and Dual-Cross Attention Networks**|Jinjin Cai et.al.|[2412.02531](http://arxiv.org/abs/2412.02531)|null|
+|**2024-12-02**|**Enhancing Crop Segmentation in Satellite Image Time Series with Transformer Networks**|Ignazio Gallo et.al.|[2412.01944](http://arxiv.org/abs/2412.01944)|null|
+|**2024-12-02**|**Fire-Image-DenseNet (FIDN) for predicting wildfire burnt area using remote sensing data**|Bo Pang et.al.|[2412.01400](http://arxiv.org/abs/2412.01400)|null|
+|**2024-12-02**|**Remote Sensing with High Spatial Resolution**|André Sandmann et.al.|[2412.01325](http://arxiv.org/abs/2412.01325)|null|
+|**2024-12-01**|**Characterizing and Modeling AI-Driven Animal Ecology Studies at the Edge**|Jenna Kline et.al.|[2412.01000](http://arxiv.org/abs/2412.01000)|null|
+|**2024-12-03**|**Tomographic SAR Reconstruction for Forest Height Estimation**|Grace Colverd et.al.|[2412.00903](http://arxiv.org/abs/2412.00903)|null|
+|**2024-12-01**|**2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification**|Jingwei Zhang et.al.|[2412.00678](http://arxiv.org/abs/2412.00678)|**[link](https://github.com/atlasanalyticslab/2dmamba)**|
+|**2024-11-30**|**Implementation of neural network operators with applications to remote sensing data**|Danilo Costarelli et.al.|[2412.00375](http://arxiv.org/abs/2412.00375)|null|
+|**2024-12-03**|**HSLiNets: Hyperspectral Image and LiDAR Data Fusion Using Efficient Dual Non-Linear Feature Learning Networks**|Judy X Yang et.al.|[2412.00302](http://arxiv.org/abs/2412.00302)|null|
+|**2024-12-03**|**Hyperspectral Images Efficient Spatial and Spectral non-Linear Model with Bidirectional Feature Learning**|Judy X Yang et.al.|[2412.00283](http://arxiv.org/abs/2412.00283)|null|
 |**2024-11-29**|**Gated-Attention Feature-Fusion Based Framework for Poverty Prediction**|Muhammad Umer Ramzan et.al.|[2411.19690](http://arxiv.org/abs/2411.19690)|null|
 |**2024-11-29**|**Tortho-Gaussian: Splatting True Digital Orthophoto Maps**|Xin Wang et.al.|[2411.19594](http://arxiv.org/abs/2411.19594)|null|
 |**2024-11-28**|**GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks**|Muhammad Sohail Danish et.al.|[2411.19325](http://arxiv.org/abs/2411.19325)|**[link](https://github.com/the-ai-alliance/geo-bench-vlm)**|

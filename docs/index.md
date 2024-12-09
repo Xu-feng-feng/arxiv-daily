@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -882,7 +882,7 @@ layout: default
 |**2024-12-04**|**Task-driven Image Fusion with Learnable Fusion Loss**|Haowen Bai et.al.|[2412.03240](http://arxiv.org/abs/2412.03240)|null|
 |**2024-12-04**|**Parametric Enhancement of PerceptNet: A Human-Inspired Approach for Image Quality Assessment**|Jorge Vila-Tomás et.al.|[2412.03210](http://arxiv.org/abs/2412.03210)|**[link](https://github.com/Jorgvt/PerceptualTests)**|
 |**2024-12-04**|**Unsupervised Network for Single Image Raindrop Removal**|Huijiao Wang et.al.|[2412.03019](http://arxiv.org/abs/2412.03019)|null|
-|**2024-12-04**|**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach**|Lingchen Sun et.al.|[2412.03017](http://arxiv.org/abs/2412.03017)|null|
+|**2024-12-04**|**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach**|Lingchen Sun et.al.|[2412.03017](http://arxiv.org/abs/2412.03017)|**[link](https://github.com/csslc/pisa-sr)**|
 |**2024-12-04**|**Partially Conditioned Patch Parallelism for Accelerated Diffusion Model Inference**|XiuYu Zhang et.al.|[2412.02962](http://arxiv.org/abs/2412.02962)|null|
 |**2024-12-04**|**Surrogate distributed radiological sources III: quantitative distributed source reconstructions**|Jayson R. Vavrek et.al.|[2412.02926](http://arxiv.org/abs/2412.02926)|null|
 |**2024-12-04**|**Assessing the performance of CT image denoisers using Laguerre-Gauss Channelized Hotelling Observer for lesion detection**|Prabhat Kc et.al.|[2412.02920](http://arxiv.org/abs/2412.02920)|null|
@@ -2498,7 +2498,7 @@ layout: default
 |**2024-12-04**|**Mapping using Transformers for Volumes -- Network for Super-Resolution with Long-Range Interactions**|August Leander Høeg et.al.|[2412.03379](http://arxiv.org/abs/2412.03379)|**[link](https://github.com/augusthoeg/mtvnet)**|
 |**2024-12-04**|**TASR: Timestep-Aware Diffusion Model for Image Super-Resolution**|Qinwei Lin et.al.|[2412.03355](http://arxiv.org/abs/2412.03355)|**[link](https://github.com/sleepylin/tasr)**|
 |**2024-12-04**|**RFSR: Improving ISR Diffusion Models via Reward Feedback Learning**|Xiaopeng Sun et.al.|[2412.03268](http://arxiv.org/abs/2412.03268)|**[link](https://github.com/sxpro/rfsr)**|
-|**2024-12-04**|**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach**|Lingchen Sun et.al.|[2412.03017](http://arxiv.org/abs/2412.03017)|null|
+|**2024-12-04**|**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach**|Lingchen Sun et.al.|[2412.03017](http://arxiv.org/abs/2412.03017)|**[link](https://github.com/csslc/pisa-sr)**|
 |**2024-12-04**|**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**|Jiahua Xiao et.al.|[2412.02960](http://arxiv.org/abs/2412.02960)|null|
 |**2024-12-03**|**Efficient Algorithms for Low Tubal Rank Tensor Approximation with Applications to Image Compression, Super-Resolution and Deep Learning**|Salman Ahmadi-Asl et.al.|[2412.02598](http://arxiv.org/abs/2412.02598)|null|
 |**2024-12-03**|**Randomized algorithms for Kroncecker tensor decomposition and applications**|Salman Ahmadi-Asl et.al.|[2412.02597](http://arxiv.org/abs/2412.02597)|null|
@@ -3282,7 +3282,7 @@ layout: default
 |**2024-12-02**|**Enhancing Crop Segmentation in Satellite Image Time Series with Transformer Networks**|Ignazio Gallo et.al.|[2412.01944](http://arxiv.org/abs/2412.01944)|null|
 |**2024-12-02**|**Fire-Image-DenseNet (FIDN) for predicting wildfire burnt area using remote sensing data**|Bo Pang et.al.|[2412.01400](http://arxiv.org/abs/2412.01400)|null|
 |**2024-12-02**|**Remote Sensing with High Spatial Resolution**|André Sandmann et.al.|[2412.01325](http://arxiv.org/abs/2412.01325)|null|
-|**2024-12-01**|**Characterizing and Modeling AI-Driven Animal Ecology Studies at the Edge**|Jenna Kline et.al.|[2412.01000](http://arxiv.org/abs/2412.01000)|null|
+|**2024-12-01**|**Characterizing and Modeling AI-Driven Animal Ecology Studies at the Edge**|Jenna Kline et.al.|[2412.01000](http://arxiv.org/abs/2412.01000)|**[link](https://github.com/jennamk14/adae_model)**|
 |**2024-12-03**|**Tomographic SAR Reconstruction for Forest Height Estimation**|Grace Colverd et.al.|[2412.00903](http://arxiv.org/abs/2412.00903)|null|
 |**2024-12-01**|**2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification**|Jingwei Zhang et.al.|[2412.00678](http://arxiv.org/abs/2412.00678)|**[link](https://github.com/atlasanalyticslab/2dmamba)**|
 |**2024-11-30**|**Implementation of neural network operators with applications to remote sensing data**|Danilo Costarelli et.al.|[2412.00375](http://arxiv.org/abs/2412.00375)|null|

@@ -232,6 +232,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**UniMIC: Towards Universal Multi-modality Perceptual Image Compression**|Yixin Gao et.al.|[2412.04912](http://arxiv.org/abs/2412.04912)|null|
+|**2024-12-05**|**Solving High-dimensional Inverse Problems Using Amortized Likelihood-free Inference with Noisy and Incomplete Data**|Jice Zeng et.al.|[2412.04565](http://arxiv.org/abs/2412.04565)|null|
 |**2024-12-05**|**Diagnosing Systematic Effects Using the Inferred Initial Power Spectrum**|Tristan Hoellinger et.al.|[2412.04443](http://arxiv.org/abs/2412.04443)|null|
 |**2024-12-05**|**Multi-Scale Node Embeddings for Graph Modeling and Generation**|Riccardo Milocco et.al.|[2412.04354](http://arxiv.org/abs/2412.04354)|null|
 |**2024-12-05**|**Feature Coding in the Era of Large Models: Dataset, Test Conditions, and Benchmark**|Changsheng Gao et.al.|[2412.04307](http://arxiv.org/abs/2412.04307)|null|
@@ -877,6 +879,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation**|Donald Shenaj et.al.|[2412.05148](http://arxiv.org/abs/2412.05148)|null|
+|**2024-12-06**|**Comprehensive Analysis and Improvements in Pansharpening Using Deep Learning**|Mahek Kantharia et.al.|[2412.04896](http://arxiv.org/abs/2412.04896)|null|
+|**2024-12-06**|**Building a Family of Data Augmentation Models for Low-cost LLM Fine-tuning on the Cloud**|Yuanhao Yue et.al.|[2412.04871](http://arxiv.org/abs/2412.04871)|null|
+|**2024-12-05**|**Motion-Guided Deep Image Prior for Cardiac MRI**|Marc Vornehm et.al.|[2412.04639](http://arxiv.org/abs/2412.04639)|null|
+|**2024-12-05**|**MetaFormer: High-fidelity Metalens Imaging via Aberration Correcting Transformers**|Byeonghyeon Lee et.al.|[2412.04591](http://arxiv.org/abs/2412.04591)|null|
 |**2024-12-05**|**4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion**|Chaoyang Wang et.al.|[2412.04462](http://arxiv.org/abs/2412.04462)|null|
 |**2024-12-05**|**LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors**|Yusuf Dalva et.al.|[2412.04460](http://arxiv.org/abs/2412.04460)|null|
 |**2024-12-05**|**Multi-Subject Image Synthesis as a Generative Prior for Single-Subject PET Image Reconstruction**|George Webber et.al.|[2412.04324](http://arxiv.org/abs/2412.04324)|null|
@@ -2503,6 +2510,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**MSECG: Incorporating Mamba for Robust and Efficient ECG Super-Resolution**|Jie Lin et.al.|[2412.04861](http://arxiv.org/abs/2412.04861)|null|
+|**2024-12-05**|**2.5D Super-Resolution Approaches for X-ray Computed Tomography-based Inspection of Additively Manufactured Parts**|Haley Duba-Sullivan et.al.|[2412.04525](http://arxiv.org/abs/2412.04525)|null|
 |**2024-12-05**|**LocalSR: Image Super-Resolution in Local Region**|Bo Ji et.al.|[2412.04314](http://arxiv.org/abs/2412.04314)|null|
 |**2024-12-05**|**Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image**|Shuang Xu et.al.|[2412.04201](http://arxiv.org/abs/2412.04201)|null|
 |**2024-12-05**|**Deep priors for satellite image restoration with accurate uncertainties**|Biquard Maud et.al.|[2412.04130](http://arxiv.org/abs/2412.04130)|null|
@@ -3286,6 +3295,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Power Plant Detection for Energy Estimation using GIS with Remote Sensing, CNN & Vision Transformers**|Blessing Austin-Gabriel et.al.|[2412.04986](http://arxiv.org/abs/2412.04986)|null|
+|**2024-12-06**|**Comprehensive Analysis and Improvements in Pansharpening Using Deep Learning**|Mahek Kantharia et.al.|[2412.04896](http://arxiv.org/abs/2412.04896)|null|
+|**2024-12-06**|**Utilizing WaveFunctionCollapse Algorithm for Procedural Generation of Terrains using Remotely Sensed Elevation Data**|Seyedparsa Dajkhosh et.al.|[2412.04688](http://arxiv.org/abs/2412.04688)|null|
 |**2024-12-05**|**Multisource Collaborative Domain Generalization for Cross-Scene Remote Sensing Image Classification**|Zhu Han et.al.|[2412.03897](http://arxiv.org/abs/2412.03897)|null|
 |**2024-12-05**|**Dual-Branch Subpixel-Guided Network for Hyperspectral Image Classification**|Zhu Han et.al.|[2412.03893](http://arxiv.org/abs/2412.03893)|**[link](https://github.com/hanzhu97702/dsnet)**|
 |**2024-12-04**|**Microwave Remote Sensing of Soil Moisture, Above Ground Biomass and Freeze-Thaw Dynamic: Modeling and Empirical Approaches**|Laura Angeloni et.al.|[2412.03523](http://arxiv.org/abs/2412.03523)|null|

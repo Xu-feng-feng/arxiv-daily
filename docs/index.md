@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -234,7 +234,7 @@ layout: default
 |**2024-12-05**|**Multi-Scale Node Embeddings for Graph Modeling and Generation**|Riccardo Milocco et.al.|[2412.04354](http://arxiv.org/abs/2412.04354)|null|
 |**2024-12-05**|**Feature Coding in the Era of Large Models: Dataset, Test Conditions, and Benchmark**|Changsheng Gao et.al.|[2412.04307](http://arxiv.org/abs/2412.04307)|null|
 |**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841](http://arxiv.org/abs/2412.03841)|null|
-|**2024-12-04**|**Electrocardiogram-based diagnosis of liver diseases: an externally validated and explainable machine learning approach**|Juan Miguel Lopez Alcaraz et.al.|[2412.03717](http://arxiv.org/abs/2412.03717)|null|
+|**2024-12-04**|**Electrocardiogram-based diagnosis of liver diseases: an externally validated and explainable machine learning approach**|Juan Miguel Lopez Alcaraz et.al.|[2412.03717](http://arxiv.org/abs/2412.03717)|**[link](https://github.com/ai4healthuol/cardiodiag)**|
 |**2024-12-04**|**Is JPEG AI going to change image forensics?**|Edoardo Daniele Cannas et.al.|[2412.03261](http://arxiv.org/abs/2412.03261)|null|
 |**2024-12-03**|**Efficient Algorithms for Low Tubal Rank Tensor Approximation with Applications to Image Compression, Super-Resolution and Deep Learning**|Salman Ahmadi-Asl et.al.|[2412.02598](http://arxiv.org/abs/2412.02598)|null|
 |**2024-12-03**|**Randomized algorithms for Kroncecker tensor decomposition and applications**|Salman Ahmadi-Asl et.al.|[2412.02597](http://arxiv.org/abs/2412.02597)|null|
@@ -873,7 +873,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-11**|**Utilizing Multi-step Loss for Single Image Reflection Removal**|Abdelrahman Elnenaey et.al.|[2412.08582](http://arxiv.org/abs/2412.08582)|null|
+|**2024-12-11**|**Utilizing Multi-step Loss for Single Image Reflection Removal**|Abdelrahman Elnenaey et.al.|[2412.08582](http://arxiv.org/abs/2412.08582)|**[link](https://github.com/AbdelrhmanElnenaey/SIRR_MSloss_RefGAN_RDM)**|
 |**2024-12-11**|**PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis**|Yifan Xie et.al.|[2412.08504](http://arxiv.org/abs/2412.08504)|null|
 |**2024-12-11**|**Learning Flow Fields in Attention for Controllable Person Image Generation**|Zijian Zhou et.al.|[2412.08486](http://arxiv.org/abs/2412.08486)|**[link](https://github.com/franciszzj/leffa)**|
 |**2024-12-11**|**Visible and Infrared Image Fusion Using Encoder-Decoder Network**|Ferhat Can Ataman et.al.|[2412.08073](http://arxiv.org/abs/2412.08073)|**[link](https://github.com/ferhatcan/pyfusionsr)**|
@@ -889,7 +889,7 @@ layout: default
 |**2024-12-10**|**Backdoor Attacks against No-Reference Image Quality Assessment Models via A Scalable Trigger**|Yi Yu et.al.|[2412.07277](http://arxiv.org/abs/2412.07277)|null|
 |**2024-12-10**|**Moderating the Generalization of Score-based Generative Model**|Wan Jiang et.al.|[2412.07229](http://arxiv.org/abs/2412.07229)|null|
 |**2024-12-11**|**Rate-In: Information-Driven Adaptive Dropout Rates for Improved Inference-Time Uncertainty Estimation**|Tal Zeevi et.al.|[2412.07169](http://arxiv.org/abs/2412.07169)|**[link](https://github.com/code-supplement-25/rate-in)**|
-|**2024-12-10**|**QCResUNet: Joint Subject-level and Voxel-level Segmentation Quality Prediction**|Peijie Qiu et.al.|[2412.07156](http://arxiv.org/abs/2412.07156)|null|
+|**2024-12-10**|**QCResUNet: Joint Subject-level and Voxel-level Segmentation Quality Prediction**|Peijie Qiu et.al.|[2412.07156](http://arxiv.org/abs/2412.07156)|**[link](https://github.com/sotiraslab/QCResUNet)**|
 |**2024-12-10**|**Light Field Image Quality Assessment With Auxiliary Learning Based on Depthwise and Anglewise Separable Convolutions**|Qiang Qu et.al.|[2412.07079](http://arxiv.org/abs/2412.07079)|null|
 |**2024-12-11**|**Diff-GO $^\text{n}$ : Enhancing Diffusion Models for Goal-Oriented Communications**|Suchinthaka Wanninayaka et.al.|[2412.06980](http://arxiv.org/abs/2412.06980)|null|
 |**2024-12-09**|**Edge-SD-SR: Low Latency and Parameter Efficient On-device Super-Resolution with Stable Diffusion via Bidirectional Conditioning**|Mehdi Noroozi et.al.|[2412.06978](http://arxiv.org/abs/2412.06978)|null|
@@ -2545,9 +2545,9 @@ layout: default
 |**2024-12-10**|**MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution**|Yuchun He et.al.|[2412.07222](http://arxiv.org/abs/2412.07222)|null|
 |**2024-12-10**|**A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing**|Yujie Feng et.al.|[2412.07195](http://arxiv.org/abs/2412.07195)|null|
 |**2024-12-10**|**Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors**|Jiangang Wang et.al.|[2412.07152](http://arxiv.org/abs/2412.07152)|null|
-|**2024-12-10**|**RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution**|Jiangang Wang et.al.|[2412.07149](http://arxiv.org/abs/2412.07149)|null|
+|**2024-12-10**|**RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution**|Jiangang Wang et.al.|[2412.07149](http://arxiv.org/abs/2412.07149)|**[link](https://github.com/W-JG/RAP-SR)**|
 |**2024-12-09**|**Edge-SD-SR: Low Latency and Parameter Efficient On-device Super-Resolution with Stable Diffusion via Bidirectional Conditioning**|Mehdi Noroozi et.al.|[2412.06978](http://arxiv.org/abs/2412.06978)|null|
-|**2024-12-09**|**Neural Garment Dynamic Super-Resolution**|Meng Zhang et.al.|[2412.06285](http://arxiv.org/abs/2412.06285)|null|
+|**2024-12-09**|**Neural Garment Dynamic Super-Resolution**|Meng Zhang et.al.|[2412.06285](http://arxiv.org/abs/2412.06285)|**[link](https://github.com/MengZephyr/Neural-Garment-Dynamic-Super-resolution)**|
 |**2024-12-09**|**MSCrackMamba: Leveraging Vision Mamba for Crack Detection in Fused Multispectral Imagery**|Qinfeng Zhu et.al.|[2412.06211](http://arxiv.org/abs/2412.06211)|null|
 |**2024-12-09**|**You KAN Do It in a Single Shot: Plug-and-Play Methods with Single-Instance Priors**|Yanqi Cheng et.al.|[2412.06204](http://arxiv.org/abs/2412.06204)|null|
 |**2024-12-07**|**Jointly RS Image Deblurring and Super-Resolution with Adjustable-Kernel and Multi-Domain Attention**|Yan Zhang et.al.|[2412.05696](http://arxiv.org/abs/2412.05696)|**[link](https://github.com/zpc456/akmd-net)**|
@@ -3337,7 +3337,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-11**|**Improving Satellite Imagery Masking using Multi-task and Transfer Learning**|Rangel Daroya et.al.|[2412.08545](http://arxiv.org/abs/2412.08545)|null|
-|**2024-12-11**|**SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting**|Pallavi Jain et.al.|[2412.08536](http://arxiv.org/abs/2412.08536)|null|
+|**2024-12-11**|**SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting**|Pallavi Jain et.al.|[2412.08536](http://arxiv.org/abs/2412.08536)|**[link](https://github.com/pallavijain-pj/SenCLIP)**|
 |**2024-12-11**|**CC-Diff: Enhancing Contextual Coherence in Remote Sensing Image Synthesis**|Mu Zhang et.al.|[2412.08464](http://arxiv.org/abs/2412.08464)|null|
 |**2024-12-11**|**Can Alfvénic Fluctuations Affect the Correlation and Complexity of Magnetic Fields in Magnetic Ejecta? A Case Study Based on Multi-Spacecraft Measurements at 1~au**|Camilla Scolini et.al.|[2412.08008](http://arxiv.org/abs/2412.08008)|null|
 |**2024-12-10**|**Pix2Poly: A Sequence Prediction Method for End-to-end Polygonal Building Footprint Extraction from Remote Sensing Imagery**|Yeshwanth Kumar Adimoolam et.al.|[2412.07899](http://arxiv.org/abs/2412.07899)|null|
@@ -3353,7 +3353,7 @@ layout: default
 |**2024-12-10**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
 |**2024-12-06**|**Power Plant Detection for Energy Estimation using GIS with Remote Sensing, CNN & Vision Transformers**|Blessing Austin-Gabriel et.al.|[2412.04986](http://arxiv.org/abs/2412.04986)|null|
 |**2024-12-06**|**Comprehensive Analysis and Improvements in Pansharpening Using Deep Learning**|Mahek Kantharia et.al.|[2412.04896](http://arxiv.org/abs/2412.04896)|null|
-|**2024-12-06**|**Utilizing WaveFunctionCollapse Algorithm for Procedural Generation of Terrains using Remotely Sensed Elevation Data**|Seyedparsa Dajkhosh et.al.|[2412.04688](http://arxiv.org/abs/2412.04688)|null|
+|**2024-12-06**|**Utilizing WaveFunctionCollapse Algorithm for Procedural Generation of Terrains using Remotely Sensed Elevation Data**|Seyedparsa Dajkhosh et.al.|[2412.04688](http://arxiv.org/abs/2412.04688)|**[link](https://github.com/parsadaj/wavefunctioncollapse)**|
 |**2024-12-05**|**Multisource Collaborative Domain Generalization for Cross-Scene Remote Sensing Image Classification**|Zhu Han et.al.|[2412.03897](http://arxiv.org/abs/2412.03897)|null|
 |**2024-12-05**|**Dual-Branch Subpixel-Guided Network for Hyperspectral Image Classification**|Zhu Han et.al.|[2412.03893](http://arxiv.org/abs/2412.03893)|**[link](https://github.com/hanzhu97702/dsnet)**|
 |**2024-12-04**|**Microwave Remote Sensing of Soil Moisture, Above Ground Biomass and Freeze-Thaw Dynamic: Modeling and Empirical Approaches**|Laura Angeloni et.al.|[2412.03523](http://arxiv.org/abs/2412.03523)|null|

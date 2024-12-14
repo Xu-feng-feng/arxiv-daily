@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.13
+## Updated on 2024.12.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -3353,7 +3353,7 @@ layout: default
 |**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405](http://arxiv.org/abs/2412.09405)|null|
 |**2024-12-11**|**Improving Satellite Imagery Masking using Multi-task and Transfer Learning**|Rangel Daroya et.al.|[2412.08545](http://arxiv.org/abs/2412.08545)|null|
 |**2024-12-11**|**SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting**|Pallavi Jain et.al.|[2412.08536](http://arxiv.org/abs/2412.08536)|**[link](https://github.com/pallavijain-pj/SenCLIP)**|
-|**2024-12-11**|**CC-Diff: Enhancing Contextual Coherence in Remote Sensing Image Synthesis**|Mu Zhang et.al.|[2412.08464](http://arxiv.org/abs/2412.08464)|**[link](https://github.com/AZZMM/CC-Diff)**|
+|**2024-12-11**|**CC-Diff: Enhancing Contextual Coherence in Remote Sensing Image Synthesis**|Mu Zhang et.al.|[2412.08464](http://arxiv.org/abs/2412.08464)|null|
 |**2024-12-11**|**Can Alfvénic Fluctuations Affect the Correlation and Complexity of Magnetic Fields in Magnetic Ejecta? A Case Study Based on Multi-Spacecraft Measurements at 1~au**|Camilla Scolini et.al.|[2412.08008](http://arxiv.org/abs/2412.08008)|null|
 |**2024-12-10**|**Pix2Poly: A Sequence Prediction Method for End-to-end Polygonal Building Footprint Extraction from Remote Sensing Imagery**|Yeshwanth Kumar Adimoolam et.al.|[2412.07899](http://arxiv.org/abs/2412.07899)|null|
 |**2024-12-10**|**Dual Random Fields and their Application to Mineral Potential Mapping**|Álvaro I. Riquelme et.al.|[2412.07488](http://arxiv.org/abs/2412.07488)|null|

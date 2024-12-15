@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -225,7 +225,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-12**|**Video Seal: Open and Efficient Video Watermarking**|Pierre Fernandez et.al.|[2412.09492](http://arxiv.org/abs/2412.09492)|**[link](https://github.com/facebookresearch/videoseal)**|
-|**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405](http://arxiv.org/abs/2412.09405)|null|
+|**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405](http://arxiv.org/abs/2412.09405)|**[link](https://github.com/danjacobellis/LCCL)**|
 |**2024-12-12**|**Versatile Volumetric Medical Image Coding for Human-Machine Vision**|Jietao Chen et.al.|[2412.09231](http://arxiv.org/abs/2412.09231)|null|
 |**2024-12-11**|**Unicorn: Unified Neural Image Compression with One Number Reconstruction**|Qi Zheng et.al.|[2412.08210](http://arxiv.org/abs/2412.08210)|null|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
@@ -3350,7 +3350,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405](http://arxiv.org/abs/2412.09405)|null|
+|**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405](http://arxiv.org/abs/2412.09405)|**[link](https://github.com/danjacobellis/LCCL)**|
 |**2024-12-11**|**Improving Satellite Imagery Masking using Multi-task and Transfer Learning**|Rangel Daroya et.al.|[2412.08545](http://arxiv.org/abs/2412.08545)|null|
 |**2024-12-11**|**SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting**|Pallavi Jain et.al.|[2412.08536](http://arxiv.org/abs/2412.08536)|**[link](https://github.com/pallavijain-pj/SenCLIP)**|
 |**2024-12-11**|**CC-Diff: Enhancing Contextual Coherence in Remote Sensing Image Synthesis**|Mu Zhang et.al.|[2412.08464](http://arxiv.org/abs/2412.08464)|null|

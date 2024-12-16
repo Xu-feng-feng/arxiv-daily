@@ -340,7 +340,7 @@
 |**2024-10-13**|**Towards Reproducible Learning-based Compression**|Jiahao Pang et.al.|[2410.09872](http://arxiv.org/abs/2410.09872)|null|
 |**2024-10-13**|**Compressing Scene Dynamics: A Generative Approach**|Shanzhi Yin et.al.|[2410.09768](http://arxiv.org/abs/2410.09768)|**[link](https://github.com/xyzysz/gnvdc)**|
 |**2024-10-13**|**ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression**|Wei Jiang et.al.|[2410.09706](http://arxiv.org/abs/2410.09706)|**[link](https://github.com/jiangweibeta/ecvc)**|
-|**2024-10-12**|**Fine-grained subjective visual quality assessment for high-fidelity compressed images**|Michela Testolina et.al.|[2410.09501](http://arxiv.org/abs/2410.09501)|null|
+|**2024-10-12**|**Fine-grained subjective visual quality assessment for high-fidelity compressed images**|Michela Testolina et.al.|[2410.09501](http://arxiv.org/abs/2410.09501)|**[link](https://github.com/jpeg-aic/dataset-btc-ptc-24)**|
 |**2024-10-11**|**Fast Data-independent KLT Approximations Based on Integer Functions**|A. P. Radünz et.al.|[2410.09227](http://arxiv.org/abs/2410.09227)|null|
 |**2024-10-10**|**Compressing high-resolution data through latent representation encoding for downscaling large-scale AI weather forecast model**|Qian Liu et.al.|[2410.09109](http://arxiv.org/abs/2410.09109)|null|
 |**2024-10-11**|**Data-Driven Neural Estimation of Indirect Rate-Distortion Function**|Zichao Yu et.al.|[2410.09018](http://arxiv.org/abs/2410.09018)|null|
@@ -926,7 +926,7 @@
 |**2024-12-08**|**Nested Diffusion Models Using Hierarchical Latent Priors**|Xiao Zhang et.al.|[2412.05984](http://arxiv.org/abs/2412.05984)|null|
 |**2024-12-08**|**Unsupervised Multi-Parameter Inverse Solving for Reducing Ring Artifacts in 3D X-Ray CBCT**|Qing Wu et.al.|[2412.05853](http://arxiv.org/abs/2412.05853)|null|
 |**2024-12-08**|**SizeGS: Size-aware Compression of 3D Gaussians with Hierarchical Mixed Precision Quantization**|Shuzhao Xie et.al.|[2412.05808](http://arxiv.org/abs/2412.05808)|null|
-|**2024-12-07**|**Emulating Clinical Quality Muscle B-mode Ultrasound Images from Plane Wave Images Using a Two-Stage Machine Learning Model**|Reed Chen et.al.|[2412.05758](http://arxiv.org/abs/2412.05758)|null|
+|**2024-12-07**|**Emulating Clinical Quality Muscle B-mode Ultrasound Images from Plane Wave Images Using a Two-Stage Machine Learning Model**|Reed Chen et.al.|[2412.05758](http://arxiv.org/abs/2412.05758)|**[link](https://github.com/reedchen19/cyclegan_verasonics)**|
 |**2024-12-07**|**A Tiered GAN Approach for Monet-Style Image Generation**|FNU Neha et.al.|[2412.05724](http://arxiv.org/abs/2412.05724)|null|
 |**2024-12-07**|**Temporally Compressed 3D Gaussian Splatting for Dynamic Scenes**|Saqib Javed et.al.|[2412.05700](http://arxiv.org/abs/2412.05700)|null|
 |**2024-12-07**|**Enhancing Research Methodology and Academic Publishing: A Structured Framework for Quality and Integrity**|Md. Jalil Piran et.al.|[2412.05683](http://arxiv.org/abs/2412.05683)|null|
@@ -1055,7 +1055,7 @@
 |**2024-11-20**|**What You See Is What Matters: A Novel Visual and Physics-Based Metric for Evaluating Video Generation Quality**|Zihan Wang et.al.|[2411.13609](http://arxiv.org/abs/2411.13609)|null|
 |**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548](http://arxiv.org/abs/2411.13548)|null|
 |**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
-|**2024-11-20**|**OceanLens: An Adaptive Backscatter and Edge Correction using Deep Learning Model for Enhanced Underwater Imaging**|Rajini Makam et.al.|[2411.13230](http://arxiv.org/abs/2411.13230)|null|
+|**2024-11-20**|**OceanLens: An Adaptive Backscatter and Edge Correction using Deep Learning Model for Enhanced Underwater Imaging**|Rajini Makam et.al.|[2411.13230](http://arxiv.org/abs/2411.13230)|**[link](https://github.com/AIRLabIISc/OceanLens)**|
 |**2024-11-20**|**ESARM: 3D Emotional Speech-to-Animation via Reward Model from Automatically-Ranked Demonstrations**|Xulong Zhang et.al.|[2411.13089](http://arxiv.org/abs/2411.13089)|null|
 |**2024-11-20**|**LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression**|Shimon Murai et.al.|[2411.13033](http://arxiv.org/abs/2411.13033)|**[link](https://github.com/tokkiwa/imagetextcoding)**|
 |**2024-11-19**|**HyperGAN-CLIP: A Unified Framework for Domain Adaptation, Image Synthesis and Manipulation**|Abdul Basit Anees et.al.|[2411.12832](http://arxiv.org/abs/2411.12832)|**[link](https://github.com/adobe-research/domain-expansion)**|
@@ -1214,7 +1214,7 @@
 |**2024-10-28**|**Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting**|Jiawei Xu et.al.|[2410.20815](http://arxiv.org/abs/2410.20815)|null|
 |**2024-10-28**|**LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars**|Xiaonuo Dongye et.al.|[2410.20789](http://arxiv.org/abs/2410.20789)|null|
 |**2024-10-28**|**CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians**|Chongjian Ge et.al.|[2410.20723](http://arxiv.org/abs/2410.20723)|null|
-|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|null|
+|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|**[link](https://github.com/esw0116/odgs)**|
 |**2024-10-27**|**Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering**|Meng Wei et.al.|[2410.20593](http://arxiv.org/abs/2410.20593)|null|
 |**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|**[link](https://github.com/idiosyncracies/Sebica)**|
 |**2024-10-27**|**Enhancing Community Vision Screening -- AI Driven Retinal Photography for Early Disease Detection and Patient Trust**|Xiaofeng Lei et.al.|[2410.20309](http://arxiv.org/abs/2410.20309)|null|
@@ -1291,7 +1291,7 @@
 |**2024-10-13**|**Combining Generative and Geometry Priors for Wide-Angle Portrait Correction**|Lan Yao et.al.|[2410.09911](http://arxiv.org/abs/2410.09911)|**[link](https://github.com/dev-mrha/dualpriorscorrection)**|
 |**2024-10-13**|**Two-Stage Human Verification using HandCAPTCHA and Anti-Spoofed Finger Biometrics with Feature Selection**|Asish Bera et.al.|[2410.09866](http://arxiv.org/abs/2410.09866)|null|
 |**2024-10-12**|**Preserving Old Memories in Vivid Detail: Human-Interactive Photo Restoration Framework**|Seung-Yeon Back et.al.|[2410.09529](http://arxiv.org/abs/2410.09529)|null|
-|**2024-10-12**|**Fine-grained subjective visual quality assessment for high-fidelity compressed images**|Michela Testolina et.al.|[2410.09501](http://arxiv.org/abs/2410.09501)|null|
+|**2024-10-12**|**Fine-grained subjective visual quality assessment for high-fidelity compressed images**|Michela Testolina et.al.|[2410.09501](http://arxiv.org/abs/2410.09501)|**[link](https://github.com/jpeg-aic/dataset-btc-ptc-24)**|
 |**2024-10-12**|**Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors**|Hritam Basak et.al.|[2410.09467](http://arxiv.org/abs/2410.09467)|null|
 |**2024-10-11**|**TD-Paint: Faster Diffusion Inpainting Through Time Aware Pixel Conditioning**|Tsiry Mayet et.al.|[2410.09306](http://arxiv.org/abs/2410.09306)|null|
 |**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
@@ -1477,7 +1477,7 @@
 |**2024-09-12**|**Expansive Supervision for Neural Radiance Field**|Weixiang Zhang et.al.|[2409.08056](http://arxiv.org/abs/2409.08056)|null|
 |**2024-09-12**|**OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation**|Shun Zou et.al.|[2409.08000](http://arxiv.org/abs/2409.08000)|**[link](https://github.com/zs1314/octamamba)**|
 |**2024-09-14**|**Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment**|Shaode Yu et.al.|[2409.07762](http://arxiv.org/abs/2409.07762)|null|
-|**2024-09-11**|**Foundation Models Boost Low-Level Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2409.07650](http://arxiv.org/abs/2409.07650)|null|
+|**2024-09-11**|**Foundation Models Boost Low-Level Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2409.07650](http://arxiv.org/abs/2409.07650)|**[link](https://github.com/abhijay9/zs-iqa)**|
 |**2024-09-11**|**Machine Learning and Constraint Programming for Efficient Healthcare Scheduling**|Aymen Ben Said et.al.|[2409.07547](http://arxiv.org/abs/2409.07547)|null|
 |**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
 |**2024-09-11**|**EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**|Jian Zhang et.al.|[2409.07255](http://arxiv.org/abs/2409.07255)|null|
@@ -1980,7 +1980,7 @@
 |**2024-06-05**|**DifAttack++: Query-Efficient Black-Box Adversarial Attack via Hierarchical Disentangled Feature Space in Cross Domain**|Jun Liu et.al.|[2406.03017](http://arxiv.org/abs/2406.03017)|**[link](https://github.com/csjunjun/difattack)**|
 |**2024-06-05**|**Efficient Minimum Bayes Risk Decoding using Low-Rank Matrix Completion Algorithms**|Firas Trabelsi et.al.|[2406.02832](http://arxiv.org/abs/2406.02832)|null|
 |**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|**[link](https://github.com/a-suozhang/vidit-q)**|
-|**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507](http://arxiv.org/abs/2406.02507)|null|
+|**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507](http://arxiv.org/abs/2406.02507)|**[link](https://github.com/nvlabs/edm2)**|
 |**2024-06-04**|**Towards AI-Assisted Sustainable Adaptive Video Streaming Systems: Tutorial and Survey**|Reza Farahani et.al.|[2406.02302](http://arxiv.org/abs/2406.02302)|null|
 |**2024-06-04**|**I4VGen: Image as Stepping Stone for Text-to-Video Generation**|Xiefan Guo et.al.|[2406.02230](http://arxiv.org/abs/2406.02230)|null|
 |**2024-06-04**|**OTTAWA: Optimal TransporT Adaptive Word Aligner for Hallucination and Omission Translation Errors Detection**|Chenyang Huang et.al.|[2406.01919](http://arxiv.org/abs/2406.01919)|null|
@@ -2280,7 +2280,7 @@
 |**2024-04-09**|**Computation and Critical Transitions of Rate-Distortion-Perception Functions With Wasserstein Barycenter**|Chunhui Chen et.al.|[2404.04681](http://arxiv.org/abs/2404.04681)|null|
 |**2024-04-06**|**FastHDRNet: A new efficient method for SDR-to-HDR Translation**|Siyuan Tian et.al.|[2404.04483](http://arxiv.org/abs/2404.04483)|null|
 |**2024-04-06**|**RoNet: Rotation-oriented Continuous Image Translation**|Yi Li et.al.|[2404.04474](http://arxiv.org/abs/2404.04474)|null|
-|**2024-04-05**|**Physics-Inspired Synthesized Underwater Image Dataset**|Reina Kaneko et.al.|[2404.03998](http://arxiv.org/abs/2404.03998)|null|
+|**2024-04-05**|**Physics-Inspired Synthesized Underwater Image Dataset**|Reina Kaneko et.al.|[2404.03998](http://arxiv.org/abs/2404.03998)|**[link](https://github.com/reina0112/phismid-phiswid)**|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**AIGIQA-20K: A Large Database for AI-Generated Image Quality Assessment**|Chunyi Li et.al.|[2404.03407](http://arxiv.org/abs/2404.03407)|null|
@@ -2726,7 +2726,7 @@
 |**2024-10-04**|**Point-Spread-Function Engineering in MINFLUX: Optimality of Donut and Half-Moon Excitation Patterns**|Yan Liu et.al.|[2410.03349](http://arxiv.org/abs/2410.03349)|null|
 |**2024-10-04**|**Atom Camera: Super-resolution scanning microscope of a light pattern with a single ultracold atom**|Takafumi Tomita et.al.|[2410.03241](http://arxiv.org/abs/2410.03241)|null|
 |**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|**[link](https://github.com/OmarSZamzam/PixelShuffler)**|
-|**2024-10-07**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
+|**2024-10-07**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|**[link](https://github.com/syxieee/supergs)**|
 |**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|**[link](https://github.com/annegnx/PnP-Flow)**|
 |**2024-10-03**|**Ultrathin BIC metasurfaces based on ultralow-loss Sb2Se3 phase-change material**|Zhaoyang Xie et.al.|[2410.02413](http://arxiv.org/abs/2410.02413)|null|
 |**2024-10-02**|**Stochastic Deep Restoration Priors for Imaging Inverse Problems**|Yuyang Hu et.al.|[2410.02057](http://arxiv.org/abs/2410.02057)|null|

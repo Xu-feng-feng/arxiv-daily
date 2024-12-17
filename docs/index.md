@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680](http://arxiv.org/abs/2412.11680)|null|
+|**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
 |**2024-12-07**|**Rate-Distortion Optimized Skip Coding of Region Adaptive Hierarchical Transform Coefficients for MPEG G-PCC**|Zehan Wang et.al.|[2412.05574](http://arxiv.org/abs/2412.05574)|null|
 |**2024-11-18**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
 |**2024-11-09**|**Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data**|Xinran Liu et.al.|[2411.06055](http://arxiv.org/abs/2411.06055)|null|
@@ -224,6 +226,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Point Cloud-Assisted Neural Image Compression**|Ziqun Li et.al.|[2412.11771](http://arxiv.org/abs/2412.11771)|null|
+|**2024-12-16**|**Whisper-GPT: A Hybrid Representation Audio Large Language Model**|Prateek Verma et.al.|[2412.11449](http://arxiv.org/abs/2412.11449)|null|
+|**2024-12-16**|**Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression**|Chuqin Zhou et.al.|[2412.11379](http://arxiv.org/abs/2412.11379)|null|
+|**2024-12-16**|**VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression**|Qiang Hu et.al.|[2412.11362](http://arxiv.org/abs/2412.11362)|null|
+|**2024-12-14**|**Progressive Compression with Universally Quantized Diffusion Models**|Yibo Yang et.al.|[2412.10935](http://arxiv.org/abs/2412.10935)|null|
+|**2024-12-14**|**Learned Data Compression: Challenges and Opportunities for the Future**|Qiyu Liu et.al.|[2412.10770](http://arxiv.org/abs/2412.10770)|null|
+|**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
 |**2024-12-12**|**Video Seal: Open and Efficient Video Watermarking**|Pierre Fernandez et.al.|[2412.09492](http://arxiv.org/abs/2412.09492)|**[link](https://github.com/facebookresearch/videoseal)**|
 |**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405](http://arxiv.org/abs/2412.09405)|**[link](https://github.com/danjacobellis/LCCL)**|
 |**2024-12-12**|**Versatile Volumetric Medical Image Coding for Human-Machine Vision**|Jietao Chen et.al.|[2412.09231](http://arxiv.org/abs/2412.09231)|null|
@@ -876,6 +885,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096](http://arxiv.org/abs/2412.12096)|null|
+|**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
+|**2024-12-16**|**SPADE: Spectroscopic Photoacoustic Denoising using an Analytical and Data-free Enhancement Framework**|Fangzhou Lin et.al.|[2412.12068](http://arxiv.org/abs/2412.12068)|null|
+|**2024-12-16**|**Industrial-scale Prediction of Cement Clinker Phases using Machine Learning**|Sheikh Junaid Fayaz et.al.|[2412.11981](http://arxiv.org/abs/2412.11981)|null|
+|**2024-12-16**|**Towards Physically-Based Sky-Modeling**|Ian J. Maquignaz et.al.|[2412.11883](http://arxiv.org/abs/2412.11883)|null|
+|**2024-12-16**|**Impact of Face Alignment on Face Image Quality**|Eren Onaran et.al.|[2412.11779](http://arxiv.org/abs/2412.11779)|null|
+|**2024-12-16**|**Formal Quality Measures for Predictors in Markov Decision Processes**|Christel Baier et.al.|[2412.11754](http://arxiv.org/abs/2412.11754)|null|
+|**2024-12-16**|**Comparison of three reconstruction algorithms for low-dose phase-contrast computed tomography of the breast with synchrotron radiation**|Sandro Donato et.al.|[2412.11641](http://arxiv.org/abs/2412.11641)|null|
+|**2024-12-16**|**MT-LENS: An all-in-one Toolkit for Better Machine Translation Evaluation**|Javier García Gilabert et.al.|[2412.11615](http://arxiv.org/abs/2412.11615)|null|
+|**2024-12-16**|**Block-Based Multi-Scale Image Rescaling**|Jian Li et.al.|[2412.11468](http://arxiv.org/abs/2412.11468)|null|
+|**2024-12-16**|**Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression**|Chuqin Zhou et.al.|[2412.11379](http://arxiv.org/abs/2412.11379)|null|
+|**2024-12-15**|**VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping**|Hao Shao et.al.|[2412.11279](http://arxiv.org/abs/2412.11279)|null|
+|**2024-12-15**|**CATER: Leveraging LLM to Pioneer a Multidimensional, Reference-Independent Paradigm in Translation Quality Evaluation**|Kurando IIDA et.al.|[2412.11261](http://arxiv.org/abs/2412.11261)|null|
+|**2024-12-15**|**Benchmarking and Learning Multi-Dimensional Quality Evaluator for Text-to-3D Generation**|Yujie Zhang et.al.|[2412.11170](http://arxiv.org/abs/2412.11170)|null|
+|**2024-12-15**|**A Comprehensive Survey of Action Quality Assessment: Method and Benchmark**|Kanglei Zhou et.al.|[2412.11149](http://arxiv.org/abs/2412.11149)|null|
+|**2024-12-14**|**Zigzag Diffusion Sampling: The Path to Success Is Zigzag**|Lichen Bai et.al.|[2412.10891](http://arxiv.org/abs/2412.10891)|**[link](https://github.com/xie-lab-ml/zigzag-diffusion-sampling)**|
+|**2024-12-14**|**Unbiased General Annotated Dataset Generation**|Dengyang Jiang et.al.|[2412.10831](http://arxiv.org/abs/2412.10831)|null|
+|**2024-12-14**|**Rapid Reconstruction of Extremely Accelerated Liver 4D MRI via Chained Iterative Refinement**|Di Xu et.al.|[2412.10629](http://arxiv.org/abs/2412.10629)|null|
 |**2024-12-13**|**RAID-Database: human Responses to Affine Image Distortions**|Paula Daudén-Oliver et.al.|[2412.10211](http://arxiv.org/abs/2412.10211)|null|
 |**2024-12-13**|**GT23D-Bench: A Comprehensive General Text-to-3D Generation Benchmark**|Sitong Su et.al.|[2412.09997](http://arxiv.org/abs/2412.09997)|null|
 |**2024-12-13**|**EP-CFG: Energy-Preserving Classifier-Free Guidance**|Kai Zhang et.al.|[2412.09966](http://arxiv.org/abs/2412.09966)|null|
@@ -2559,6 +2586,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680](http://arxiv.org/abs/2412.11680)|null|
+|**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609](http://arxiv.org/abs/2412.11609)|null|
+|**2024-12-16**|**Sequence Matters: Harnessing Video Models in Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
+|**2024-12-16**|**Block-Based Multi-Scale Image Rescaling**|Jian Li et.al.|[2412.11468](http://arxiv.org/abs/2412.11468)|null|
+|**2024-12-16**|**Quantization of Climate Change Impacts on Renewable Energy Generation Capacity: A Super-Resolution Recurrent Diffusion Model**|Xiaochong Dong et.al.|[2412.11399](http://arxiv.org/abs/2412.11399)|null|
+|**2024-12-14**|**A Staged Deep Learning Approach to Spatial Refinement in 3D Temporal Atmospheric Transport**|M. Giselle Fernández-Godino et.al.|[2412.10945](http://arxiv.org/abs/2412.10945)|null|
 |**2024-12-13**|**SuperMark: Robust and Training-free Image Watermarking via Diffusion-based Super-Resolution**|Runyi Hu et.al.|[2412.10049](http://arxiv.org/abs/2412.10049)|null|
 |**2024-12-13**|**A Single-Frame and Multi-Frame Cascaded Image Super-Resolution Method**|Jing Sun et.al.|[2412.09846](http://arxiv.org/abs/2412.09846)|null|
 |**2024-12-13**|**Super-Resolution for Remote Sensing Imagery via the Coupling of a Variational Model and Deep Learning**|Jing Sun et.al.|[2412.09841](http://arxiv.org/abs/2412.09841)|null|
@@ -3364,6 +3397,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**TS-SatFire: A Multi-Task Satellite Image Time-Series Dataset for Wildfire Detection and Prediction**|Yu Zhao et.al.|[2412.11555](http://arxiv.org/abs/2412.11555)|null|
+|**2024-12-16**|**Deep Random Features for Scalable Interpolation of Spatiotemporal Data**|Weibin Chen et.al.|[2412.11350](http://arxiv.org/abs/2412.11350)|**[link](https://github.com/totony4real/deeprandomfeatures)**|
+|**2024-12-13**|**CrossVIT-augmented Geospatial-Intelligence Visualization System for Tracking Economic Development Dynamics**|Yanbing Bai et.al.|[2412.10474](http://arxiv.org/abs/2412.10474)|null|
 |**2024-12-13**|**Superresolution imaging of two incoherent sources via two-photon interference sampling measurements in the transverse momenta**|Salvatore Muratore et.al.|[2412.10057](http://arxiv.org/abs/2412.10057)|null|
 |**2024-12-13**|**Super-Resolution for Remote Sensing Imagery via the Coupling of a Variational Model and Deep Learning**|Jing Sun et.al.|[2412.09841](http://arxiv.org/abs/2412.09841)|null|
 |**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405](http://arxiv.org/abs/2412.09405)|**[link](https://github.com/danjacobellis/LCCL)**|

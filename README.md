@@ -235,6 +235,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Identifying Bias in Deep Neural Networks Using Image Transforms**|Sai Teja Erukude et.al.|[2412.13079](http://arxiv.org/abs/2412.13079)|**[link](https://github.com/SaiTeja-Erukude/identifying-bias-in-dnn-classification)**|
+|**2024-12-17**|**Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression**|Ruijie Chen et.al.|[2412.12982](http://arxiv.org/abs/2412.12982)|null|
+|**2024-12-17**|**Invisible Watermarks: Attacks and Robustness**|Dongjun Hwang et.al.|[2412.12511](http://arxiv.org/abs/2412.12511)|**[link](https://github.com/tomputer-g/idl_war)**|
+|**2024-12-16**|**Representation learning for fast radio burst dynamic spectra**|Dirk Kuiper et.al.|[2412.12394](http://arxiv.org/abs/2412.12394)|null|
 |**2024-12-16**|**Point Cloud-Assisted Neural Image Compression**|Ziqun Li et.al.|[2412.11771](http://arxiv.org/abs/2412.11771)|null|
 |**2024-12-16**|**Whisper-GPT: A Hybrid Representation Audio Large Language Model**|Prateek Verma et.al.|[2412.11449](http://arxiv.org/abs/2412.11449)|null|
 |**2024-12-16**|**Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression**|Chuqin Zhou et.al.|[2412.11379](http://arxiv.org/abs/2412.11379)|null|
@@ -896,7 +900,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096](http://arxiv.org/abs/2412.12096)|null|
+|**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183](http://arxiv.org/abs/2412.13183)|null|
+|**2024-12-17**|**F-Bench: Rethinking Human Preference Evaluation Metrics for Benchmarking Face Generation, Customization, and Restoration**|Lu Liu et.al.|[2412.13155](http://arxiv.org/abs/2412.13155)|null|
+|**2024-12-17**|**Unlocking the Potential of Digital Pathology: Novel Baselines for Compression**|Maximilian Fischer et.al.|[2412.13137](http://arxiv.org/abs/2412.13137)|null|
+|**2024-12-17**|**AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark**|Jianlyu Chen et.al.|[2412.13102](http://arxiv.org/abs/2412.13102)|**[link](https://github.com/air-bench/air-bench)**|
+|**2024-12-17**|**Smartphone-based Iris Recognition through High-Quality Visible Spectrum Iris Capture**|Naveenkumar G Venkataswamy et.al.|[2412.13063](http://arxiv.org/abs/2412.13063)|null|
+|**2024-12-17**|**Experimental Study of Low-Latency Video Streaming in an ORAN Setup with Generative AI**|Andreas Casparsen et.al.|[2412.12751](http://arxiv.org/abs/2412.12751)|null|
+|**2024-12-17**|**Subspace Implicit Neural Representations for Real-Time Cardiac Cine MR Imaging**|Wenqi Huang et.al.|[2412.12742](http://arxiv.org/abs/2412.12742)|**[link](https://github.com/wenqihuang/SubspaceINR-CMR)**|
+|**2024-12-17**|**Complex extension of optical flow and its practical evaluation for undersampled dynamic MRI**|Matthias J. Ehrhardt et.al.|[2412.12711](http://arxiv.org/abs/2412.12711)|null|
+|**2024-12-17**|**A Two-Fold Patch Selection Approach for Improved 360-Degree Image Quality Assessment**|Abderrezzaq Sendjasni et.al.|[2412.12667](http://arxiv.org/abs/2412.12667)|**[link](https://github.com/sendjasni/patch-selection-360-image-quality)**|
+|**2024-12-17**|**RDPI: A Refine Diffusion Probability Generation Method for Spatiotemporal Data Imputation**|Zijin Liu et.al.|[2412.12642](http://arxiv.org/abs/2412.12642)|**[link](https://github.com/liuzjin/RDPI)**|
+|**2024-12-17**|**Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration**|Xinlong Cheng et.al.|[2412.12550](http://arxiv.org/abs/2412.12550)|null|
+|**2024-12-17**|**Invisible Watermarks: Attacks and Robustness**|Dongjun Hwang et.al.|[2412.12511](http://arxiv.org/abs/2412.12511)|**[link](https://github.com/tomputer-g/idl_war)**|
+|**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096](http://arxiv.org/abs/2412.12096)|**[link](https://github.com/chengzhag/pansplat)**|
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
 |**2024-12-16**|**SPADE: Spectroscopic Photoacoustic Denoising using an Analytical and Data-free Enhancement Framework**|Fangzhou Lin et.al.|[2412.12068](http://arxiv.org/abs/2412.12068)|null|
 |**2024-12-16**|**Industrial-scale Prediction of Cement Clinker Phases using Machine Learning**|Sheikh Junaid Fayaz et.al.|[2412.11981](http://arxiv.org/abs/2412.11981)|null|
@@ -2599,6 +2615,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070](http://arxiv.org/abs/2412.13070)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
+|**2024-12-17**|**Super-Resolving Normalising Flows for Lattice Field Theories**|Marc Bauer et.al.|[2412.12842](http://arxiv.org/abs/2412.12842)|null|
 |**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680](http://arxiv.org/abs/2412.11680)|null|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609](http://arxiv.org/abs/2412.11609)|null|
 |**2024-12-16**|**Sequence Matters: Harnessing Video Models in Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
@@ -3412,9 +3430,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
+|**2024-12-17**|**ZoRI: Towards Discriminative Zero-Shot Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2412.12798](http://arxiv.org/abs/2412.12798)|**[link](https://github.com/huangshiqi128/zori)**|
+|**2024-12-17**|**SemStereo: Semantic-Constrained Stereo Matching Network for Remote Sensing**|Chen Chen et.al.|[2412.12685](http://arxiv.org/abs/2412.12685)|**[link](https://github.com/chenchen235/SemStereo)**|
+|**2024-12-17**|**RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification**|Guanwenjie Zou et.al.|[2412.12603](http://arxiv.org/abs/2412.12603)|null|
+|**2024-12-17**|**Distributed satellite information networks: Architecture, enabling technologies, and trends**|Qinyu Zhang et.al.|[2412.12587](http://arxiv.org/abs/2412.12587)|null|
+|**2024-12-17**|**Efficient Oriented Object Detection with Enhanced Small Object Recognition in Aerial Images**|Zhifei Shi et.al.|[2412.12562](http://arxiv.org/abs/2412.12562)|null|
+|**2024-12-17**|**SAModified: A Foundation Model-Based Zero-Shot Approach for Refining Noisy Land-Use Land-Cover Maps**|Sparsh Pekhale et.al.|[2412.12552](http://arxiv.org/abs/2412.12552)|null|
 |**2024-12-16**|**TS-SatFire: A Multi-Task Satellite Image Time-Series Dataset for Wildfire Detection and Prediction**|Yu Zhao et.al.|[2412.11555](http://arxiv.org/abs/2412.11555)|null|
 |**2024-12-16**|**Deep Random Features for Scalable Interpolation of Spatiotemporal Data**|Weibin Chen et.al.|[2412.11350](http://arxiv.org/abs/2412.11350)|**[link](https://github.com/totony4real/deeprandomfeatures)**|
-|**2024-12-13**|**CrossVIT-augmented Geospatial-Intelligence Visualization System for Tracking Economic Development Dynamics**|Yanbing Bai et.al.|[2412.10474](http://arxiv.org/abs/2412.10474)|null|
+|**2024-12-13**|**CrossVIT-augmented Geospatial-Intelligence Visualization System for Tracking Economic Development Dynamics**|Yanbing Bai et.al.|[2412.10474](http://arxiv.org/abs/2412.10474)|**[link](https://github.com/hubdaniel/satellite-imagery-driven-geospatial-intelligence-system-for-tracking-economic-dynamics)**|
 |**2024-12-13**|**Superresolution imaging of two incoherent sources via two-photon interference sampling measurements in the transverse momenta**|Salvatore Muratore et.al.|[2412.10057](http://arxiv.org/abs/2412.10057)|null|
 |**2024-12-13**|**Super-Resolution for Remote Sensing Imagery via the Coupling of a Variational Model and Deep Learning**|Jing Sun et.al.|[2412.09841](http://arxiv.org/abs/2412.09841)|null|
 |**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405](http://arxiv.org/abs/2412.09405)|**[link](https://github.com/danjacobellis/LCCL)**|

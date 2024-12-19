@@ -226,6 +226,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
+|**2024-12-18**|**Efficient high performance computing with the ALICE Event Processing Nodes GPU-based farm**|Federico Ronchetti et.al.|[2412.13755](http://arxiv.org/abs/2412.13755)|null|
+|**2024-12-18**|**Robust UAV Jittering and Task Scheduling in Mobile Edge Computing with Data Compression**|Bin Li et.al.|[2412.13676](http://arxiv.org/abs/2412.13676)|null|
+|**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443](http://arxiv.org/abs/2412.13443)|null|
 |**2024-12-17**|**Identifying Bias in Deep Neural Networks Using Image Transforms**|Sai Teja Erukude et.al.|[2412.13079](http://arxiv.org/abs/2412.13079)|**[link](https://github.com/SaiTeja-Erukude/identifying-bias-in-dnn-classification)**|
 |**2024-12-17**|**Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression**|Ruijie Chen et.al.|[2412.12982](http://arxiv.org/abs/2412.12982)|null|
 |**2024-12-17**|**Invisible Watermarks: Attacks and Robustness**|Dongjun Hwang et.al.|[2412.12511](http://arxiv.org/abs/2412.12511)|**[link](https://github.com/tomputer-g/idl_war)**|
@@ -889,10 +893,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
+|**2024-12-18**|**VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**|Runtao Liu et.al.|[2412.14167](http://arxiv.org/abs/2412.14167)|null|
+|**2024-12-18**|**AKiRa: Augmentation Kit on Rays for optical video generation**|Xi Wang et.al.|[2412.14158](http://arxiv.org/abs/2412.14158)|null|
+|**2024-12-18**|**Real-Time Position-Aware View Synthesis from Single-View Input**|Manu Gond et.al.|[2412.14005](http://arxiv.org/abs/2412.14005)|null|
+|**2024-12-18**|**Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model**|Yuqiu Liu et.al.|[2412.13897](http://arxiv.org/abs/2412.13897)|null|
+|**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
+|**2024-12-18**|**PASCO (PArallel Structured COarsening): an overlay to speed up graph clustering algorithms**|Etienne Lasalle et.al.|[2412.13592](http://arxiv.org/abs/2412.13592)|**[link](https://github.com/elasalle/pasco)**|
+|**2024-12-18**|**T $^3$ -S2S: Training-free Triplet Tuning for Sketch to Scene Generation**|Zhenhong Sun et.al.|[2412.13486](http://arxiv.org/abs/2412.13486)|null|
+|**2024-12-18**|**Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**|Hanzhong Guo et.al.|[2412.13479](http://arxiv.org/abs/2412.13479)|null|
+|**2024-12-17**|**Optimisation of Magnetic Field Sensing with Optically Pumped Magnetometers for Magnetic Detection Electrical Impedance Tomography**|Kai Mason et.al.|[2412.13354](http://arxiv.org/abs/2412.13354)|null|
 |**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183](http://arxiv.org/abs/2412.13183)|null|
 |**2024-12-17**|**F-Bench: Rethinking Human Preference Evaluation Metrics for Benchmarking Face Generation, Customization, and Restoration**|Lu Liu et.al.|[2412.13155](http://arxiv.org/abs/2412.13155)|null|
 |**2024-12-17**|**Unlocking the Potential of Digital Pathology: Novel Baselines for Compression**|Maximilian Fischer et.al.|[2412.13137](http://arxiv.org/abs/2412.13137)|null|
-|**2024-12-17**|**AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark**|Jianlyu Chen et.al.|[2412.13102](http://arxiv.org/abs/2412.13102)|**[link](https://github.com/air-bench/air-bench)**|
+|**2024-12-18**|**AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark**|Jianlyu Chen et.al.|[2412.13102](http://arxiv.org/abs/2412.13102)|**[link](https://github.com/air-bench/air-bench)**|
 |**2024-12-17**|**Smartphone-based Iris Recognition through High-Quality Visible Spectrum Iris Capture**|Naveenkumar G Venkataswamy et.al.|[2412.13063](http://arxiv.org/abs/2412.13063)|null|
 |**2024-12-17**|**Experimental Study of Low-Latency Video Streaming in an ORAN Setup with Generative AI**|Andreas Casparsen et.al.|[2412.12751](http://arxiv.org/abs/2412.12751)|null|
 |**2024-12-17**|**Subspace Implicit Neural Representations for Real-Time Cardiac Cine MR Imaging**|Wenqi Huang et.al.|[2412.12742](http://arxiv.org/abs/2412.12742)|**[link](https://github.com/wenqihuang/SubspaceINR-CMR)**|
@@ -2602,14 +2616,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
 |**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070](http://arxiv.org/abs/2412.13070)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
 |**2024-12-17**|**Super-Resolving Normalising Flows for Lattice Field Theories**|Marc Bauer et.al.|[2412.12842](http://arxiv.org/abs/2412.12842)|null|
 |**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680](http://arxiv.org/abs/2412.11680)|null|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609](http://arxiv.org/abs/2412.11609)|null|
-|**2024-12-16**|**Sequence Matters: Harnessing Video Models in Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
+|**2024-12-18**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
 |**2024-12-16**|**Block-Based Multi-Scale Image Rescaling**|Jian Li et.al.|[2412.11468](http://arxiv.org/abs/2412.11468)|null|
 |**2024-12-16**|**Quantization of Climate Change Impacts on Renewable Energy Generation Capacity: A Super-Resolution Recurrent Diffusion Model**|Xiaochong Dong et.al.|[2412.11399](http://arxiv.org/abs/2412.11399)|null|
-|**2024-12-14**|**A Staged Deep Learning Approach to Spatial Refinement in 3D Temporal Atmospheric Transport**|M. Giselle Fernández-Godino et.al.|[2412.10945](http://arxiv.org/abs/2412.10945)|null|
+|**2024-12-18**|**A Staged Deep Learning Approach to Spatial Refinement in 3D Temporal Atmospheric Transport**|M. Giselle Fernández-Godino et.al.|[2412.10945](http://arxiv.org/abs/2412.10945)|null|
 |**2024-12-13**|**SuperMark: Robust and Training-free Image Watermarking via Diffusion-based Super-Resolution**|Runyi Hu et.al.|[2412.10049](http://arxiv.org/abs/2412.10049)|null|
 |**2024-12-13**|**A Single-Frame and Multi-Frame Cascaded Image Super-Resolution Method**|Jing Sun et.al.|[2412.09846](http://arxiv.org/abs/2412.09846)|null|
 |**2024-12-13**|**Super-Resolution for Remote Sensing Imagery via the Coupling of a Variational Model and Deep Learning**|Jing Sun et.al.|[2412.09841](http://arxiv.org/abs/2412.09841)|null|
@@ -3415,6 +3430,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**3D Registration in 30 Years: A Survey**|Jiaqi Yang et.al.|[2412.13735](http://arxiv.org/abs/2412.13735)|**[link](https://github.com/amyyyy11/3d-registration-in-30-years-a-survey)**|
+|**2024-12-18**|**Integrated GIS- and network-based framework for assessing urban critical infrastructure accessibility and resilience: the case of Hurricane Michael**|Pavel O. Kiparisov et.al.|[2412.13728](http://arxiv.org/abs/2412.13728)|null|
+|**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
 |**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
 |**2024-12-17**|**ZoRI: Towards Discriminative Zero-Shot Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2412.12798](http://arxiv.org/abs/2412.12798)|**[link](https://github.com/huangshiqi128/zori)**|
 |**2024-12-17**|**SemStereo: Semantic-Constrained Stereo Matching Network for Remote Sensing**|Chen Chen et.al.|[2412.12685](http://arxiv.org/abs/2412.12685)|**[link](https://github.com/chenchen235/SemStereo)**|

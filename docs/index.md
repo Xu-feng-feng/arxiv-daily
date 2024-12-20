@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
 |**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680](http://arxiv.org/abs/2412.11680)|null|
 |**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
 |**2024-12-07**|**Rate-Distortion Optimized Skip Coding of Region Adaptive Hierarchical Transform Coefficients for MPEG G-PCC**|Zehan Wang et.al.|[2412.05574](http://arxiv.org/abs/2412.05574)|null|
@@ -893,7 +894,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-18**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
+|**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171](http://arxiv.org/abs/2412.15171)|null|
+|**2024-12-19**|**OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization**|Jiacheng Zhang et.al.|[2412.15159](http://arxiv.org/abs/2412.15159)|null|
+|**2024-12-19**|**Jet: A Modern Transformer-Based Normalizing Flow**|Alexander Kolesnikov et.al.|[2412.15129](http://arxiv.org/abs/2412.15129)|null|
+|**2024-12-19**|**Joint estimation of activity, attenuation and motion in respiratory-self-gated time-of-flight PET**|Masoud Elhamiasl et.al.|[2412.15018](http://arxiv.org/abs/2412.15018)|null|
+|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
+|**2024-12-19**|**Qua $^2$ SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models**|Keith G. Mills et.al.|[2412.14628](http://arxiv.org/abs/2412.14628)|null|
+|**2024-12-19**|**Successive optimization of optics and post-processing with differentiable coherent PSF operator and field information**|Zheng Ren et.al.|[2412.14603](http://arxiv.org/abs/2412.14603)|**[link](https://github.com/zrr-zju/successive-optimization)**|
+|**2024-12-19**|**Enhancing Diffusion Models for High-Quality Image Generation**|Jaineet Shah et.al.|[2412.14422](http://arxiv.org/abs/2412.14422)|null|
+|**2024-12-18**|**Improving diabetic retinopathy screening using Artificial Intelligence: design, evaluation and before-and-after study of a custom development**|Imanol Pinto et.al.|[2412.14221](http://arxiv.org/abs/2412.14221)|null|
+|**2024-12-19**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
 |**2024-12-18**|**VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**|Runtao Liu et.al.|[2412.14167](http://arxiv.org/abs/2412.14167)|null|
 |**2024-12-18**|**AKiRa: Augmentation Kit on Rays for optical video generation**|Xi Wang et.al.|[2412.14158](http://arxiv.org/abs/2412.14158)|null|
 |**2024-12-18**|**Real-Time Position-Aware View Synthesis from Single-View Input**|Manu Gond et.al.|[2412.14005](http://arxiv.org/abs/2412.14005)|null|
@@ -2616,6 +2626,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
 |**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
 |**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070](http://arxiv.org/abs/2412.13070)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
 |**2024-12-17**|**Super-Resolving Normalising Flows for Lattice Field Theories**|Marc Bauer et.al.|[2412.12842](http://arxiv.org/abs/2412.12842)|null|
@@ -3430,13 +3441,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-18**|**3D Registration in 30 Years: A Survey**|Jiaqi Yang et.al.|[2412.13735](http://arxiv.org/abs/2412.13735)|**[link](https://github.com/amyyyy11/3d-registration-in-30-years-a-survey)**|
+|**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
+|**2024-12-19**|**DroughtSet: Understanding Drought Through Spatial-Temporal Learning**|Xuwei Tan et.al.|[2412.15075](http://arxiv.org/abs/2412.15075)|null|
+|**2024-12-19**|**3D Registration in 30 Years: A Survey**|Jiaqi Yang et.al.|[2412.13735](http://arxiv.org/abs/2412.13735)|**[link](https://github.com/amyyyy11/3d-registration-in-30-years-a-survey)**|
 |**2024-12-18**|**Integrated GIS- and network-based framework for assessing urban critical infrastructure accessibility and resilience: the case of Hurricane Michael**|Pavel O. Kiparisov et.al.|[2412.13728](http://arxiv.org/abs/2412.13728)|null|
 |**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
 |**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
 |**2024-12-17**|**ZoRI: Towards Discriminative Zero-Shot Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2412.12798](http://arxiv.org/abs/2412.12798)|**[link](https://github.com/huangshiqi128/zori)**|
-|**2024-12-17**|**SemStereo: Semantic-Constrained Stereo Matching Network for Remote Sensing**|Chen Chen et.al.|[2412.12685](http://arxiv.org/abs/2412.12685)|**[link](https://github.com/chenchen235/SemStereo)**|
-|**2024-12-17**|**RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification**|Guanwenjie Zou et.al.|[2412.12603](http://arxiv.org/abs/2412.12603)|null|
+|**2024-12-17**|**SemStereo: Semantic-Constrained Stereo Matching Network for Remote Sensing**|Chen Chen et.al.|[2412.12685](http://arxiv.org/abs/2412.12685)|null|
+|**2024-12-19**|**RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification**|Guangwenjie Zou et.al.|[2412.12603](http://arxiv.org/abs/2412.12603)|**[link](https://github.com/1e12Leon/RemoteTrimmer)**|
 |**2024-12-17**|**Distributed satellite information networks: Architecture, enabling technologies, and trends**|Qinyu Zhang et.al.|[2412.12587](http://arxiv.org/abs/2412.12587)|null|
 |**2024-12-17**|**Efficient Oriented Object Detection with Enhanced Small Object Recognition in Aerial Images**|Zhifei Shi et.al.|[2412.12562](http://arxiv.org/abs/2412.12562)|null|
 |**2024-12-17**|**SAModified: A Foundation Model-Based Zero-Shot Approach for Refining Noisy Land-Use Land-Cover Maps**|Sparsh Pekhale et.al.|[2412.12552](http://arxiv.org/abs/2412.12552)|null|

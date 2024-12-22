@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -230,7 +230,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Compression
 
@@ -243,7 +243,7 @@
 |**2024-12-17**|**Identifying Bias in Deep Neural Networks Using Image Transforms**|Sai Teja Erukude et.al.|[2412.13079](http://arxiv.org/abs/2412.13079)|**[link](https://github.com/SaiTeja-Erukude/identifying-bias-in-dnn-classification)**|
 |**2024-12-17**|**Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression**|Ruijie Chen et.al.|[2412.12982](http://arxiv.org/abs/2412.12982)|null|
 |**2024-12-17**|**Invisible Watermarks: Attacks and Robustness**|Dongjun Hwang et.al.|[2412.12511](http://arxiv.org/abs/2412.12511)|**[link](https://github.com/tomputer-g/idl_war)**|
-|**2024-12-16**|**Representation learning for fast radio burst dynamic spectra**|Dirk Kuiper et.al.|[2412.12394](http://arxiv.org/abs/2412.12394)|null|
+|**2024-12-16**|**Representation learning for fast radio burst dynamic spectra**|Dirk Kuiper et.al.|[2412.12394](http://arxiv.org/abs/2412.12394)|**[link](https://github.com/sron-api-datamagic/rep_learn_frb)**|
 |**2024-12-16**|**Point Cloud-Assisted Neural Image Compression**|Ziqun Li et.al.|[2412.11771](http://arxiv.org/abs/2412.11771)|null|
 |**2024-12-16**|**Whisper-GPT: A Hybrid Representation Audio Large Language Model**|Prateek Verma et.al.|[2412.11449](http://arxiv.org/abs/2412.11449)|null|
 |**2024-12-16**|**Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression**|Chuqin Zhou et.al.|[2412.11379](http://arxiv.org/abs/2412.11379)|null|
@@ -899,7 +899,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -909,7 +909,7 @@
 |**2024-12-19**|**OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization**|Jiacheng Zhang et.al.|[2412.15159](http://arxiv.org/abs/2412.15159)|null|
 |**2024-12-19**|**Jet: A Modern Transformer-Based Normalizing Flow**|Alexander Kolesnikov et.al.|[2412.15129](http://arxiv.org/abs/2412.15129)|null|
 |**2024-12-19**|**Joint estimation of activity, attenuation and motion in respiratory-self-gated time-of-flight PET**|Masoud Elhamiasl et.al.|[2412.15018](http://arxiv.org/abs/2412.15018)|null|
-|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
+|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|null|
 |**2024-12-19**|**Qua $^2$ SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models**|Keith G. Mills et.al.|[2412.14628](http://arxiv.org/abs/2412.14628)|null|
 |**2024-12-19**|**Successive optimization of optics and post-processing with differentiable coherent PSF operator and field information**|Zheng Ren et.al.|[2412.14603](http://arxiv.org/abs/2412.14603)|**[link](https://github.com/zrr-zju/successive-optimization)**|
 |**2024-12-19**|**Enhancing Diffusion Models for High-Quality Image Generation**|Jaineet Shah et.al.|[2412.14422](http://arxiv.org/abs/2412.14422)|null|
@@ -2633,7 +2633,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -3450,7 +3450,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -4361,7 +4361,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

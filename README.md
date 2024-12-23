@@ -236,6 +236,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[2412.15752](http://arxiv.org/abs/2412.15752)|null|
 |**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
 |**2024-12-18**|**Efficient high performance computing with the ALICE Event Processing Nodes GPU-based farm**|Federico Ronchetti et.al.|[2412.13755](http://arxiv.org/abs/2412.13755)|null|
 |**2024-12-18**|**Robust UAV Jittering and Task Scheduling in Mobile Edge Computing with Data Compression**|Bin Li et.al.|[2412.13676](http://arxiv.org/abs/2412.13676)|null|
@@ -905,6 +906,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**IMPLY-based Approximate Full Adders for Efficient Arithmetic Operations in Image Processing and Machine Learning**|Melanie Qiu et.al.|[2412.15888](http://arxiv.org/abs/2412.15888)|null|
+|**2024-12-20**|**Image Quality Assessment: Enhancing Perceptual Exploration and Interpretation with Collaborative Feature Refinement and Hausdorff distance**|Xuekai Wei et.al.|[2412.15847](http://arxiv.org/abs/2412.15847)|null|
+|**2024-12-20**|**DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization**|Zihan Ding et.al.|[2412.15689](http://arxiv.org/abs/2412.15689)|null|
+|**2024-12-20**|**AI-generated Image Quality Assessment in Visual Communication**|Yu Tian et.al.|[2412.15677](http://arxiv.org/abs/2412.15677)|null|
+|**2024-12-20**|**Underwater Image Quality Assessment: A Perceptual Framework Guided by Physical Imaging**|Weizhi Xian et.al.|[2412.15527](http://arxiv.org/abs/2412.15527)|null|
+|**2024-12-19**|**Log-Time K-Means Clustering for 1D Data: Novel Approaches with Proof and Implementation**|Jake Hyun et.al.|[2412.15295](http://arxiv.org/abs/2412.15295)|**[link](https://github.com/SyphonArch/flash1dkmeans)**|
+|**2024-12-18**|**A Systematic Examination of Preference Learning through the Lens of Instruction-Following**|Joongwon Kim et.al.|[2412.15282](http://arxiv.org/abs/2412.15282)|null|
 |**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171](http://arxiv.org/abs/2412.15171)|null|
 |**2024-12-19**|**OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization**|Jiacheng Zhang et.al.|[2412.15159](http://arxiv.org/abs/2412.15159)|null|
 |**2024-12-19**|**Jet: A Modern Transformer-Based Normalizing Flow**|Alexander Kolesnikov et.al.|[2412.15129](http://arxiv.org/abs/2412.15129)|null|
@@ -2639,6 +2647,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Uncertainty Estimation for Super-Resolution using ESRGAN**|Maniraj Sai Adapa et.al.|[2412.15439](http://arxiv.org/abs/2412.15439)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
 |**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
 |**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070](http://arxiv.org/abs/2412.13070)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
@@ -3456,6 +3465,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Segmentation of arbitrary features in very high resolution remote sensing imagery**|Henry Cording et.al.|[2412.16046](http://arxiv.org/abs/2412.16046)|null|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
 |**2024-12-19**|**DroughtSet: Understanding Drought Through Spatial-Temporal Learning**|Xuwei Tan et.al.|[2412.15075](http://arxiv.org/abs/2412.15075)|null|
 |**2024-12-19**|**3D Registration in 30 Years: A Survey**|Jiaqi Yang et.al.|[2412.13735](http://arxiv.org/abs/2412.13735)|**[link](https://github.com/amyyyy11/3d-registration-in-30-years-a-survey)**|

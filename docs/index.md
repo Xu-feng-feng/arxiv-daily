@@ -227,10 +227,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging**|Zhibin Wang et.al.|[2412.18417](http://arxiv.org/abs/2412.18417)|**[link](https://github.com/johnathan218/bmnet)**|
+|**2024-12-24**|**Semantics Disentanglement and Composition for Versatile Codec toward both Human-eye Perception and Machine Vision Task**|Jinming Liu et.al.|[2412.18158](http://arxiv.org/abs/2412.18158)|null|
 |**2024-12-23**|**CALLIC: Content Adaptive Learning for Lossless Image Compression**|Daxin Li et.al.|[2412.17464](http://arxiv.org/abs/2412.17464)|null|
 |**2024-12-23**|**AsymLLIC: Asymmetric Lightweight Learned Image Compression**|Shen Wang et.al.|[2412.17270](http://arxiv.org/abs/2412.17270)|null|
 |**2024-12-22**|**Foundation Model for Lossy Compression of Spatiotemporal Scientific Data**|Xiao Li et.al.|[2412.17184](http://arxiv.org/abs/2412.17184)|null|
-|**2024-12-21**|**L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression**|Junxuan Zhang et.al.|[2412.16642](http://arxiv.org/abs/2412.16642)|null|
+|**2024-12-24**|**L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression**|Junxuan Zhang et.al.|[2412.16642](http://arxiv.org/abs/2412.16642)|**[link](https://github.com/alipay/l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression)**|
 |**2024-12-20**|**Schmidt quantum compressor**|Israel F. Araujo et.al.|[2412.16337](http://arxiv.org/abs/2412.16337)|null|
 |**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[2412.15752](http://arxiv.org/abs/2412.15752)|null|
 |**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
@@ -900,16 +902,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-23**|**ANID: How Far Are We? Evaluating the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance**|Renyang Liu et.al.|[2412.17632](http://arxiv.org/abs/2412.17632)|null|
+|**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603](http://arxiv.org/abs/2412.18603)|**[link](https://github.com/google-deepmind/librispeech-long)**|
+|**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596](http://arxiv.org/abs/2412.18596)|null|
+|**2024-12-24**|**Agreement of Image Quality Metrics with Radiological Evaluation in the Presence of Motion Artifacts**|Elisa Marchetto et.al.|[2412.18389](http://arxiv.org/abs/2412.18389)|null|
+|**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
+|**2024-12-24**|**Expand VSR Benchmark for VLLM to Expertize in Spatial Rules**|Peijin Xie et.al.|[2412.18224](http://arxiv.org/abs/2412.18224)|**[link](https://github.com/peijin360/vsre)**|
+|**2024-12-24**|**Image Quality Assessment: Exploring Regional Heterogeneity via Response of Adaptive Multiple Quality Factors in Dictionary Space**|Xuting Lan et.al.|[2412.18160](http://arxiv.org/abs/2412.18160)|null|
+|**2024-12-24**|**DepthLab: From Partial to Complete**|Zhiheng Liu et.al.|[2412.18153](http://arxiv.org/abs/2412.18153)|null|
+|**2024-12-24**|**AEIOU: A Unified Defense Framework against NSFW Prompts in Text-to-Image Models**|Yiming Wang et.al.|[2412.18123](http://arxiv.org/abs/2412.18123)|null|
+|**2024-12-24**|**SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation**|Xuran Hu et.al.|[2412.18121](http://arxiv.org/abs/2412.18121)|null|
+|**2024-12-24**|**An Ensemble Approach to Short-form Video Quality Assessment Using Multimodal LLM**|Wen Wen et.al.|[2412.18060](http://arxiv.org/abs/2412.18060)|null|
+|**2024-12-23**|**ANID: How Far Are We? Evaluating the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance**|Renyang Liu et.al.|[2412.17632](http://arxiv.org/abs/2412.17632)|**[link](https://github.com/ryliu68/anid)**|
 |**2024-12-23**|**HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data**|Ting Zhou et.al.|[2412.17574](http://arxiv.org/abs/2412.17574)|null|
-|**2024-12-23**|**An Evaluation Framework for Product Images Background Inpainting based on Human Feedback and Product Consistency**|Yuqi Liang et.al.|[2412.17504](http://arxiv.org/abs/2412.17504)|null|
+|**2024-12-24**|**An Evaluation Framework for Product Images Background Inpainting based on Human Feedback and Product Consistency**|Yuqi Liang et.al.|[2412.17504](http://arxiv.org/abs/2412.17504)|null|
 |**2024-12-23**|**Predicting Satisfied User and Machine Ratio for Compressed Images: A Unified Approach**|Qi Zhang et.al.|[2412.17477](http://arxiv.org/abs/2412.17477)|null|
 |**2024-12-23**|**Assessment of Deep-Learning Methods for the Enhancement of Experimental Low Dose Dental CBCT Volumes**|Louise Friot--Giroux et.al.|[2412.17423](http://arxiv.org/abs/2412.17423)|null|
 |**2024-12-23**|**Balanced 3DGS: Gaussian-wise Parallelism Rendering with Fine-Grained Tiling**|Hao Gui et.al.|[2412.17378](http://arxiv.org/abs/2412.17378)|null|
 |**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346](http://arxiv.org/abs/2412.17346)|null|
 |**2024-12-23**|**GCS-M3VLT: Guided Context Self-Attention based Multi-modal Medical Vision Language Transformer for Retinal Image Captioning**|Teja Krishna Cherukuri et.al.|[2412.17251](http://arxiv.org/abs/2412.17251)|null|
 |**2024-12-22**|**Deep Joint Source Channel Coding for Secure End-to-End Image Transmission**|Mehdi Letafati et.al.|[2412.17110](http://arxiv.org/abs/2412.17110)|null|
-|**2024-12-22**|**ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**|Sipeng Shen et.al.|[2412.17038](http://arxiv.org/abs/2412.17038)|null|
+|**2024-12-24**|**ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**|Sipeng Shen et.al.|[2412.17038](http://arxiv.org/abs/2412.17038)|null|
 |**2024-12-22**|**PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask**|Jeongho Kim et.al.|[2412.16978](http://arxiv.org/abs/2412.16978)|**[link](https://github.com/rlawjdghek/promptdresser)**|
 |**2024-12-22**|**Image Quality Assessment: Investigating Causal Perceptual Effects with Abductive Counterfactual Inference**|Wenhao Shen et.al.|[2412.16939](http://arxiv.org/abs/2412.16939)|null|
 |**2024-12-22**|**Time-Graph Frequency Representation with Singular Value Decomposition for Neural Speech Enhancement**|Tingting Wang et.al.|[2412.16823](http://arxiv.org/abs/2412.16823)|null|
@@ -3481,6 +3493,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**A region-wide, multi-year set of crop field boundary labels for Africa**|L. D. Estes et.al.|[2412.18483](http://arxiv.org/abs/2412.18483)|null|
+|**2024-12-24**|**Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging**|Zhibin Wang et.al.|[2412.18417](http://arxiv.org/abs/2412.18417)|**[link](https://github.com/johnathan218/bmnet)**|
+|**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
+|**2024-12-24**|**SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos**|Zhen Zhang et.al.|[2412.18214](http://arxiv.org/abs/2412.18214)|**[link](https://github.com/tanedam/sdm-car)**|
+|**2024-12-24**|**ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**|Le Dong et.al.|[2412.18136](http://arxiv.org/abs/2412.18136)|**[link](https://github.com/milkyfun0/ERVD)**|
+|**2024-12-24**|**SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation**|Xuran Hu et.al.|[2412.18121](http://arxiv.org/abs/2412.18121)|null|
+|**2024-12-24**|**COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection**|Chang Liu et.al.|[2412.18076](http://arxiv.org/abs/2412.18076)|null|
 |**2024-12-23**|**URoadNet: Dual Sparse Attentive U-Net for Multiscale Road Network Extraction**|Jie Song et.al.|[2412.17573](http://arxiv.org/abs/2412.17573)|null|
 |**2024-12-23**|**TSformer: A Non-autoregressive Spatial-temporal Transformers for 30-day Ocean Eddy-Resolving Forecasting**|Guosong Wang et.al.|[2412.17392](http://arxiv.org/abs/2412.17392)|null|
 |**2024-12-23**|**DiffFormer: a Differential Spatial-Spectral Transformer for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2412.17350](http://arxiv.org/abs/2412.17350)|null|
@@ -3488,7 +3507,7 @@ layout: default
 |**2024-12-23**|**STeInFormer: Spatial-Temporal Interaction Transformer Architecture for Remote Sensing Change Detection**|Xiaowen Ma et.al.|[2412.17247](http://arxiv.org/abs/2412.17247)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2024-12-22**|**Detect Changes like Humans: Incorporating Semantic Priors for Improved Change Detection**|Yuhang Gan et.al.|[2412.16918](http://arxiv.org/abs/2412.16918)|null|
 |**2024-12-21**|**Deep Learning for Spatio-Temporal Fusion in Land Surface Temperature Estimation: A Comprehensive Survey, Experimental Analysis, and Future Trends**|Sofiane Bouaziz et.al.|[2412.16631](http://arxiv.org/abs/2412.16631)|null|
-|**2024-12-20**|**Segmentation of arbitrary features in very high resolution remote sensing imagery**|Henry Cording et.al.|[2412.16046](http://arxiv.org/abs/2412.16046)|null|
+|**2024-12-20**|**Segmentation of arbitrary features in very high resolution remote sensing imagery**|Henry Cording et.al.|[2412.16046](http://arxiv.org/abs/2412.16046)|**[link](https://github.com/hcording/ecomapper)**|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
 |**2024-12-19**|**DroughtSet: Understanding Drought Through Spatial-Temporal Learning**|Xuwei Tan et.al.|[2412.15075](http://arxiv.org/abs/2412.15075)|null|
 |**2024-12-19**|**3D Registration in 30 Years: A Survey**|Jiaqi Yang et.al.|[2412.13735](http://arxiv.org/abs/2412.13735)|**[link](https://github.com/amyyyy11/3d-registration-in-30-years-a-survey)**|

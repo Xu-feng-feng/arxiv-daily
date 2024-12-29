@@ -3506,7 +3506,7 @@ layout: default
 |**2024-12-23**|**MineAgent: Towards Remote-Sensing Mineral Exploration with Multimodal Large Language Models**|Beibei Yu et.al.|[2412.17339](http://arxiv.org/abs/2412.17339)|null|
 |**2024-12-23**|**STeInFormer: Spatial-Temporal Interaction Transformer Architecture for Remote Sensing Change Detection**|Xiaowen Ma et.al.|[2412.17247](http://arxiv.org/abs/2412.17247)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2024-12-22**|**Detect Changes like Humans: Incorporating Semantic Priors for Improved Change Detection**|Yuhang Gan et.al.|[2412.16918](http://arxiv.org/abs/2412.16918)|null|
-|**2024-12-21**|**Deep Learning for Spatio-Temporal Fusion in Land Surface Temperature Estimation: A Comprehensive Survey, Experimental Analysis, and Future Trends**|Sofiane Bouaziz et.al.|[2412.16631](http://arxiv.org/abs/2412.16631)|null|
+|**2024-12-21**|**Deep Learning for Spatio-Temporal Fusion in Land Surface Temperature Estimation: A Comprehensive Survey, Experimental Analysis, and Future Trends**|Sofiane Bouaziz et.al.|[2412.16631](http://arxiv.org/abs/2412.16631)|**[link](https://github.com/Sofianebouaziz1/STF-LST_Dataset)**|
 |**2024-12-20**|**Segmentation of arbitrary features in very high resolution remote sensing imagery**|Henry Cording et.al.|[2412.16046](http://arxiv.org/abs/2412.16046)|**[link](https://github.com/hcording/ecomapper)**|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
 |**2024-12-19**|**DroughtSet: Understanding Drought Through Spatial-Temporal Learning**|Xuwei Tan et.al.|[2412.15075](http://arxiv.org/abs/2412.15075)|null|

@@ -227,6 +227,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-25**|**Adaptive Rate Control for Deep Video Compression with Rate-Distortion Prediction**|Bowen Gu et.al.|[2412.18834](http://arxiv.org/abs/2412.18834)|null|
 |**2024-12-24**|**Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging**|Zhibin Wang et.al.|[2412.18417](http://arxiv.org/abs/2412.18417)|**[link](https://github.com/johnathan218/bmnet)**|
 |**2024-12-24**|**Semantics Disentanglement and Composition for Versatile Codec toward both Human-eye Perception and Machine Vision Task**|Jinming Liu et.al.|[2412.18158](http://arxiv.org/abs/2412.18158)|null|
 |**2024-12-23**|**CALLIC: Content Adaptive Learning for Lossless Image Compression**|Daxin Li et.al.|[2412.17464](http://arxiv.org/abs/2412.17464)|null|
@@ -902,6 +903,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553](http://arxiv.org/abs/2412.19553)|null|
+|**2024-12-27**|**DrivingWorld: ConstructingWorld Model for Autonomous Driving via Video GPT**|Xiaotao Hu et.al.|[2412.19505](http://arxiv.org/abs/2412.19505)|**[link](https://github.com/yvanyin/drivingworld)**|
+|**2024-12-27**|**RAIN: Real-time Animation of Infinite Video Stream**|Zhilei Shu et.al.|[2412.19489](http://arxiv.org/abs/2412.19489)|null|
+|**2024-12-27**|**Generative Adversarial Network on Motion-Blur Image Restoration**|Zhengdong Li et.al.|[2412.19479](http://arxiv.org/abs/2412.19479)|null|
+|**2024-12-27**|**Adrenaline: Adaptive Rendering Optimization System for Scalable Cloud Gaming**|Jin Heo et.al.|[2412.19446](http://arxiv.org/abs/2412.19446)|null|
+|**2024-12-27**|**The Hobby-Eberly Telescope Dark Energy Experiment Survey (HETDEX) Active Galactic Nuclei Catalog: the Fourth Data Release**|Chenxu Liu et.al.|[2412.19414](http://arxiv.org/abs/2412.19414)|null|
+|**2024-12-26**|**Reflective Gaussian Splatting**|Yuxuan Yao et.al.|[2412.19282](http://arxiv.org/abs/2412.19282)|null|
+|**2024-12-26**|**FineVQ: Fine-Grained User Generated Content Video Quality Assessment**|Huiyu Duan et.al.|[2412.19238](http://arxiv.org/abs/2412.19238)|null|
+|**2024-12-26**|**FACEMUG: A Multimodal Generative and Fusion Framework for Local Facial Editing**|Wanglong Lu et.al.|[2412.19009](http://arxiv.org/abs/2412.19009)|null|
+|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933](http://arxiv.org/abs/2412.18933)|null|
+|**2024-12-25**|**ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization**|Zixiao Gu et.al.|[2412.18783](http://arxiv.org/abs/2412.18783)|null|
+|**2024-12-25**|**Embodied Image Quality Assessment for Robotic Intelligence**|Jianbo Zhang et.al.|[2412.18774](http://arxiv.org/abs/2412.18774)|**[link](https://github.com/jianbo-maker/epd_benchmark)**|
+|**2024-12-25**|**MRI Reconstruction with Regularized 3D Diffusion Model (R3DM)**|Arya Bangun et.al.|[2412.18723](http://arxiv.org/abs/2412.18723)|null|
+|**2024-12-24**|**ZenSVI: An Open-Source Software for the Integrated Acquisition, Processing and Analysis of Street View Imagery Towards Scalable Urban Science**|Koichi Ito et.al.|[2412.18641](http://arxiv.org/abs/2412.18641)|null|
 |**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603](http://arxiv.org/abs/2412.18603)|**[link](https://github.com/google-deepmind/librispeech-long)**|
 |**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596](http://arxiv.org/abs/2412.18596)|null|
 |**2024-12-24**|**Agreement of Image Quality Metrics with Radiological Evaluation in the Presence of Motion Artifacts**|Elisa Marchetto et.al.|[2412.18389](http://arxiv.org/abs/2412.18389)|null|
@@ -2671,6 +2686,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553](http://arxiv.org/abs/2412.19553)|null|
+|**2024-12-25**|**WaveDiffUR: A diffusion SDE-based solver for ultra magnification super-resolution in remote sensing images**|Yue Shi et.al.|[2412.18996](http://arxiv.org/abs/2412.18996)|null|
+|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933](http://arxiv.org/abs/2412.18933)|null|
 |**2024-12-23**|**Joint Multitarget Detection and Tracking with mmWave Radar**|Jiang Zhu et.al.|[2412.17211](http://arxiv.org/abs/2412.17211)|null|
 |**2024-12-22**|**Foundation Model for Lossy Compression of Spatiotemporal Scientific Data**|Xiao Li et.al.|[2412.17184](http://arxiv.org/abs/2412.17184)|null|
 |**2024-12-22**|**Massively Multiplexed Wide-field Photon Correlation Sensing**|Shay Elmalem et.al.|[2412.16914](http://arxiv.org/abs/2412.16914)|null|
@@ -3493,6 +3511,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Real-time Reflectance Generation for UAV Multispectral Imagery using an Onboard Downwelling Spectrometer in Varied Weather Conditions**|Jiayang Xie et.al.|[2412.19527](http://arxiv.org/abs/2412.19527)|null|
+|**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|null|
+|**2024-12-26**|**SeaMo: A Multi-Seasonal and Multimodal Remote Sensing Foundation Model**|Xuyang Li et.al.|[2412.19237](http://arxiv.org/abs/2412.19237)|null|
+|**2024-12-26**|**Mask Approximation Net: Merging Feature Extraction and Distribution Learning for Remote Sensing Change Captioning**|Dongwei Sun et.al.|[2412.19179](http://arxiv.org/abs/2412.19179)|null|
+|**2024-12-25**|**WaveDiffUR: A diffusion SDE-based solver for ultra magnification super-resolution in remote sensing images**|Yue Shi et.al.|[2412.18996](http://arxiv.org/abs/2412.18996)|null|
+|**2024-12-25**|**MiTREE: Multi-input Transformer Ecoregion Encoder for Species Distribution Modelling**|Theresa Chen et.al.|[2412.18995](http://arxiv.org/abs/2412.18995)|null|
+|**2024-12-25**|**Experimental secure entanglement-free quantum remote sensing over 50 km of optical fiber**|Wenjie He et.al.|[2412.18837](http://arxiv.org/abs/2412.18837)|null|
 |**2024-12-24**|**A region-wide, multi-year set of crop field boundary labels for Africa**|L. D. Estes et.al.|[2412.18483](http://arxiv.org/abs/2412.18483)|null|
 |**2024-12-24**|**Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging**|Zhibin Wang et.al.|[2412.18417](http://arxiv.org/abs/2412.18417)|**[link](https://github.com/johnathan218/bmnet)**|
 |**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|

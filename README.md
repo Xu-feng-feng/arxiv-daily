@@ -935,7 +935,7 @@
 |**2024-12-24**|**ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**|Sipeng Shen et.al.|[2412.17038](http://arxiv.org/abs/2412.17038)|null|
 |**2024-12-22**|**PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask**|Jeongho Kim et.al.|[2412.16978](http://arxiv.org/abs/2412.16978)|**[link](https://github.com/rlawjdghek/promptdresser)**|
 |**2024-12-22**|**Image Quality Assessment: Investigating Causal Perceptual Effects with Abductive Counterfactual Inference**|Wenhao Shen et.al.|[2412.16939](http://arxiv.org/abs/2412.16939)|null|
-|**2024-12-22**|**Time-Graph Frequency Representation with Singular Value Decomposition for Neural Speech Enhancement**|Tingting Wang et.al.|[2412.16823](http://arxiv.org/abs/2412.16823)|null|
+|**2024-12-22**|**Time-Graph Frequency Representation with Singular Value Decomposition for Neural Speech Enhancement**|Tingting Wang et.al.|[2412.16823](http://arxiv.org/abs/2412.16823)|**[link](https://github.com/Wangfighting0015/GFT_project)**|
 |**2024-12-21**|**RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing**|Zhipeng Huang et.al.|[2412.16778](http://arxiv.org/abs/2412.16778)|null|
 |**2024-12-21**|**VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation**|Chi Zhang et.al.|[2412.16677](http://arxiv.org/abs/2412.16677)|null|
 |**2024-12-21**|**Complementary Advantages: Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising**|Yuchen Wang et.al.|[2412.16645](http://arxiv.org/abs/2412.16645)|null|
@@ -954,7 +954,7 @@
 |**2024-12-19**|**OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization**|Jiacheng Zhang et.al.|[2412.15159](http://arxiv.org/abs/2412.15159)|null|
 |**2024-12-19**|**Jet: A Modern Transformer-Based Normalizing Flow**|Alexander Kolesnikov et.al.|[2412.15129](http://arxiv.org/abs/2412.15129)|null|
 |**2024-12-19**|**Joint estimation of activity, attenuation and motion in respiratory-self-gated time-of-flight PET**|Masoud Elhamiasl et.al.|[2412.15018](http://arxiv.org/abs/2412.15018)|null|
-|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|null|
+|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
 |**2024-12-19**|**Qua $^2$ SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models**|Keith G. Mills et.al.|[2412.14628](http://arxiv.org/abs/2412.14628)|null|
 |**2024-12-19**|**Successive optimization of optics and post-processing with differentiable coherent PSF operator and field information**|Zheng Ren et.al.|[2412.14603](http://arxiv.org/abs/2412.14603)|**[link](https://github.com/zrr-zju/successive-optimization)**|
 |**2024-12-19**|**Enhancing Diffusion Models for High-Quality Image Generation**|Jaineet Shah et.al.|[2412.14422](http://arxiv.org/abs/2412.14422)|null|
@@ -2784,8 +2784,8 @@
 |**2024-11-12**|**Numerical Homogenization by Continuous Super-Resolution**|Zhi-Song Liu et.al.|[2411.07576](http://arxiv.org/abs/2411.07576)|null|
 |**2024-11-11**|**Evaluating Detection Thresholds: The Impact of False Positives and Negatives on Super-Resolution Ultrasound Localization Microscopy**|Sepideh K. Gharamaleki et.al.|[2411.07426](http://arxiv.org/abs/2411.07426)|null|
 |**2024-11-11**|**Ensemble Learning for Microbubble Localization in Super-Resolution Ultrasound**|Sepideh K. Gharamaleki et.al.|[2411.07376](http://arxiv.org/abs/2411.07376)|null|
-|**2024-11-11**|**AEROMamba: An efficient architecture for audio super-resolution using generative adversarial networks and state space models**|Wallace Abreu et.al.|[2411.07364](http://arxiv.org/abs/2411.07364)|null|
-|**2024-11-13**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|null|
+|**2024-11-11**|**AEROMamba: An efficient architecture for audio super-resolution using generative adversarial networks and state space models**|Wallace Abreu et.al.|[2411.07364](http://arxiv.org/abs/2411.07364)|**[link](https://github.com/aeromamba-super-resolution/aeromamba)**|
+|**2024-11-13**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|**[link](https://github.com/google-research/population-dynamics)**|
 |**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738](http://arxiv.org/abs/2411.06738)|null|
 |**2024-11-11**|**Expansion microscopy reveals neural circuit organization in genetic animal models**|Shakila Behzadi et.al.|[2411.06676](http://arxiv.org/abs/2411.06676)|null|
 |**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442](http://arxiv.org/abs/2411.06442)|**[link](https://github.com/dmhdmhdmh/liwt)**|
@@ -2898,7 +2898,7 @@
 |**2024-09-21**|**BurstM: Deep Burst Multi-scale SR using Fourier Space with Optical Flow**|EungGu Kang et.al.|[2409.15384](http://arxiv.org/abs/2409.15384)|**[link](https://github.com/egkang-luis/burstm)**|
 |**2024-09-22**|**One Model for Two Tasks: Cooperatively Recognizing and Recovering Low-Resolution Scene Text Images by Iterative Mutual Guidance**|Minyi Zhao et.al.|[2409.14483](http://arxiv.org/abs/2409.14483)|null|
 |**2024-09-22**|**Prior Knowledge Distillation Network for Face Super-Resolution**|Qiu Yang et.al.|[2409.14385](http://arxiv.org/abs/2409.14385)|null|
-|**2024-09-22**|**Thinking in Granularity: Dynamic Quantization for Image Super-Resolution by Intriguing Multi-Granularity Clues**|Mingshen Wang et.al.|[2409.14330](http://arxiv.org/abs/2409.14330)|null|
+|**2024-09-22**|**Thinking in Granularity: Dynamic Quantization for Image Super-Resolution by Intriguing Multi-Granularity Clues**|Mingshen Wang et.al.|[2409.14330](http://arxiv.org/abs/2409.14330)|**[link](https://github.com/mmmings/granular-dq)**|
 |**2024-09-21**|**A Sinkhorn Regularized Adversarial Network for Image Guided DEM Super-resolution using Frequency Selective Hybrid Graph Transformer**|Subhajit Paul et.al.|[2409.14198](http://arxiv.org/abs/2409.14198)|null|
 |**2024-09-21**|**Vortex Interference Enables optimal 3D Interferometric Nanoscopy**|Wei Wang et.al.|[2409.14033](http://arxiv.org/abs/2409.14033)|null|
 |**2024-09-21**|**On the Effectiveness of Neural Operators at Zero-Shot Weather Downscaling**|Saumya Sinha et.al.|[2409.13955](http://arxiv.org/abs/2409.13955)|null|
@@ -3535,7 +3535,7 @@
 |**2024-12-17**|**Distributed satellite information networks: Architecture, enabling technologies, and trends**|Qinyu Zhang et.al.|[2412.12587](http://arxiv.org/abs/2412.12587)|null|
 |**2024-12-17**|**Efficient Oriented Object Detection with Enhanced Small Object Recognition in Aerial Images**|Zhifei Shi et.al.|[2412.12562](http://arxiv.org/abs/2412.12562)|null|
 |**2024-12-17**|**SAModified: A Foundation Model-Based Zero-Shot Approach for Refining Noisy Land-Use Land-Cover Maps**|Sparsh Pekhale et.al.|[2412.12552](http://arxiv.org/abs/2412.12552)|null|
-|**2024-12-16**|**TS-SatFire: A Multi-Task Satellite Image Time-Series Dataset for Wildfire Detection and Prediction**|Yu Zhao et.al.|[2412.11555](http://arxiv.org/abs/2412.11555)|null|
+|**2024-12-16**|**TS-SatFire: A Multi-Task Satellite Image Time-Series Dataset for Wildfire Detection and Prediction**|Yu Zhao et.al.|[2412.11555](http://arxiv.org/abs/2412.11555)|**[link](https://github.com/zhaoyutim/ts-satfire)**|
 |**2024-12-16**|**Deep Random Features for Scalable Interpolation of Spatiotemporal Data**|Weibin Chen et.al.|[2412.11350](http://arxiv.org/abs/2412.11350)|**[link](https://github.com/totony4real/deeprandomfeatures)**|
 |**2024-12-13**|**CrossVIT-augmented Geospatial-Intelligence Visualization System for Tracking Economic Development Dynamics**|Yanbing Bai et.al.|[2412.10474](http://arxiv.org/abs/2412.10474)|**[link](https://github.com/hubdaniel/satellite-imagery-driven-geospatial-intelligence-system-for-tracking-economic-dynamics)**|
 |**2024-12-13**|**Superresolution imaging of two incoherent sources via two-photon interference sampling measurements in the transverse momenta**|Salvatore Muratore et.al.|[2412.10057](http://arxiv.org/abs/2412.10057)|null|

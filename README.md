@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -230,7 +230,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 ## Compression
 
@@ -910,7 +910,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -934,7 +934,7 @@
 |**2024-12-26**|**Reflective Gaussian Splatting**|Yuxuan Yao et.al.|[2412.19282](http://arxiv.org/abs/2412.19282)|null|
 |**2024-12-26**|**FineVQ: Fine-Grained User Generated Content Video Quality Assessment**|Huiyu Duan et.al.|[2412.19238](http://arxiv.org/abs/2412.19238)|null|
 |**2024-12-26**|**FACEMUG: A Multimodal Generative and Fusion Framework for Local Facial Editing**|Wanglong Lu et.al.|[2412.19009](http://arxiv.org/abs/2412.19009)|null|
-|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933](http://arxiv.org/abs/2412.18933)|null|
+|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933](http://arxiv.org/abs/2412.18933)|**[link](https://github.com/lighting-yxli/tinq)**|
 |**2024-12-25**|**ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization**|Zixiao Gu et.al.|[2412.18783](http://arxiv.org/abs/2412.18783)|null|
 |**2024-12-25**|**Embodied Image Quality Assessment for Robotic Intelligence**|Jianbo Zhang et.al.|[2412.18774](http://arxiv.org/abs/2412.18774)|**[link](https://github.com/jianbo-maker/epd_benchmark)**|
 |**2024-12-25**|**MRI Reconstruction with Regularized 3D Diffusion Model (R3DM)**|Arya Bangun et.al.|[2412.18723](http://arxiv.org/abs/2412.18723)|null|
@@ -2704,7 +2704,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -2719,7 +2719,7 @@
 |**2024-12-27**|**YOLO-MST: Multiscale deep learning method for infrared small target detection based on super-resolution and YOLO**|Taoran Yue et.al.|[2412.19878](http://arxiv.org/abs/2412.19878)|null|
 |**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553](http://arxiv.org/abs/2412.19553)|null|
 |**2024-12-25**|**WaveDiffUR: A diffusion SDE-based solver for ultra magnification super-resolution in remote sensing images**|Yue Shi et.al.|[2412.18996](http://arxiv.org/abs/2412.18996)|null|
-|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933](http://arxiv.org/abs/2412.18933)|null|
+|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933](http://arxiv.org/abs/2412.18933)|**[link](https://github.com/lighting-yxli/tinq)**|
 |**2024-12-23**|**Joint Multitarget Detection and Tracking with mmWave Radar**|Jiang Zhu et.al.|[2412.17211](http://arxiv.org/abs/2412.17211)|null|
 |**2024-12-22**|**Foundation Model for Lossy Compression of Spatiotemporal Scientific Data**|Xiao Li et.al.|[2412.17184](http://arxiv.org/abs/2412.17184)|null|
 |**2024-12-22**|**Massively Multiplexed Wide-field Photon Correlation Sensing**|Shay Elmalem et.al.|[2412.16914](http://arxiv.org/abs/2412.16914)|null|
@@ -3538,19 +3538,19 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 ## Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-30**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Yujie Li et.al.|[2412.20742](http://arxiv.org/abs/2412.20742)|null|
-|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665](http://arxiv.org/abs/2412.20665)|null|
+|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665](http://arxiv.org/abs/2412.20665)|**[link](https://github.com/zcablii/sm3det)**|
 |**2024-12-28**|**Back-Scattering Suppression for Broad-Spectral High-Absorption Silicon Extended Area Blackbody**|HongShuai Zhou et.al.|[2412.20153](http://arxiv.org/abs/2412.20153)|null|
 |**2024-12-27**|**Current State of Atmospheric Turbulence Cascades**|Vicente Corral Arreola et.al.|[2412.19953](http://arxiv.org/abs/2412.19953)|null|
 |**2024-12-25**|**Fusion of Deep Learning and GIS for Advanced Remote Sensing Image Analysis**|Sajjad Afroosheh et.al.|[2412.19856](http://arxiv.org/abs/2412.19856)|null|
 |**2024-12-27**|**Real-time Reflectance Generation for UAV Multispectral Imagery using an Onboard Downwelling Spectrometer in Varied Weather Conditions**|Jiayang Xie et.al.|[2412.19527](http://arxiv.org/abs/2412.19527)|null|
-|**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|null|
+|**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|**[link](https://github.com/yecy749/gsnet)**|
 |**2024-12-26**|**SeaMo: A Multi-Seasonal and Multimodal Remote Sensing Foundation Model**|Xuyang Li et.al.|[2412.19237](http://arxiv.org/abs/2412.19237)|null|
 |**2024-12-26**|**Mask Approximation Net: Merging Feature Extraction and Distribution Learning for Remote Sensing Change Captioning**|Dongwei Sun et.al.|[2412.19179](http://arxiv.org/abs/2412.19179)|null|
 |**2024-12-25**|**WaveDiffUR: A diffusion SDE-based solver for ultra magnification super-resolution in remote sensing images**|Yue Shi et.al.|[2412.18996](http://arxiv.org/abs/2412.18996)|null|
@@ -4476,7 +4476,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

@@ -236,7 +236,7 @@ layout: default
 |**2025-01-03**|**Compressed Domain Prior-Guided Video Super-Resolution for Cloud Gaming Content**|Qizhe Wang et.al.|[2501.01773](http://arxiv.org/abs/2501.01773)|null|
 |**2025-01-01**|**CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation**|Daniel Silver et.al.|[2501.00975](http://arxiv.org/abs/2501.00975)|null|
 |**2025-01-01**|**Gradient Compression and Correlation Driven Federated Learning for Wireless Traffic Prediction**|Chuanting Zhang et.al.|[2501.00732](http://arxiv.org/abs/2501.00732)|null|
-|**2024-12-31**|**Rapid, High-resolution and Distortion-free $R_{2}^{*}$ Mapping of Fetal Brain using Multi-echo Radial FLASH and Model-based Reconstruction**|Xiaoqing Wang et.al.|[2501.00256](http://arxiv.org/abs/2501.00256)|null|
+|**2025-01-07**|**Rapid, High-resolution and Distortion-free $R_{2}^{*}$ Mapping of Fetal Brain using Multi-echo Radial FLASH and Model-based Reconstruction**|Xiaoqing Wang et.al.|[2501.00256](http://arxiv.org/abs/2501.00256)|null|
 |**2024-12-29**|**Distributed Hybrid Sketching for $\ell_2$ -Embeddings**|Neophytos Charalambides et.al.|[2412.20301](http://arxiv.org/abs/2412.20301)|null|
 |**2024-12-19**|**Quantum Implicit Neural Compression**|Takuya Fujihashi et.al.|[2412.19828](http://arxiv.org/abs/2412.19828)|null|
 |**2024-12-25**|**Adaptive Rate Control for Deep Video Compression with Rate-Distortion Prediction**|Bowen Gu et.al.|[2412.18834](http://arxiv.org/abs/2412.18834)|null|
@@ -915,6 +915,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Motion-Aware Generative Frame Interpolation**|Guozhen Zhang et.al.|[2501.03699](http://arxiv.org/abs/2501.03699)|null|
+|**2025-01-07**|**Action Quality Assessment via Hierarchical Pose-guided Multi-stage Contrastive Regression**|Mengshi Qi et.al.|[2501.03674](http://arxiv.org/abs/2501.03674)|null|
+|**2025-01-07**|**Deep Learning-based Compression Detection for explainable Face Image Quality Assessment**|Laurin Jonientz et.al.|[2501.03619](http://arxiv.org/abs/2501.03619)|null|
+|**2025-01-07**|**A generative approach for lensless imaging in low-light conditions**|Ziyang Liu et.al.|[2501.03511](http://arxiv.org/abs/2501.03511)|null|
+|**2025-01-07**|**Can Deep Learning Trigger Alerts from Mobile-Captured Images?**|Pritisha Sarkar et.al.|[2501.03499](http://arxiv.org/abs/2501.03499)|null|
 |**2025-01-06**|**A Trust-Guided Approach to MR Image Reconstruction with Side Information**|Arda Atalık et.al.|[2501.03021](http://arxiv.org/abs/2501.03021)|null|
 |**2025-01-06**|**Quality Estimation based Feedback Training for Improving Pronoun Translation**|Harshit Dhankhar et.al.|[2501.03008](http://arxiv.org/abs/2501.03008)|null|
 |**2025-01-06**|**GLFC: Unified Global-Local Feature and Contrast Learning with Mamba-Enhanced UNet for Synthetic CT Generation from CBCT**|Xianhao Zhou et.al.|[2501.02992](http://arxiv.org/abs/2501.02992)|**[link](https://github.com/intelland/glfc)**|
@@ -927,7 +932,7 @@ layout: default
 |**2025-01-05**|**DepthMaster: Taming Diffusion Models for Monocular Depth Estimation**|Ziyang Song et.al.|[2501.02576](http://arxiv.org/abs/2501.02576)|null|
 |**2025-01-05**|**Multi-LLM Collaborative Caption Generation in Scientific Documents**|Jaeyoung Kim et.al.|[2501.02552](http://arxiv.org/abs/2501.02552)|null|
 |**2025-01-05**|**Pixel-Wise Feature Selection for Perceptual Edge Detection without post-processing**|Hao Shu et.al.|[2501.02534](http://arxiv.org/abs/2501.02534)|null|
-|**2025-01-05**|**ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling**|Chaojie Mao et.al.|[2501.02487](http://arxiv.org/abs/2501.02487)|null|
+|**2025-01-07**|**ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling**|Chaojie Mao et.al.|[2501.02487](http://arxiv.org/abs/2501.02487)|null|
 |**2025-01-05**|**Reducing the Gap Between Pretrained Speech Enhancement and Recognition Models Using a Real Speech-Trained Bridging Module**|Zhongjian Cui et.al.|[2501.02452](http://arxiv.org/abs/2501.02452)|null|
 |**2025-01-05**|**Journey into Automation: Image-Derived Pavement Texture Extraction and Evaluation**|Bingjie Lu et.al.|[2501.02414](http://arxiv.org/abs/2501.02414)|null|
 |**2025-01-04**|**Optimizing Audio Compression Through Entropy-Controlled Dithering**|Ellison Murray et.al.|[2501.02293](http://arxiv.org/abs/2501.02293)|null|
@@ -2747,6 +2752,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Illuminating extracellular vesicles biology with super resolution microscopy: Insights into morphology and composition**|Lucile Alexandre et.al.|[2501.03713](http://arxiv.org/abs/2501.03713)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002](http://arxiv.org/abs/2501.03002)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976](http://arxiv.org/abs/2501.02976)|null|
 |**2025-01-06**|**Conditional Mutual Information Based Diffusion Posterior Sampling for Solving Inverse Problems**|Shayan Mohajer Hamidi et.al.|[2501.02880](http://arxiv.org/abs/2501.02880)|null|
@@ -2755,7 +2761,7 @@ layout: default
 |**2025-01-03**|**Compressed Domain Prior-Guided Video Super-Resolution for Cloud Gaming Content**|Qizhe Wang et.al.|[2501.01773](http://arxiv.org/abs/2501.01773)|null|
 |**2025-01-03**|**IGAF: Incremental Guided Attention Fusion for Depth Super-Resolution**|Athanasios Tragakis et.al.|[2501.01723](http://arxiv.org/abs/2501.01723)|null|
 |**2025-01-02**|**Embedding Similarity Guided License Plate Super Resolution**|Abderrezzaq Sendjasni et.al.|[2501.01483](http://arxiv.org/abs/2501.01483)|null|
-|**2024-12-31**|**GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution**|Qiwei Zhu et.al.|[2501.01460](http://arxiv.org/abs/2501.01460)|null|
+|**2025-01-07**|**GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution**|Qiwei Zhu et.al.|[2501.01460](http://arxiv.org/abs/2501.01460)|null|
 |**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596](http://arxiv.org/abs/2412.20596)|null|
 |**2024-12-28**|**Continuous and Reversible Electrical Tuning of Fluorescent Decay Rate via Fano Resonance**|Emre Ozan Polat et.al.|[2412.20199](http://arxiv.org/abs/2412.20199)|null|
 |**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066](http://arxiv.org/abs/2412.20066)|null|
@@ -3588,11 +3594,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection**|Xinbin Yuan et.al.|[2501.03775](http://arxiv.org/abs/2501.03775)|**[link](https://github.com/yxb-nku/strip-r-cnn)**|
+|**2025-01-06**|**Quantum Feature-Empowered Deep Classification for Fast Mangrove Mapping**|Chia-Hsiang Lin et.al.|[2501.03360](http://arxiv.org/abs/2501.03360)|null|
 |**2025-01-06**|**Interaction of Electromagnetic Radiation with Cometary Dust**|ludmilla Kolokolova et.al.|[2501.03117](http://arxiv.org/abs/2501.03117)|null|
 |**2025-01-05**|**Generalization-Enhanced Few-Shot Object Detection in Remote Sensing**|Hui Lin et.al.|[2501.02474](http://arxiv.org/abs/2501.02474)|**[link](https://github.com/leenamx/ge-fsod)**|
 |**2025-01-05**|**FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models**|Hui Lin et.al.|[2501.02461](http://arxiv.org/abs/2501.02461)|null|
 |**2025-01-03**|**Transformer-Driven Inverse Problem Transform for Fast Blind Hyperspectral Image Dehazing**|Po-Wei Tang et.al.|[2501.01924](http://arxiv.org/abs/2501.01924)|null|
-|**2024-12-31**|**GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution**|Qiwei Zhu et.al.|[2501.01460](http://arxiv.org/abs/2501.01460)|null|
+|**2025-01-07**|**GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution**|Qiwei Zhu et.al.|[2501.01460](http://arxiv.org/abs/2501.01460)|null|
 |**2025-01-02**|**EHCTNet: Enhanced Hybrid of CNN and Transformer Network for Remote Sensing Image Change Detection**|Junjie Yang et.al.|[2501.01238](http://arxiv.org/abs/2501.01238)|null|
 |**2025-01-02**|**TS-SatMVSNet: Slope Aware Height Estimation for Large-Scale Earth Terrain Multi-view Stereo**|Song Zhang et.al.|[2501.01049](http://arxiv.org/abs/2501.01049)|null|
 |**2025-01-01**|**Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model**|Chenyang Liu et.al.|[2501.00895](http://arxiv.org/abs/2501.00895)|null|

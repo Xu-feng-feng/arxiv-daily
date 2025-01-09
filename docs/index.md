@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.08
+## Updated on 2025.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -3594,7 +3594,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-07**|**Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection**|Xinbin Yuan et.al.|[2501.03775](http://arxiv.org/abs/2501.03775)|**[link](https://github.com/yxb-nku/strip-r-cnn)**|
+|**2025-01-07**|**Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection**|Xinbin Yuan et.al.|[2501.03775](http://arxiv.org/abs/2501.03775)|**[link](https://github.com/zcablii/lsknet)**|
 |**2025-01-06**|**Quantum Feature-Empowered Deep Classification for Fast Mangrove Mapping**|Chia-Hsiang Lin et.al.|[2501.03360](http://arxiv.org/abs/2501.03360)|null|
 |**2025-01-06**|**Interaction of Electromagnetic Radiation with Cometary Dust**|ludmilla Kolokolova et.al.|[2501.03117](http://arxiv.org/abs/2501.03117)|null|
 |**2025-01-05**|**Generalization-Enhanced Few-Shot Object Detection in Remote Sensing**|Hui Lin et.al.|[2501.02474](http://arxiv.org/abs/2501.02474)|**[link](https://github.com/leenamx/ge-fsod)**|

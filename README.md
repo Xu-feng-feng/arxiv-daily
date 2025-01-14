@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Representation Learning of Point Cloud Upsampling in Global and Local Inputs**|Tongxu Zhang et.al.|[2501.07076](http://arxiv.org/abs/2501.07076)|null|
 |**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
 |**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680](http://arxiv.org/abs/2412.11680)|null|
 |**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
@@ -236,6 +237,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning**|Juntao Ren et.al.|[2501.06994](http://arxiv.org/abs/2501.06994)|null|
+|**2025-01-12**|**A General Framework for Error-controlled Unstructured Scientific Data Compression**|Qian Gong et.al.|[2501.06910](http://arxiv.org/abs/2501.06910)|null|
 |**2025-01-10**|**From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities**|Dominick Reilly et.al.|[2501.05711](http://arxiv.org/abs/2501.05711)|null|
 |**2025-01-09**|**Neural Architecture Codesign for Fast Physics Applications**|Jason Weitz et.al.|[2501.05515](http://arxiv.org/abs/2501.05515)|**[link](https://github.com/fastmachinelearning/nac-opt)**|
 |**2025-01-09**|**Principles and Metrics of Extreme Learning Machines Using a Highly Nonlinear Fiber**|Mathilde Hary et.al.|[2501.05233](http://arxiv.org/abs/2501.05233)|null|
@@ -935,11 +938,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**FaceOracle: Chat with a Face Image Oracle**|Wassim Kabbani et.al.|[2501.07202](http://arxiv.org/abs/2501.07202)|null|
+|**2025-01-13**|**Radial Distortion in Face Images: Detection and Impact**|Wassim Kabbani et.al.|[2501.07179](http://arxiv.org/abs/2501.07179)|null|
+|**2025-01-13**|**Eye Sclera for Fair Face Image Quality Assessment**|Wassim Kabbani et.al.|[2501.07158](http://arxiv.org/abs/2501.07158)|null|
+|**2025-01-13**|**Privacy-Preserving Data Quality Assessment for Time-Series IoT Sensors**|Novoneel Chakraborty et.al.|[2501.07154](http://arxiv.org/abs/2501.07154)|null|
+|**2025-01-13**|**Video Quality Assessment for Online Processing: From Spatial to Temporal Sampling**|Jiebin Yan et.al.|[2501.07087](http://arxiv.org/abs/2501.07087)|null|
+|**2025-01-12**|**Real-Time Neural-Enhancement for Online Cloud Gaming**|Shan Jiang et.al.|[2501.06880](http://arxiv.org/abs/2501.06880)|null|
+|**2025-01-12**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution**|Du Chen et.al.|[2501.06838](http://arxiv.org/abs/2501.06838)|null|
+|**2025-01-11**|**NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References**|Qiang Qu et.al.|[2501.06488](http://arxiv.org/abs/2501.06488)|**[link](https://github.com/vincentqqu/nvs-sqa)**|
 |**2025-01-10**|**VideoAuteur: Towards Long Narrative Video Generation**|Junfei Xiao et.al.|[2501.06173](http://arxiv.org/abs/2501.06173)|null|
 |**2025-01-10**|**CamCtrl3D: Single-Image Scene Exploration with Precise 3D Camera Control**|Stefan Popov et.al.|[2501.06006](http://arxiv.org/abs/2501.06006)|null|
 |**2025-01-10**|**Universal-2-TF: Robust All-Neural Text Formatting for ASR**|Yash Khare et.al.|[2501.05948](http://arxiv.org/abs/2501.05948)|null|
 |**2025-01-10**|**UltraRay: Full-Path Ray Tracing for Enhancing Realism in Ultrasound Simulation**|Felix Duelmer et.al.|[2501.05828](http://arxiv.org/abs/2501.05828)|null|
-|**2025-01-10**|**AI-Driven Diabetic Retinopathy Screening: Multicentric Validation of AIDRSS in India**|Amit Kr Dey et.al.|[2501.05826](http://arxiv.org/abs/2501.05826)|null|
+|**2025-01-13**|**AI-Driven Diabetic Retinopathy Screening: Multicentric Validation of AIDRSS in India**|Amit Kr Dey et.al.|[2501.05826](http://arxiv.org/abs/2501.05826)|null|
 |**2025-01-10**|**Conditional Diffusion Model for Electrical Impedance Tomography**|Duanpeng Shi et.al.|[2501.05769](http://arxiv.org/abs/2501.05769)|null|
 |**2025-01-10**|**LLVD: LSTM-based Explicit Motion Modeling in Latent Space for Blind Video Denoising**|Loay Rashid et.al.|[2501.05744](http://arxiv.org/abs/2501.05744)|null|
 |**2025-01-10**|**FIRM: Federated Image Reconstruction using Multimodal Tomographic Data**|Geunyeong Byeon et.al.|[2501.05642](http://arxiv.org/abs/2501.05642)|null|
@@ -2795,11 +2806,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430](http://arxiv.org/abs/2501.07430)|null|
+|**2025-01-12**|**Super-Resolution of 3D Micro-CT Images Using Generative Adversarial Networks: Enhancing Resolution and Segmentation Accuracy**|Evgeny Ugolkov et.al.|[2501.06939](http://arxiv.org/abs/2501.06939)|**[link](https://github.com/evgenyugolkov/8x_super-resolution)**|
+|**2025-01-12**|**Real-Time Neural-Enhancement for Online Cloud Gaming**|Shan Jiang et.al.|[2501.06880](http://arxiv.org/abs/2501.06880)|null|
+|**2025-01-12**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution**|Du Chen et.al.|[2501.06838](http://arxiv.org/abs/2501.06838)|null|
+|**2025-01-12**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
+|**2025-01-12**|**Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution**|Ashitha Mudraje et.al.|[2501.06720](http://arxiv.org/abs/2501.06720)|null|
 |**2025-01-10**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777](http://arxiv.org/abs/2501.05777)|**[link](https://github.com/lycexe/structsr)**|
 |**2025-01-09**|**Bit-depth color recovery via off-the-shelf super-resolution models**|Xuanshuo Fu et.al.|[2501.05611](http://arxiv.org/abs/2501.05611)|null|
 |**2025-01-09**|**Detection of binary companions below the diffraction limit with lucky imaging**|Miguel A. Cagigas et.al.|[2501.05154](http://arxiv.org/abs/2501.05154)|null|
 |**2025-01-09**|**FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching**|Jun-Hak Yun et.al.|[2501.04926](http://arxiv.org/abs/2501.04926)|null|
-|**2025-01-08**|**Physics-Informed Super-Resolution Diffusion for 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2501.04305](http://arxiv.org/abs/2501.04305)|null|
+|**2025-01-11**|**Physics-Informed Super-Resolution Diffusion for 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2501.04305](http://arxiv.org/abs/2501.04305)|null|
 |**2025-01-08**|**Illuminating extracellular vesicles biology with super resolution microscopy: Insights into morphology and composition**|Lucile Alexandre et.al.|[2501.03713](http://arxiv.org/abs/2501.03713)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002](http://arxiv.org/abs/2501.03002)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976](http://arxiv.org/abs/2501.02976)|null|
@@ -3644,6 +3661,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Kolmogorov-Arnold Network for Remote Sensing Image Semantic Segmentation**|Xianping Ma et.al.|[2501.07390](http://arxiv.org/abs/2501.07390)|null|
+|**2025-01-13**|**Coastal wave refraction in variable currents over a varying bathymetry**|Trygve Halsne et.al.|[2501.07132](http://arxiv.org/abs/2501.07132)|null|
+|**2025-01-12**|**GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing**|Ruizhe Ou et.al.|[2501.06828](http://arxiv.org/abs/2501.06828)|null|
+|**2025-01-12**|**RSRefSeg: Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2501.06809](http://arxiv.org/abs/2501.06809)|**[link](https://github.com/kyanchen/rsrefseg)**|
+|**2025-01-12**|**Semantic-CD: Remote Sensing Image Semantic Change Detection towards Open-vocabulary Setting**|Yongshuo Zhu et.al.|[2501.06808](http://arxiv.org/abs/2501.06808)|null|
+|**2025-01-12**|**Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution**|Ashitha Mudraje et.al.|[2501.06720](http://arxiv.org/abs/2501.06720)|null|
+|**2025-01-12**|**Mamba-MOC: A Multicategory Remote Object Counting via State Space Model**|Peng Liu et.al.|[2501.06697](http://arxiv.org/abs/2501.06697)|null|
+|**2025-01-11**|**UCloudNet: A Residual U-Net with Deep Supervision for Cloud Image Segmentation**|Yijie Li et.al.|[2501.06440](http://arxiv.org/abs/2501.06440)|**[link](https://github.com/att100/ucloudnet)**|
+|**2025-01-08**|**Microservice Deployment in Space Computing Power Networks via Robust Reinforcement Learning**|Zhiyong Yu et.al.|[2501.06244](http://arxiv.org/abs/2501.06244)|null|
 |**2025-01-10**|**LPRnet: A self-supervised registration network for LiDAR and photogrammetric point clouds**|Chen Wang et.al.|[2501.05669](http://arxiv.org/abs/2501.05669)|null|
 |**2025-01-09**|**Patch-GAN Transfer Learning with Reconstructive Models for Cloud Removal**|Wanli Ma et.al.|[2501.05265](http://arxiv.org/abs/2501.05265)|null|
 |**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|null|

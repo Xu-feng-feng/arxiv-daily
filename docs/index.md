@@ -237,7 +237,7 @@ layout: default
 |**2025-01-08**|**GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting**|Andrew Bond et.al.|[2501.04782](http://arxiv.org/abs/2501.04782)|null|
 |**2025-01-08**|**Unified Coding for Both Human Perception and Generalized Machine Analytics with CLIP Supervision**|Kangsheng Yin et.al.|[2501.04579](http://arxiv.org/abs/2501.04579)|**[link](https://github.com/yinkangsheng/ug-icm)**|
 |**2025-01-08**|**An Efficient Adaptive Compression Method for Human Perception and Machine Vision Tasks**|Lei Liu et.al.|[2501.04329](http://arxiv.org/abs/2501.04329)|null|
-|**2025-01-03**|**Listening and Seeing Again: Generative Error Correction for Audio-Visual Speech Recognition**|Rui Liu et.al.|[2501.04038](http://arxiv.org/abs/2501.04038)|null|
+|**2025-01-03**|**Listening and Seeing Again: Generative Error Correction for Audio-Visual Speech Recognition**|Rui Liu et.al.|[2501.04038](http://arxiv.org/abs/2501.04038)|**[link](https://github.com/circleredrain/avger)**|
 |**2024-12-24**|**MERCURY: A fast and versatile multi-resolution based global emulator of compound climate hazards**|Shruti Nath et.al.|[2501.04018](http://arxiv.org/abs/2501.04018)|null|
 |**2025-01-06**|**A Novel Structure-Agnostic Multi-Objective Approach for Weight-Sharing Compression in Deep Neural Networks**|Rasa Khosrowshahli et.al.|[2501.03095](http://arxiv.org/abs/2501.03095)|null|
 |**2025-01-06**|**Region of Interest based Medical Image Compression**|Utkarsh Prakash Srivastava et.al.|[2501.02895](http://arxiv.org/abs/2501.02895)|null|
@@ -927,7 +927,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-14**|**Optical information encryption using general temporal ghost imaging with practical experimental condition**|Juan Wu et.al.|[2501.08136](http://arxiv.org/abs/2501.08136)|null|
+|**2025-01-15**|**Lights, Camera, Matching: The Role of Image Illumination in Fair Face Recognition**|Gabriella Pangelinan et.al.|[2501.08910](http://arxiv.org/abs/2501.08910)|null|
+|**2025-01-15**|**XMusic: Towards a Generalized and Controllable Symbolic Music Generation Framework**|Sida Tian et.al.|[2501.08809](http://arxiv.org/abs/2501.08809)|null|
+|**2025-01-15**|**Holoview: Interactive 3D visualization of medical data in AR**|Pankaj Kaushik et.al.|[2501.08736](http://arxiv.org/abs/2501.08736)|null|
+|**2025-01-15**|**DynamicFace: High-Quality and Consistent Video Face Swapping using Composable 3D Facial Priors**|Runqi Wang et.al.|[2501.08553](http://arxiv.org/abs/2501.08553)|null|
+|**2025-01-15**|**Comprehensive Subjective and Objective Evaluation Method for Text-generated Video**|Zelu Qi et.al.|[2501.08545](http://arxiv.org/abs/2501.08545)|null|
+|**2025-01-14**|**Head Motion Degrades Machine Learning Classification of Alzheimer's Disease from Positron Emission Tomography**|Eléonore V. Lieffrig et.al.|[2501.08459](http://arxiv.org/abs/2501.08459)|null|
+|**2025-01-14**|**Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models**|Weichen Fan et.al.|[2501.08453](http://arxiv.org/abs/2501.08453)|null|
+|**2025-01-14**|**Cross-Modal Transferable Image-to-Video Attack on Video Quality Metrics**|Georgii Gotin et.al.|[2501.08415](http://arxiv.org/abs/2501.08415)|null|
+|**2025-01-14**|**Rolling phase modulation regime for dynamic full field OCT**|Tual Monfort et.al.|[2501.08359](http://arxiv.org/abs/2501.08359)|null|
+|**2025-01-15**|**Optical information encryption using general temporal ghost imaging with practical experimental condition**|Juan Wu et.al.|[2501.08136](http://arxiv.org/abs/2501.08136)|null|
 |**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-14**|**VENOM: Text-driven Unrestricted Adversarial Example Generation with Diffusion Models**|Hui Kuurila-Zhang et.al.|[2501.07922](http://arxiv.org/abs/2501.07922)|**[link](https://github.com/huizhg/VENOM)**|
 |**2025-01-14**|**Demographic Variability in Face Image Quality Measures**|Wassim Kabbani et.al.|[2501.07898](http://arxiv.org/abs/2501.07898)|null|
@@ -2798,6 +2807,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution**|Shao-Hao Lu et.al.|[2501.08819](http://arxiv.org/abs/2501.08819)|**[link](https://github.com/ryanlu2240/boosting-diffusion-guidance-via-learning-degradation-aware-models-for-blind-super-resolution)**|
+|**2025-01-15**|**Deep learning for temporal super-resolution 4D Flow MRI**|Pia Callmer et.al.|[2501.08780](http://arxiv.org/abs/2501.08780)|null|
 |**2025-01-14**|**Bridge-SR: Schrödinger Bridge for Efficient SR**|Chang Li et.al.|[2501.07897](http://arxiv.org/abs/2501.07897)|null|
 |**2025-01-14**|**State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications**|Debasish Dutta et.al.|[2501.07855](http://arxiv.org/abs/2501.07855)|null|
 |**2025-01-14**|**Advanced representation learning for flow field analysis and reconstruction**|Yikai Wang et.al.|[2501.07835](http://arxiv.org/abs/2501.07835)|null|
@@ -3655,6 +3666,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**FLAVARS: A Multimodal Foundational Language and Vision Alignment Model for Remote Sensing**|Isaac Corley et.al.|[2501.08490](http://arxiv.org/abs/2501.08490)|null|
 |**2025-01-14**|**Efficient and Accurate Full-Waveform Inversion with Total Variation Constraint**|Yudai Inada et.al.|[2501.08210](http://arxiv.org/abs/2501.08210)|null|
 |**2025-01-14**|**SAR Strikes Back: A New Hope for RSVQA**|Lucrezia Tosato et.al.|[2501.08131](http://arxiv.org/abs/2501.08131)|null|
 |**2025-01-14**|**Change Captioning in Remote Sensing: Evolution to SAT-Cap -- A Single-Stage Transformer Approach**|Yuduo Wang et.al.|[2501.08114](http://arxiv.org/abs/2501.08114)|null|
@@ -3662,7 +3674,7 @@ layout: default
 |**2025-01-14**|**Threshold Attention Network for Semantic Segmentation of Remote Sensing Images**|Wei Long et.al.|[2501.07984](http://arxiv.org/abs/2501.07984)|null|
 |**2025-01-14**|**Robust Hyperspectral Image Panshapring via Sparse Spatial-Spectral Representation**|Chia-Ming Lee et.al.|[2501.07953](http://arxiv.org/abs/2501.07953)|null|
 |**2025-01-14**|**Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network**|Yuxi Wang et.al.|[2501.07901](http://arxiv.org/abs/2501.07901)|null|
-|**2025-01-13**|**Kolmogorov-Arnold Network for Remote Sensing Image Semantic Segmentation**|Xianping Ma et.al.|[2501.07390](http://arxiv.org/abs/2501.07390)|null|
+|**2025-01-13**|**Kolmogorov-Arnold Network for Remote Sensing Image Semantic Segmentation**|Xianping Ma et.al.|[2501.07390](http://arxiv.org/abs/2501.07390)|**[link](https://github.com/sstary/ssrs)**|
 |**2025-01-13**|**Coastal wave refraction in variable currents over a varying bathymetry**|Trygve Halsne et.al.|[2501.07132](http://arxiv.org/abs/2501.07132)|null|
 |**2025-01-12**|**GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing**|Ruizhe Ou et.al.|[2501.06828](http://arxiv.org/abs/2501.06828)|null|
 |**2025-01-12**|**RSRefSeg: Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2501.06809](http://arxiv.org/abs/2501.06809)|**[link](https://github.com/kyanchen/rsrefseg)**|
@@ -3673,8 +3685,8 @@ layout: default
 |**2025-01-08**|**Microservice Deployment in Space Computing Power Networks via Robust Reinforcement Learning**|Zhiyong Yu et.al.|[2501.06244](http://arxiv.org/abs/2501.06244)|null|
 |**2025-01-10**|**LPRnet: A self-supervised registration network for LiDAR and photogrammetric point clouds**|Chen Wang et.al.|[2501.05669](http://arxiv.org/abs/2501.05669)|null|
 |**2025-01-09**|**Patch-GAN Transfer Learning with Reconstructive Models for Cloud Removal**|Wanli Ma et.al.|[2501.05265](http://arxiv.org/abs/2501.05265)|null|
-|**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|null|
-|**2025-01-09**|**MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification**|Yapeng Li et.al.|[2501.04944](http://arxiv.org/abs/2501.04944)|null|
+|**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|**[link](https://github.com/martianxiu/als_pretraining)**|
+|**2025-01-09**|**MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification**|Yapeng Li et.al.|[2501.04944](http://arxiv.org/abs/2501.04944)|**[link](https://github.com/li-yapeng/mambahsi)**|
 |**2025-01-10**|**Plug-and-Play DISep: Separating Dense Instances for Scene-to-Pixel Weakly-Supervised Change Detection in High-Resolution Remote Sensing Images**|Zhenghui Zhao et.al.|[2501.04934](http://arxiv.org/abs/2501.04934)|**[link](https://github.com/zhenghuizhao/plug-and-play-disep-for-change-detection)**|
 |**2025-01-08**|**Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification**|Zhiqiang Gao et.al.|[2501.04643](http://arxiv.org/abs/2501.04643)|null|
 |**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487](http://arxiv.org/abs/2501.04487)|null|

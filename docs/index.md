@@ -976,7 +976,7 @@ layout: default
 |**2025-01-08**|**Enhancing kidney quality assessment: Power Doppler during normothermic machine perfusion**|Yitian Fang et.al.|[2501.04457](http://arxiv.org/abs/2501.04457)|null|
 |**2025-01-08**|**iFADIT: Invertible Face Anonymization via Disentangled Identity Transform**|Lin Yuan et.al.|[2501.04390](http://arxiv.org/abs/2501.04390)|null|
 |**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304](http://arxiv.org/abs/2501.04304)|null|
-|**2025-01-07**|**Spatiotemporal Gaussian Optimization for 4D Cone Beam CT Reconstruction from Sparse Projections**|Yabo Fu et.al.|[2501.04140](http://arxiv.org/abs/2501.04140)|null|
+|**2025-01-07**|**Spatiotemporal Gaussian Optimization for 4D Cone Beam CT Reconstruction from Sparse Projections**|Yabo Fu et.al.|[2501.04140](http://arxiv.org/abs/2501.04140)|**[link](https://github.com/fuyabo/4dgs_for_4dcbct)**|
 |**2025-01-07**|**Motion-Aware Generative Frame Interpolation**|Guozhen Zhang et.al.|[2501.03699](http://arxiv.org/abs/2501.03699)|null|
 |**2025-01-07**|**Action Quality Assessment via Hierarchical Pose-guided Multi-stage Contrastive Regression**|Mengshi Qi et.al.|[2501.03674](http://arxiv.org/abs/2501.03674)|**[link](https://github.com/lumos0507/hp-mcore)**|
 |**2025-01-07**|**Deep Learning-based Compression Detection for explainable Face Image Quality Assessment**|Laurin Jonientz et.al.|[2501.03619](http://arxiv.org/abs/2501.03619)|**[link](https://github.com/bsi-ofiq/ofiq-project)**|
@@ -991,7 +991,7 @@ layout: default
 |**2025-01-06**|**Brick-Diffusion: Generating Long Videos with Brick-to-Wall Denoising**|Yunlong Yuan et.al.|[2501.02741](http://arxiv.org/abs/2501.02741)|null|
 |**2025-01-06**|**Artificial Intelligence in Creative Industries: Advances Prior to 2025**|Nantheera Anantrasirichai et.al.|[2501.02725](http://arxiv.org/abs/2501.02725)|null|
 |**2025-01-06**|**Multilevel Semantic-Aware Model for AI-Generated Video Quality Assessment**|Jiaze Li et.al.|[2501.02706](http://arxiv.org/abs/2501.02706)|null|
-|**2025-01-05**|**DepthMaster: Taming Diffusion Models for Monocular Depth Estimation**|Ziyang Song et.al.|[2501.02576](http://arxiv.org/abs/2501.02576)|null|
+|**2025-01-05**|**DepthMaster: Taming Diffusion Models for Monocular Depth Estimation**|Ziyang Song et.al.|[2501.02576](http://arxiv.org/abs/2501.02576)|**[link](https://github.com/indu1ge/DepthMaster)**|
 |**2025-01-05**|**Multi-LLM Collaborative Caption Generation in Scientific Documents**|Jaeyoung Kim et.al.|[2501.02552](http://arxiv.org/abs/2501.02552)|**[link](https://github.com/teamreboott/mlbcap)**|
 |**2025-01-05**|**Pixel-Wise Feature Selection for Perceptual Edge Detection without post-processing**|Hao Shu et.al.|[2501.02534](http://arxiv.org/abs/2501.02534)|null|
 |**2025-01-07**|**ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling**|Chaojie Mao et.al.|[2501.02487](http://arxiv.org/abs/2501.02487)|null|
@@ -1056,7 +1056,7 @@ layout: default
 |**2024-12-24**|**SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation**|Xuran Hu et.al.|[2412.18121](http://arxiv.org/abs/2412.18121)|null|
 |**2024-12-24**|**An Ensemble Approach to Short-form Video Quality Assessment Using Multimodal LLM**|Wen Wen et.al.|[2412.18060](http://arxiv.org/abs/2412.18060)|null|
 |**2024-12-23**|**ANID: How Far Are We? Evaluating the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance**|Renyang Liu et.al.|[2412.17632](http://arxiv.org/abs/2412.17632)|**[link](https://github.com/ryliu68/anid)**|
-|**2024-12-23**|**HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data**|Ting Zhou et.al.|[2412.17574](http://arxiv.org/abs/2412.17574)|null|
+|**2024-12-23**|**HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data**|Ting Zhou et.al.|[2412.17574](http://arxiv.org/abs/2412.17574)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2024-12-24**|**An Evaluation Framework for Product Images Background Inpainting based on Human Feedback and Product Consistency**|Yuqi Liang et.al.|[2412.17504](http://arxiv.org/abs/2412.17504)|null|
 |**2024-12-23**|**Predicting Satisfied User and Machine Ratio for Compressed Images: A Unified Approach**|Qi Zhang et.al.|[2412.17477](http://arxiv.org/abs/2412.17477)|null|
 |**2024-12-23**|**Assessment of Deep-Learning Methods for the Enhancement of Experimental Low Dose Dental CBCT Volumes**|Louise Friot--Giroux et.al.|[2412.17423](http://arxiv.org/abs/2412.17423)|null|
@@ -1098,7 +1098,7 @@ layout: default
 |**2024-12-18**|**Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model**|Yuqiu Liu et.al.|[2412.13897](http://arxiv.org/abs/2412.13897)|null|
 |**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
 |**2024-12-18**|**PASCO (PArallel Structured COarsening): an overlay to speed up graph clustering algorithms**|Etienne Lasalle et.al.|[2412.13592](http://arxiv.org/abs/2412.13592)|**[link](https://github.com/elasalle/pasco)**|
-|**2024-12-18**|**T $^3$ -S2S: Training-free Triplet Tuning for Sketch to Scene Generation**|Zhenhong Sun et.al.|[2412.13486](http://arxiv.org/abs/2412.13486)|null|
+|**2024-12-18**|**T $^3$ -S2S: Training-free Triplet Tuning for Sketch to Scene Generation**|Zhenhong Sun et.al.|[2412.13486](http://arxiv.org/abs/2412.13486)|**[link](https://github.com/chaos-sun/t3s2s)**|
 |**2024-12-18**|**Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**|Hanzhong Guo et.al.|[2412.13479](http://arxiv.org/abs/2412.13479)|**[link](https://github.com/Guohanzhong/OSA-LCM)**|
 |**2024-12-17**|**Optimisation of Magnetic Field Sensing with Optically Pumped Magnetometers for Magnetic Detection Electrical Impedance Tomography**|Kai Mason et.al.|[2412.13354](http://arxiv.org/abs/2412.13354)|null|
 |**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183](http://arxiv.org/abs/2412.13183)|null|
@@ -1459,7 +1459,7 @@ layout: default
 |**2024-10-29**|**Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**|Seetharam Killivalavan et.al.|[2410.22323](http://arxiv.org/abs/2410.22323)|null|
 |**2024-10-29**|**Multimodal Semantic Communication for Generative Audio-Driven Video Conferencing**|Haonan Tong et.al.|[2410.22112](http://arxiv.org/abs/2410.22112)|null|
 |**2024-10-29**|**Data Generation for Hardware-Friendly Post-Training Quantization**|Lior Dikstein et.al.|[2410.22110](http://arxiv.org/abs/2410.22110)|**[link](https://github.com/sony/model_optimization)**|
-|**2024-10-29**|**Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis**|Deepak Sridhar et.al.|[2410.21638](http://arxiv.org/abs/2410.21638)|null|
+|**2024-10-29**|**Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis**|Deepak Sridhar et.al.|[2410.21638](http://arxiv.org/abs/2410.21638)|**[link](https://github.com/DeepakSridhar/fgdm)**|
 |**2024-10-28**|**Exploring the Design Space of Diffusion Bridge Models via Stochasticity Control**|Shaorong Zhang et.al.|[2410.21553](http://arxiv.org/abs/2410.21553)|null|
 |**2024-10-28**|**SpeechQE: Estimating the Quality of Direct Speech Translation**|HyoJung Han et.al.|[2410.21485](http://arxiv.org/abs/2410.21485)|**[link](https://github.com/h-j-han/speechqe)**|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|**[link](https://github.com/ai-forever/kandinsky-3)**|
@@ -3238,7 +3238,7 @@ layout: default
 |**2024-07-08**|**Super-resolution imaging of nanoscale inhomogeneities in hBN-covered and encapsulated few-layer graphene**|Lina Jäckering et.al.|[2407.04565](http://arxiv.org/abs/2407.04565)|null|
 |**2024-07-05**|**AnySR: Realizing Image Super-Resolution as Any-Scale, Any-Resource**|Wengyi Zhan et.al.|[2407.04241](http://arxiv.org/abs/2407.04241)|**[link](https://github.com/crispyfeso4/anysr)**|
 |**2024-07-04**|**M^3:Manipulation Mask Manufacturer for Arbitrary-Scale Super-Resolution Mask**|Xinyu Yang et.al.|[2407.03695](http://arxiv.org/abs/2407.03695)|null|
-|**2024-07-04**|**ASteISR: Adapting Single Image Super-resolution Pre-trained Model for Efficient Stereo Image Super-resolution**|Yuanbo Zhou et.al.|[2407.03598](http://arxiv.org/abs/2407.03598)|null|
+|**2024-07-04**|**ASteISR: Adapting Single Image Super-resolution Pre-trained Model for Efficient Stereo Image Super-resolution**|Yuanbo Zhou et.al.|[2407.03598](http://arxiv.org/abs/2407.03598)|**[link](https://github.com/fzuzyb/ASteISR)**|
 |**2024-07-04**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089](http://arxiv.org/abs/2407.03089)|null|
 |**2024-07-03**|**Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design**|Gen Li et.al.|[2407.02813](http://arxiv.org/abs/2407.02813)|**[link](https://github.com/coulsonlee/dy-dca-eccv2024)**|
 |**2024-07-02**|**Adversarial Magnification to Deceive Deepfake Detection through Super Resolution**|Davide Alessandro Coccomini et.al.|[2407.02670](http://arxiv.org/abs/2407.02670)|**[link](https://github.com/davide-coccomini/adversarial-magnification-to-deceive-deepfake-detection-through-super-resolution)**|
@@ -3436,7 +3436,7 @@ layout: default
 |**2024-04-04**|**AdaBM: On-the-Fly Adaptive Bit Mapping for Image Super-Resolution**|Cheeun Hong et.al.|[2404.03296](http://arxiv.org/abs/2404.03296)|**[link](https://github.com/Cheeun/AdaBM)**|
 |**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209](http://arxiv.org/abs/2404.03209)|null|
 |**2024-04-04**|**Quantum enhanced mechanical rotation sensing using wavefront photonic gears**|Ofir Yesharim et.al.|[2404.02797](http://arxiv.org/abs/2404.02797)|null|
-|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|**[link](https://github.com/Lxiangyue/GenN2N)**|
 |**2024-04-03**|**Two-Stage Super-Resolution Simulation Method for Three-Dimensional Flow Fields Around Buildings for Real-Time Prediction of Urban Micrometeorology**|Yuki Yasuda et.al.|[2404.02631](http://arxiv.org/abs/2404.02631)|**[link](https://github.com/yukiyasuda2718/two-stage-sr-micrometeorology)**|
 |**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573](http://arxiv.org/abs/2404.02573)|null|
 |**2024-04-02**|**Super-Resolution Analysis for Landfill Waste Classification**|Matias Molina et.al.|[2404.01790](http://arxiv.org/abs/2404.01790)|null|
@@ -3717,7 +3717,7 @@ layout: default
 |**2025-01-01**|**Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model**|Chenyang Liu et.al.|[2501.00895](http://arxiv.org/abs/2501.00895)|null|
 |**2025-01-06**|**Scale-wise Bidirectional Alignment Network for Referring Remote Sensing Image Segmentation**|Kun Li et.al.|[2501.00851](http://arxiv.org/abs/2501.00851)|null|
 |**2024-12-31**|**A Novel Shape Guided Transformer Network for Instance Segmentation in Remote Sensing Images**|Dawen Yu et.al.|[2501.00360](http://arxiv.org/abs/2501.00360)|null|
-|**2024-12-30**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Yujie Li et.al.|[2412.20742](http://arxiv.org/abs/2412.20742)|null|
+|**2024-12-30**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Yujie Li et.al.|[2412.20742](http://arxiv.org/abs/2412.20742)|**[link](https://github.com/IntelliSensing/UniRS)**|
 |**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665](http://arxiv.org/abs/2412.20665)|**[link](https://github.com/zcablii/sm3det)**|
 |**2024-12-28**|**Back-Scattering Suppression for Broad-Spectral High-Absorption Silicon Extended Area Blackbody**|HongShuai Zhou et.al.|[2412.20153](http://arxiv.org/abs/2412.20153)|null|
 |**2024-12-27**|**Current State of Atmospheric Turbulence Cascades**|Vicente Corral Arreola et.al.|[2412.19953](http://arxiv.org/abs/2412.19953)|null|

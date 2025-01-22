@@ -237,6 +237,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**The Gap Between Principle and Practice of Lossy Image Coding**|Haotian Zhang et.al.|[2501.12330](http://arxiv.org/abs/2501.12330)|null|
+|**2025-01-21**|**RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression**|Uri Gadot et.al.|[2501.12216](http://arxiv.org/abs/2501.12216)|null|
+|**2025-01-20**|**Efficient Bearing Sensor Data Compression via an Asymmetrical Autoencoder with a Lifting Wavelet Transform Layer**|Xin Zhu et.al.|[2501.11737](http://arxiv.org/abs/2501.11737)|null|
+|**2025-01-20**|**Towards Loss-Resilient Image Coding for Unstable Satellite Networks**|Hongwei Sha et.al.|[2501.11263](http://arxiv.org/abs/2501.11263)|null|
+|**2025-01-18**|**Mathematical model of parameters relevance in adaptive level-crossing sampling for electrocardiogram signals**|Silvio Zanoli et.al.|[2501.10829](http://arxiv.org/abs/2501.10829)|null|
 |**2025-01-17**|**Lossless data compression at pragmatic rates**|Andreas Theocharous et.al.|[2501.10103](http://arxiv.org/abs/2501.10103)|null|
 |**2025-01-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah et.al.|[2501.09994](http://arxiv.org/abs/2501.09994)|**[link](https://github.com/mohammedsalah98/pt_fusion)**|
 |**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
@@ -942,6 +947,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
+|**2025-01-21**|**Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement**|Christoph Gebhardt et.al.|[2501.12289](http://arxiv.org/abs/2501.12289)|null|
+|**2025-01-21**|**A Dynamic Programming Framework for Generating Approximately Diverse and Optimal Solutions**|Waldo Gálvez et.al.|[2501.12261](http://arxiv.org/abs/2501.12261)|null|
+|**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249](http://arxiv.org/abs/2501.12249)|null|
+|**2025-01-21**|**DLEN: Dual Branch of Transformer for Low-Light Image Enhancement in Dual Domains**|Junyu Xia et.al.|[2501.12235](http://arxiv.org/abs/2501.12235)|null|
+|**2025-01-21**|**RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression**|Uri Gadot et.al.|[2501.12216](http://arxiv.org/abs/2501.12216)|null|
+|**2025-01-21**|**Fast-RF-Shimming: Accelerate RF Shimming in 7T MRI using Deep Learning**|Zhengyi Lu et.al.|[2501.12157](http://arxiv.org/abs/2501.12157)|null|
+|**2025-01-21**|**A Multi-annotated and Multi-modal Dataset for Wide-angle Video Quality Assessment**|Bo Hu et.al.|[2501.12082](http://arxiv.org/abs/2501.12082)|null|
+|**2025-01-21**|**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
+|**2025-01-21**|**Power Amplifier-Aware Transmit Power Optimization for OFDM and SC-FDMA Systems**|Pawel Kryszkiewicz et.al.|[2501.11994](http://arxiv.org/abs/2501.11994)|null|
+|**2025-01-21**|**Bayesian Despeckling of Structured Sources**|Ali Zafari et.al.|[2501.11860](http://arxiv.org/abs/2501.11860)|null|
+|**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776](http://arxiv.org/abs/2501.11776)|null|
+|**2025-01-20**|**Teaching Large Language Models to Regress Accurate Image Quality Scores using Score Distribution**|Zhiyuan You et.al.|[2501.11561](http://arxiv.org/abs/2501.11561)|null|
+|**2025-01-20**|**Fundus Image Quality Assessment and Enhancement: a Systematic Review**|Heng Li et.al.|[2501.11520](http://arxiv.org/abs/2501.11520)|null|
+|**2025-01-20**|**Multitask Auxiliary Network for Perceptual Quality Assessment of Non-Uniformly Distorted Omnidirectional Images**|Jiebin Yan et.al.|[2501.11512](http://arxiv.org/abs/2501.11512)|**[link](https://github.com/rjl2000/mtaoiqa)**|
+|**2025-01-20**|**Subjective and Objective Quality Assessment of Non-Uniformly Distorted Omnidirectional Images**|Jiebin Yan et.al.|[2501.11511](http://arxiv.org/abs/2501.11511)|**[link](https://github.com/rjl2000/oiqand)**|
+|**2025-01-20**|**See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**|Zongqi He et.al.|[2501.11508](http://arxiv.org/abs/2501.11508)|null|
+|**2025-01-20**|**Advancing Oyster Phenotype Segmentation with Multi-Network Ensemble and Multi-Scale mechanism**|Wenli Yang et.al.|[2501.11203](http://arxiv.org/abs/2501.11203)|null|
+|**2025-01-19**|**Unit Region Encoding: A Unified and Compact Geometry-aware Representation for Floorplan Applications**|Huichao Zhang et.al.|[2501.11097](http://arxiv.org/abs/2501.11097)|null|
+|**2025-01-18**|**EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**|Linrui Tian et.al.|[2501.10687](http://arxiv.org/abs/2501.10687)|null|
 |**2025-01-17**|**Fundamental mode power estimation through a $M^2$ -measurement**|Filipp Lausch et.al.|[2501.10345](http://arxiv.org/abs/2501.10345)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
 |**2025-01-17**|**CSHNet: A Novel Information Asymmetric Image Translation Method**|Xi Yang et.al.|[2501.10197](http://arxiv.org/abs/2501.10197)|**[link](https://github.com/xdushi/cshnet)**|
@@ -2840,8 +2865,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|null|
+|**2025-01-18**|**FlashSR: One-step Versatile Audio Super-resolution via Diffusion Distillation**|Jaekwon Im et.al.|[2501.10807](http://arxiv.org/abs/2501.10807)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
-|**2025-01-17**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110](http://arxiv.org/abs/2501.10110)|null|
+|**2025-01-20**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110](http://arxiv.org/abs/2501.10110)|null|
 |**2025-01-17**|**HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution**|Shengkui Zhao et.al.|[2501.10045](http://arxiv.org/abs/2501.10045)|**[link](https://github.com/modelscope/ClearerVoice-Studio)**|
 |**2025-01-16**|**Bias for Action: Video Implicit Neural Representations with Bias Modulation**|Alper Kayabasi et.al.|[2501.09277](http://arxiv.org/abs/2501.09277)|null|
 |**2025-01-17**|**NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion**|Zihao Xu et.al.|[2501.09054](http://arxiv.org/abs/2501.09054)|**[link](https://github.com/zerono000/neurop-diff)**|
@@ -3706,6 +3733,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Towards autonomous photogrammetric forest inventory using a lightweight under-canopy robotic drone**|Väinö Karjalainen et.al.|[2501.12073](http://arxiv.org/abs/2501.12073)|null|
+|**2025-01-21**|**ORCAst: Operational High-Resolution Current Forecasts**|Pierre Garcia et.al.|[2501.12054](http://arxiv.org/abs/2501.12054)|null|
+|**2025-01-21**|**Progressive Cross Attention Network for Flood Segmentation using Multispectral Satellite Imagery**|Vicky Feliren et.al.|[2501.11923](http://arxiv.org/abs/2501.11923)|null|
+|**2025-01-20**|**Communication-Efficient Federated Learning Based on Explanation-Guided Pruning for Remote Sensing Image Classification**|Jonas Klotz et.al.|[2501.11493](http://arxiv.org/abs/2501.11493)|null|
+|**2025-01-20**|**On the Adversarial Vulnerabilities of Transfer Learning in Remote Sensing**|Tao Bai et.al.|[2501.11462](http://arxiv.org/abs/2501.11462)|null|
+|**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
+|**2025-01-20**|**Spatiotemporal Air Quality Mapping in Urban Areas Using Sparse Sensor Data, Satellite Imagery, Meteorological Factors, and Spatial Features**|Osama Ahmad et.al.|[2501.11270](http://arxiv.org/abs/2501.11270)|null|
+|**2025-01-19**|**Few-shot Human Motion Recognition through Multi-Aspect mmWave FMCW Radar Data**|Hao Fan et.al.|[2501.11028](http://arxiv.org/abs/2501.11028)|null|
+|**2025-01-19**|**A Remote Sensing Image Change Detection Method Integrating Layer Exchange and Channel-Spatial Differences**|Sijun Dong et.al.|[2501.10905](http://arxiv.org/abs/2501.10905)|**[link](https://github.com/dyzy41/lenet)**|
+|**2025-01-18**|**Semi-supervised Semantic Segmentation for Remote Sensing Images via Multi-scale Uncertainty Consistency and Cross-Teacher-Student Attention**|Shanwen Wang et.al.|[2501.10736](http://arxiv.org/abs/2501.10736)|null|
+|**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
+|**2025-01-17**|**High Resolution Tree Height Mapping of the Amazon Forest using Planet NICFI Images and LiDAR-Informed U-Net Model**|Fabien H Wagner et.al.|[2501.10600](http://arxiv.org/abs/2501.10600)|null|
 |**2025-01-17**|**Calibration of the Polarimetric GNSS-R Sensor in the Rongowai Mission**|Dinan Bai et.al.|[2501.10334](http://arxiv.org/abs/2501.10334)|null|
 |**2025-01-17**|**A Vision-Language Framework for Multispectral Scene Representation Using Language-Grounded Features**|Enes Karanfil et.al.|[2501.10144](http://arxiv.org/abs/2501.10144)|null|
 |**2025-01-17**|**Robust Change Captioning in Remote Sensing: SECOND-CC Dataset and MModalCC Framework**|Ali Can Karaca et.al.|[2501.10075](http://arxiv.org/abs/2501.10075)|null|

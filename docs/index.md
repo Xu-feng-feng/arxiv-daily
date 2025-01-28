@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-25**|**Efficient Point Clouds Upsampling via Flow Matching**|Zhi-Song Liu et.al.|[2501.15286](http://arxiv.org/abs/2501.15286)|null|
 |**2025-01-13**|**Representation Learning of Point Cloud Upsampling in Global and Local Inputs**|Tongxu Zhang et.al.|[2501.07076](http://arxiv.org/abs/2501.07076)|null|
 |**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
 |**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680](http://arxiv.org/abs/2412.11680)|null|
@@ -228,6 +229,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Hybrid Quantum Neural Networks with Amplitude Encoding: Advancing Recovery Rate Predictions**|Ying Chen et.al.|[2501.15828](http://arxiv.org/abs/2501.15828)|null|
 |**2025-01-23**|**The Redundancy of Non-Singular Channel Simulation**|Gergely Flamich et.al.|[2501.14053](http://arxiv.org/abs/2501.14053)|null|
 |**2025-01-23**|**On Disentangled Training for Nonlinear Transform in Learned Image Compression**|Han Li et.al.|[2501.13751](http://arxiv.org/abs/2501.13751)|**[link](https://github.com/qingshi9974/auxt)**|
 |**2025-01-23**|**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse**|Wenzhuo Ma et.al.|[2501.13528](http://arxiv.org/abs/2501.13528)|null|
@@ -942,6 +944,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Adaptive Iterative Compression for High-Resolution Files: an Approach Focused on Preserving Visual Quality in Cinematic Workflows**|Leonardo Melo et.al.|[2501.16319](http://arxiv.org/abs/2501.16319)|null|
+|**2025-01-27**|**UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**|Tatiana Taís Schein et.al.|[2501.16211](http://arxiv.org/abs/2501.16211)|**[link](https://github.com/gusanagy/udbe)**|
+|**2025-01-27**|**Skeleton-Guided-Translation: A Benchmarking Framework for Code Repository Translation with Fine-Grained Quality Evaluation**|Xing Zhang et.al.|[2501.16050](http://arxiv.org/abs/2501.16050)|null|
+|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
+|**2025-01-26**|**Advancing quantum imaging through learning theory**|Yunkai Wang et.al.|[2501.15685](http://arxiv.org/abs/2501.15685)|null|
+|**2025-01-26**|**Radiologist-in-the-Loop Self-Training for Generalizable CT Metal Artifact Reduction**|Chenglong Ma et.al.|[2501.15610](http://arxiv.org/abs/2501.15610)|**[link](https://github.com/masaaki-75/rise-mar)**|
+|**2025-01-26**|**Differentiable Low-computation Global Correlation Loss for Monotonicity Evaluation in Quality Assessment**|Yipeng Liu et.al.|[2501.15485](http://arxiv.org/abs/2501.15485)|null|
+|**2025-01-25**|**Image formation theory of optical coherence tomography with optical aberrations and its application for computational aberration correction**|Shuichi Makita et.al.|[2501.15011](http://arxiv.org/abs/2501.15011)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
 |**2025-01-24**|**WanJuanSiLu: A High-Quality Open-Source Webtext Dataset for Low-Resource Languages**|Jia Yu et.al.|[2501.14506](http://arxiv.org/abs/2501.14506)|null|
 |**2025-01-24**|**Enhancing Intelligibility for Generative Target Speech Extraction via Joint Optimization with Target Speaker ASR**|Hao Ma et.al.|[2501.14477](http://arxiv.org/abs/2501.14477)|null|
@@ -2883,6 +2893,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Solving Turbulent Rayleigh-Bénard Convection using Fourier Neural Operators**|Michiel Straat et.al.|[2501.16209](http://arxiv.org/abs/2501.16209)|null|
+|**2025-01-27**|**Spatial-Angular Representation Learning for High-Fidelity Continuous Super-Resolution in Diffusion MRI**|Ruoyou Wu et.al.|[2501.16014](http://arxiv.org/abs/2501.16014)|null|
+|**2025-01-27**|**Compensation based Dictionary Transfer for Similar Multispectral Image Spectral Super-resolution**|Xiaolin Han et.al.|[2501.15937](http://arxiv.org/abs/2501.15937)|null|
+|**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852](http://arxiv.org/abs/2501.15852)|null|
+|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
+|**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774](http://arxiv.org/abs/2501.15774)|**[link](https://github.com/saturnian77/asid)**|
+|**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440](http://arxiv.org/abs/2501.15440)|null|
+|**2025-01-26**|**AnyEnhance: A Unified Generative Model with Prompt-Guidance and Self-Critic for Voice Enhancement**|Junan Zhang et.al.|[2501.15417](http://arxiv.org/abs/2501.15417)|null|
+|**2025-01-25**|**Investigating the Feasibility of Patch-based Inference for Generalized Diffusion Priors in Inverse Problems for Medical Images**|Saikat Roy et.al.|[2501.15309](http://arxiv.org/abs/2501.15309)|null|
+|**2025-01-25**|**A parametric non-negative coupled canonical polyadic decomposition algorithm for hyperspectral super-resolution**|Xi-Yuan Liu et.al.|[2501.15197](http://arxiv.org/abs/2501.15197)|null|
+|**2025-01-25**|**MAP-based Problem-Agnostic diffusion model for Inverse Problems**|Pingping Tao et.al.|[2501.15128](http://arxiv.org/abs/2501.15128)|null|
 |**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915](http://arxiv.org/abs/2501.13915)|null|
 |**2025-01-23**|**Analysis of Resolution as a Function of Microparticle Size in Virtual Super-Resolution Optical Imaging for 2D System**|A. R. Bekirov et.al.|[2501.13591](http://arxiv.org/abs/2501.13591)|null|
 |**2025-01-23**|**Funnelling super-resolution STED microscopy through multimode fibres**|André Gomes et.al.|[2501.13572](http://arxiv.org/abs/2501.13572)|null|
@@ -3756,6 +3777,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
+|**2025-01-27**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
+|**2025-01-27**|**Dynamical systems for remote validation of very high-resolution ocean models**|G. Garcia-Sanchez et.al.|[2501.16026](http://arxiv.org/abs/2501.16026)|null|
+|**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995](http://arxiv.org/abs/2501.15995)|null|
+|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
+|**2025-01-26**|**Semi-Supervised Learning for AVO Inversion with Strong Spatial Feature Constraints**|Yingtian Liu et.al.|[2501.15473](http://arxiv.org/abs/2501.15473)|null|
+|**2025-01-26**|**CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model**|Zhenkai Wu et.al.|[2501.15455](http://arxiv.org/abs/2501.15455)|**[link](https://github.com/xwmaxwma/rschange)**|
+|**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440](http://arxiv.org/abs/2501.15440)|null|
+|**2025-01-26**|**CP2M: Clustered-Patch-Mixed Mosaic Augmentation for Aerial Image Segmentation**|Yijie Li et.al.|[2501.15389](http://arxiv.org/abs/2501.15389)|null|
+|**2025-01-25**|**Development and Application of Self-Supervised Machine Learning for Smoke Plume and Active Fire Identification from the FIREX-AQ Datasets**|Nicholas LaHaye et.al.|[2501.15343](http://arxiv.org/abs/2501.15343)|null|
+|**2025-01-24**|**Measuring and Mitigating Hallucinations in Vision-Language Dataset Generation for Remote Sensing**|Madeline Anderson et.al.|[2501.14905](http://arxiv.org/abs/2501.14905)|null|
 |**2025-01-24**|**Snapshot multi-spectral imaging through defocusing and a Fourier imager network**|Xilin Yang et.al.|[2501.14287](http://arxiv.org/abs/2501.14287)|null|
 |**2025-01-23**|**StreamingRAG: Real-time Contextual Retrieval and Generation Framework**|Murugan Sankaradas et.al.|[2501.14101](http://arxiv.org/abs/2501.14101)|null|
 |**2025-01-23**|**Enhancing kelp forest detection in remote sensing images using crowdsourced labels with Mixed Vision Transformers and ConvNeXt segmentation models**|Ioannis Nasios et.al.|[2501.14001](http://arxiv.org/abs/2501.14001)|**[link](https://github.com/ioannisnasios/kelp_forests)**|

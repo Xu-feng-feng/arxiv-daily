@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Point Cloud Upsampling as Statistical Shape Model for Pelvic**|Tongxu Zhang et.al.|[2501.16716](http://arxiv.org/abs/2501.16716)|null|
 |**2025-01-25**|**Efficient Point Clouds Upsampling via Flow Matching**|Zhi-Song Liu et.al.|[2501.15286](http://arxiv.org/abs/2501.15286)|null|
 |**2025-01-13**|**Representation Learning of Point Cloud Upsampling in Global and Local Inputs**|Tongxu Zhang et.al.|[2501.07076](http://arxiv.org/abs/2501.07076)|null|
 |**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
@@ -238,6 +239,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Rate-Distortion under Neural Tracking of Speech: A Directed Redundancy Approach**|Jan Østergaard et.al.|[2501.16762](http://arxiv.org/abs/2501.16762)|null|
 |**2025-01-27**|**Hybrid Quantum Neural Networks with Amplitude Encoding: Advancing Recovery Rate Predictions**|Ying Chen et.al.|[2501.15828](http://arxiv.org/abs/2501.15828)|null|
 |**2025-01-23**|**The Redundancy of Non-Singular Channel Simulation**|Gergely Flamich et.al.|[2501.14053](http://arxiv.org/abs/2501.14053)|null|
 |**2025-01-23**|**On Disentangled Training for Nonlinear Transform in Learned Image Compression**|Han Li et.al.|[2501.13751](http://arxiv.org/abs/2501.13751)|**[link](https://github.com/qingshi9974/auxt)**|
@@ -955,6 +957,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**|Han Yang et.al.|[2501.17159](http://arxiv.org/abs/2501.17159)|null|
+|**2025-01-28**|**Three-Dimensional Diffusion-Weighted Multi-Slab MRI With Slice Profile Compensation Using Deep Energy Model**|Reza Ghorbani et.al.|[2501.17152](http://arxiv.org/abs/2501.17152)|null|
+|**2025-01-28**|**Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds**|Xiaohan Sun et.al.|[2501.17085](http://arxiv.org/abs/2501.17085)|null|
+|**2025-01-28**|**EdgeMLOps: Operationalizing ML models with Cumulocity IoT and thin-edge.io for Visual quality Inspection**|Kanishk Chaturvedi et.al.|[2501.17062](http://arxiv.org/abs/2501.17062)|null|
+|**2025-01-28**|**EZOA: Nançay HI follow-up observations in the Zone of Avoidance**|A. C. Schröder et.al.|[2501.17038](http://arxiv.org/abs/2501.17038)|null|
+|**2025-01-28**|**Image-Space Gridding for Nonrigid Motion-Corrected MR Image Reconstruction**|Kwang Eun Jang et.al.|[2501.16713](http://arxiv.org/abs/2501.16713)|null|
+|**2025-01-25**|**MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling**|Sai Tarun Inaganti et.al.|[2501.16384](http://arxiv.org/abs/2501.16384)|null|
 |**2025-01-27**|**Adaptive Iterative Compression for High-Resolution Files: an Approach Focused on Preserving Visual Quality in Cinematic Workflows**|Leonardo Melo et.al.|[2501.16319](http://arxiv.org/abs/2501.16319)|null|
 |**2025-01-27**|**UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**|Tatiana Taís Schein et.al.|[2501.16211](http://arxiv.org/abs/2501.16211)|**[link](https://github.com/gusanagy/udbe)**|
 |**2025-01-27**|**Skeleton-Guided-Translation: A Benchmarking Framework for Code Repository Translation with Fine-Grained Quality Evaluation**|Xing Zhang et.al.|[2501.16050](http://arxiv.org/abs/2501.16050)|null|
@@ -2906,6 +2915,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
 |**2025-01-27**|**Solving Turbulent Rayleigh-Bénard Convection using Fourier Neural Operators**|Michiel Straat et.al.|[2501.16209](http://arxiv.org/abs/2501.16209)|null|
 |**2025-01-27**|**Spatial-Angular Representation Learning for High-Fidelity Continuous Super-Resolution in Diffusion MRI**|Ruoyou Wu et.al.|[2501.16014](http://arxiv.org/abs/2501.16014)|null|
 |**2025-01-27**|**Compensation based Dictionary Transfer for Similar Multispectral Image Spectral Super-resolution**|Xiaolin Han et.al.|[2501.15937](http://arxiv.org/abs/2501.15937)|null|
@@ -3792,8 +3802,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**AdaSemSeg: An Adaptive Few-shot Semantic Segmentation of Seismic Facies**|Surojit Saha et.al.|[2501.16760](http://arxiv.org/abs/2501.16760)|null|
+|**2025-01-27**|**archNEMESIS: an open-source Python package for analysis of planetary atmospheric spectra**|Juan Alday et.al.|[2501.16452](http://arxiv.org/abs/2501.16452)|null|
 |**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
-|**2025-01-27**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
+|**2025-01-28**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
 |**2025-01-27**|**Dynamical systems for remote validation of very high-resolution ocean models**|G. Garcia-Sanchez et.al.|[2501.16026](http://arxiv.org/abs/2501.16026)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995](http://arxiv.org/abs/2501.15995)|null|
 |**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|

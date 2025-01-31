@@ -946,6 +946,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418](http://arxiv.org/abs/2501.18418)|null|
+|**2025-01-30**|**Adaptive Video Streaming with AI-Based Optimization for Dynamic Network Conditions**|Mohammad Tarik et.al.|[2501.18332](http://arxiv.org/abs/2501.18332)|null|
+|**2025-01-30**|**AGAV-Rater: Adapting Large Multimodal Model for AI-Generated Audio-Visual Quality Assessment**|Yuqin Cao et.al.|[2501.18314](http://arxiv.org/abs/2501.18314)|null|
+|**2025-01-29**|**Efficient Feature Fusion for UAV Object Detection**|Xudong Wang et.al.|[2501.17983](http://arxiv.org/abs/2501.17983)|null|
+|**2025-01-29**|**Discrete Dielectric Coatings for Length Control and Tunability of Half-Wave Dipole Antennas at 300 MHz Magnetic Resonance Imaging Applications**|Aditya A Bhosale et.al.|[2501.17954](http://arxiv.org/abs/2501.17954)|null|
 |**2025-01-29**|**Leveraging In-Context Learning and Retrieval-Augmented Generation for Automatic Question Generation in Educational Domains**|Subhankar Maity et.al.|[2501.17397](http://arxiv.org/abs/2501.17397)|null|
 |**2025-01-29**|**On the Coexistence and Ensembling of Watermarks**|Aleksandar Petrov et.al.|[2501.17356](http://arxiv.org/abs/2501.17356)|null|
 |**2025-01-28**|**Giving the Old a Fresh Spin: Quality Estimation-Assisted Constrained Decoding for Automatic Post-Editing**|Sourabh Deoghare et.al.|[2501.17265](http://arxiv.org/abs/2501.17265)|null|
@@ -960,7 +965,7 @@ layout: default
 |**2025-01-27**|**Adaptive Iterative Compression for High-Resolution Files: an Approach Focused on Preserving Visual Quality in Cinematic Workflows**|Leonardo Melo et.al.|[2501.16319](http://arxiv.org/abs/2501.16319)|null|
 |**2025-01-27**|**UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**|Tatiana Taís Schein et.al.|[2501.16211](http://arxiv.org/abs/2501.16211)|**[link](https://github.com/gusanagy/udbe)**|
 |**2025-01-27**|**Skeleton-Guided-Translation: A Benchmarking Framework for Code Repository Translation with Fine-Grained Quality Evaluation**|Xing Zhang et.al.|[2501.16050](http://arxiv.org/abs/2501.16050)|null|
-|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
+|**2025-01-30**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
 |**2025-01-26**|**Advancing quantum imaging through learning theory**|Yunkai Wang et.al.|[2501.15685](http://arxiv.org/abs/2501.15685)|null|
 |**2025-01-26**|**Radiologist-in-the-Loop Self-Training for Generalizable CT Metal Artifact Reduction**|Chenglong Ma et.al.|[2501.15610](http://arxiv.org/abs/2501.15610)|**[link](https://github.com/masaaki-75/rise-mar)**|
 |**2025-01-26**|**Differentiable Low-computation Global Correlation Loss for Monotonicity Evaluation in Quality Assessment**|Yipeng Liu et.al.|[2501.15485](http://arxiv.org/abs/2501.15485)|null|
@@ -2906,6 +2911,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution**|Shi Chen et.al.|[2501.18500](http://arxiv.org/abs/2501.18500)|null|
+|**2025-01-30**|**Waveform-Specific Performance of Deep Learning-Based Super-Resolution for Ultrasound Contrast Imaging**|Rienk Zorgdrager et.al.|[2501.18375](http://arxiv.org/abs/2501.18375)|null|
 |**2025-01-28**|**MR imaging in the low-field: Leveraging the power of machine learning**|Andreas Kofler et.al.|[2501.17211](http://arxiv.org/abs/2501.17211)|null|
 |**2025-01-28**|**Depth Separable architecture for Sentinel-5P Super-Resolution**|Hyam Omar Ali et.al.|[2501.17210](http://arxiv.org/abs/2501.17210)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
@@ -2913,7 +2920,7 @@ layout: default
 |**2025-01-27**|**Spatial-Angular Representation Learning for High-Fidelity Continuous Super-Resolution in Diffusion MRI**|Ruoyou Wu et.al.|[2501.16014](http://arxiv.org/abs/2501.16014)|null|
 |**2025-01-27**|**Compensation based Dictionary Transfer for Similar Multispectral Image Spectral Super-resolution**|Xiaolin Han et.al.|[2501.15937](http://arxiv.org/abs/2501.15937)|null|
 |**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852](http://arxiv.org/abs/2501.15852)|**[link](https://github.com/Mnster00/CasualSR)**|
-|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
+|**2025-01-30**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
 |**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774](http://arxiv.org/abs/2501.15774)|**[link](https://github.com/saturnian77/asid)**|
 |**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440](http://arxiv.org/abs/2501.15440)|null|
 |**2025-01-26**|**AnyEnhance: A Unified Generative Model with Prompt-Guidance and Self-Critic for Voice Enhancement**|Junan Zhang et.al.|[2501.15417](http://arxiv.org/abs/2501.15417)|null|
@@ -3793,15 +3800,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation**|Kevin Qiu et.al.|[2501.18246](http://arxiv.org/abs/2501.18246)|null|
+|**2025-01-29**|**Efficient Feature Fusion for UAV Object Detection**|Xudong Wang et.al.|[2501.17983](http://arxiv.org/abs/2501.17983)|null|
 |**2025-01-28**|**Synthetic Remote-sensing and In-situ Observations of Fine-scale Structure in a Pseudostreamer Coronal Mass Ejection through the Solar Corona**|B. J. Lynch et.al.|[2501.17298](http://arxiv.org/abs/2501.17298)|null|
 |**2025-01-28**|**Depth Separable architecture for Sentinel-5P Super-Resolution**|Hyam Omar Ali et.al.|[2501.17210](http://arxiv.org/abs/2501.17210)|null|
 |**2025-01-28**|**AdaSemSeg: An Adaptive Few-shot Semantic Segmentation of Seismic Facies**|Surojit Saha et.al.|[2501.16760](http://arxiv.org/abs/2501.16760)|null|
-|**2025-01-27**|**archNEMESIS: an open-source Python package for analysis of planetary atmospheric spectra**|Juan Alday et.al.|[2501.16452](http://arxiv.org/abs/2501.16452)|null|
+|**2025-01-27**|**archNEMESIS: an open-source Python package for analysis of planetary atmospheric spectra**|Juan Alday et.al.|[2501.16452](http://arxiv.org/abs/2501.16452)|**[link](https://github.com/juanaldayparejo/archnemesis-dist)**|
 |**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
 |**2025-01-28**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
 |**2025-01-27**|**Dynamical systems for remote validation of very high-resolution ocean models**|G. Garcia-Sanchez et.al.|[2501.16026](http://arxiv.org/abs/2501.16026)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995](http://arxiv.org/abs/2501.15995)|null|
-|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
+|**2025-01-30**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
 |**2025-01-26**|**Semi-Supervised Learning for AVO Inversion with Strong Spatial Feature Constraints**|Yingtian Liu et.al.|[2501.15473](http://arxiv.org/abs/2501.15473)|null|
 |**2025-01-26**|**CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model**|Zhenkai Wu et.al.|[2501.15455](http://arxiv.org/abs/2501.15455)|**[link](https://github.com/xwmaxwma/rschange)**|
 |**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440](http://arxiv.org/abs/2501.15440)|null|

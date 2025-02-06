@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Deep Learning-based Event Data Coding: A Joint Spatiotemporal and Polarity Solution**|Abdelrahman Seleem et.al.|[2502.03285](http://arxiv.org/abs/2502.03285)|null|
 |**2025-01-28**|**Point Cloud Upsampling as Statistical Shape Model for Pelvic**|Tongxu Zhang et.al.|[2501.16716](http://arxiv.org/abs/2501.16716)|null|
 |**2025-01-25**|**Efficient Point Clouds Upsampling via Flow Matching**|Zhi-Song Liu et.al.|[2501.15286](http://arxiv.org/abs/2501.15286)|null|
 |**2025-01-13**|**Representation Learning of Point Cloud Upsampling in Global and Local Inputs**|Tongxu Zhang et.al.|[2501.07076](http://arxiv.org/abs/2501.07076)|null|
@@ -239,13 +240,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**LED there be DoS: Exploiting variable bitrate IP cameras for network DoS**|Emmanuel Goldberg et.al.|[2502.03177](http://arxiv.org/abs/2502.03177)|null|
 |**2025-02-04**|**On likelihood-based analysis of the gravitationally (de)lensed CMB**|Julien Carron et.al.|[2502.02399](http://arxiv.org/abs/2502.02399)|null|
 |**2025-02-04**|**PALQA: A Novel Parameterized Position-Aware Lossy Quantum Autoencoder using LSB Control Qubit for Efficient Image Compression**|Ershadul Haque et.al.|[2502.02188](http://arxiv.org/abs/2502.02188)|null|
 |**2025-02-01**|**Semantic Communication based on Generative AI: A New Approach to Image Compression and Edge Optimization**|Francesco Pezone et.al.|[2502.01675](http://arxiv.org/abs/2502.01675)|null|
 |**2025-02-04**|**Compressed Image Generation with Denoising Diffusion Codebook Models**|Guy Ohayon et.al.|[2502.01189](http://arxiv.org/abs/2502.01189)|null|
 |**2025-02-02**|**S2CFormer: Reorienting Learned Image Compression from Spatial Interaction to Channel Aggregation**|Yunuo Chen et.al.|[2502.00700](http://arxiv.org/abs/2502.00700)|null|
 |**2025-01-28**|**Rate-Distortion under Neural Tracking of Speech: A Directed Redundancy Approach**|Jan Østergaard et.al.|[2501.16762](http://arxiv.org/abs/2501.16762)|null|
-|**2025-02-04**|**Hybrid Quantum Neural Networks with Amplitude Encoding: Advancing Recovery Rate Predictions**|Ying Chen et.al.|[2501.15828](http://arxiv.org/abs/2501.15828)|null|
+|**2025-02-05**|**Hybrid Quantum Neural Networks with Amplitude Encoding: Advancing Recovery Rate Predictions**|Ying Chen et.al.|[2501.15828](http://arxiv.org/abs/2501.15828)|null|
 |**2025-01-23**|**The Redundancy of Non-Singular Channel Simulation**|Gergely Flamich et.al.|[2501.14053](http://arxiv.org/abs/2501.14053)|null|
 |**2025-02-01**|**On Disentangled Training for Nonlinear Transform in Learned Image Compression**|Han Li et.al.|[2501.13751](http://arxiv.org/abs/2501.13751)|**[link](https://github.com/qingshi9974/auxt)**|
 |**2025-01-23**|**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse**|Wenzhuo Ma et.al.|[2501.13528](http://arxiv.org/abs/2501.13528)|null|
@@ -962,6 +964,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**A new method for structural diagnostics with muon tomography and deep learning**|Lorenzo Pezzotti et.al.|[2502.03339](http://arxiv.org/abs/2502.03339)|null|
+|**2025-02-05**|**A Framework for Measuring the Quality of Infrastructure-as-Code Scripts**|Pandu Ranga Reddy Konala et.al.|[2502.03127](http://arxiv.org/abs/2502.03127)|null|
+|**2025-02-05**|**Poisson Flow Joint Model for Multiphase contrast-enhanced CT**|Rongjun Ge et.al.|[2502.03079](http://arxiv.org/abs/2502.03079)|null|
+|**2025-02-05**|**A Decade of Action Quality Assessment: Largest Systematic Survey of Trends, Challenges, and Future Directions**|Hao Yin et.al.|[2502.02817](http://arxiv.org/abs/2502.02817)|null|
+|**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-04**|**A comparison of translation performance between DeepL and Supertext**|Alex Flückiger et.al.|[2502.02577](http://arxiv.org/abs/2502.02577)|null|
 |**2025-02-04**|**Privacy Attacks on Image AutoRegressive Models**|Antoni Kowalczuk et.al.|[2502.02514](http://arxiv.org/abs/2502.02514)|null|
 |**2025-02-04**|**VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models**|Hila Chefer et.al.|[2502.02492](http://arxiv.org/abs/2502.02492)|null|
@@ -969,7 +976,7 @@
 |**2025-02-04**|**Exploring the Feasibility of AI-Assisted Spine MRI Protocol Optimization Using DICOM Image Metadata**|Alice Vian et.al.|[2502.02351](http://arxiv.org/abs/2502.02351)|null|
 |**2025-02-04**|**When Dimensionality Hurts: The Role of LLM Embedding Compression for Noisy Regression Tasks**|Felix Drinkall et.al.|[2502.02199](http://arxiv.org/abs/2502.02199)|null|
 |**2025-02-04**|**PALQA: A Novel Parameterized Position-Aware Lossy Quantum Autoencoder using LSB Control Qubit for Efficient Image Compression**|Ershadul Haque et.al.|[2502.02188](http://arxiv.org/abs/2502.02188)|null|
-|**2025-02-04**|**IPO: Iterative Preference Optimization for Text-to-Video Generation**|Xiaomeng Yang et.al.|[2502.02088](http://arxiv.org/abs/2502.02088)|null|
+|**2025-02-05**|**IPO: Iterative Preference Optimization for Text-to-Video Generation**|Xiaomeng Yang et.al.|[2502.02088](http://arxiv.org/abs/2502.02088)|null|
 |**2025-02-03**|**Spectra of He isotopes and the $^3$He/$^4$ He ratio**|M. J. Boschini et.al.|[2502.01887](http://arxiv.org/abs/2502.01887)|null|
 |**2025-02-03**|**Sparse Measurement Medical CT Reconstruction using Multi-Fused Block Matching Denoising Priors**|Maliha Hossain et.al.|[2502.01832](http://arxiv.org/abs/2502.01832)|null|
 |**2025-02-03**|**Generating Multi-Image Synthetic Data for Text-to-Image Customization**|Nupur Kumari et.al.|[2502.01720](http://arxiv.org/abs/2502.01720)|null|
@@ -3857,6 +3864,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Development of Radar and Optical Tracking of Near-Earth Asteroids at the University of Tasmania**|Oliver James White et.al.|[2502.02890](http://arxiv.org/abs/2502.02890)|null|
+|**2025-02-05**|**RS-YOLOX: A High Precision Detector for Object Detection in Satellite Remote Sensing Images**|Lei Yang et.al.|[2502.02850](http://arxiv.org/abs/2502.02850)|null|
+|**2025-02-05**|**A Survey of Sample-Efficient Deep Learning for Change Detection in Remote Sensing: Tasks, Strategies, and Challenges**|Lei Ding et.al.|[2502.02835](http://arxiv.org/abs/2502.02835)|null|
 |**2025-02-04**|**Titan's Fluvial and Lacustrine Landscapes**|Samuel P. D. Birch et.al.|[2502.02556](http://arxiv.org/abs/2502.02556)|null|
 |**2025-02-04**|**IMDPrompter: Adapting SAM to Image Manipulation Detection by Cross-View Automated Prompt Learning**|Quan Zhang et.al.|[2502.02454](http://arxiv.org/abs/2502.02454)|null|
 |**2025-02-04**|**DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.|[2502.02171](http://arxiv.org/abs/2502.02171)|null|
@@ -3871,7 +3881,7 @@
 |**2025-02-02**|**A method for estimating forest carbon storage distribution density via artificial intelligence generated content model**|Zhenyu Yu et.al.|[2502.00783](http://arxiv.org/abs/2502.00783)|null|
 |**2025-02-01**|**SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.|[2502.00435](http://arxiv.org/abs/2502.00435)|null|
 |**2025-02-01**|**Exploring Linear Attention Alternative for Single Image Super-Resolution**|Rongchang Lu et.al.|[2502.00404](http://arxiv.org/abs/2502.00404)|null|
-|**2025-01-31**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|
+|**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|
 |**2025-01-31**|**Integrating Semi-Supervised and Active Learning for Semantic Segmentation**|Wanli Ma et.al.|[2501.19227](http://arxiv.org/abs/2501.19227)|null|
 |**2025-01-31**|**Self-Supervised Cross-Modal Text-Image Time Series Retrieval in Remote Sensing**|Genc Hoxha et.al.|[2501.19043](http://arxiv.org/abs/2501.19043)|null|
 |**2025-01-30**|**Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation**|Kevin Qiu et.al.|[2501.18246](http://arxiv.org/abs/2501.18246)|null|

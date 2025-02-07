@@ -231,6 +231,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Semantic Feature Division Multiple Access for Digital Semantic Broadcast Channels**|Shuai Ma et.al.|[2502.03949](http://arxiv.org/abs/2502.03949)|null|
+|**2025-02-06**|**Enhancing Online Learning Efficiency Through Heterogeneous Resource Integration with a Multi-Agent RAG System**|Devansh Srivastav et.al.|[2502.03948](http://arxiv.org/abs/2502.03948)|null|
+|**2025-02-05**|**All-in-One Image Compression and Restoration**|Huimin Zeng et.al.|[2502.03649](http://arxiv.org/abs/2502.03649)|null|
+|**2025-02-05**|**Towards characterizing dark matter subhalo perturbations in stellar streams with graph neural networks**|Peter Xiangyuan Ma et.al.|[2502.03522](http://arxiv.org/abs/2502.03522)|null|
 |**2025-02-05**|**LED there be DoS: Exploiting variable bitrate IP cameras for network DoS**|Emmanuel Goldberg et.al.|[2502.03177](http://arxiv.org/abs/2502.03177)|null|
 |**2025-02-04**|**On likelihood-based analysis of the gravitationally (de)lensed CMB**|Julien Carron et.al.|[2502.02399](http://arxiv.org/abs/2502.02399)|null|
 |**2025-02-04**|**PALQA: A Novel Parameterized Position-Aware Lossy Quantum Autoencoder using LSB Control Qubit for Efficient Image Compression**|Ershadul Haque et.al.|[2502.02188](http://arxiv.org/abs/2502.02188)|null|
@@ -953,6 +957,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**BOUQuET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation**|The Omnilingual MT Team et.al.|[2502.04314](http://arxiv.org/abs/2502.04314)|null|
+|**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
+|**2025-02-06**|**DICE: Distilling Classifier-Free Guidance into Text Embeddings**|Zhenyu Zhou et.al.|[2502.03726](http://arxiv.org/abs/2502.03726)|null|
+|**2025-02-05**|**Quasi-Monte Carlo Methods: What, Why, and How?**|Fred J. Hickernell et.al.|[2502.03644](http://arxiv.org/abs/2502.03644)|null|
+|**2025-02-05**|**Efficient Image Restoration via Latent Consistency Flow Matching**|Elad Cohen et.al.|[2502.03500](http://arxiv.org/abs/2502.03500)|null|
 |**2025-02-05**|**A new method for structural diagnostics with muon tomography and deep learning**|Lorenzo Pezzotti et.al.|[2502.03339](http://arxiv.org/abs/2502.03339)|null|
 |**2025-02-05**|**A Framework for Measuring the Quality of Infrastructure-as-Code Scripts**|Pandu Ranga Reddy Konala et.al.|[2502.03127](http://arxiv.org/abs/2502.03127)|null|
 |**2025-02-05**|**Poisson Flow Joint Model for Multiphase contrast-enhanced CT**|Rongjun Ge et.al.|[2502.03079](http://arxiv.org/abs/2502.03079)|null|
@@ -2949,6 +2958,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**High Spatiotemporal Resolution Structured Illumination Microscopy: Principle, Instrumentation, and Applications**|Han Wang et.al.|[2502.04072](http://arxiv.org/abs/2502.04072)|null|
+|**2025-02-05**|**Bridging high resolution sub-cellular imaging with physiologically relevant engineered tissues**|Yasaman Kargar Gaz Kooh et.al.|[2502.03661](http://arxiv.org/abs/2502.03661)|null|
+|**2025-02-05**|**A Study in Dataset Distillation for Image Super-Resolution**|Tobias Dietz et.al.|[2502.03656](http://arxiv.org/abs/2502.03656)|null|
+|**2025-02-05**|**DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior**|Janghyeok Han et.al.|[2502.03502](http://arxiv.org/abs/2502.03502)|null|
 |**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993](http://arxiv.org/abs/2502.01993)|null|
 |**2025-02-03**|**Low Resource Video Super-resolution using Memory and Residual Deformable Convolutions**|Kavitha Viswanathan et.al.|[2502.01816](http://arxiv.org/abs/2502.01816)|null|
 |**2025-02-03**|**Inverse Bridge Matching Distillation**|Nikita Gushchin et.al.|[2502.01362](http://arxiv.org/abs/2502.01362)|null|
@@ -3849,6 +3862,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Mid-infrared dual comb spectroscopy via continuous-wave optical parametric oscillation**|D. A. Long et.al.|[2502.04026](http://arxiv.org/abs/2502.04026)|null|
+|**2025-02-06**|**Optical interference by amplitude measurement**|Yunxiao Zhang et.al.|[2502.04010](http://arxiv.org/abs/2502.04010)|null|
+|**2025-02-06**|**Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation**|Xuan Li et.al.|[2502.03813](http://arxiv.org/abs/2502.03813)|null|
+|**2025-02-06**|**Regularization via f-Divergence: An Application to Multi-Oxide Spectroscopic Analysis**|Weizhi Li et.al.|[2502.03755](http://arxiv.org/abs/2502.03755)|null|
+|**2025-02-05**|**An Empirical Study of Methods for Small Object Detection from Satellite Imagery**|Xiaohui Yuan et.al.|[2502.03674](http://arxiv.org/abs/2502.03674)|null|
 |**2025-02-05**|**Development of Radar and Optical Tracking of Near-Earth Asteroids at the University of Tasmania**|Oliver James White et.al.|[2502.02890](http://arxiv.org/abs/2502.02890)|null|
 |**2025-02-05**|**RS-YOLOX: A High Precision Detector for Object Detection in Satellite Remote Sensing Images**|Lei Yang et.al.|[2502.02850](http://arxiv.org/abs/2502.02850)|null|
 |**2025-02-05**|**A Survey of Sample-Efficient Deep Learning for Change Detection in Remote Sensing: Tasks, Strategies, and Challenges**|Lei Ding et.al.|[2502.02835](http://arxiv.org/abs/2502.02835)|null|

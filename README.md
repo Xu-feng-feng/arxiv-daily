@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots**|Yuhao Cao et.al.|[2502.06123](http://arxiv.org/abs/2502.06123)|null|
 |**2025-02-07**|**DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection**|Mingxuan Yan et.al.|[2502.04804](http://arxiv.org/abs/2502.04804)|null|
 |**2025-02-05**|**Deep Learning-based Event Data Coding: A Joint Spatiotemporal and Polarity Solution**|Abdelrahman Seleem et.al.|[2502.03285](http://arxiv.org/abs/2502.03285)|null|
 |**2025-01-28**|**Point Cloud Upsampling as Statistical Shape Model for Pelvic**|Tongxu Zhang et.al.|[2501.16716](http://arxiv.org/abs/2501.16716)|null|
@@ -241,6 +242,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**|Dongyang Liu et.al.|[2502.06782](http://arxiv.org/abs/2502.06782)|null|
+|**2025-02-10**|**Solving Optimal Power Flow on a Data-Budget: Feature Selection on Smart Meter Data**|Vassilis Kekatos et.al.|[2502.06683](http://arxiv.org/abs/2502.06683)|null|
+|**2025-02-10**|**CANeRV: Content Adaptive Neural Representation for Video Compression**|Lv Tang et.al.|[2502.06181](http://arxiv.org/abs/2502.06181)|null|
+|**2025-02-09**|**Online Reward-Weighted Fine-Tuning of Flow Matching with Wasserstein Regularization**|Jiajun Fan et.al.|[2502.06061](http://arxiv.org/abs/2502.06061)|null|
+|**2025-02-09**|**Constant sensitivity on the CDAWGs**|Rikuya Hamai et.al.|[2502.05915](http://arxiv.org/abs/2502.05915)|null|
+|**2025-02-09**|**Linear Attention Modeling for Learned Image Compression**|Donghui Feng et.al.|[2502.05741](http://arxiv.org/abs/2502.05741)|null|
+|**2025-02-08**|**Convolutional Deep Colorization for Image Compression: A Color Grid Based Approach**|Ian Tassin et.al.|[2502.05402](http://arxiv.org/abs/2502.05402)|null|
 |**2025-02-07**|**CMamba: Learned Image Compression with State Space Models**|Zhuojie Wu et.al.|[2502.04988](http://arxiv.org/abs/2502.04988)|null|
 |**2025-02-06**|**Semantic Feature Division Multiple Access for Digital Semantic Broadcast Channels**|Shuai Ma et.al.|[2502.03949](http://arxiv.org/abs/2502.03949)|null|
 |**2025-02-06**|**Enhancing Online Learning Efficiency Through Heterogeneous Resource Integration with a Multi-Agent RAG System**|Devansh Srivastav et.al.|[2502.03948](http://arxiv.org/abs/2502.03948)|null|
@@ -250,7 +258,7 @@
 |**2025-02-04**|**On likelihood-based analysis of the gravitationally (de)lensed CMB**|Julien Carron et.al.|[2502.02399](http://arxiv.org/abs/2502.02399)|null|
 |**2025-02-04**|**PALQA: A Novel Parameterized Position-Aware Lossy Quantum Autoencoder using LSB Control Qubit for Efficient Image Compression**|Ershadul Haque et.al.|[2502.02188](http://arxiv.org/abs/2502.02188)|null|
 |**2025-02-01**|**Semantic Communication based on Generative AI: A New Approach to Image Compression and Edge Optimization**|Francesco Pezone et.al.|[2502.01675](http://arxiv.org/abs/2502.01675)|null|
-|**2025-02-04**|**Compressed Image Generation with Denoising Diffusion Codebook Models**|Guy Ohayon et.al.|[2502.01189](http://arxiv.org/abs/2502.01189)|null|
+|**2025-02-10**|**Compressed Image Generation with Denoising Diffusion Codebook Models**|Guy Ohayon et.al.|[2502.01189](http://arxiv.org/abs/2502.01189)|null|
 |**2025-02-02**|**S2CFormer: Reorienting Learned Image Compression from Spatial Interaction to Channel Aggregation**|Yunuo Chen et.al.|[2502.00700](http://arxiv.org/abs/2502.00700)|null|
 |**2025-01-28**|**Rate-Distortion under Neural Tracking of Speech: A Directed Redundancy Approach**|Jan Østergaard et.al.|[2501.16762](http://arxiv.org/abs/2501.16762)|null|
 |**2025-02-05**|**Hybrid Quantum Neural Networks with Amplitude Encoding: Advancing Recovery Rate Predictions**|Ying Chen et.al.|[2501.15828](http://arxiv.org/abs/2501.15828)|null|
@@ -970,6 +978,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Evaluation of Multilingual Image Captioning: How far can we get with CLIP models?**|Gonçalo Gomes et.al.|[2502.06600](http://arxiv.org/abs/2502.06600)|null|
+|**2025-02-10**|**Image Intrinsic Scale Assessment: Bridging the Gap Between Quality and Resolution**|Vlad Hosu et.al.|[2502.06476](http://arxiv.org/abs/2502.06476)|null|
+|**2025-02-10**|**How Humans Help LLMs: Assessing and Incentivizing Human Preference Annotators**|Shang Liu et.al.|[2502.06387](http://arxiv.org/abs/2502.06387)|null|
+|**2025-02-10**|**Guidance-base Diffusion Models for Improving Photoacoustic Image Quality**|Tatsuhiro Eguchi et.al.|[2502.06354](http://arxiv.org/abs/2502.06354)|null|
+|**2025-02-10**|**LANTERN++: Enhanced Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**|Sihwan Park et.al.|[2502.06352](http://arxiv.org/abs/2502.06352)|null|
+|**2025-02-10**|**A CT Geometry With Multiple Centers Of Rotation For Solving Sparse View Problem**|Jiayu Duan et.al.|[2502.06125](http://arxiv.org/abs/2502.06125)|null|
+|**2025-02-10**|**Token-Domain Multiple Access: Exploiting Semantic Orthogonality for Collision Mitigation**|Li Qiao et.al.|[2502.06118](http://arxiv.org/abs/2502.06118)|null|
+|**2025-02-09**|**Dual Caption Preference Optimization for Diffusion Models**|Amir Saeidi et.al.|[2502.06023](http://arxiv.org/abs/2502.06023)|null|
+|**2025-02-09**|**A Comprehensive Survey on Image Signal Processing Approaches for Low-Illumination Image Enhancement**|Muhammad Turab et.al.|[2502.05995](http://arxiv.org/abs/2502.05995)|null|
+|**2025-02-09**|**Multi-Branch Collaborative Learning Network for Video Quality Assessment in Industrial Video Search**|Hengzhu Tang et.al.|[2502.05924](http://arxiv.org/abs/2502.05924)|null|
+|**2025-02-09**|**Devil is in the Details: Density Guidance for Detail-Aware Generation with Flow Models**|Rafał Karczewski et.al.|[2502.05807](http://arxiv.org/abs/2502.05807)|null|
+|**2025-02-08**|**Semantic-Aware Adaptive Video Streaming Using Latent Diffusion Models for Wireless Networks**|Zijiang Yan et.al.|[2502.05695](http://arxiv.org/abs/2502.05695)|null|
+|**2025-02-08**|**FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion**|Yufan Zhou et.al.|[2502.05606](http://arxiv.org/abs/2502.05606)|null|
+|**2025-02-07**|**Distillation and Pruning for Scalable Self-Supervised Representation-Based Speech Quality Assessment**|Benjamin Stahl et.al.|[2502.05356](http://arxiv.org/abs/2502.05356)|null|
 |**2025-02-07**|**AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting**|Chung-Ho Wu et.al.|[2502.05176](http://arxiv.org/abs/2502.05176)|null|
 |**2025-02-07**|**Meta Audiobox Aesthetics: Unified Automatic Quality Assessment for Speech, Music, and Sound**|Andros Tjandra et.al.|[2502.05139](http://arxiv.org/abs/2502.05139)|null|
 |**2025-02-07**|**Cached Multi-Lora Composition for Multi-Concept Image Generation**|Xiandong Zou et.al.|[2502.04923](http://arxiv.org/abs/2502.04923)|null|
@@ -2979,6 +3001,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Selecting Optimal Sampling Rate for Stable Super-Resolution**|Nuha Diab et.al.|[2502.06673](http://arxiv.org/abs/2502.06673)|null|
+|**2025-02-10**|**FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution**|Qiang Zhu et.al.|[2502.06431](http://arxiv.org/abs/2502.06431)|null|
+|**2025-02-09**|**Fast Omni-Directional Image Super-Resolution: Adapting the Implicit Image Function with Pixel and Semantic-Wise Spherical Geometric Priors**|Xuelin Shen et.al.|[2502.05902](http://arxiv.org/abs/2502.05902)|null|
+|**2025-02-07**|**Fast Subspace Fluid Simulation with Temporal-Aware Basis**|Siyuan Chen et.al.|[2502.05339](http://arxiv.org/abs/2502.05339)|null|
 |**2025-02-06**|**High Spatiotemporal Resolution Structured Illumination Microscopy: Principle, Instrumentation, and Applications**|Han Wang et.al.|[2502.04072](http://arxiv.org/abs/2502.04072)|null|
 |**2025-02-05**|**Bridging high resolution sub-cellular imaging with physiologically relevant engineered tissues**|Yasaman Kargar Gaz Kooh et.al.|[2502.03661](http://arxiv.org/abs/2502.03661)|null|
 |**2025-02-05**|**A Study in Dataset Distillation for Image Super-Resolution**|Tobias Dietz et.al.|[2502.03656](http://arxiv.org/abs/2502.03656)|null|
@@ -3885,6 +3911,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Illegal Waste Detection in Remote Sensing Images: A Case Study**|Federico Gibellini et.al.|[2502.06607](http://arxiv.org/abs/2502.06607)|null|
+|**2025-02-09**|**Multi-modal Data Fusion and Deep Ensemble Learning for Accurate Crop Yield Prediction**|Akshay Dagadu Yewle et.al.|[2502.06062](http://arxiv.org/abs/2502.06062)|null|
 |**2025-02-07**|**C2GM: Cascading Conditional Generation of Multi-scale Maps from Remote Sensing Images Constrained by Geographic Features**|Chenxing Sun et.al.|[2502.04991](http://arxiv.org/abs/2502.04991)|null|
 |**2025-02-07**|**HetSSNet: Spatial-Spectral Heterogeneous Graph Learning Network for Panchromatic and Multispectral Images Fusion**|Mengting Ma et.al.|[2502.04623](http://arxiv.org/abs/2502.04623)|null|
 |**2025-02-06**|**Mid-infrared dual comb spectroscopy via continuous-wave optical parametric oscillation**|D. A. Long et.al.|[2502.04026](http://arxiv.org/abs/2502.04026)|null|

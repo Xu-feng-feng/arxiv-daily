@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -992,7 +992,7 @@ layout: default
 |**2025-02-11**|**Automatic Prostate Volume Estimation in Transabdominal Ultrasound Images**|Tiziano Natali et.al.|[2502.07859](http://arxiv.org/abs/2502.07859)|null|
 |**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|**[link](https://github.com/da-group-pku/magic-1-for-1)**|
 |**2025-02-11**|**An Improved Optimal Proximal Gradient Algorithm for Non-Blind Image Deblurring**|Qingsong Wang et.al.|[2502.07602](http://arxiv.org/abs/2502.07602)|null|
-|**2025-02-13**|**Enhance-A-Video: Better Generated Video for Free**|Yang Luo et.al.|[2502.07508](http://arxiv.org/abs/2502.07508)|null|
+|**2025-02-13**|**Enhance-A-Video: Better Generated Video for Free**|Yang Luo et.al.|[2502.07508](http://arxiv.org/abs/2502.07508)|**[link](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video)**|
 |**2025-02-11**|**Compound Mask for Divergent Wave Imaging in Medical Ultrasound**|Zahraa Alzein et.al.|[2502.07453](http://arxiv.org/abs/2502.07453)|null|
 |**2025-02-11**|**On Iterative Evaluation and Enhancement of Code Quality Using GPT-4o**|Rundong Liu et.al.|[2502.07399](http://arxiv.org/abs/2502.07399)|**[link](https://github.com/jpmorganchase/codequest)**|
 |**2025-02-11**|**USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions**|Yuxu Lu et.al.|[2502.07372](http://arxiv.org/abs/2502.07372)|**[link](https://github.com/louisyxlu/usrnet)**|

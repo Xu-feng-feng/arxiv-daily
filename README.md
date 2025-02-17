@@ -413,7 +413,7 @@
 |**2024-11-02**|**Autoencoders for At-Source Data Reduction and Anomaly Detection in High Energy Particle Detectors**|Alexander Yue et.al.|[2411.01118](http://arxiv.org/abs/2411.01118)|null|
 |**2024-11-01**|**SANN-PSZ: Spatially Adaptive Neural Network for Head-Tracked Personal Sound Zones**|Yue Qiao et.al.|[2411.00772](http://arxiv.org/abs/2411.00772)|null|
 |**2024-10-28**|**MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression**|Noel Elias et.al.|[2410.21548](http://arxiv.org/abs/2410.21548)|**[link](https://github.com/noelkelias/multitok)**|
-|**2024-10-29**|**Enhancing Learned Image Compression via Cross Window-based Attention**|Priyanka Mudgal et.al.|[2410.21144](http://arxiv.org/abs/2410.21144)|null|
+|**2024-10-29**|**Enhancing Learned Image Compression via Cross Window-based Attention**|Priyanka Mudgal et.al.|[2410.21144](http://arxiv.org/abs/2410.21144)|**[link](https://github.com/prmudgal/CWAM_IC_ISVC)**|
 |**2024-10-26**|**Cross-Platform Neural Video Coding: A Case Study**|Ruhan Conceição et.al.|[2410.20145](http://arxiv.org/abs/2410.20145)|null|
 |**2024-10-25**|**Conditional Hallucinations for Image Compression**|Till Aczel et.al.|[2410.19493](http://arxiv.org/abs/2410.19493)|null|
 |**2024-10-29**|**Integration of Communication and Computational Imaging**|Zhenming Yu et.al.|[2410.19415](http://arxiv.org/abs/2410.19415)|null|
@@ -1023,15 +1023,15 @@
 |**2025-02-09**|**Devil is in the Details: Density Guidance for Detail-Aware Generation with Flow Models**|Rafał Karczewski et.al.|[2502.05807](http://arxiv.org/abs/2502.05807)|null|
 |**2025-02-08**|**Semantic-Aware Adaptive Video Streaming Using Latent Diffusion Models for Wireless Networks**|Zijiang Yan et.al.|[2502.05695](http://arxiv.org/abs/2502.05695)|null|
 |**2025-02-08**|**FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion**|Yufan Zhou et.al.|[2502.05606](http://arxiv.org/abs/2502.05606)|null|
-|**2025-02-07**|**Distillation and Pruning for Scalable Self-Supervised Representation-Based Speech Quality Assessment**|Benjamin Stahl et.al.|[2502.05356](http://arxiv.org/abs/2502.05356)|null|
+|**2025-02-07**|**Distillation and Pruning for Scalable Self-Supervised Representation-Based Speech Quality Assessment**|Benjamin Stahl et.al.|[2502.05356](http://arxiv.org/abs/2502.05356)|**[link](https://github.com/microsoft/Distill-MOS)**|
 |**2025-02-07**|**AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting**|Chung-Ho Wu et.al.|[2502.05176](http://arxiv.org/abs/2502.05176)|null|
-|**2025-02-07**|**Meta Audiobox Aesthetics: Unified Automatic Quality Assessment for Speech, Music, and Sound**|Andros Tjandra et.al.|[2502.05139](http://arxiv.org/abs/2502.05139)|null|
-|**2025-02-07**|**Cached Multi-Lora Composition for Multi-Concept Image Generation**|Xiandong Zou et.al.|[2502.04923](http://arxiv.org/abs/2502.04923)|null|
+|**2025-02-07**|**Meta Audiobox Aesthetics: Unified Automatic Quality Assessment for Speech, Music, and Sound**|Andros Tjandra et.al.|[2502.05139](http://arxiv.org/abs/2502.05139)|**[link](https://github.com/facebookresearch/audiobox-aesthetics)**|
+|**2025-02-07**|**Cached Multi-Lora Composition for Multi-Concept Image Generation**|Xiandong Zou et.al.|[2502.04923](http://arxiv.org/abs/2502.04923)|**[link](https://github.com/Yqcca/CMLoRA)**|
 |**2025-02-07**|**Integration Concept of the CBM Micro Vertex Detector**|Franz Matejcek et.al.|[2502.04858](http://arxiv.org/abs/2502.04858)|null|
-|**2025-02-06**|**ADIFF: Explaining audio difference using natural language**|Soham Deshmukh et.al.|[2502.04476](http://arxiv.org/abs/2502.04476)|null|
+|**2025-02-06**|**ADIFF: Explaining audio difference using natural language**|Soham Deshmukh et.al.|[2502.04476](http://arxiv.org/abs/2502.04476)|**[link](https://github.com/soham97/adiff)**|
 |**2025-02-05**|**DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization**|Zhenglin Zhou et.al.|[2502.04370](http://arxiv.org/abs/2502.04370)|null|
 |**2025-02-06**|**BOUQuET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation**|The Omnilingual MT Team et.al.|[2502.04314](http://arxiv.org/abs/2502.04314)|null|
-|**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
+|**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|**[link](https://github.com/littlespray/crave)**|
 |**2025-02-06**|**DICE: Distilling Classifier-Free Guidance into Text Embeddings**|Zhenyu Zhou et.al.|[2502.03726](http://arxiv.org/abs/2502.03726)|null|
 |**2025-02-05**|**Quasi-Monte Carlo Methods: What, Why, and How?**|Fred J. Hickernell et.al.|[2502.03644](http://arxiv.org/abs/2502.03644)|null|
 |**2025-02-05**|**Efficient Image Restoration via Latent Consistency Flow Matching**|Elad Cohen et.al.|[2502.03500](http://arxiv.org/abs/2502.03500)|null|
@@ -1065,7 +1065,7 @@
 |**2025-01-31**|**Ambient Denoising Diffusion Generative Adversarial Networks for Establishing Stochastic Object Models from Noisy Image Data**|Xichen Xu et.al.|[2501.19094](http://arxiv.org/abs/2501.19094)|null|
 |**2025-01-31**|**OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation**|Yuchen Lin et.al.|[2501.18982](http://arxiv.org/abs/2501.18982)|null|
 |**2025-01-31**|**Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models**|Jaesin Ahn et.al.|[2501.18877](http://arxiv.org/abs/2501.18877)|**[link](https://github.com/aei13/des)**|
-|**2025-01-29**|**Fake News Detection After LLM Laundering: Measurement and Explanation**|Rupak Kumar Das et.al.|[2501.18649](http://arxiv.org/abs/2501.18649)|null|
+|**2025-01-29**|**Fake News Detection After LLM Laundering: Measurement and Explanation**|Rupak Kumar Das et.al.|[2501.18649](http://arxiv.org/abs/2501.18649)|**[link](https://github.com/rupakdas18/fake-news-detection-after-llm-laundering)**|
 |**2025-01-31**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418](http://arxiv.org/abs/2501.18418)|null|
 |**2025-01-30**|**Adaptive Video Streaming with AI-Based Optimization for Dynamic Network Conditions**|Mohammad Tarik et.al.|[2501.18332](http://arxiv.org/abs/2501.18332)|null|
 |**2025-01-30**|**AGAV-Rater: Adapting Large Multimodal Model for AI-Generated Audio-Visual Quality Assessment**|Yuqin Cao et.al.|[2501.18314](http://arxiv.org/abs/2501.18314)|null|
@@ -1091,7 +1091,7 @@
 |**2025-01-26**|**Differentiable Low-computation Global Correlation Loss for Monotonicity Evaluation in Quality Assessment**|Yipeng Liu et.al.|[2501.15485](http://arxiv.org/abs/2501.15485)|null|
 |**2025-01-25**|**Image formation theory of optical coherence tomography with optical aberrations and its application for computational aberration correction**|Shuichi Makita et.al.|[2501.15011](http://arxiv.org/abs/2501.15011)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
-|**2025-01-24**|**WanJuanSiLu: A High-Quality Open-Source Webtext Dataset for Low-Resource Languages**|Jia Yu et.al.|[2501.14506](http://arxiv.org/abs/2501.14506)|null|
+|**2025-01-24**|**WanJuanSiLu: A High-Quality Open-Source Webtext Dataset for Low-Resource Languages**|Jia Yu et.al.|[2501.14506](http://arxiv.org/abs/2501.14506)|**[link](https://github.com/opendatalab/wanjuan3.0)**|
 |**2025-01-24**|**Enhancing Intelligibility for Generative Target Speech Extraction via Joint Optimization with Target Speaker ASR**|Hao Ma et.al.|[2501.14477](http://arxiv.org/abs/2501.14477)|null|
 |**2025-01-24**|**Deep Learning-Powered Classification of Thoracic Diseases in Chest X-Rays**|Yiming Lei et.al.|[2501.14279](http://arxiv.org/abs/2501.14279)|null|
 |**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264](http://arxiv.org/abs/2501.14264)|null|
@@ -3984,7 +3984,7 @@
 |**2025-02-02**|**A method for estimating forest carbon storage distribution density via artificial intelligence generated content model**|Zhenyu Yu et.al.|[2502.00783](http://arxiv.org/abs/2502.00783)|null|
 |**2025-02-01**|**SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models**|Chuc Man Duc et.al.|[2502.00435](http://arxiv.org/abs/2502.00435)|**[link](https://github.com/mdchuc/hrsfm)**|
 |**2025-02-01**|**Exploring Linear Attention Alternative for Single Image Super-Resolution**|Rongchang Lu et.al.|[2502.00404](http://arxiv.org/abs/2502.00404)|null|
-|**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|
+|**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|**[link](https://github.com/mbzuai-oryx/AIN)**|
 |**2025-01-31**|**Integrating Semi-Supervised and Active Learning for Semantic Segmentation**|Wanli Ma et.al.|[2501.19227](http://arxiv.org/abs/2501.19227)|null|
 |**2025-01-31**|**Self-Supervised Cross-Modal Text-Image Time Series Retrieval in Remote Sensing**|Genc Hoxha et.al.|[2501.19043](http://arxiv.org/abs/2501.19043)|null|
 |**2025-01-30**|**Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation**|Kevin Qiu et.al.|[2501.18246](http://arxiv.org/abs/2501.18246)|null|

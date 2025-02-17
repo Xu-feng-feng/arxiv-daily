@@ -242,9 +242,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression**|Siqi Wu et.al.|[2502.09971](http://arxiv.org/abs/2502.09971)|null|
 |**2025-02-13**|**Differentially Private Compression and the Sensitivity of LZ77**|Jeremiah Blocki et.al.|[2502.09584](http://arxiv.org/abs/2502.09584)|null|
 |**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|null|
-|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|null|
+|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|**[link](https://github.com/hku-medai/lig)**|
 |**2025-02-12**|**Compression of Site-Specific Deep Neural Networks for Massive MIMO Precoding**|Ghazal Kasalaee et.al.|[2502.08758](http://arxiv.org/abs/2502.08758)|null|
 |**2025-02-11**|**To clean or not to clean? Influence of pixel removal on event reconstruction using deep learning in CTAO**|Tom François et.al.|[2502.07643](http://arxiv.org/abs/2502.07643)|null|
 |**2025-02-11**|**HDCompression: Hybrid-Diffusion Image Compression for Ultra-Low Bitrates**|Lei Lu et.al.|[2502.07160](http://arxiv.org/abs/2502.07160)|null|
@@ -984,10 +985,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-13**|**Optimizing GPT for Video Understanding: Zero-Shot Performance and Prompt Engineering**|Mark Beliaev et.al.|[2502.09573](http://arxiv.org/abs/2502.09573)|null|
+|**2025-02-14**|**Large Language Models and Synthetic Data for Monitoring Dataset Mentions in Research Papers**|Aivin V. Solatorio et.al.|[2502.10263](http://arxiv.org/abs/2502.10263)|null|
+|**2025-02-14**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|null|
+|**2025-02-14**|**ProReco: A Process Discovery Recommender System**|Tsung-Hao Huang et.al.|[2502.10230](http://arxiv.org/abs/2502.10230)|null|
+|**2025-02-14**|**RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control**|Teng Li et.al.|[2502.10059](http://arxiv.org/abs/2502.10059)|null|
+|**2025-02-14**|**AffectSRNet : Facial Emotion-Aware Super-Resolution Network**|Syed Sameen Ahmad Rizvi et.al.|[2502.09932](http://arxiv.org/abs/2502.09932)|null|
+|**2025-02-14**|**A Deep Learning Approach to Interface Color Quality Assessment in HCI**|Shixiao Wang et.al.|[2502.09914](http://arxiv.org/abs/2502.09914)|null|
+|**2025-02-14**|**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal**|Jinpei Guo et.al.|[2502.09873](http://arxiv.org/abs/2502.09873)|null|
+|**2025-02-14**|**Optimizing GPT for Video Understanding: Zero-Shot Performance and Prompt Engineering**|Mark Beliaev et.al.|[2502.09573](http://arxiv.org/abs/2502.09573)|null|
 |**2025-02-13**|**Learned Correction Methods for Ultrasound Computed Tomography Imaging Using Simplified Physics Models**|Luke Lozenski et.al.|[2502.09546](http://arxiv.org/abs/2502.09546)|null|
 |**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|null|
-|**2025-02-13**|**A Physics-Informed Deep Learning Model for MRI Brain Motion Correction**|Mojtaba Safari et.al.|[2502.09296](http://arxiv.org/abs/2502.09296)|null|
+|**2025-02-13**|**A Physics-Informed Deep Learning Model for MRI Brain Motion Correction**|Mojtaba Safari et.al.|[2502.09296](http://arxiv.org/abs/2502.09296)|**[link](https://github.com/mosaf/pi-moconet)**|
 |**2025-02-13**|**ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization**|Onat Şahin et.al.|[2502.09278](http://arxiv.org/abs/2502.09278)|null|
 |**2025-02-13**|**PixLift: Accelerating Web Browsing via AI Upscaling**|Yonas Atinafu et.al.|[2502.08995](http://arxiv.org/abs/2502.08995)|null|
 |**2025-02-13**|**Some problems of developing astrophysical equipment and combining it with optical telescopes**|Edward Emelianov et.al.|[2502.08992](http://arxiv.org/abs/2502.08992)|null|
@@ -3033,6 +3041,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Probabilistic Super-Resolution for High-Fidelity Physical System Simulations with Uncertainty Quantification**|Pengyu Zhang et.al.|[2502.10280](http://arxiv.org/abs/2502.10280)|null|
+|**2025-02-14**|**AffectSRNet : Facial Emotion-Aware Super-Resolution Network**|Syed Sameen Ahmad Rizvi et.al.|[2502.09932](http://arxiv.org/abs/2502.09932)|null|
+|**2025-02-13**|**Noise Controlled CT Super-Resolution with Conditional Diffusion Model**|Yuang Wang et.al.|[2502.09793](http://arxiv.org/abs/2502.09793)|null|
+|**2025-02-12**|**Image Super-Resolution with Guarantees via Conformal Generative Models**|Eduardo Adame et.al.|[2502.09664](http://arxiv.org/abs/2502.09664)|null|
+|**2025-02-12**|**Heterogeneous Mixture of Experts for Remote Sensing Image Super-Resolution**|Bowen Chen et.al.|[2502.09654](http://arxiv.org/abs/2502.09654)|null|
 |**2025-02-13**|**NextGenPB: an analytically-enabled super resolution and local (de)refinement Poisson-Boltzmann Equation solver**|Vincenzo Di Florio et.al.|[2502.09323](http://arxiv.org/abs/2502.09323)|null|
 |**2025-02-12**|**Deep EEG Super-Resolution: Upsampling EEG Spatial Resolution with Generative Adversarial Networks**|Isaac Corley et.al.|[2502.08803](http://arxiv.org/abs/2502.08803)|null|
 |**2025-02-12**|**Rapid Whole Brain Mesoscale In-vivo MR Imaging using Multi-scale Implicit Neural Representation**|Jun Lyu et.al.|[2502.08634](http://arxiv.org/abs/2502.08634)|null|
@@ -3950,14 +3963,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598](http://arxiv.org/abs/2502.09598)|null|
-|**2025-02-13**|**Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection**|Yi Yu et.al.|[2502.09471](http://arxiv.org/abs/2502.09471)|null|
+|**2025-02-14**|**DiSciPLE: Learning Interpretable Programs for Scientific Visual Discovery**|Utkarsh Mall et.al.|[2502.10060](http://arxiv.org/abs/2502.10060)|null|
+|**2025-02-12**|**Heterogeneous Mixture of Experts for Remote Sensing Image Super-Resolution**|Bowen Chen et.al.|[2502.09654](http://arxiv.org/abs/2502.09654)|null|
+|**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598](http://arxiv.org/abs/2502.09598)|**[link](https://github.com/Orion-AI-Lab/GAIA)**|
+|**2025-02-13**|**Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection**|Yi Yu et.al.|[2502.09471](http://arxiv.org/abs/2502.09471)|**[link](https://github.com/yuyi1005/whollywood)**|
 |**2025-02-13**|**Solar Orbiter and Parker Solar Probe: Multi-viewpoint messengers of the inner heliosphere**|Stephanie L. Yardley et.al.|[2502.09450](http://arxiv.org/abs/2502.09450)|null|
 |**2025-02-13**|**Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models**|Gabriel Tseng et.al.|[2502.09356](http://arxiv.org/abs/2502.09356)|null|
 |**2025-02-13**|**FE-LWS: Refined Image-Text Representations via Decoder Stacking and Fused Encodings for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2502.09282](http://arxiv.org/abs/2502.09282)|null|
 |**2025-02-12**|**Multispectral Remote Sensing for Weed Detection in West Australian Agricultural Lands**|Haitian Wang et.al.|[2502.08678](http://arxiv.org/abs/2502.08678)|null|
 |**2025-02-12**|**Referring Remote Sensing Image Segmentation via Bidirectional Alignment Guided Joint Prediction**|Tianxiang Zhang et.al.|[2502.08486](http://arxiv.org/abs/2502.08486)|null|
-|**2025-02-13**|**SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation**|Zhiming Ma et.al.|[2502.08168](http://arxiv.org/abs/2502.08168)|null|
+|**2025-02-13**|**SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation**|Zhiming Ma et.al.|[2502.08168](http://arxiv.org/abs/2502.08168)|**[link](https://github.com/jimmyma99/sarchat)**|
 |**2025-02-13**|**Illegal Waste Detection in Remote Sensing Images: A Case Study**|Federico Gibellini et.al.|[2502.06607](http://arxiv.org/abs/2502.06607)|null|
 |**2025-02-09**|**Multi-modal Data Fusion and Deep Ensemble Learning for Accurate Crop Yield Prediction**|Akshay Dagadu Yewle et.al.|[2502.06062](http://arxiv.org/abs/2502.06062)|null|
 |**2025-02-07**|**C2GM: Cascading Conditional Generation of Multi-scale Maps from Remote Sensing Images Constrained by Geographic Features**|Chenxing Sun et.al.|[2502.04991](http://arxiv.org/abs/2502.04991)|null|

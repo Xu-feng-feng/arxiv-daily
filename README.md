@@ -242,6 +242,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Fully Dynamic LZ77 in Sublinear Time**|Itai Boneh et.al.|[2502.12000](http://arxiv.org/abs/2502.12000)|null|
+|**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|null|
+|**2025-02-15**|**AquaScope: Reliable Underwater Image Transmission on Mobile Devices**|Beitong Tian et.al.|[2502.10891](http://arxiv.org/abs/2502.10891)|null|
+|**2025-02-15**|**ResiComp: Loss-Resilient Image Compression via Dual-Functional Masked Visual Token Modeling**|Sixian Wang et.al.|[2502.10812](http://arxiv.org/abs/2502.10812)|null|
+|**2025-02-15**|**A Fast Quantum Image Compression Algorithm based on Taylor Expansion**|Vu Tuan Hai et.al.|[2502.10684](http://arxiv.org/abs/2502.10684)|null|
+|**2025-02-15**|**Optimizing CNN Architectures for Advanced Thoracic Disease Classification**|Tejas Mirthipati et.al.|[2502.10614](http://arxiv.org/abs/2502.10614)|null|
 |**2025-02-14**|**Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression**|Siqi Wu et.al.|[2502.09971](http://arxiv.org/abs/2502.09971)|null|
 |**2025-02-13**|**Differentially Private Compression and the Sensitivity of LZ77**|Jeremiah Blocki et.al.|[2502.09584](http://arxiv.org/abs/2502.09584)|null|
 |**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|null|
@@ -985,6 +991,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Token Communications: A Unified Framework for Cross-modal Context-aware Semantic Communications**|Li Qiao et.al.|[2502.12096](http://arxiv.org/abs/2502.12096)|null|
+|**2025-02-17**|**Low-Rank Thinning**|Annabelle Michael Carrell et.al.|[2502.12063](http://arxiv.org/abs/2502.12063)|null|
+|**2025-02-17**|**MultiFlow: A unified deep learning framework for multi-vessel classification, segmentation and clustering of phase-contrast MRI validated on a multi-site single ventricle patient cohort**|Tina Yao et.al.|[2502.11993](http://arxiv.org/abs/2502.11993)|null|
+|**2025-02-17**|**Deep Spatio-Temporal Neural Network for Air Quality Reanalysis**|Ammar Kheder et.al.|[2502.11941](http://arxiv.org/abs/2502.11941)|null|
+|**2025-02-17**|**No-reference geometry quality assessment for colorless point clouds via list-wise rank learning**|Zheng Li et.al.|[2502.11726](http://arxiv.org/abs/2502.11726)|null|
+|**2025-02-17**|**The Worse The Better: Content-Aware Viewpoint Generation Network for Projection-related Point Cloud Quality Assessment**|Zhiyong Su et.al.|[2502.11710](http://arxiv.org/abs/2502.11710)|null|
+|**2025-02-17**|**Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation**|Arindam Sharma et.al.|[2502.11620](http://arxiv.org/abs/2502.11620)|null|
+|**2025-02-17**|**Syllables to Scenes: Literary-Guided Free-Viewpoint 3D Scene Synthesis from Japanese Haiku**|Chunan Yu et.al.|[2502.11586](http://arxiv.org/abs/2502.11586)|null|
+|**2025-02-17**|**AI-Assisted Thin Section Image Processing for Pore-Throat Characterization in Tight Clastic Rocks**|Muhammad Risha et.al.|[2502.11523](http://arxiv.org/abs/2502.11523)|null|
+|**2025-02-17**|**Semantically Robust Unsupervised Image Translation for Paired Remote Sensing Images**|Sheng Fang et.al.|[2502.11468](http://arxiv.org/abs/2502.11468)|null|
+|**2025-02-17**|**HellaSwag-Pro: A Large-Scale Bilingual Benchmark for Evaluating the Robustness of LLMs in Commonsense Reasoning**|Xiaoyuan Li et.al.|[2502.11393](http://arxiv.org/abs/2502.11393)|null|
+|**2025-02-17**|**A Physics-Informed Blur Learning Framework for Imaging Systems**|Liqun Chen et.al.|[2502.11382](http://arxiv.org/abs/2502.11382)|null|
+|**2025-02-17**|**LLMs can Perform Multi-Dimensional Analytic Writing Assessments: A Case Study of L2 Graduate-Level Academic English Writing**|Zhengxiang Wang et.al.|[2502.11368](http://arxiv.org/abs/2502.11368)|null|
+|**2025-02-16**|**Generating Skyline Datasets for Data Science Models**|Mengying Wang et.al.|[2502.11262](http://arxiv.org/abs/2502.11262)|null|
+|**2025-02-16**|**Exploiting network optimization stability for enhanced PET image denoising using deep image prior**|Fumio Hashimoto et.al.|[2502.11259](http://arxiv.org/abs/2502.11259)|null|
+|**2025-02-16**|**Are Generative Models Underconfident? An Embarrassingly Simple Quality Estimation Approach**|Tu Anh Dinh et.al.|[2502.11115](http://arxiv.org/abs/2502.11115)|null|
+|**2025-02-16**|**Imaging current flow and injection in scalable graphene devices through NV-magnetometry**|Kaj Dockx et.al.|[2502.11076](http://arxiv.org/abs/2502.11076)|null|
+|**2025-02-15**|**Automatic Quality Assessment of First Trimester Crown-Rump-Length Ultrasound Images**|Sevim Cengiz et.al.|[2502.10908](http://arxiv.org/abs/2502.10908)|null|
+|**2025-02-15**|**AquaScope: Reliable Underwater Image Transmission on Mobile Devices**|Beitong Tian et.al.|[2502.10891](http://arxiv.org/abs/2502.10891)|null|
+|**2025-02-15**|**E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting**|Sohaib Zahid et.al.|[2502.10827](http://arxiv.org/abs/2502.10827)|null|
 |**2025-02-14**|**Large Language Models and Synthetic Data for Monitoring Dataset Mentions in Research Papers**|Aivin V. Solatorio et.al.|[2502.10263](http://arxiv.org/abs/2502.10263)|null|
 |**2025-02-14**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|null|
 |**2025-02-14**|**ProReco: A Process Discovery Recommender System**|Tsung-Hao Huang et.al.|[2502.10230](http://arxiv.org/abs/2502.10230)|null|
@@ -3041,6 +3067,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**VoLUT: Efficient Volumetric streaming enhanced by LUT-based super-resolution**|Chendong Wang et.al.|[2502.12151](http://arxiv.org/abs/2502.12151)|null|
+|**2025-02-17**|**Simulation-based Super-Resolution EBSD for Measurements of Relative Deformation Gradient Tensors**|Aimo Winkelmann et.al.|[2502.11628](http://arxiv.org/abs/2502.11628)|null|
+|**2025-02-17**|**Accelerated Gradient-based Design Optimization Via Differentiable Physics-Informed Neural Operator: A Composites Autoclave Processing Case Study**|Janak M. Patel et.al.|[2502.11504](http://arxiv.org/abs/2502.11504)|null|
+|**2025-02-15**|**Do Deepfake Detectors Work in Reality?**|Simiao Ren et.al.|[2502.10920](http://arxiv.org/abs/2502.10920)|null|
+|**2025-02-15**|**Super Resolution image reconstructs via total variation-based image deconvolution: a majorization-minimization approach**|Mouhamad Chehaitly et.al.|[2502.10876](http://arxiv.org/abs/2502.10876)|null|
+|**2025-02-14**|**Data-driven Super-Resolution of Flood Inundation Maps using Synthetic Simulations**|Akshay Aravamudan et.al.|[2502.10601](http://arxiv.org/abs/2502.10601)|null|
+|**2025-02-12**|**Quaternion-Hadamard Network: A Novel Defense Against Adversarial Attacks with a New Dataset**|Vladimir Frants et.al.|[2502.10452](http://arxiv.org/abs/2502.10452)|null|
+|**2025-02-11**|**A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision**|Hao Ai et.al.|[2502.10444](http://arxiv.org/abs/2502.10444)|null|
 |**2025-02-14**|**Probabilistic Super-Resolution for High-Fidelity Physical System Simulations with Uncertainty Quantification**|Pengyu Zhang et.al.|[2502.10280](http://arxiv.org/abs/2502.10280)|null|
 |**2025-02-14**|**AffectSRNet : Facial Emotion-Aware Super-Resolution Network**|Syed Sameen Ahmad Rizvi et.al.|[2502.09932](http://arxiv.org/abs/2502.09932)|null|
 |**2025-02-13**|**Noise Controlled CT Super-Resolution with Conditional Diffusion Model**|Yuang Wang et.al.|[2502.09793](http://arxiv.org/abs/2502.09793)|null|
@@ -3963,6 +3997,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Semantically Robust Unsupervised Image Translation for Paired Remote Sensing Images**|Sheng Fang et.al.|[2502.11468](http://arxiv.org/abs/2502.11468)|null|
+|**2025-02-15**|**Mobile Robotic Multi-View Photometric Stereo**|Suryansh Kumar et.al.|[2502.10842](http://arxiv.org/abs/2502.10842)|null|
+|**2025-02-15**|**Is Self-Supervised Pre-training on Satellite Imagery Better than ImageNet? A Systematic Study with Sentinel-2**|Saad Lahrichi et.al.|[2502.10669](http://arxiv.org/abs/2502.10669)|null|
 |**2025-02-14**|**DiSciPLE: Learning Interpretable Programs for Scientific Visual Discovery**|Utkarsh Mall et.al.|[2502.10060](http://arxiv.org/abs/2502.10060)|null|
 |**2025-02-12**|**Heterogeneous Mixture of Experts for Remote Sensing Image Super-Resolution**|Bowen Chen et.al.|[2502.09654](http://arxiv.org/abs/2502.09654)|null|
 |**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598](http://arxiv.org/abs/2502.09598)|**[link](https://github.com/Orion-AI-Lab/GAIA)**|
@@ -3972,7 +4009,7 @@
 |**2025-02-13**|**FE-LWS: Refined Image-Text Representations via Decoder Stacking and Fused Encodings for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2502.09282](http://arxiv.org/abs/2502.09282)|null|
 |**2025-02-12**|**Multispectral Remote Sensing for Weed Detection in West Australian Agricultural Lands**|Haitian Wang et.al.|[2502.08678](http://arxiv.org/abs/2502.08678)|null|
 |**2025-02-12**|**Referring Remote Sensing Image Segmentation via Bidirectional Alignment Guided Joint Prediction**|Tianxiang Zhang et.al.|[2502.08486](http://arxiv.org/abs/2502.08486)|null|
-|**2025-02-13**|**SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation**|Zhiming Ma et.al.|[2502.08168](http://arxiv.org/abs/2502.08168)|**[link](https://github.com/jimmyma99/sarchat)**|
+|**2025-02-17**|**SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation**|Zhiming Ma et.al.|[2502.08168](http://arxiv.org/abs/2502.08168)|**[link](https://github.com/jimmyma99/sarchat)**|
 |**2025-02-13**|**Illegal Waste Detection in Remote Sensing Images: A Case Study**|Federico Gibellini et.al.|[2502.06607](http://arxiv.org/abs/2502.06607)|null|
 |**2025-02-09**|**Multi-modal Data Fusion and Deep Ensemble Learning for Accurate Crop Yield Prediction**|Akshay Dagadu Yewle et.al.|[2502.06062](http://arxiv.org/abs/2502.06062)|null|
 |**2025-02-07**|**C2GM: Cascading Conditional Generation of Multi-scale Maps from Remote Sensing Images Constrained by Geographic Features**|Chenxing Sun et.al.|[2502.04991](http://arxiv.org/abs/2502.04991)|null|

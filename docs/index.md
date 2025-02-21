@@ -233,10 +233,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Stereo Image Coding for Machines with Joint Visual Feature Compression**|Dengchao Jin et.al.|[2502.14190](http://arxiv.org/abs/2502.14190)|null|
+|**2025-02-19**|**A General Framework for Augmenting Lossy Compressors with Topological Guarantees**|Nathaniel Gorski et.al.|[2502.14022](http://arxiv.org/abs/2502.14022)|null|
+|**2025-02-19**|**A Lightweight Model for Perceptual Image Compression via Implicit Priors**|Hao Wei et.al.|[2502.13988](http://arxiv.org/abs/2502.13988)|null|
 |**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572](http://arxiv.org/abs/2502.13572)|null|
 |**2025-02-18**|**Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression**|Jaemoon Lee et.al.|[2502.12951](http://arxiv.org/abs/2502.12951)|null|
 |**2025-02-17**|**Fully Dynamic LZ77 in Sublinear Time**|Itai Boneh et.al.|[2502.12000](http://arxiv.org/abs/2502.12000)|null|
-|**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|null|
+|**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|**[link](https://github.com/eric-qi/neuroquant)**|
 |**2025-02-15**|**AquaScope: Reliable Underwater Image Transmission on Mobile Devices**|Beitong Tian et.al.|[2502.10891](http://arxiv.org/abs/2502.10891)|null|
 |**2025-02-15**|**ResiComp: Loss-Resilient Image Compression via Dual-Functional Masked Visual Token Modeling**|Sixian Wang et.al.|[2502.10812](http://arxiv.org/abs/2502.10812)|null|
 |**2025-02-15**|**A Fast Quantum Image Compression Algorithm based on Taylor Expansion**|Vu Tuan Hai et.al.|[2502.10684](http://arxiv.org/abs/2502.10684)|null|
@@ -982,6 +985,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864](http://arxiv.org/abs/2502.14864)|null|
+|**2025-02-20**|**Towards a Perspectivist Turn in Argument Quality Assessment**|Julia Romberg et.al.|[2502.14501](http://arxiv.org/abs/2502.14501)|null|
+|**2025-02-20**|**Early-Exit and Instant Confidence Translation Quality Estimation**|Vilém Zouhar et.al.|[2502.14429](http://arxiv.org/abs/2502.14429)|null|
+|**2025-02-20**|**NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis**|Xiaoxing Liu et.al.|[2502.14178](http://arxiv.org/abs/2502.14178)|null|
+|**2025-02-19**|**A Baseline Method for Removing Invisible Image Watermarks using Deep Image Prior**|Hengyue Liang et.al.|[2502.13998](http://arxiv.org/abs/2502.13998)|null|
+|**2025-02-19**|**Remote Sensing Semantic Segmentation Quality Assessment based on Vision Language Model**|Huiying Shi et.al.|[2502.13990](http://arxiv.org/abs/2502.13990)|null|
+|**2025-02-19**|**A Lightweight Model for Perceptual Image Compression via Implicit Priors**|Hao Wei et.al.|[2502.13988](http://arxiv.org/abs/2502.13988)|null|
 |**2025-02-19**|**An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice**|Wanke Xia et.al.|[2502.13764](http://arxiv.org/abs/2502.13764)|null|
 |**2025-02-19**|**HawkBench: Investigating Resilience of RAG Methods on Stratified Information-Seeking Tasks**|Hongjin Qian et.al.|[2502.13465](http://arxiv.org/abs/2502.13465)|null|
 |**2025-02-19**|**OGBoost: A Python Package for Ordinal Gradient Boosting**|Mansour T. A. Sharabiani et.al.|[2502.13456](http://arxiv.org/abs/2502.13456)|null|
@@ -3073,6 +3083,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**MambaLiteSR: Image Super-Resolution with Low-Rank Mamba using Knowledge Distillation**|Romina Aalishah et.al.|[2502.14090](http://arxiv.org/abs/2502.14090)|null|
+|**2025-02-18**|**End-to-end pipeline for simultaneous temperature estimation and super resolution of low-cost uncooled infrared camera frames for precision agriculture applications**|Navot Oz et.al.|[2502.13985](http://arxiv.org/abs/2502.13985)|null|
 |**2025-02-19**|**Integrated Sensing and Communication for 6G Holographic Digital Twins**|Haijun Zhang et.al.|[2502.13352](http://arxiv.org/abs/2502.13352)|null|
 |**2025-02-18**|**GVTNet: Graph Vision Transformer For Face Super-Resolution**|Chao Yang et.al.|[2502.12570](http://arxiv.org/abs/2502.12570)|null|
 |**2025-02-18**|**DeltaDiff: A Residual-Guided Diffusion Model for Enhanced Image Super-Resolution**|Chao Yang et.al.|[2502.12567](http://arxiv.org/abs/2502.12567)|null|
@@ -3083,7 +3095,7 @@ layout: default
 |**2025-02-17**|**Accelerated Gradient-based Design Optimization Via Differentiable Physics-Informed Neural Operator: A Composites Autoclave Processing Case Study**|Janak M. Patel et.al.|[2502.11504](http://arxiv.org/abs/2502.11504)|null|
 |**2025-02-15**|**Do Deepfake Detectors Work in Reality?**|Simiao Ren et.al.|[2502.10920](http://arxiv.org/abs/2502.10920)|null|
 |**2025-02-15**|**Super Resolution image reconstructs via total variation-based image deconvolution: a majorization-minimization approach**|Mouhamad Chehaitly et.al.|[2502.10876](http://arxiv.org/abs/2502.10876)|null|
-|**2025-02-14**|**Data-driven Super-Resolution of Flood Inundation Maps using Synthetic Simulations**|Akshay Aravamudan et.al.|[2502.10601](http://arxiv.org/abs/2502.10601)|null|
+|**2025-02-14**|**Data-driven Super-Resolution of Flood Inundation Maps using Synthetic Simulations**|Akshay Aravamudan et.al.|[2502.10601](http://arxiv.org/abs/2502.10601)|**[link](https://github.com/aaravamudan2014/SIDDIS)**|
 |**2025-02-12**|**Quaternion-Hadamard Network: A Novel Defense Against Adversarial Attacks with a New Dataset**|Vladimir Frants et.al.|[2502.10452](http://arxiv.org/abs/2502.10452)|null|
 |**2025-02-11**|**A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision**|Hao Ai et.al.|[2502.10444](http://arxiv.org/abs/2502.10444)|null|
 |**2025-02-14**|**Probabilistic Super-Resolution for High-Fidelity Physical System Simulations with Uncertainty Quantification**|Pengyu Zhang et.al.|[2502.10280](http://arxiv.org/abs/2502.10280)|null|
@@ -4006,8 +4018,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Nearshore Underwater Target Detection Meets UAV-borne Hyperspectral Remote Sensing: A Novel Hybrid-level Contrastive Learning Framework and Benchmark Dataset**|Jiahao Qi et.al.|[2502.14495](http://arxiv.org/abs/2502.14495)|null|
+|**2025-02-20**|**Understanding observational characteristics of solar flare current sheets**|Zining Ren et.al.|[2502.14283](http://arxiv.org/abs/2502.14283)|null|
+|**2025-02-19**|**Regression in EO: Are VLMs Up to the Challenge?**|Xizhe Xue et.al.|[2502.14088](http://arxiv.org/abs/2502.14088)|null|
+|**2025-02-19**|**Remote Sensing Semantic Segmentation Quality Assessment based on Vision Language Model**|Huiying Shi et.al.|[2502.13990](http://arxiv.org/abs/2502.13990)|null|
+|**2025-02-18**|**End-to-end pipeline for simultaneous temperature estimation and super resolution of low-cost uncooled infrared camera frames for precision agriculture applications**|Navot Oz et.al.|[2502.13985](http://arxiv.org/abs/2502.13985)|null|
 |**2025-02-19**|**Research on the Offshore Marine Communication Environment Based on Satellite Remote Sensing Data**|Hanyue Ni et.al.|[2502.13437](http://arxiv.org/abs/2502.13437)|null|
-|**2025-02-19**|**JL1-CD: A New Benchmark for Remote Sensing Change Detection and a Robust Multi-Teacher Knowledge Distillation Framework**|Ziyuan Liu et.al.|[2502.13407](http://arxiv.org/abs/2502.13407)|null|
+|**2025-02-19**|**JL1-CD: A New Benchmark for Remote Sensing Change Detection and a Robust Multi-Teacher Knowledge Distillation Framework**|Ziyuan Liu et.al.|[2502.13407](http://arxiv.org/abs/2502.13407)|**[link](https://github.com/circlelzy/mtkd-cd)**|
 |**2025-02-19**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817](http://arxiv.org/abs/2502.12817)|null|
 |**2025-02-18**|**S2C: Learning Noise-Resistant Differences for Unsupervised Change Detection in Multimodal Remote Sensing Images**|Lei Ding et.al.|[2502.12604](http://arxiv.org/abs/2502.12604)|null|
 |**2025-02-18**|**When Segmentation Meets Hyperspectral Image: New Paradigm for Hyperspectral Image Classification**|Weilian Zhou et.al.|[2502.12541](http://arxiv.org/abs/2502.12541)|null|

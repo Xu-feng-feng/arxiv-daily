@@ -251,7 +251,7 @@
 |**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|**[link](https://github.com/eric-qi/neuroquant)**|
 |**2025-02-15**|**AquaScope: Reliable Underwater Image Transmission on Mobile Devices**|Beitong Tian et.al.|[2502.10891](http://arxiv.org/abs/2502.10891)|null|
 |**2025-02-15**|**ResiComp: Loss-Resilient Image Compression via Dual-Functional Masked Visual Token Modeling**|Sixian Wang et.al.|[2502.10812](http://arxiv.org/abs/2502.10812)|null|
-|**2025-02-15**|**A Fast Quantum Image Compression Algorithm based on Taylor Expansion**|Vu Tuan Hai et.al.|[2502.10684](http://arxiv.org/abs/2502.10684)|null|
+|**2025-02-15**|**A Fast Quantum Image Compression Algorithm based on Taylor Expansion**|Vu Tuan Hai et.al.|[2502.10684](http://arxiv.org/abs/2502.10684)|**[link](https://github.com/vutuanhai237/QuantumCompressor)**|
 |**2025-02-15**|**Optimizing CNN Architectures for Advanced Thoracic Disease Classification**|Tejas Mirthipati et.al.|[2502.10614](http://arxiv.org/abs/2502.10614)|null|
 |**2025-02-14**|**Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression**|Siqi Wu et.al.|[2502.09971](http://arxiv.org/abs/2502.09971)|null|
 |**2025-02-13**|**Differentially Private Compression and the Sensitivity of LZ77**|Jeremiah Blocki et.al.|[2502.09584](http://arxiv.org/abs/2502.09584)|null|

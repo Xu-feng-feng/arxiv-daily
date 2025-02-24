@@ -233,6 +233,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Quantum autoencoders for image classification**|Hinako Asaoka et.al.|[2502.15254](http://arxiv.org/abs/2502.15254)|null|
+|**2025-02-21**|**Interleaved Block-based Learned Image Compression with Feature Enhancement and Quantization Error Compensation**|Shiqi Jiang et.al.|[2502.15188](http://arxiv.org/abs/2502.15188)|null|
+|**2025-02-21**|**FD-LSCIC: Frequency Decomposition-based Learned Screen Content Image Compression**|Shiqi Jiang et.al.|[2502.15174](http://arxiv.org/abs/2502.15174)|null|
+|**2025-02-20**|**Compact Latent Representation for Image Compression (CLRIC)**|Ayman A. Ameen et.al.|[2502.14937](http://arxiv.org/abs/2502.14937)|null|
 |**2025-02-20**|**Stereo Image Coding for Machines with Joint Visual Feature Compression**|Dengchao Jin et.al.|[2502.14190](http://arxiv.org/abs/2502.14190)|null|
 |**2025-02-19**|**A General Framework for Augmenting Lossy Compressors with Topological Guarantees**|Nathaniel Gorski et.al.|[2502.14022](http://arxiv.org/abs/2502.14022)|null|
 |**2025-02-19**|**A Lightweight Model for Perceptual Image Compression via Implicit Priors**|Hao Wei et.al.|[2502.13988](http://arxiv.org/abs/2502.13988)|null|
@@ -242,7 +246,7 @@ layout: default
 |**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|**[link](https://github.com/eric-qi/neuroquant)**|
 |**2025-02-15**|**AquaScope: Reliable Underwater Image Transmission on Mobile Devices**|Beitong Tian et.al.|[2502.10891](http://arxiv.org/abs/2502.10891)|null|
 |**2025-02-15**|**ResiComp: Loss-Resilient Image Compression via Dual-Functional Masked Visual Token Modeling**|Sixian Wang et.al.|[2502.10812](http://arxiv.org/abs/2502.10812)|null|
-|**2025-02-15**|**A Fast Quantum Image Compression Algorithm based on Taylor Expansion**|Vu Tuan Hai et.al.|[2502.10684](http://arxiv.org/abs/2502.10684)|**[link](https://github.com/vutuanhai237/QuantumCompressor)**|
+|**2025-02-15**|**A Fast Quantum Image Compression Algorithm based on Taylor Expansion**|Vu Tuan Hai et.al.|[2502.10684](http://arxiv.org/abs/2502.10684)|null|
 |**2025-02-15**|**Optimizing CNN Architectures for Advanced Thoracic Disease Classification**|Tejas Mirthipati et.al.|[2502.10614](http://arxiv.org/abs/2502.10614)|null|
 |**2025-02-14**|**Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression**|Siqi Wu et.al.|[2502.09971](http://arxiv.org/abs/2502.09971)|null|
 |**2025-02-13**|**Differentially Private Compression and the Sensitivity of LZ77**|Jeremiah Blocki et.al.|[2502.09584](http://arxiv.org/abs/2502.09584)|null|
@@ -985,6 +989,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Evaluate with the Inverse: Efficient Approximation of Latent Explanation Quality Distribution**|Carlos Eiras-Franco et.al.|[2502.15403](http://arxiv.org/abs/2502.15403)|null|
+|**2025-02-21**|**Super-Resolution for Interferometric Imaging: Model Comparisons and Performance Analysis**|Hasan Berkay Abdioglu et.al.|[2502.15397](http://arxiv.org/abs/2502.15397)|null|
+|**2025-02-21**|**Ultrasound Phase Aberrated Point Spread Function Estimation with Convolutional Neural Network: Simulation Study**|Wei-Hsiang Shen et.al.|[2502.15298](http://arxiv.org/abs/2502.15298)|null|
+|**2025-02-21**|**Omnidirectional Image Quality Captioning: A Large-scale Database and A New Model**|Jiebin Yan et.al.|[2502.15271](http://arxiv.org/abs/2502.15271)|null|
+|**2025-02-21**|**Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**|Yifan Jiang et.al.|[2502.15204](http://arxiv.org/abs/2502.15204)|null|
+|**2025-02-21**|**LUMINA-Net: Low-light Upgrade through Multi-stage Illumination and Noise Adaptation Network for Image Enhancement**|Namrah Siddiqua et.al.|[2502.15186](http://arxiv.org/abs/2502.15186)|null|
+|**2025-02-21**|**M3-AGIQA: Multimodal, Multi-Round, Multi-Aspect AI-Generated Image Quality Assessment**|Chuan Cui et.al.|[2502.15167](http://arxiv.org/abs/2502.15167)|null|
+|**2025-02-21**|**Optimized Pap Smear Image Enhancement: Hybrid PMD Filter-CLAHE Using Spider Monkey Optimization**|Ach Khozaimi et.al.|[2502.15156](http://arxiv.org/abs/2502.15156)|null|
+|**2025-02-20**|**Hardware-Friendly Static Quantization Method for Video Diffusion Transformers**|Sanghyun Yi et.al.|[2502.15077](http://arxiv.org/abs/2502.15077)|null|
+|**2025-02-20**|**Multi-Source Static CT with Adaptive Fluence Modulation to Minimize Hallucinations in Generative Reconstructions**|Matthew Tivnan et.al.|[2502.15060](http://arxiv.org/abs/2502.15060)|null|
+|**2025-02-20**|**GS-Cache: A GS-Cache Inference Framework for Large-scale Gaussian Splatting Models**|Miao Tao et.al.|[2502.14938](http://arxiv.org/abs/2502.14938)|null|
+|**2025-02-20**|**Compact Latent Representation for Image Compression (CLRIC)**|Ayman A. Ameen et.al.|[2502.14937](http://arxiv.org/abs/2502.14937)|null|
 |**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864](http://arxiv.org/abs/2502.14864)|null|
 |**2025-02-20**|**Towards a Perspectivist Turn in Argument Quality Assessment**|Julia Romberg et.al.|[2502.14501](http://arxiv.org/abs/2502.14501)|null|
 |**2025-02-20**|**Early-Exit and Instant Confidence Translation Quality Estimation**|Vilém Zouhar et.al.|[2502.14429](http://arxiv.org/abs/2502.14429)|null|
@@ -3083,6 +3099,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478](http://arxiv.org/abs/2502.15478)|null|
+|**2025-02-21**|**Super-Resolution for Interferometric Imaging: Model Comparisons and Performance Analysis**|Hasan Berkay Abdioglu et.al.|[2502.15397](http://arxiv.org/abs/2502.15397)|null|
+|**2025-02-20**|**Generative Super-Resolution PET Imaging with Fourier Diffusion Models**|Matthew Tivnan et.al.|[2502.15055](http://arxiv.org/abs/2502.15055)|null|
 |**2025-02-19**|**MambaLiteSR: Image Super-Resolution with Low-Rank Mamba using Knowledge Distillation**|Romina Aalishah et.al.|[2502.14090](http://arxiv.org/abs/2502.14090)|null|
 |**2025-02-18**|**End-to-end pipeline for simultaneous temperature estimation and super resolution of low-cost uncooled infrared camera frames for precision agriculture applications**|Navot Oz et.al.|[2502.13985](http://arxiv.org/abs/2502.13985)|null|
 |**2025-02-19**|**Integrated Sensing and Communication for 6G Holographic Digital Twins**|Haijun Zhang et.al.|[2502.13352](http://arxiv.org/abs/2502.13352)|null|
@@ -4018,6 +4037,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**UrbanSAM: Learning Invariance-Inspired Adapters for Segment Anything Models in Urban Construction**|Chenyu Li et.al.|[2502.15199](http://arxiv.org/abs/2502.15199)|null|
 |**2025-02-20**|**Nearshore Underwater Target Detection Meets UAV-borne Hyperspectral Remote Sensing: A Novel Hybrid-level Contrastive Learning Framework and Benchmark Dataset**|Jiahao Qi et.al.|[2502.14495](http://arxiv.org/abs/2502.14495)|**[link](https://github.com/qjh1996/hutd)**|
 |**2025-02-20**|**Understanding observational characteristics of solar flare current sheets**|Zining Ren et.al.|[2502.14283](http://arxiv.org/abs/2502.14283)|null|
 |**2025-02-19**|**Regression in EO: Are VLMs Up to the Challenge?**|Xizhe Xue et.al.|[2502.14088](http://arxiv.org/abs/2502.14088)|null|

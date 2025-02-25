@@ -24,7 +24,7 @@
 |**2025-02-10**|**Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots**|Yuhao Cao et.al.|[2502.06123](http://arxiv.org/abs/2502.06123)|**[link](https://github.com/hitsz-nrsl/rcpcc)**|
 |**2025-02-07**|**DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection**|Mingxuan Yan et.al.|[2502.04804](http://arxiv.org/abs/2502.04804)|null|
 |**2025-02-05**|**Deep Learning-based Event Data Coding: A Joint Spatiotemporal and Polarity Solution**|Abdelrahman Seleem et.al.|[2502.03285](http://arxiv.org/abs/2502.03285)|null|
-|**2025-01-28**|**Point Cloud Upsampling as Statistical Shape Model for Pelvic**|Tongxu Zhang et.al.|[2501.16716](http://arxiv.org/abs/2501.16716)|null|
+|**2025-02-22**|**Point Cloud Upsampling as Statistical Shape Model for Pelvic**|Tongxu Zhang et.al.|[2501.16716](http://arxiv.org/abs/2501.16716)|null|
 |**2025-01-25**|**Efficient Point Clouds Upsampling via Flow Matching**|Zhi-Song Liu et.al.|[2501.15286](http://arxiv.org/abs/2501.15286)|null|
 |**2025-01-13**|**Representation Learning of Point Cloud Upsampling in Global and Local Inputs**|Tongxu Zhang et.al.|[2501.07076](http://arxiv.org/abs/2501.07076)|null|
 |**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
@@ -242,6 +242,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Pleno-Generation: A Scalable Generative Face Video Compression Framework with Bandwidth Intelligence**|Bolin Chen et.al.|[2502.17085](http://arxiv.org/abs/2502.17085)|null|
+|**2025-02-24**|**Hierarchical Semantic Compression for Consistent Image Semantic Restoration**|Shengxi Li et.al.|[2502.16799](http://arxiv.org/abs/2502.16799)|null|
+|**2025-02-24**|**Continuous Patch Stitching for Block-wise Image Compression**|Zifu Zhang et.al.|[2502.16795](http://arxiv.org/abs/2502.16795)|null|
+|**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495](http://arxiv.org/abs/2502.16495)|null|
+|**2025-02-22**|**Large Language Model for Lossless Image Compression with Visual Prompts**|Junhao Du et.al.|[2502.16163](http://arxiv.org/abs/2502.16163)|null|
 |**2025-02-21**|**Quantum autoencoders for image classification**|Hinako Asaoka et.al.|[2502.15254](http://arxiv.org/abs/2502.15254)|null|
 |**2025-02-21**|**Interleaved Block-based Learned Image Compression with Feature Enhancement and Quantization Error Compensation**|Shiqi Jiang et.al.|[2502.15188](http://arxiv.org/abs/2502.15188)|null|
 |**2025-02-21**|**FD-LSCIC: Frequency Decomposition-based Learned Screen Content Image Compression**|Shiqi Jiang et.al.|[2502.15174](http://arxiv.org/abs/2502.15174)|null|
@@ -1000,6 +1005,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|null|
+|**2025-02-24**|**Motion-Robust T2* Quantification from Gradient Echo MRI with Physics-Informed Deep Learning**|Hannah Eichhorn et.al.|[2502.17209](http://arxiv.org/abs/2502.17209)|null|
+|**2025-02-24**|**SFLD: Reducing the content bias for AI-generated Image Detection**|Seoyeon Gye et.al.|[2502.17105](http://arxiv.org/abs/2502.17105)|null|
+|**2025-02-24**|**Pleno-Generation: A Scalable Generative Face Video Compression Framework with Bandwidth Intelligence**|Bolin Chen et.al.|[2502.17085](http://arxiv.org/abs/2502.17085)|null|
+|**2025-02-24**|**PQDAST: Depth-Aware Arbitrary Style Transfer for Games via Perceptual Quality-Guided Distillation**|Eleftherios Ioannou et.al.|[2502.16996](http://arxiv.org/abs/2502.16996)|null|
+|**2025-02-24**|**Multi-Dimensional Quality Assessment for Text-to-3D Assets: Dataset and Model**|Kang Fu et.al.|[2502.16915](http://arxiv.org/abs/2502.16915)|null|
+|**2025-02-24**|**CRTrack: Low-Light Semi-Supervised Multi-object Tracking Based on Consistency Regularization**|Zijing Zhao et.al.|[2502.16809](http://arxiv.org/abs/2502.16809)|null|
+|**2025-02-23**|**Automatic Input Rewriting Improves Translation with Large Language Models**|Dayeon Ki et.al.|[2502.16682](http://arxiv.org/abs/2502.16682)|null|
+|**2025-02-23**|**AdverX-Ray: Ensuring X-Ray Integrity Through Frequency-Sensitive Adversarial VAEs**|Francisco Caetano et.al.|[2502.16610](http://arxiv.org/abs/2502.16610)|null|
+|**2025-02-22**|**Multi-Party Data Pricing for Complex Data Trading Markets: A Rubinstein Bargaining Approach**|Bing Mi et.al.|[2502.16363](http://arxiv.org/abs/2502.16363)|null|
+|**2025-02-21**|**Improved Partial Differential Equation and Fast Approximation Algorithm for Hazy/Underwater/Dust Storm Image Enhancement**|Uche A. Nnolim et.al.|[2502.15986](http://arxiv.org/abs/2502.15986)|null|
 |**2025-02-21**|**Evaluate with the Inverse: Efficient Approximation of Latent Explanation Quality Distribution**|Carlos Eiras-Franco et.al.|[2502.15403](http://arxiv.org/abs/2502.15403)|null|
 |**2025-02-21**|**Super-Resolution for Interferometric Imaging: Model Comparisons and Performance Analysis**|Hasan Berkay Abdioglu et.al.|[2502.15397](http://arxiv.org/abs/2502.15397)|null|
 |**2025-02-21**|**Ultrasound Phase Aberrated Point Spread Function Estimation with Convolutional Neural Network: Simulation Study**|Wei-Hsiang Shen et.al.|[2502.15298](http://arxiv.org/abs/2502.15298)|null|
@@ -3112,6 +3128,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-23**|**Super-resolution Live-cell Fluorescence Lifetime Imaging**|Raphaël Marchand et.al.|[2502.16672](http://arxiv.org/abs/2502.16672)|null|
 |**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478](http://arxiv.org/abs/2502.15478)|null|
 |**2025-02-21**|**Super-Resolution for Interferometric Imaging: Model Comparisons and Performance Analysis**|Hasan Berkay Abdioglu et.al.|[2502.15397](http://arxiv.org/abs/2502.15397)|null|
 |**2025-02-20**|**Generative Super-Resolution PET Imaging with Fourier Diffusion Models**|Matthew Tivnan et.al.|[2502.15055](http://arxiv.org/abs/2502.15055)|null|
@@ -4052,6 +4069,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056](http://arxiv.org/abs/2502.17056)|null|
+|**2025-02-23**|**Subpixel Edge Localization Based on Converted Intensity Summation under Stable Edge Region**|Yingyuan Yang et.al.|[2502.16502](http://arxiv.org/abs/2502.16502)|null|
+|**2025-02-22**|**A Deep Learning Framework with Geographic Information Adaptive Loss for Remote Sensing Images based UAV Self-Positioning**|Mingkun Li et.al.|[2502.16164](http://arxiv.org/abs/2502.16164)|null|
+|**2025-02-22**|**Good Representation, Better Explanation: Role of Convolutional Neural Networks in Transformer-Based Remote Sensing Image Captioning**|Swadhin Das et.al.|[2502.16095](http://arxiv.org/abs/2502.16095)|null|
 |**2025-02-21**|**UrbanSAM: Learning Invariance-Inspired Adapters for Segment Anything Models in Urban Construction**|Chenyu Li et.al.|[2502.15199](http://arxiv.org/abs/2502.15199)|null|
 |**2025-02-20**|**Nearshore Underwater Target Detection Meets UAV-borne Hyperspectral Remote Sensing: A Novel Hybrid-level Contrastive Learning Framework and Benchmark Dataset**|Jiahao Qi et.al.|[2502.14495](http://arxiv.org/abs/2502.14495)|**[link](https://github.com/qjh1996/hutd)**|
 |**2025-02-20**|**Understanding observational characteristics of solar flare current sheets**|Zining Ren et.al.|[2502.14283](http://arxiv.org/abs/2502.14283)|null|

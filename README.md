@@ -243,6 +243,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Zipping many-body quantum states: a scalable approach to diagonal entropy**|Yu-Hsueh Chen et.al.|[2502.18898](http://arxiv.org/abs/2502.18898)|null|
 |**2025-02-25**|**Novel quantum circuit for image compression utilizing modified Toffoli gate and quantized transformed coefficient alongside a novel reset gate**|Ershadul Haque et.al.|[2502.17815](http://arxiv.org/abs/2502.17815)|null|
 |**2025-02-25**|**Quantum neural compressive sensing for ghost imaging**|Xinliang Zhai et.al.|[2502.17790](http://arxiv.org/abs/2502.17790)|null|
 |**2025-02-24**|**Optimized Memory System Architecture for VESA VDC-M Decoder with Multi-Slice Support**|Hannah Yang et.al.|[2502.17729](http://arxiv.org/abs/2502.17729)|null|
@@ -1009,6 +1010,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
+|**2025-02-26**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153](http://arxiv.org/abs/2502.19153)|null|
+|**2025-02-26**|**Max360IQ: Blind Omnidirectional Image Quality Assessment with Multi-axis Attention**|Jiebin Yan et.al.|[2502.19046](http://arxiv.org/abs/2502.19046)|null|
+|**2025-02-26**|**InternVQA: Advancing Compressed Video Quality Assessment with Distilling Large Foundation Model**|Fengbin Guan et.al.|[2502.19026](http://arxiv.org/abs/2502.19026)|null|
+|**2025-02-26**|**Hyperspectral image reconstruction by deep learning with super-Rayleigh speckles**|Ziyan Chen et.al.|[2502.18777](http://arxiv.org/abs/2502.18777)|null|
 |**2025-02-25**|**Is OpenAlex Suitable for Research Quality Evaluation and Which Citation Indicator is Best?**|Mike Thelwall et.al.|[2502.18427](http://arxiv.org/abs/2502.18427)|null|
 |**2025-02-25**|**LAG: LLM agents for Leaderboard Auto Generation on Demanding**|Jian Wu et.al.|[2502.18209](http://arxiv.org/abs/2502.18209)|null|
 |**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
@@ -3139,7 +3145,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-25**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904](http://arxiv.org/abs/2502.17904)|null|
+|**2025-02-25**|**From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging**|Dominik Vašinka et.al.|[2502.18637](http://arxiv.org/abs/2502.18637)|null|
+|**2025-02-26**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904](http://arxiv.org/abs/2502.17904)|null|
 |**2025-02-23**|**Super-resolution Live-cell Fluorescence Lifetime Imaging**|Raphaël Marchand et.al.|[2502.16672](http://arxiv.org/abs/2502.16672)|null|
 |**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478](http://arxiv.org/abs/2502.15478)|**[link](https://github.com/kai-liu001/condiquant)**|
 |**2025-02-21**|**Super-Resolution for Interferometric Imaging: Model Comparisons and Performance Analysis**|Hasan Berkay Abdioglu et.al.|[2502.15397](http://arxiv.org/abs/2502.15397)|null|
@@ -4081,6 +4088,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking**|Shaheer Mohamed et.al.|[2502.18748](http://arxiv.org/abs/2502.18748)|null|
+|**2025-02-25**|**TerraTrace: Temporal Signature Land Use Mapping System**|Angela Busheska et.al.|[2502.18704](http://arxiv.org/abs/2502.18704)|null|
+|**2025-02-25**|**Multi-class Seismic Building Damage Assessment from InSAR Imagery using Quadratic Variational Causal Bayesian Inference**|Xuechun Li et.al.|[2502.18546](http://arxiv.org/abs/2502.18546)|null|
+|**2025-02-25**|**Convolutional neural networks for mineral prospecting through alteration mapping with remote sensing data**|Ehsan Farahbakhsh et.al.|[2502.18533](http://arxiv.org/abs/2502.18533)|null|
 |**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|null|
 |**2025-02-25**|**Integrating Boosted learning with Differential Evolution (DE) Optimizer: A Prediction of Groundwater Quality Risk Assessment in Odisha**|Sonalika Subudhi et.al.|[2502.17929](http://arxiv.org/abs/2502.17929)|null|
 |**2025-02-25**|**High-Efficiency Multilevel Phase Lenses with Nanostructures on Polyimide Membranes**|Leslie Howe et.al.|[2502.17889](http://arxiv.org/abs/2502.17889)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.01
+## Updated on 2025.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -238,7 +238,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 ## Compression
 
@@ -1007,7 +1007,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -3154,7 +3154,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -4098,13 +4098,13 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 ## Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**WalnutData: A UAV Remote Sensing Dataset of Green Walnuts and Model Evaluation**|Mingjie Wu et.al.|[2502.20092](http://arxiv.org/abs/2502.20092)|null|
+|**2025-02-27**|**WalnutData: A UAV Remote Sensing Dataset of Green Walnuts and Model Evaluation**|Mingjie Wu et.al.|[2502.20092](http://arxiv.org/abs/2502.20092)|**[link](https://github.com/1wuming/WalnutData)**|
 |**2025-02-27**|**LMHLD: A Large-scale Multi-source High-resolution Landslide Dataset for Landslide Detection based on Deep Learning**|Guanting Liu et.al.|[2502.19866](http://arxiv.org/abs/2502.19866)|null|
 |**2025-02-27**|**Investigation of Non-Radiative Relaxation Dynamics Under Pulsed Excitation Using Photon Absorption Remote Sensing: A Proof-of-Principle Study in Mechanical Sensing**|Channprit Kaur et.al.|[2502.19650](http://arxiv.org/abs/2502.19650)|null|
 |**2025-02-26**|**Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking**|Shaheer Mohamed et.al.|[2502.18748](http://arxiv.org/abs/2502.18748)|null|
@@ -4114,7 +4114,7 @@
 |**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|**[link](https://github.com/hanniewhu/promptmid)**|
 |**2025-02-25**|**Integrating Boosted learning with Differential Evolution (DE) Optimizer: A Prediction of Groundwater Quality Risk Assessment in Odisha**|Sonalika Subudhi et.al.|[2502.17929](http://arxiv.org/abs/2502.17929)|null|
 |**2025-02-25**|**High-Efficiency Multilevel Phase Lenses with Nanostructures on Polyimide Membranes**|Leslie Howe et.al.|[2502.17889](http://arxiv.org/abs/2502.17889)|null|
-|**2025-02-25**|**From underwater to aerial: a novel multi-scale knowledge distillation approach for coral reef monitoring**|Matteo Contini et.al.|[2502.17883](http://arxiv.org/abs/2502.17883)|null|
+|**2025-02-25**|**From underwater to aerial: a novel multi-scale knowledge distillation approach for coral reef monitoring**|Matteo Contini et.al.|[2502.17883](http://arxiv.org/abs/2502.17883)|**[link](https://github.com/seatizendoi/zenodo-tools)**|
 |**2025-02-25**|**Dual Classification Head Self-training Network for Cross-scene Hyperspectral Image Classification**|Rong Liu et.al.|[2502.17879](http://arxiv.org/abs/2502.17879)|null|
 |**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056](http://arxiv.org/abs/2502.17056)|null|
 |**2025-02-23**|**Subpixel Edge Localization Based on Converted Intensity Summation under Stable Edge Region**|Yingyuan Yang et.al.|[2502.16502](http://arxiv.org/abs/2502.16502)|null|
@@ -5190,7 +5190,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

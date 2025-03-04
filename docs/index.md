@@ -4108,7 +4108,7 @@ layout: default
 |**2025-02-28**|**HoloMine: A Synthetic Dataset for Buried Landmines Recognition using Microwave Holographic Imaging**|Emanuele Vivoli et.al.|[2502.21054](http://arxiv.org/abs/2502.21054)|null|
 |**2025-02-28**|**Real-Time Aerial Fire Detection on Resource-Constrained Devices Using Knowledge Distillation**|Sabina Jangirova et.al.|[2502.20979](http://arxiv.org/abs/2502.20979)|null|
 |**2025-02-28**|**OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing**|Xiang Xiang et.al.|[2502.20668](http://arxiv.org/abs/2502.20668)|null|
-|**2025-02-27**|**WalnutData: A UAV Remote Sensing Dataset of Green Walnuts and Model Evaluation**|Mingjie Wu et.al.|[2502.20092](http://arxiv.org/abs/2502.20092)|null|
+|**2025-03-02**|**WalnutData: A UAV Remote Sensing Dataset of Green Walnuts and Model Evaluation**|Mingjie Wu et.al.|[2502.20092](http://arxiv.org/abs/2502.20092)|null|
 |**2025-02-27**|**LMHLD: A Large-scale Multi-source High-resolution Landslide Dataset for Landslide Detection based on Deep Learning**|Guanting Liu et.al.|[2502.19866](http://arxiv.org/abs/2502.19866)|null|
 |**2025-02-27**|**Investigation of Non-Radiative Relaxation Dynamics Under Pulsed Excitation Using Photon Absorption Remote Sensing: A Proof-of-Principle Study in Mechanical Sensing**|Channprit Kaur et.al.|[2502.19650](http://arxiv.org/abs/2502.19650)|null|
 |**2025-02-26**|**Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking**|Shaheer Mohamed et.al.|[2502.18748](http://arxiv.org/abs/2502.18748)|null|

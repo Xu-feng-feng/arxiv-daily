@@ -245,6 +245,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
 |**2025-03-04**|**UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression**|Jia Wang et.al.|[2503.02733](http://arxiv.org/abs/2503.02733)|null|
 |**2025-03-04**|**On the sensitivity of CDAWG-grammars**|Hiroto Fujimaru et.al.|[2503.02415](http://arxiv.org/abs/2503.02415)|null|
 |**2025-03-03**|**How Low Can You Go? Searching for the Intrinsic Dimensionality of Complex Networks using Metric Node Embeddings**|Nikolaos Nakis et.al.|[2503.01723](http://arxiv.org/abs/2503.01723)|null|
@@ -1027,11 +1028,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**DO-IQS: Dynamics-Aware Offline Inverse Q-Learning for Optimal Stopping with Unknown Gain Functions**|Anna Kuchko et.al.|[2503.03515](http://arxiv.org/abs/2503.03515)|null|
+|**2025-03-05**|**Automatic Drywall Analysis for Progress Tracking and Quality Control in Construction**|Mariusz Trzeciakiewicz et.al.|[2503.03422](http://arxiv.org/abs/2503.03422)|null|
+|**2025-03-05**|**On the Relation Between Speech Quality and Quantized Latent Representations of Neural Codecs**|Mhd Modar Halimeh et.al.|[2503.03304](http://arxiv.org/abs/2503.03304)|null|
+|**2025-03-05**|**Computational Analysis of Degradation Modeling in Blind Panoramic Image Quality Assessment**|Jiebin Yan et.al.|[2503.03255](http://arxiv.org/abs/2503.03255)|null|
+|**2025-03-05**|**DSVD: Dynamic Self-Verify Decoding for Faithful Generation in Large Language Models**|YiQiu Guo et.al.|[2503.03149](http://arxiv.org/abs/2503.03149)|null|
+|**2025-03-04**|**QE4PE: Word-level Quality Estimation for Human Post-Editing**|Gabriele Sarti et.al.|[2503.03044](http://arxiv.org/abs/2503.03044)|null|
 |**2025-03-04**|**A Causal Framework for Aligning Image Quality Metrics and Deep Neural Network Robustness**|Nathan Drenkow et.al.|[2503.02797](http://arxiv.org/abs/2503.02797)|null|
 |**2025-03-04**|**LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs**|Jianghao Chen et.al.|[2503.02502](http://arxiv.org/abs/2503.02502)|null|
 |**2025-03-04**|**Deep Robust Reversible Watermarking**|Jiale Chen et.al.|[2503.02490](http://arxiv.org/abs/2503.02490)|null|
 |**2025-03-04**|**ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement**|Xuejian Guo et.al.|[2503.02484](http://arxiv.org/abs/2503.02484)|null|
-|**2025-03-04**|**Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content**|Zicheng Zhang et.al.|[2503.02357](http://arxiv.org/abs/2503.02357)|null|
+|**2025-03-05**|**Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content**|Zicheng Zhang et.al.|[2503.02357](http://arxiv.org/abs/2503.02357)|null|
 |**2025-03-04**|**Exploring Simple Siamese Network for High-Resolution Video Quality Assessment**|Guotao Shen et.al.|[2503.02330](http://arxiv.org/abs/2503.02330)|null|
 |**2025-03-04**|**Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration**|Pengchen Liang et.al.|[2503.02321](http://arxiv.org/abs/2503.02321)|null|
 |**2025-03-04**|**Language-Guided Visual Perception Disentanglement for Image Quality Assessment and Conditional Image Generation**|Zhichao Yang et.al.|[2503.02206](http://arxiv.org/abs/2503.02206)|null|
@@ -3204,6 +3211,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
+|**2025-03-03**|**Hyperspectral Image Restoration and Super-resolution with Physics-Aware Deep Learning for Biomedical Applications**|Yuchen Xiang et.al.|[2503.02908](http://arxiv.org/abs/2503.02908)|null|
 |**2025-03-04**|**Undertrained Image Reconstruction for Realistic Degradation in Blind Image Super-Resolution**|Ru Ito et.al.|[2503.02767](http://arxiv.org/abs/2503.02767)|null|
 |**2025-03-04**|**Diffusion-Based mmWave Radar Point Cloud Enhancement Driven by Range Images**|Ruixin Wu et.al.|[2503.02300](http://arxiv.org/abs/2503.02300)|null|
 |**2025-03-04**|**Volume Tells: Dual Cycle-Consistent Diffusion for 3D Fluorescence Microscopy De-noising and Super-Resolution**|Zelin Li et.al.|[2503.02261](http://arxiv.org/abs/2503.02261)|null|
@@ -4162,6 +4171,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Towards Robust Multi-UAV Collaboration: MARL with Noise-Resilient Communication and Attention Mechanisms**|Zilin Zhao et.al.|[2503.02913](http://arxiv.org/abs/2503.02913)|null|
 |**2025-03-04**|**Remote Sensing Image Classification Using Convolutional Neural Network (CNN) and Transfer Learning Techniques**|Mustafa Majeed Abd Zaid et.al.|[2503.02510](http://arxiv.org/abs/2503.02510)|null|
 |**2025-03-04**|**Scene-based nonuniformity correction with homography transformation**|Peretz Yafin et.al.|[2503.02487](http://arxiv.org/abs/2503.02487)|null|
 |**2025-03-04**|**Anomaly detection in non-stationary videos using time-recursive differencing network based prediction**|Gargi V. Pillai et.al.|[2503.02234](http://arxiv.org/abs/2503.02234)|null|

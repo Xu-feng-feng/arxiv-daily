@@ -245,6 +245,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Cross-Layer-Optimized Link Selection for Hologram Video Streaming over Millimeter Wave Networks**|Yiming Jiang et.al.|[2503.05195](http://arxiv.org/abs/2503.05195)|null|
+|**2025-03-06**|**Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning**|Albert Wilcox et.al.|[2503.04877](http://arxiv.org/abs/2503.04877)|null|
+|**2025-03-06**|**Security and Real-time FPGA integration for Learned Image Compression**|Alaa Mazouz et.al.|[2503.04867](http://arxiv.org/abs/2503.04867)|null|
+|**2025-03-05**|**RD Efficient FPGA Deployment of Learned Image Compression: Knowledge Distillation and Hybrid Quantization**|Mazouz Alaa Eddine et.al.|[2503.04832](http://arxiv.org/abs/2503.04832)|null|
 |**2025-03-06**|**PokéChamp: an Expert-level Minimax Language Agent**|Seth Karten et.al.|[2503.04094](http://arxiv.org/abs/2503.04094)|null|
 |**2025-03-06**|**Significant challenges for astrophysical inference with next-generation gravitational-wave observatories**|A. Makai Baker et.al.|[2503.04073](http://arxiv.org/abs/2503.04073)|null|
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
@@ -1030,6 +1034,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|null|
+|**2025-03-07**|**A-SEE2.0: Active-Sensing End-Effector for Robotic Ultrasound Systems with Dense Contact Surface Perception Enabled Probe Orientation Adjustment**|Yernar Zhetpissov et.al.|[2503.05569](http://arxiv.org/abs/2503.05569)|null|
+|**2025-03-07**|**Development and Enhancement of Text-to-Image Diffusion Models**|Rajdeep Roshan Sahu et.al.|[2503.05149](http://arxiv.org/abs/2503.05149)|null|
+|**2025-03-07**|**SMILENet: Unleashing Extra-Large Capacity Image Steganography via a Synergistic Mosaic InvertibLE Hiding Network**|Jun-Jie Huang et.al.|[2503.05118](http://arxiv.org/abs/2503.05118)|null|
+|**2025-03-06**|**Toward Lightweight and Fast Decoders for Diffusion Models in Image and Video Generation**|Alexey Buzovkin et.al.|[2503.04871](http://arxiv.org/abs/2503.04871)|null|
 |**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
 |**2025-03-06**|**In-Context Reverse Classification Accuracy: Efficient Estimation of Segmentation Quality without Ground-Truth**|Matias Cosarinsky et.al.|[2503.04522](http://arxiv.org/abs/2503.04522)|null|
 |**2025-03-06**|**IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement**|Zhihao Shi et.al.|[2503.04501](http://arxiv.org/abs/2503.04501)|null|
@@ -3218,6 +3227,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**QArtSR: Quantization via Reverse-Module and Timestep-Retraining in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2503.05584](http://arxiv.org/abs/2503.05584)|null|
+|**2025-03-07**|**Global graph features unveiled by unsupervised geometric deep learning**|Mirja Granfors et.al.|[2503.05560](http://arxiv.org/abs/2503.05560)|null|
 |**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665](http://arxiv.org/abs/2503.04665)|null|
 |**2025-03-06**|**Meshless Super-Resolution of Scattered Data via constrained RBFs and KNN-Driven Densification**|Iacopo Tirelli et.al.|[2503.04630](http://arxiv.org/abs/2503.04630)|null|
 |**2025-03-06**|**Scale-Invariant Adversarial Attack against Arbitrary-scale Super-resolution**|Yihao Huang et.al.|[2503.04385](http://arxiv.org/abs/2503.04385)|null|
@@ -3232,7 +3243,7 @@
 |**2025-03-04**|**Volume Tells: Dual Cycle-Consistent Diffusion for 3D Fluorescence Microscopy De-noising and Super-Resolution**|Zelin Li et.al.|[2503.02261](http://arxiv.org/abs/2503.02261)|null|
 |**2025-02-28**|**Continual Learning-Aided Super-Resolution Scheme for Channel Reconstruction and Generalization in OFDM Systems**|Jianqiao Chen et.al.|[2503.01897](http://arxiv.org/abs/2503.01897)|null|
 |**2025-03-03**|**MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting**|Mojtaba Safari et.al.|[2503.01576](http://arxiv.org/abs/2503.01576)|**[link](https://github.com/mosaf/res-srdiff)**|
-|**2025-03-03**|**AutoLUT: LUT-Based Image Super-Resolution with Automatic Sampling and Adaptive Residual Learning**|Yuheng Xu et.al.|[2503.01565](http://arxiv.org/abs/2503.01565)|**[link](https://github.com/superkenvery/autolut)**|
+|**2025-03-07**|**AutoLUT: LUT-Based Image Super-Resolution with Automatic Sampling and Adaptive Residual Learning**|Yuheng Xu et.al.|[2503.01565](http://arxiv.org/abs/2503.01565)|**[link](https://github.com/superkenvery/autolut)**|
 |**2025-03-03**|**DifIISR: A Diffusion Model with Gradient Guidance for Infrared Image Super-Resolution**|Xingyuan Li et.al.|[2503.01187](http://arxiv.org/abs/2503.01187)|**[link](https://github.com/zirui0625/difiisr)**|
 |**2025-03-02**|**MR-EIT: Multi-Resolution Reconstruction for Electrical Impedance Tomography via Data-Driven and Unsupervised Dual-Mode Neural Networks**|Fangming Shi et.al.|[2503.00762](http://arxiv.org/abs/2503.00762)|null|
 |**2025-03-02**|**Geodesic Diffusion Models for Medical Image-to-Image Generation**|Teng Zhang et.al.|[2503.00745](http://arxiv.org/abs/2503.00745)|null|
@@ -4185,6 +4196,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**|Ali Samimi Fard et.al.|[2503.05629](http://arxiv.org/abs/2503.05629)|null|
 |**2025-03-06**|**A Benchmark for Multi-Lingual Vision-Language Learning in Remote Sensing Image Captioning**|Qing Zhou et.al.|[2503.04592](http://arxiv.org/abs/2503.04592)|null|
 |**2025-03-06**|**A Spatiotemporal, Quasi-experimental Causal Inference Approach to Characterize the Effects of Global Plastic Waste Export and Burning on Air Quality Using Remotely Sensed Data**|Ellen M. Considine et.al.|[2503.04491](http://arxiv.org/abs/2503.04491)|null|
 |**2025-03-06**|**Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks**|Yi Xiao et.al.|[2503.04223](http://arxiv.org/abs/2503.04223)|null|

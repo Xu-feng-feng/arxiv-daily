@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -239,7 +239,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Compression
 
@@ -254,13 +254,13 @@
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
 |**2025-03-04**|**UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression**|Jia Wang et.al.|[2503.02733](http://arxiv.org/abs/2503.02733)|null|
 |**2025-03-04**|**On the sensitivity of CDAWG-grammars**|Hiroto Fujimaru et.al.|[2503.02415](http://arxiv.org/abs/2503.02415)|null|
-|**2025-03-03**|**How Low Can You Go? Searching for the Intrinsic Dimensionality of Complex Networks using Metric Node Embeddings**|Nikolaos Nakis et.al.|[2503.01723](http://arxiv.org/abs/2503.01723)|null|
+|**2025-03-03**|**How Low Can You Go? Searching for the Intrinsic Dimensionality of Complex Networks using Metric Node Embeddings**|Nikolaos Nakis et.al.|[2503.01723](http://arxiv.org/abs/2503.01723)|**[link](https://github.com/AndreasLF/HowLowCanYouGo)**|
 |**2025-03-03**|**Lossy Neural Compression for Geospatial Analytics: A Review**|Carlos Gomes et.al.|[2503.01505](http://arxiv.org/abs/2503.01505)|null|
 |**2025-03-07**|**DLF: Extreme Image Compression with Dual-generative Latent Fusion**|Naifu Xue et.al.|[2503.01428](http://arxiv.org/abs/2503.01428)|null|
 |**2025-03-03**|**Improving the Efficiency of VVC using Partitioning of Reference Frames**|Kamran Qureshi et.al.|[2503.01415](http://arxiv.org/abs/2503.01415)|null|
 |**2025-03-03**|**Multi-resolution Encoding for HTTP Adaptive Streaming using VVenC**|Kamran Qureshi et.al.|[2503.01404](http://arxiv.org/abs/2503.01404)|null|
 |**2025-03-01**|**High Dynamic Range Video Compression: A Large-Scale Benchmark Dataset and A Learned Bit-depth Scalable Compression Algorithm**|Zhaoyi Tian et.al.|[2503.00410](http://arxiv.org/abs/2503.00410)|**[link](https://github.com/sdkinda/hdr-learned-video-coding)**|
-|**2025-03-01**|**Taming Large Multimodal Agents for Ultra-low Bitrate Semantically Disentangled Image Compression**|Juan Song et.al.|[2503.00399](http://arxiv.org/abs/2503.00399)|**[link](https://github.com/yang-xidian/sedic)**|
+|**2025-03-01**|**Taming Large Multimodal Agents for Ultra-low Bitrate Semantically Disentangled Image Compression**|Juan Song et.al.|[2503.00399](http://arxiv.org/abs/2503.00399)|null|
 |**2025-03-07**|**CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression**|Yu-Ting Zhan et.al.|[2503.00357](http://arxiv.org/abs/2503.00357)|null|
 |**2025-02-28**|**Towards Lossless Implicit Neural Representation via Bit Plane Decomposition**|Woo Kyoung Han et.al.|[2502.21001](http://arxiv.org/abs/2502.21001)|null|
 |**2025-02-28**|**LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging**|Maximilian Rokuss et.al.|[2502.20985](http://arxiv.org/abs/2502.20985)|null|
@@ -1028,18 +1028,18 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Quality Assessment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-07**|**A-SEE2.0: Active-Sensing End-Effector for Robotic Ultrasound Systems with Dense Contact Surface Perception Enabled Probe Orientation Adjustment**|Yernar Zhetpissov et.al.|[2503.05569](http://arxiv.org/abs/2503.05569)|null|
 |**2025-03-07**|**Development and Enhancement of Text-to-Image Diffusion Models**|Rajdeep Roshan Sahu et.al.|[2503.05149](http://arxiv.org/abs/2503.05149)|null|
 |**2025-03-07**|**SMILENet: Unleashing Extra-Large Capacity Image Steganography via a Synergistic Mosaic InvertibLE Hiding Network**|Jun-Jie Huang et.al.|[2503.05118](http://arxiv.org/abs/2503.05118)|null|
 |**2025-03-06**|**Toward Lightweight and Fast Decoders for Diffusion Models in Image and Video Generation**|Alexey Buzovkin et.al.|[2503.04871](http://arxiv.org/abs/2503.04871)|null|
-|**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
+|**2025-03-08**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
 |**2025-03-06**|**In-Context Reverse Classification Accuracy: Efficient Estimation of Segmentation Quality without Ground-Truth**|Matias Cosarinsky et.al.|[2503.04522](http://arxiv.org/abs/2503.04522)|null|
 |**2025-03-06**|**IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement**|Zhihao Shi et.al.|[2503.04501](http://arxiv.org/abs/2503.04501)|null|
 |**2025-03-07**|**LEDiT: Your Length-Extrapolatable Diffusion Transformer without Positional Encoding**|Shen Zhang et.al.|[2503.04344](http://arxiv.org/abs/2503.04344)|null|
@@ -1049,7 +1049,7 @@
 |**2025-03-05**|**On the Relation Between Speech Quality and Quantized Latent Representations of Neural Codecs**|Mhd Modar Halimeh et.al.|[2503.03304](http://arxiv.org/abs/2503.03304)|null|
 |**2025-03-05**|**Computational Analysis of Degradation Modeling in Blind Panoramic Image Quality Assessment**|Jiebin Yan et.al.|[2503.03255](http://arxiv.org/abs/2503.03255)|null|
 |**2025-03-05**|**DSVD: Dynamic Self-Verify Decoding for Faithful Generation in Large Language Models**|YiQiu Guo et.al.|[2503.03149](http://arxiv.org/abs/2503.03149)|null|
-|**2025-03-04**|**QE4PE: Word-level Quality Estimation for Human Post-Editing**|Gabriele Sarti et.al.|[2503.03044](http://arxiv.org/abs/2503.03044)|null|
+|**2025-03-04**|**QE4PE: Word-level Quality Estimation for Human Post-Editing**|Gabriele Sarti et.al.|[2503.03044](http://arxiv.org/abs/2503.03044)|**[link](https://github.com/gsarti/qe4pe)**|
 |**2025-03-04**|**A Causal Framework for Aligning Image Quality Metrics and Deep Neural Network Robustness**|Nathan Drenkow et.al.|[2503.02797](http://arxiv.org/abs/2503.02797)|null|
 |**2025-03-04**|**LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs**|Jianghao Chen et.al.|[2503.02502](http://arxiv.org/abs/2503.02502)|null|
 |**2025-03-04**|**Deep Robust Reversible Watermarking**|Jiale Chen et.al.|[2503.02490](http://arxiv.org/abs/2503.02490)|null|
@@ -3221,7 +3221,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -4190,7 +4190,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -4214,7 +4214,7 @@
 |**2025-03-02**|**How the CME on 21 April 2023 Triggered the First Severe Geomagnetic Storm of Solar Cycle 25**|Evangelos Paouris et.al.|[2503.00705](http://arxiv.org/abs/2503.00705)|null|
 |**2025-03-01**|**RFWNet: A Lightweight Remote Sensing Object Detector Integrating Multi-Scale Receptive Fields and Foreground Focus Mechanism**|Yujie Lei et.al.|[2503.00545](http://arxiv.org/abs/2503.00545)|null|
 |**2025-03-01**|**2DMCG:2DMambawith Change Flow Guidance for Change Detection in Remote Sensing**|JunYao Kaung et.al.|[2503.00521](http://arxiv.org/abs/2503.00521)|null|
-|**2025-03-01**|**Adaptive Rectangular Convolution for Remote Sensing Pansharpening**|Xueyang Wang et.al.|[2503.00467](http://arxiv.org/abs/2503.00467)|null|
+|**2025-03-01**|**Adaptive Rectangular Convolution for Remote Sensing Pansharpening**|Xueyang Wang et.al.|[2503.00467](http://arxiv.org/abs/2503.00467)|**[link](https://github.com/WangXueyang-uestc/ARConv)**|
 |**2025-02-28**|**Unmanned Aerial Vehicle (UAV)-Based Mapping of Iris Pseudacorus L. Invasion in Laguna del Sauce (Uruguay) Coast**|Alejo Silvarrey et.al.|[2503.00122](http://arxiv.org/abs/2503.00122)|null|
 |**2025-02-28**|**HoloMine: A Synthetic Dataset for Buried Landmines Recognition using Microwave Holographic Imaging**|Emanuele Vivoli et.al.|[2502.21054](http://arxiv.org/abs/2502.21054)|null|
 |**2025-02-28**|**Real-Time Aerial Fire Detection on Resource-Constrained Devices Using Knowledge Distillation**|Sabina Jangirova et.al.|[2502.20979](http://arxiv.org/abs/2502.20979)|null|
@@ -5305,7 +5305,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

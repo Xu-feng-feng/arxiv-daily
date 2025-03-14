@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -243,7 +243,7 @@ layout: default
 |**2025-03-10**|**Inverting Parameterized Burrows-Wheeler Transform**|Shogen Kawanami et.al.|[2503.06970](http://arxiv.org/abs/2503.06970)|null|
 |**2025-03-10**|**Rate distortion dimension and ergodic decomposition for $\mathbb{R}^d$ -actions**|Masaki Tsukamoto et.al.|[2503.06851](http://arxiv.org/abs/2503.06851)|null|
 |**2025-03-09**|**Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform**|Chenyu Huang et.al.|[2503.06676](http://arxiv.org/abs/2503.06676)|null|
-|**2025-03-09**|**FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression**|Haisheng Fu et.al.|[2503.06399](http://arxiv.org/abs/2503.06399)|null|
+|**2025-03-12**|**FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression**|Haisheng Fu et.al.|[2503.06399](http://arxiv.org/abs/2503.06399)|null|
 |**2025-03-07**|**Cross-Layer-Optimized Link Selection for Hologram Video Streaming over Millimeter Wave Networks**|Yiming Jiang et.al.|[2503.05195](http://arxiv.org/abs/2503.05195)|null|
 |**2025-03-06**|**Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning**|Albert Wilcox et.al.|[2503.04877](http://arxiv.org/abs/2503.04877)|null|
 |**2025-03-06**|**Security and Real-time FPGA integration for Learned Image Compression**|Alaa Mazouz et.al.|[2503.04867](http://arxiv.org/abs/2503.04867)|null|
@@ -4264,7 +4264,7 @@ layout: default
 |**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
 |**2025-03-10**|**Customized SAM 2 for Referring Remote Sensing Image Segmentation**|Fu Rong et.al.|[2503.07266](http://arxiv.org/abs/2503.07266)|null|
 |**2025-03-10**|**A Deep Learning Architecture for Land Cover Mapping Using Spatio-Temporal Sentinel-1 Features**|Luigi Russo et.al.|[2503.07230](http://arxiv.org/abs/2503.07230)|null|
-|**2025-03-10**|**Spatiotemporal Deep Learning Network for Photon-Level Block Compressed Sensing Imaging**|Changzhi Yu et.al.|[2503.07143](http://arxiv.org/abs/2503.07143)|null|
+|**2025-03-13**|**Spatiotemporal Deep Learning Network for Photon-Level Block Compressed Sensing Imaging**|Changzhi Yu et.al.|[2503.07143](http://arxiv.org/abs/2503.07143)|null|
 |**2025-03-10**|**Dynamic Cross-Modal Feature Interaction Network for Hyperspectral and LiDAR Data Classification**|Junyan Lin et.al.|[2503.06945](http://arxiv.org/abs/2503.06945)|null|
 |**2025-03-09**|**Dynamic Dictionary Learning for Remote Sensing Image Segmentation**|Xuechao Zou et.al.|[2503.06683](http://arxiv.org/abs/2503.06683)|null|
 |**2025-03-09**|**Steerable Pyramid Weighted Loss: Multi-Scale Adaptive Weighting for Semantic Segmentation**|Renhao Lu et.al.|[2503.06604](http://arxiv.org/abs/2503.06604)|null|

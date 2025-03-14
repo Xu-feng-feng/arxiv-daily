@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -239,7 +239,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 ## Compression
 
@@ -252,7 +252,7 @@
 |**2025-03-10**|**Inverting Parameterized Burrows-Wheeler Transform**|Shogen Kawanami et.al.|[2503.06970](http://arxiv.org/abs/2503.06970)|null|
 |**2025-03-10**|**Rate distortion dimension and ergodic decomposition for $\mathbb{R}^d$ -actions**|Masaki Tsukamoto et.al.|[2503.06851](http://arxiv.org/abs/2503.06851)|null|
 |**2025-03-09**|**Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform**|Chenyu Huang et.al.|[2503.06676](http://arxiv.org/abs/2503.06676)|null|
-|**2025-03-09**|**FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression**|Haisheng Fu et.al.|[2503.06399](http://arxiv.org/abs/2503.06399)|null|
+|**2025-03-12**|**FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression**|Haisheng Fu et.al.|[2503.06399](http://arxiv.org/abs/2503.06399)|null|
 |**2025-03-07**|**Cross-Layer-Optimized Link Selection for Hologram Video Streaming over Millimeter Wave Networks**|Yiming Jiang et.al.|[2503.05195](http://arxiv.org/abs/2503.05195)|null|
 |**2025-03-06**|**Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning**|Albert Wilcox et.al.|[2503.04877](http://arxiv.org/abs/2503.04877)|null|
 |**2025-03-06**|**Security and Real-time FPGA integration for Learned Image Compression**|Alaa Mazouz et.al.|[2503.04867](http://arxiv.org/abs/2503.04867)|null|
@@ -1037,7 +1037,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -3270,7 +3270,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -4256,7 +4256,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -4279,7 +4279,7 @@
 |**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
 |**2025-03-10**|**Customized SAM 2 for Referring Remote Sensing Image Segmentation**|Fu Rong et.al.|[2503.07266](http://arxiv.org/abs/2503.07266)|null|
 |**2025-03-10**|**A Deep Learning Architecture for Land Cover Mapping Using Spatio-Temporal Sentinel-1 Features**|Luigi Russo et.al.|[2503.07230](http://arxiv.org/abs/2503.07230)|null|
-|**2025-03-10**|**Spatiotemporal Deep Learning Network for Photon-Level Block Compressed Sensing Imaging**|Changzhi Yu et.al.|[2503.07143](http://arxiv.org/abs/2503.07143)|null|
+|**2025-03-13**|**Spatiotemporal Deep Learning Network for Photon-Level Block Compressed Sensing Imaging**|Changzhi Yu et.al.|[2503.07143](http://arxiv.org/abs/2503.07143)|null|
 |**2025-03-10**|**Dynamic Cross-Modal Feature Interaction Network for Hyperspectral and LiDAR Data Classification**|Junyan Lin et.al.|[2503.06945](http://arxiv.org/abs/2503.06945)|null|
 |**2025-03-09**|**Dynamic Dictionary Learning for Remote Sensing Image Segmentation**|Xuechao Zou et.al.|[2503.06683](http://arxiv.org/abs/2503.06683)|null|
 |**2025-03-09**|**Steerable Pyramid Weighted Loss: Multi-Scale Adaptive Weighting for Semantic Segmentation**|Renhao Lu et.al.|[2503.06604](http://arxiv.org/abs/2503.06604)|null|
@@ -5397,7 +5397,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

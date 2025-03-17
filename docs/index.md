@@ -236,6 +236,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591](http://arxiv.org/abs/2503.11591)|null|
+|**2025-03-14**|**Enhanced Diagnostic Fidelity in Pathology Whole Slide Image Compression via Deep Learning**|Maximilian Fischer et.al.|[2503.11350](http://arxiv.org/abs/2503.11350)|null|
+|**2025-03-14**|**FG-DFPN: Flow Guided Deformable Frame Prediction Network**|M. Akın Yılmaz et.al.|[2503.11343](http://arxiv.org/abs/2503.11343)|null|
+|**2025-03-14**|**Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning**|Lingyu Zhu et.al.|[2503.11321](http://arxiv.org/abs/2503.11321)|null|
+|**2025-03-14**|**Deep Lossless Image Compression via Masked Sampling and Coarse-to-Fine Auto-Regression**|Tiantian Li et.al.|[2503.11231](http://arxiv.org/abs/2503.11231)|null|
+|**2025-03-14**|**Stabilizing Quantization-Aware Training by Implicit-Regularization on Hessian Matrix**|Junbiao Pang et.al.|[2503.11159](http://arxiv.org/abs/2503.11159)|null|
+|**2025-03-14**|**Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization**|Kyle Sargent et.al.|[2503.11056](http://arxiv.org/abs/2503.11056)|null|
+|**2025-03-13**|**JPEG Compliant Compression for Both Human and Machine, A Report**|Linfeng Ye et.al.|[2503.10912](http://arxiv.org/abs/2503.10912)|null|
 |**2025-03-13**|**Edge-Fog Computing-Enabled EEG Data Compression via Asymmetrical Variational Discrete Cosine Transform Network**|Xin Zhu et.al.|[2503.09961](http://arxiv.org/abs/2503.09961)|null|
 |**2025-03-12**|**Bidirectional Learned Facial Animation Codec for Low Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2503.09787](http://arxiv.org/abs/2503.09787)|null|
 |**2025-03-12**|**PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling**|Nikolai Körber et.al.|[2503.09368](http://arxiv.org/abs/2503.09368)|**[link](https://github.com/nikolai10/percov2)**|
@@ -1034,6 +1042,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423](http://arxiv.org/abs/2503.11423)|null|
+|**2025-03-14**|**TransiT: Transient Transformer for Non-line-of-sight Videography**|Ruiqian Li et.al.|[2503.11328](http://arxiv.org/abs/2503.11328)|null|
+|**2025-03-14**|**Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking**|Ziyi Wang et.al.|[2503.11324](http://arxiv.org/abs/2503.11324)|null|
+|**2025-03-14**|**Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning**|Lingyu Zhu et.al.|[2503.11321](http://arxiv.org/abs/2503.11321)|null|
+|**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
+|**2025-03-14**|**Zero-TIG: Temporal Consistency-Aware Zero-Shot Illumination-Guided Low-light Video Enhancement**|Yini Li et.al.|[2503.11175](http://arxiv.org/abs/2503.11175)|null|
+|**2025-03-14**|**Unifying Perplexing Behaviors in Modified BP Attributions through Alignment Perspective**|Guanhua Zheng et.al.|[2503.11160](http://arxiv.org/abs/2503.11160)|null|
+|**2025-03-14**|**GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior**|Zichen Tang et.al.|[2503.11143](http://arxiv.org/abs/2503.11143)|null|
+|**2025-03-14**|**MobiVital: Self-supervised Time-series Quality Estimation for Contactless Respiration Monitoring Using UWB Radar**|Ziqi Wang et.al.|[2503.11064](http://arxiv.org/abs/2503.11064)|null|
+|**2025-03-14**|**Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**|Gian Antariksa et.al.|[2503.11008](http://arxiv.org/abs/2503.11008)|null|
 |**2025-03-13**|**Statistical Analysis of Sentence Structures through ASCII, Lexical Alignment and PCA**|Abhijeet Sahdev et.al.|[2503.10470](http://arxiv.org/abs/2503.10470)|null|
 |**2025-03-13**|**RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models**|Yijing Lin et.al.|[2503.10406](http://arxiv.org/abs/2503.10406)|null|
 |**2025-03-13**|**MACS: Multi-source Audio-to-image Generation with Contextual Significance and Semantic Alignment**|Hao Zhou et.al.|[2503.10287](http://arxiv.org/abs/2503.10287)|null|
@@ -3274,6 +3292,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647](http://arxiv.org/abs/2503.11647)|null|
+|**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
+|**2025-03-14**|**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models**|Hongyang Wei et.al.|[2503.11073](http://arxiv.org/abs/2503.11073)|null|
+|**2025-03-14**|**Fourier Neural Operator based surrogates for $CO_2$ storage in realistic geologies**|Anirban Chandra et.al.|[2503.11031](http://arxiv.org/abs/2503.11031)|null|
 |**2025-03-13**|**Automatic quality control in multi-centric fetal brain MRI super-resolution reconstruction**|Thomas Sanchez et.al.|[2503.10156](http://arxiv.org/abs/2503.10156)|null|
 |**2025-03-13**|**Dual-domain Modulation Network for Lightweight Image Super-Resolution**|Wenjie Li et.al.|[2503.10047](http://arxiv.org/abs/2503.10047)|null|
 |**2025-03-13**|**FourierSR: A Fourier Token-based Plugin for Efficient Image Super-Resolution**|Wenjie Li et.al.|[2503.10043](http://arxiv.org/abs/2503.10043)|null|
@@ -4263,6 +4285,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Generalization performance of neural mapping schemes for the space-time interpolation of satellite-derived ocean colour datasets**|Thi Thuy Nga Nguyen et.al.|[2503.11588](http://arxiv.org/abs/2503.11588)|null|
+|**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|null|
+|**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|
+|**2025-03-14**|**MEET: A Million-Scale Dataset for Fine-Grained Geospatial Scene Classification with Zoom-Free Remote Sensing Imagery**|Yansheng Li et.al.|[2503.11219](http://arxiv.org/abs/2503.11219)|null|
+|**2025-03-14**|**Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation**|Leideng Shi et.al.|[2503.11183](http://arxiv.org/abs/2503.11183)|**[link](https://github.com/Roaxy/MAFN)**|
+|**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|null|
+|**2025-03-14**|**Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning**|Jieyi Tan et.al.|[2503.11051](http://arxiv.org/abs/2503.11051)|null|
+|**2025-03-13**|**PolyRoof: Precision Roof Polygonization in Urban Residential Building with Graph Neural Networks**|Chaikal Amrullah et.al.|[2503.10913](http://arxiv.org/abs/2503.10913)|null|
 |**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392](http://arxiv.org/abs/2503.10392)|**[link](https://github.com/mililab/roma)**|
 |**2025-03-13**|**A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2503.10262](http://arxiv.org/abs/2503.10262)|null|
 |**2025-03-13**|**Light-weighted foundation model for seismic data processing based on representative and non-redundant pre-training dataset**|Xintong Dong et.al.|[2503.10092](http://arxiv.org/abs/2503.10092)|null|

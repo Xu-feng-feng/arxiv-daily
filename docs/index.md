@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -248,8 +248,8 @@ layout: default
 |**2025-03-12**|**FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression**|Haisheng Fu et.al.|[2503.06399](http://arxiv.org/abs/2503.06399)|null|
 |**2025-03-07**|**Cross-Layer-Optimized Link Selection for Hologram Video Streaming over Millimeter Wave Networks**|Yiming Jiang et.al.|[2503.05195](http://arxiv.org/abs/2503.05195)|null|
 |**2025-03-06**|**Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning**|Albert Wilcox et.al.|[2503.04877](http://arxiv.org/abs/2503.04877)|null|
-|**2025-03-06**|**Security and Real-time FPGA integration for Learned Image Compression**|Alaa Mazouz et.al.|[2503.04867](http://arxiv.org/abs/2503.04867)|null|
-|**2025-03-10**|**RD Efficient FPGA Deployment of Learned Image Compression: Knowledge Distillation and Hybrid Quantization**|Alaa Mazouz et.al.|[2503.04832](http://arxiv.org/abs/2503.04832)|null|
+|**2025-03-13**|**Security and Real-time FPGA integration for Learned Image Compression**|Alaa Mazouz et.al.|[2503.04867](http://arxiv.org/abs/2503.04867)|null|
+|**2025-03-13**|**Lightweight Embedded FPGA Deployment of Learned Image Compression with Knowledge Distillation and Hybrid Quantization**|Alaa Mazouz et.al.|[2503.04832](http://arxiv.org/abs/2503.04832)|null|
 |**2025-03-06**|**PokéChamp: an Expert-level Minimax Language Agent**|Seth Karten et.al.|[2503.04094](http://arxiv.org/abs/2503.04094)|null|
 |**2025-03-06**|**Significant challenges for astrophysical inference with next-generation gravitational-wave observatories**|A. Makai Baker et.al.|[2503.04073](http://arxiv.org/abs/2503.04073)|null|
 |**2025-03-11**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
@@ -1039,10 +1039,10 @@ layout: default
 |**2025-03-13**|**MACS: Multi-source Audio-to-image Generation with Contextual Significance and Semantic Alignment**|Hao Zhou et.al.|[2503.10287](http://arxiv.org/abs/2503.10287)|null|
 |**2025-03-13**|**KVQ: Boosting Video Quality Assessment via Saliency-guided Local Perception**|Yunpeng Qu et.al.|[2503.10259](http://arxiv.org/abs/2503.10259)|null|
 |**2025-03-13**|**Automatic quality control in multi-centric fetal brain MRI super-resolution reconstruction**|Thomas Sanchez et.al.|[2503.10156](http://arxiv.org/abs/2503.10156)|null|
-|**2025-03-13**|**Image Quality Assessment: From Human to Machine Preference**|Chunyi Li et.al.|[2503.10078](http://arxiv.org/abs/2503.10078)|null|
+|**2025-03-13**|**Image Quality Assessment: From Human to Machine Preference**|Chunyi Li et.al.|[2503.10078](http://arxiv.org/abs/2503.10078)|**[link](https://github.com/lcysyzxdxc/mpd)**|
 |**2025-03-12**|**Bidirectional Learned Facial Animation Codec for Low Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2503.09787](http://arxiv.org/abs/2503.09787)|null|
 |**2025-03-12**|**Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models**|Sangwon Jang et.al.|[2503.09669](http://arxiv.org/abs/2503.09669)|null|
-|**2025-03-12**|**CoRe^2: Collect, Reflect and Refine to Generate Better and Faster**|Shitong Shao et.al.|[2503.09662](http://arxiv.org/abs/2503.09662)|null|
+|**2025-03-12**|**CoRe^2: Collect, Reflect and Refine to Generate Better and Faster**|Shitong Shao et.al.|[2503.09662](http://arxiv.org/abs/2503.09662)|**[link](https://github.com/xie-lab-ml/core)**|
 |**2025-03-12**|**Fair Federated Medical Image Classification Against Quality Shift via Inter-Client Progressive State Matching**|Nannan Wu et.al.|[2503.09587](http://arxiv.org/abs/2503.09587)|**[link](https://github.com/wnn2000/ffl4mia)**|
 |**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560](http://arxiv.org/abs/2503.09560)|null|
 |**2025-03-12**|**Multi-Agent Image Restoration**|Xu Jiang et.al.|[2503.09403](http://arxiv.org/abs/2503.09403)|null|
@@ -4263,7 +4263,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392](http://arxiv.org/abs/2503.10392)|null|
+|**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392](http://arxiv.org/abs/2503.10392)|**[link](https://github.com/mililab/roma)**|
 |**2025-03-13**|**A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2503.10262](http://arxiv.org/abs/2503.10262)|null|
 |**2025-03-13**|**Light-weighted foundation model for seismic data processing based on representative and non-redundant pre-training dataset**|Xintong Dong et.al.|[2503.10092](http://arxiv.org/abs/2503.10092)|null|
 |**2025-03-13**|**Target-aware Bidirectional Fusion Transformer for Aerial Object Tracking**|Xinglong Sun et.al.|[2503.09951](http://arxiv.org/abs/2503.09951)|null|

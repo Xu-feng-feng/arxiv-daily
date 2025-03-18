@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-16**|**RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds**|Kang You et.al.|[2503.12382](http://arxiv.org/abs/2503.12382)|null|
 |**2025-02-26**|**PCE-GAN: A Generative Adversarial Network for Point Cloud Attribute Quality Enhancement based on Optimal Transport**|Tian Guo et.al.|[2503.00047](http://arxiv.org/abs/2503.00047)|null|
 |**2025-02-26**|**SPU-IMR: Self-supervised Arbitrary-scale Point Cloud Upsampling via Iterative Mask-recovery Network**|Ziming Nie et.al.|[2502.19452](http://arxiv.org/abs/2502.19452)|**[link](https://github.com/hapifuzi/spu-imr)**|
 |**2025-02-25**|**Deep-JGAC: End-to-End Deep Joint Geometry and Attribute Compression for Dense Colored Point Clouds**|Yun Zhang et.al.|[2502.17939](http://arxiv.org/abs/2502.17939)|null|
@@ -236,6 +237,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Highly Efficient Direct Analytics on Semantic-aware Time Series Data Compression**|Guoyou Sun et.al.|[2503.13246](http://arxiv.org/abs/2503.13246)|null|
+|**2025-03-17**|**OLÉ -- Online Learning Emulation in Cosmology**|Sven Günther et.al.|[2503.13183](http://arxiv.org/abs/2503.13183)|null|
+|**2025-03-17**|**OSLO-IC: On-the-Sphere Learned Omnidirectional Image Compression with Attention Modules and Spatial Context**|Paul Wawerek-López et.al.|[2503.13119](http://arxiv.org/abs/2503.13119)|null|
+|**2025-03-17**|**Knowledge Distillation: Enhancing Neural Network Compression with Integrated Gradients**|David E. Hernandez et.al.|[2503.13008](http://arxiv.org/abs/2503.13008)|null|
+|**2025-03-17**|**Task-Oriented Feature Compression for Multimodal Understanding via Device-Edge Co-Inference**|Cheng Yuan et.al.|[2503.12926](http://arxiv.org/abs/2503.12926)|null|
+|**2025-03-16**|**MambaIC: State Space Models for High-Performance Learned Image Compression**|Fanhu Zeng et.al.|[2503.12461](http://arxiv.org/abs/2503.12461)|null|
+|**2025-03-16**|**A Parametric Family of Polynomial Wavelets for Signal and Image Processing**|Mariantonia Cotronei et.al.|[2503.12403](http://arxiv.org/abs/2503.12403)|null|
+|**2025-03-16**|**RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds**|Kang You et.al.|[2503.12382](http://arxiv.org/abs/2503.12382)|null|
+|**2025-03-14**|**Gain-MLP: Improving HDR Gain Map Encoding via a Lightweight MLP**|Trevor D. Canham et.al.|[2503.11883](http://arxiv.org/abs/2503.11883)|null|
 |**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591](http://arxiv.org/abs/2503.11591)|null|
 |**2025-03-14**|**Enhanced Diagnostic Fidelity in Pathology Whole Slide Image Compression via Deep Learning**|Maximilian Fischer et.al.|[2503.11350](http://arxiv.org/abs/2503.11350)|null|
 |**2025-03-14**|**FG-DFPN: Flow Guided Deformable Frame Prediction Network**|M. Akın Yılmaz et.al.|[2503.11343](http://arxiv.org/abs/2503.11343)|null|
@@ -1042,6 +1052,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation**|Daniil Selikhanovych et.al.|[2503.13358](http://arxiv.org/abs/2503.13358)|null|
+|**2025-03-17**|**MagicDistillation: Weak-to-Strong Video Distillation for Large-Scale Portrait Few-Step Synthesis**|Shitong Shao et.al.|[2503.13319](http://arxiv.org/abs/2503.13319)|null|
+|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265](http://arxiv.org/abs/2503.13265)|null|
+|**2025-03-17**|**Don't Judge Before You CLIP: A Unified Approach for Perceptual Tasks**|Amit Zalcher et.al.|[2503.13260](http://arxiv.org/abs/2503.13260)|null|
+|**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211](http://arxiv.org/abs/2503.13211)|null|
+|**2025-03-17**|**Rethinking Image Evaluation in Super-Resolution**|Shaolin Su et.al.|[2503.13074](http://arxiv.org/abs/2503.13074)|null|
+|**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073](http://arxiv.org/abs/2503.13073)|null|
+|**2025-03-17**|**DreamRenderer: Taming Multi-Instance Attribute Control in Large-Scale Text-to-Image Models**|Dewei Zhou et.al.|[2503.12885](http://arxiv.org/abs/2503.12885)|null|
+|**2025-03-17**|**CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836](http://arxiv.org/abs/2503.12836)|null|
+|**2025-03-17**|**R3-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars**|Yifan Zhan et.al.|[2503.12751](http://arxiv.org/abs/2503.12751)|null|
+|**2025-03-17**|**GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**|Feng Qiao et.al.|[2503.12720](http://arxiv.org/abs/2503.12720)|null|
+|**2025-03-16**|**GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation**|Tao Feng et.al.|[2503.12600](http://arxiv.org/abs/2503.12600)|null|
+|**2025-03-16**|**BalancedDPO: Adaptive Multi-Metric Alignment**|Dipesh Tamboli et.al.|[2503.12575](http://arxiv.org/abs/2503.12575)|null|
+|**2025-03-16**|**Segment Any-Quality Images with Generative Latent Space Enhancement**|Guangqian Guo et.al.|[2503.12507](http://arxiv.org/abs/2503.12507)|null|
+|**2025-03-16**|**SING: Semantic Image Communications using Null-Space and INN-Guided Diffusion Models**|Jiakang Chen et.al.|[2503.12484](http://arxiv.org/abs/2503.12484)|null|
+|**2025-03-16**|**Pathology Image Restoration via Mixture of Prompts**|Jiangdong Cai et.al.|[2503.12399](http://arxiv.org/abs/2503.12399)|null|
+|**2025-03-15**|**DLA-Count: Dynamic Label Assignment Network for Dense Cell Distribution Counting**|Yuqing Yan et.al.|[2503.12063](http://arxiv.org/abs/2503.12063)|null|
+|**2025-03-15**|**MoDM: Efficient Serving for Image Generation via Mixture-of-Diffusion Models**|Yuchen Xia et.al.|[2503.11972](http://arxiv.org/abs/2503.11972)|null|
 |**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423](http://arxiv.org/abs/2503.11423)|null|
 |**2025-03-14**|**TransiT: Transient Transformer for Non-line-of-sight Videography**|Ruiqian Li et.al.|[2503.11328](http://arxiv.org/abs/2503.11328)|null|
 |**2025-03-14**|**Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking**|Ziyi Wang et.al.|[2503.11324](http://arxiv.org/abs/2503.11324)|null|
@@ -3292,11 +3320,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation**|Daniil Selikhanovych et.al.|[2503.13358](http://arxiv.org/abs/2503.13358)|null|
+|**2025-03-17**|**RainScaleGAN: a Conditional Generative Adversarial Network for Rainfall Downscaling**|Marcello Iotti et.al.|[2503.13316](http://arxiv.org/abs/2503.13316)|null|
+|**2025-03-17**|**A super-resolution reconstruction method for lightweight building images based on an expanding feature modulation network**|Yi Zhang et.al.|[2503.13179](http://arxiv.org/abs/2503.13179)|null|
+|**2025-03-17**|**Super-resolution Radial Fluctuations Enables Polarization-resolved Nonlinear Optical Nanoscopy**|MacAulay Harvey et.al.|[2503.13106](http://arxiv.org/abs/2503.13106)|null|
+|**2025-03-17**|**Rethinking Image Evaluation in Super-Resolution**|Shaolin Su et.al.|[2503.13074](http://arxiv.org/abs/2503.13074)|null|
+|**2025-03-16**|**Hyperbolic absolute instruments**|Tao Hou et.al.|[2503.12391](http://arxiv.org/abs/2503.12391)|null|
+|**2025-03-15**|**QDM: Quadtree-Based Region-Adaptive Sparse Diffusion Models for Efficient Image Super-Resolution**|Donglin Yang et.al.|[2503.12015](http://arxiv.org/abs/2503.12015)|null|
+|**2025-03-14**|**Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities**|Ruchika Chavhan et.al.|[2503.11905](http://arxiv.org/abs/2503.11905)|null|
+|**2025-03-14**|**ECLARE: Efficient cross-planar learning for anisotropic resolution enhancement**|Samuel W. Remedios et.al.|[2503.11787](http://arxiv.org/abs/2503.11787)|null|
 |**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647](http://arxiv.org/abs/2503.11647)|null|
 |**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
 |**2025-03-14**|**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models**|Hongyang Wei et.al.|[2503.11073](http://arxiv.org/abs/2503.11073)|null|
 |**2025-03-14**|**Fourier Neural Operator based surrogates for $CO_2$ storage in realistic geologies**|Anirban Chandra et.al.|[2503.11031](http://arxiv.org/abs/2503.11031)|null|
-|**2025-03-13**|**Automatic quality control in multi-centric fetal brain MRI super-resolution reconstruction**|Thomas Sanchez et.al.|[2503.10156](http://arxiv.org/abs/2503.10156)|null|
+|**2025-03-17**|**Automatic quality control in multi-centric fetal brain MRI super-resolution reconstruction**|Thomas Sanchez et.al.|[2503.10156](http://arxiv.org/abs/2503.10156)|null|
 |**2025-03-13**|**Dual-domain Modulation Network for Lightweight Image Super-Resolution**|Wenjie Li et.al.|[2503.10047](http://arxiv.org/abs/2503.10047)|null|
 |**2025-03-13**|**FourierSR: A Fourier Token-based Plugin for Efficient Image Super-Resolution**|Wenjie Li et.al.|[2503.10043](http://arxiv.org/abs/2503.10043)|null|
 |**2025-03-12**|**Resolution Invariant Autoencoder**|Ashay Patel et.al.|[2503.09828](http://arxiv.org/abs/2503.09828)|null|
@@ -4285,6 +4322,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**A 1.8 m class pathfinder Raman LIDAR for the Northern Site of the Cherenkov Telescope Array Observatory -- Technical Design**|Otger Ballester et.al.|[2503.13349](http://arxiv.org/abs/2503.13349)|null|
+|**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347](http://arxiv.org/abs/2503.13347)|null|
+|**2025-03-17**|**A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening**|Jie Huang et.al.|[2503.13214](http://arxiv.org/abs/2503.13214)|null|
+|**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073](http://arxiv.org/abs/2503.13073)|null|
+|**2025-03-17**|**Prospects for Mitigating Spectral Variability in Tropical Species Classification Using Self-Supervised Learning**|Colin Prieur et.al.|[2503.12973](http://arxiv.org/abs/2503.12973)|null|
+|**2025-03-17**|**Early Detection of Forest Calamities in Homogeneous Stands -- Deep Learning Applied to Bark-Beetle Outbreaks**|Maximilian Kirsch et.al.|[2503.12883](http://arxiv.org/abs/2503.12883)|null|
+|**2025-03-17**|**Stereo Event-based, 6-DOF Pose Tracking for Uncooperative Spacecraft**|Zibin Liu et.al.|[2503.12732](http://arxiv.org/abs/2503.12732)|null|
+|**2025-03-16**|**BS-Mamba for Black-Soil Area Detection On the Qinghai-Tibetan Plateau**|Xuan Ma et.al.|[2503.12495](http://arxiv.org/abs/2503.12495)|null|
+|**2025-03-16**|**GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing**|Zilun Zhang et.al.|[2503.12490](http://arxiv.org/abs/2503.12490)|null|
+|**2025-03-16**|**SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation**|Jianhao Yang et.al.|[2503.12404](http://arxiv.org/abs/2503.12404)|null|
+|**2025-03-15**|**Breaking the Box: Enhancing Remote Sensing Image Segmentation with Freehand Sketches**|Ying Zang et.al.|[2503.12191](http://arxiv.org/abs/2503.12191)|null|
+|**2025-03-15**|**ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object**|Zhe Shan et.al.|[2503.12006](http://arxiv.org/abs/2503.12006)|null|
+|**2025-03-15**|**An Acoustic Inversion-Based Flow Measurement Model in 3D Hydrodynamic Systems**|Jiwei Li et.al.|[2503.11986](http://arxiv.org/abs/2503.11986)|null|
+|**2025-03-15**|**CCRSat: A Collaborative Computation Reuse Framework for Satellite Edge Computing Networks**|Ye Zhang et.al.|[2503.11946](http://arxiv.org/abs/2503.11946)|null|
+|**2025-03-15**|**Integrating Product Coefficients for Improved 3D LiDAR Data Classification**|Patricia Medina et.al.|[2503.11943](http://arxiv.org/abs/2503.11943)|null|
+|**2025-03-14**|**Mitigating Bad Ground Truth in Supervised Machine Learning based Crop Classification: A Multi-Level Framework with Sentinel-2 Images**|Sanayya A et.al.|[2503.11807](http://arxiv.org/abs/2503.11807)|null|
 |**2025-03-14**|**Generalization performance of neural mapping schemes for the space-time interpolation of satellite-derived ocean colour datasets**|Thi Thuy Nga Nguyen et.al.|[2503.11588](http://arxiv.org/abs/2503.11588)|null|
 |**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|null|
 |**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|

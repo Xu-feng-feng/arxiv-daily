@@ -247,6 +247,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Overview of Variable Rate Coding in JPEG AI**|Panqi Jia et.al.|[2503.16288](http://arxiv.org/abs/2503.16288)|null|
+|**2025-03-20**|**PromptMobile: Efficient Promptus for Low Bandwidth Mobile Video Streaming**|Liming Liu et.al.|[2503.16112](http://arxiv.org/abs/2503.16112)|null|
 |**2025-03-19**|**Fast Two-photon Microscopy by Neuroimaging with Oblong Random Acquisition (NORA)**|Esther Whang et.al.|[2503.15487](http://arxiv.org/abs/2503.15487)|null|
 |**2025-03-17**|**Highly Efficient Direct Analytics on Semantic-aware Time Series Data Compression**|Guoyou Sun et.al.|[2503.13246](http://arxiv.org/abs/2503.13246)|null|
 |**2025-03-17**|**OLÉ -- Online Learning Emulation in Cosmology**|Sven Günther et.al.|[2503.13183](http://arxiv.org/abs/2503.13183)|**[link](https://github.com/svenguenther/ole)**|
@@ -1065,6 +1067,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering**|Yuheng Yuan et.al.|[2503.16422](http://arxiv.org/abs/2503.16422)|null|
+|**2025-03-20**|**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**|Quanhao Li et.al.|[2503.16421](http://arxiv.org/abs/2503.16421)|null|
+|**2025-03-20**|**InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**|Liming Jiang et.al.|[2503.16418](http://arxiv.org/abs/2503.16418)|null|
+|**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
+|**2025-03-20**|**Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images**|Shengjun Zhang et.al.|[2503.16338](http://arxiv.org/abs/2503.16338)|null|
+|**2025-03-20**|**Enhancing Software Quality Assurance with an Adaptive Differential Evolution based Quantum Variational Autoencoder-Transformer Model**|Seshu Babu Barma et.al.|[2503.16335](http://arxiv.org/abs/2503.16335)|null|
+|**2025-03-20**|**Do image and video quality metrics model low-level human vision?**|Dounia Hammou et.al.|[2503.16264](http://arxiv.org/abs/2503.16264)|null|
+|**2025-03-20**|**Iterative Optimal Attention and Local Model for Single Image Rain Streak Removal**|Xiangyu Li et.al.|[2503.16165](http://arxiv.org/abs/2503.16165)|null|
+|**2025-03-20**|**Automatically Generating Chinese Homophone Words to Probe Machine Translation Estimation Systems**|Shenbin Qian et.al.|[2503.16158](http://arxiv.org/abs/2503.16158)|null|
+|**2025-03-20**|**3-D Image-to-Image Fusion in Lightsheet Microscopy by Two-Step Adversarial Network: Contribution to the FuseMyCells Challenge**|Marek Wodzinski et.al.|[2503.16075](http://arxiv.org/abs/2503.16075)|null|
+|**2025-03-20**|**PoseTraj: Pose-Aware Trajectory Control in Video Diffusion**|Longbin Ji et.al.|[2503.16068](http://arxiv.org/abs/2503.16068)|null|
+|**2025-03-20**|**Single Image Iterative Subject-driven Generation and Editing**|Yair Shpitzer et.al.|[2503.16025](http://arxiv.org/abs/2503.16025)|**[link](https://github.com/yairshp/SISO)**|
+|**2025-03-20**|**A Survey on fMRI-based Brain Decoding for Reconstructing Multimodal Stimuli**|Pengyu Liu et.al.|[2503.15978](http://arxiv.org/abs/2503.15978)|null|
+|**2025-03-20**|**GraPLUS: Graph-based Placement Using Semantics for Image Composition**|Mir Mohammad Khaleghi et.al.|[2503.15761](http://arxiv.org/abs/2503.15761)|null|
+|**2025-03-19**|**5D free-running, reconstruction, variable projection, ADMM, VPAL**|Yitong Yang et.al.|[2503.15711](http://arxiv.org/abs/2503.15711)|null|
 |**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474](http://arxiv.org/abs/2503.15474)|null|
 |**2025-03-19**|**Learn Your Scales: Towards Scale-Consistent Generative Novel View Synthesis**|Fereshteh Forghani et.al.|[2503.15412](http://arxiv.org/abs/2503.15412)|null|
 |**2025-03-19**|**Boosting HDR Image Reconstruction via Semantic Knowledge Transfer**|Qingsen Yan et.al.|[2503.15361](http://arxiv.org/abs/2503.15361)|null|
@@ -3358,6 +3375,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Semantic-Guided Global-Local Collaborative Networks for Lightweight Image Super-Resolution**|Wanshu Fan et.al.|[2503.16056](http://arxiv.org/abs/2503.16056)|null|
+|**2025-03-20**|**DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**|Suraj Singh et.al.|[2503.15984](http://arxiv.org/abs/2503.15984)|null|
 |**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474](http://arxiv.org/abs/2503.15474)|null|
 |**2025-03-19**|**Variational Message Passing-based Multiobject Tracking for MIMO-Radars using Raw Sensor Signals**|Anders Malthe Westerkam et.al.|[2503.15246](http://arxiv.org/abs/2503.15246)|null|
 |**2025-03-18**|**Involution and BSConv Multi-Depth Distillation Network for Lightweight Image Super-Resolution**|Akram Khatami-Rizi et.al.|[2503.14779](http://arxiv.org/abs/2503.14779)|null|
@@ -4370,6 +4389,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426](http://arxiv.org/abs/2503.16426)|**[link](https://github.com/KyanChen/DynamicVis)**|
+|**2025-03-20**|**Knowledge-guided machine learning model with soil moisture for corn yield prediction under drought conditions**|Xiaoyu Wang et.al.|[2503.16328](http://arxiv.org/abs/2503.16328)|null|
+|**2025-03-20**|**OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**|Long Yuan et.al.|[2503.16326](http://arxiv.org/abs/2503.16326)|null|
+|**2025-03-20**|**Securing Satellite Communications: Real-Time Video Encryption Scheme on Satellite Payloads**|Hanshuo Qiu et.al.|[2503.16287](http://arxiv.org/abs/2503.16287)|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
+|**2025-03-20**|**Forecasting Extreme Temperatures in Siberia Using Supervised Learning and Conformal Prediction Regions**|Richard A. Berk et.al.|[2503.16118](http://arxiv.org/abs/2503.16118)|null|
+|**2025-03-20**|**Scattering graph method for 3D radiative transfer**|Antti Mikkonen et.al.|[2503.16037](http://arxiv.org/abs/2503.16037)|null|
+|**2025-03-20**|**A Vision Centric Remote Sensing Benchmark**|Abduljaleel Adejumo et.al.|[2503.15816](http://arxiv.org/abs/2503.15816)|null|
 |**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474](http://arxiv.org/abs/2503.15474)|null|
 |**2025-03-19**|**Multi-photon enhanced resolution for Superconducting Nanowire Single-Photon Detector-based Time-of-Flight lidar systems**|Adrian S. Abazi et.al.|[2503.15349](http://arxiv.org/abs/2503.15349)|null|
 |**2025-03-19**|**Taming Flow Matching with Unbalanced Optimal Transport into Fast Pansharpening**|Zihan Cao et.al.|[2503.14975](http://arxiv.org/abs/2503.14975)|null|

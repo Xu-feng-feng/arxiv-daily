@@ -298,7 +298,7 @@
 |**2025-02-28**|**Towards Lossless Implicit Neural Representation via Bit Plane Decomposition**|Woo Kyoung Han et.al.|[2502.21001](http://arxiv.org/abs/2502.21001)|null|
 |**2025-02-28**|**LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging**|Maximilian Rokuss et.al.|[2502.20985](http://arxiv.org/abs/2502.20985)|null|
 |**2025-02-28**|**Towards Practical Real-Time Neural Video Compression**|Zhaoyang Jia et.al.|[2502.20762](http://arxiv.org/abs/2502.20762)|**[link](https://github.com/microsoft/dcvc)**|
-|**2025-02-27**|**Balanced Rate-Distortion Optimization in Learned Image Compression**|Yichi Zhang et.al.|[2502.20161](http://arxiv.org/abs/2502.20161)|null|
+|**2025-02-27**|**Balanced Rate-Distortion Optimization in Learned Image Compression**|Yichi Zhang et.al.|[2502.20161](http://arxiv.org/abs/2502.20161)|**[link](https://gitlab.com/viper-purdue/balanced-rd)**|
 |**2025-02-27**|**Transformer-Based Nonlinear Transform Coding for Multi-Rate CSI Compression in MIMO-OFDM Systems**|Bumsu Park et.al.|[2502.19847](http://arxiv.org/abs/2502.19847)|null|
 |**2025-02-26**|**Zipping many-body quantum states: a scalable approach to diagonal entropy**|Yu-Hsueh Chen et.al.|[2502.18898](http://arxiv.org/abs/2502.18898)|null|
 |**2025-02-25**|**Novel quantum circuit for image compression utilizing modified Toffoli gate and quantized transformed coefficient alongside a novel reset gate**|Ershadul Haque et.al.|[2502.17815](http://arxiv.org/abs/2502.17815)|null|
@@ -322,7 +322,7 @@
 |**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|**[link](https://github.com/eric-qi/neuroquant)**|
 |**2025-02-15**|**AquaScope: Reliable Underwater Image Transmission on Mobile Devices**|Beitong Tian et.al.|[2502.10891](http://arxiv.org/abs/2502.10891)|null|
 |**2025-02-15**|**ResiComp: Loss-Resilient Image Compression via Dual-Functional Masked Visual Token Modeling**|Sixian Wang et.al.|[2502.10812](http://arxiv.org/abs/2502.10812)|null|
-|**2025-02-15**|**A Fast Quantum Image Compression Algorithm based on Taylor Expansion**|Vu Tuan Hai et.al.|[2502.10684](http://arxiv.org/abs/2502.10684)|null|
+|**2025-02-15**|**A Fast Quantum Image Compression Algorithm based on Taylor Expansion**|Vu Tuan Hai et.al.|[2502.10684](http://arxiv.org/abs/2502.10684)|**[link](https://github.com/vutuanhai237/QuantumCompressor)**|
 |**2025-02-15**|**Optimizing CNN Architectures for Advanced Thoracic Disease Classification**|Tejas Mirthipati et.al.|[2502.10614](http://arxiv.org/abs/2502.10614)|null|
 |**2025-02-14**|**Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression**|Siqi Wu et.al.|[2502.09971](http://arxiv.org/abs/2502.09971)|null|
 |**2025-02-13**|**Differentially Private Compression and the Sensitivity of LZ77**|Jeremiah Blocki et.al.|[2502.09584](http://arxiv.org/abs/2502.09584)|null|
@@ -1115,12 +1115,12 @@
 |**2025-03-17**|**DreamRenderer: Taming Multi-Instance Attribute Control in Large-Scale Text-to-Image Models**|Dewei Zhou et.al.|[2503.12885](http://arxiv.org/abs/2503.12885)|null|
 |**2025-03-17**|**CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836](http://arxiv.org/abs/2503.12836)|null|
 |**2025-03-17**|**R3-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars**|Yifan Zhan et.al.|[2503.12751](http://arxiv.org/abs/2503.12751)|null|
-|**2025-03-17**|**GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**|Feng Qiao et.al.|[2503.12720](http://arxiv.org/abs/2503.12720)|null|
+|**2025-03-17**|**GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**|Feng Qiao et.al.|[2503.12720](http://arxiv.org/abs/2503.12720)|**[link](https://github.com/Qjizhi/GenStereo)**|
 |**2025-03-16**|**GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation**|Tao Feng et.al.|[2503.12600](http://arxiv.org/abs/2503.12600)|null|
 |**2025-03-16**|**BalancedDPO: Adaptive Multi-Metric Alignment**|Dipesh Tamboli et.al.|[2503.12575](http://arxiv.org/abs/2503.12575)|null|
 |**2025-03-16**|**Segment Any-Quality Images with Generative Latent Space Enhancement**|Guangqian Guo et.al.|[2503.12507](http://arxiv.org/abs/2503.12507)|null|
 |**2025-03-16**|**SING: Semantic Image Communications using Null-Space and INN-Guided Diffusion Models**|Jiakang Chen et.al.|[2503.12484](http://arxiv.org/abs/2503.12484)|null|
-|**2025-03-16**|**Pathology Image Restoration via Mixture of Prompts**|Jiangdong Cai et.al.|[2503.12399](http://arxiv.org/abs/2503.12399)|null|
+|**2025-03-16**|**Pathology Image Restoration via Mixture of Prompts**|Jiangdong Cai et.al.|[2503.12399](http://arxiv.org/abs/2503.12399)|**[link](https://github.com/caijd2000/mop)**|
 |**2025-03-15**|**DLA-Count: Dynamic Label Assignment Network for Dense Cell Distribution Counting**|Yuqing Yan et.al.|[2503.12063](http://arxiv.org/abs/2503.12063)|null|
 |**2025-03-15**|**MoDM: Efficient Serving for Image Generation via Mixture-of-Diffusion Models**|Yuchen Xia et.al.|[2503.11972](http://arxiv.org/abs/2503.11972)|null|
 |**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423](http://arxiv.org/abs/2503.11423)|null|
@@ -1128,9 +1128,9 @@
 |**2025-03-14**|**Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking**|Ziyi Wang et.al.|[2503.11324](http://arxiv.org/abs/2503.11324)|null|
 |**2025-03-14**|**Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning**|Lingyu Zhu et.al.|[2503.11321](http://arxiv.org/abs/2503.11321)|null|
 |**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
-|**2025-03-14**|**Zero-TIG: Temporal Consistency-Aware Zero-Shot Illumination-Guided Low-light Video Enhancement**|Yini Li et.al.|[2503.11175](http://arxiv.org/abs/2503.11175)|null|
+|**2025-03-14**|**Zero-TIG: Temporal Consistency-Aware Zero-Shot Illumination-Guided Low-light Video Enhancement**|Yini Li et.al.|[2503.11175](http://arxiv.org/abs/2503.11175)|**[link](https://github.com/liyinibristol/Zero-TIG)**|
 |**2025-03-14**|**Unifying Perplexing Behaviors in Modified BP Attributions through Alignment Perspective**|Guanhua Zheng et.al.|[2503.11160](http://arxiv.org/abs/2503.11160)|null|
-|**2025-03-14**|**GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior**|Zichen Tang et.al.|[2503.11143](http://arxiv.org/abs/2503.11143)|null|
+|**2025-03-14**|**GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior**|Zichen Tang et.al.|[2503.11143](http://arxiv.org/abs/2503.11143)|**[link](https://github.com/silence-tang/gaussianip)**|
 |**2025-03-14**|**MobiVital: Self-supervised Time-series Quality Estimation for Contactless Respiration Monitoring Using UWB Radar**|Ziqi Wang et.al.|[2503.11064](http://arxiv.org/abs/2503.11064)|null|
 |**2025-03-14**|**Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**|Gian Antariksa et.al.|[2503.11008](http://arxiv.org/abs/2503.11008)|null|
 |**2025-03-13**|**Statistical Analysis of Sentence Structures through ASCII, Lexical Alignment and PCA**|Abhijeet Sahdev et.al.|[2503.10470](http://arxiv.org/abs/2503.10470)|null|
@@ -1172,7 +1172,7 @@
 |**2025-03-09**|**GenDR: Lightning Generative Detail Restorator**|Yan Wang et.al.|[2503.06790](http://arxiv.org/abs/2503.06790)|null|
 |**2025-03-09**|**Unsupervised Multi-Clustering and Decision-Making Strategies for 4D-STEM Orientation Mapping**|Junhao Cao et.al.|[2503.06699](http://arxiv.org/abs/2503.06699)|null|
 |**2025-03-09**|**PixelPonder: Dynamic Patch Adaptation for Enhanced Multi-Conditional Text-to-Image Generation**|Yanjie Pan et.al.|[2503.06684](http://arxiv.org/abs/2503.06684)|null|
-|**2025-03-09**|**Learning Few-Step Diffusion Models by Trajectory Distribution Matching**|Yihong Luo et.al.|[2503.06674](http://arxiv.org/abs/2503.06674)|null|
+|**2025-03-09**|**Learning Few-Step Diffusion Models by Trajectory Distribution Matching**|Yihong Luo et.al.|[2503.06674](http://arxiv.org/abs/2503.06674)|**[link](https://github.com/Luo-Yihong/TDM)**|
 |**2025-03-09**|**The New CMS Measure of Excessive Radiation Dose or Inadequate CT Image Quality: Methods for Size-Adjusted Dose and Their Variabilities**|Gary Y Ge et.al.|[2503.06644](http://arxiv.org/abs/2503.06644)|null|
 |**2025-03-09**|**One-Step Diffusion Model for Image Motion-Deblurring**|Xiaoyang Liu et.al.|[2503.06537](http://arxiv.org/abs/2503.06537)|**[link](https://github.com/xyliu339/osdd)**|
 |**2025-03-08**|**PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model**|Xiang Gao et.al.|[2503.06186](http://arxiv.org/abs/2503.06186)|null|
@@ -2961,7 +2961,7 @@
 |**2024-04-30**|**Causal Perception Inspired Representation Learning for Trustworthy Image Quality Assessment**|Lei Wang et.al.|[2404.19567](http://arxiv.org/abs/2404.19567)|null|
 |**2024-05-04**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500](http://arxiv.org/abs/2404.19500)|null|
 |**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/abs/2404.19204)|null|
-|**2024-04-30**|**Global Search Optics: Automatically Exploring Optimal Solutions to Compact Computational Imaging Systems**|Yao Gao et.al.|[2404.19201](http://arxiv.org/abs/2404.19201)|null|
+|**2024-04-30**|**Global Search Optics: Automatically Exploring Optimal Solutions to Compact Computational Imaging Systems**|Yao Gao et.al.|[2404.19201](http://arxiv.org/abs/2404.19201)|**[link](https://github.com/ligpy/qgso)**|
 |**2024-04-30**|**Advancing low-field MRI with a universal denoising imaging transformer: Towards fast and high-quality imaging**|Zheren Zhu et.al.|[2404.19167](http://arxiv.org/abs/2404.19167)|**[link](https://github.com/zherenz/imt-mrd)**|
 |**2024-04-29**|**A Comprehensive Rubric for Annotating Pathological Speech**|Mario Corrales-Astorgano et.al.|[2404.18851](http://arxiv.org/abs/2404.18851)|null|
 |**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458](http://arxiv.org/abs/2404.18458)|null|
@@ -3410,7 +3410,7 @@
 |**2025-03-11**|**Super-resolution of turbulent velocity and scalar fields using different scalar distributions**|Ali Shamooni et.al.|[2503.08834](http://arxiv.org/abs/2503.08834)|null|
 |**2025-03-11**|**QUIET-SR: Quantum Image Enhancement Transformer for Single Image Super-Resolution**|Siddhant Dutta et.al.|[2503.08759](http://arxiv.org/abs/2503.08759)|null|
 |**2025-03-11**|**Feature Alignment with Equivariant Convolutions for Burst Image Super-Resolution**|Xinyi Liu et.al.|[2503.08300](http://arxiv.org/abs/2503.08300)|null|
-|**2025-03-11**|**MegaSR: Mining Customized Semantics and Expressive Guidance for Image Super-Resolution**|Xinrui Li et.al.|[2503.08096](http://arxiv.org/abs/2503.08096)|null|
+|**2025-03-11**|**MegaSR: Mining Customized Semantics and Expressive Guidance for Image Super-Resolution**|Xinrui Li et.al.|[2503.08096](http://arxiv.org/abs/2503.08096)|**[link](https://github.com/striveagain/megasr)**|
 |**2025-03-10**|**Blind Video Super-Resolution based on Implicit Kernels**|Qiang Zhu et.al.|[2503.07856](http://arxiv.org/abs/2503.07856)|null|
 |**2025-03-10**|**AdaptSR: Low-Rank Adaptation for Efficient and Scalable Real-World Super-Resolution**|Cansu Korkmaz et.al.|[2503.07748](http://arxiv.org/abs/2503.07748)|null|
 |**2025-03-11**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|
@@ -4423,11 +4423,11 @@
 |**2025-03-15**|**Integrating Product Coefficients for Improved 3D LiDAR Data Classification**|Patricia Medina et.al.|[2503.11943](http://arxiv.org/abs/2503.11943)|null|
 |**2025-03-14**|**Mitigating Bad Ground Truth in Supervised Machine Learning based Crop Classification: A Multi-Level Framework with Sentinel-2 Images**|Sanayya A et.al.|[2503.11807](http://arxiv.org/abs/2503.11807)|null|
 |**2025-03-14**|**Generalization performance of neural mapping schemes for the space-time interpolation of satellite-derived ocean colour datasets**|Thi Thuy Nga Nguyen et.al.|[2503.11588](http://arxiv.org/abs/2503.11588)|null|
-|**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|null|
+|**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|**[link](https://github.com/CIA-Oceanix/4dvarnet-core)**|
 |**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|
 |**2025-03-14**|**MEET: A Million-Scale Dataset for Fine-Grained Geospatial Scene Classification with Zoom-Free Remote Sensing Imagery**|Yansheng Li et.al.|[2503.11219](http://arxiv.org/abs/2503.11219)|null|
 |**2025-03-14**|**Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation**|Leideng Shi et.al.|[2503.11183](http://arxiv.org/abs/2503.11183)|**[link](https://github.com/Roaxy/MAFN)**|
-|**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|null|
+|**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|**[link](https://github.com/tianhuilab/falcon)**|
 |**2025-03-14**|**Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning**|Jieyi Tan et.al.|[2503.11051](http://arxiv.org/abs/2503.11051)|null|
 |**2025-03-13**|**PolyRoof: Precision Roof Polygonization in Urban Residential Building with Graph Neural Networks**|Chaikal Amrullah et.al.|[2503.10913](http://arxiv.org/abs/2503.10913)|null|
 |**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392](http://arxiv.org/abs/2503.10392)|**[link](https://github.com/mililab/roma)**|

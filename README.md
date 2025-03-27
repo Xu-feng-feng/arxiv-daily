@@ -251,6 +251,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Bandwidth Allocation for Cloud-Augmented Autonomous Driving**|Peter Schafhalter et.al.|[2503.20127](http://arxiv.org/abs/2503.20127)|null|
 |**2025-03-25**|**Bitstream Collisions in Neural Image Compression via Adversarial Perturbations**|Jordan Madden et.al.|[2503.19817](http://arxiv.org/abs/2503.19817)|null|
 |**2025-03-25**|**GIViC: Generative Implicit Video Compression**|Ge Gao et.al.|[2503.19604](http://arxiv.org/abs/2503.19604)|null|
 |**2025-03-25**|**TFIC: End-to-End Text-Focused Image Compression for Coding for Machines**|Stefano Della Fiore et.al.|[2503.19495](http://arxiv.org/abs/2503.19495)|null|
@@ -1082,6 +1083,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model and Training Strategy**|Yinan Sun et.al.|[2503.20673](http://arxiv.org/abs/2503.20673)|null|
+|**2025-03-26**|**VPO: Aligning Text-to-Video Generation Models with Prompt Optimization**|Jiale Cheng et.al.|[2503.20491](http://arxiv.org/abs/2503.20491)|null|
+|**2025-03-26**|**Adaptive Local Clustering over Attributed Graphs**|Haoran Zheng et.al.|[2503.20488](http://arxiv.org/abs/2503.20488)|**[link](https://github.com/HaoranZ99/laca)**|
+|**2025-03-26**|**Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability**|Yingdong Shi et.al.|[2503.20483](http://arxiv.org/abs/2503.20483)|null|
+|**2025-03-26**|**3D Convolutional Neural Networks for Improved Detection of Intracranial bleeding in CT Imaging**|Bargava Subramanian et.al.|[2503.20306](http://arxiv.org/abs/2503.20306)|null|
+|**2025-03-26**|**Traversing Distortion-Perception Tradeoff using a Single Score-Based Generative Model**|Yuhan Wang et.al.|[2503.20297](http://arxiv.org/abs/2503.20297)|null|
+|**2025-03-26**|**QualiSpeech: A Speech Quality Assessment Dataset with Natural Language Reasoning and Descriptions**|Siyin Wang et.al.|[2503.20290](http://arxiv.org/abs/2503.20290)|null|
+|**2025-03-26**|**EGVD: Event-Guided Video Diffusion Model for Physically Realistic Large-Motion Frame Interpolation**|Ziran Zhang et.al.|[2503.20268](http://arxiv.org/abs/2503.20268)|null|
 |**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
 |**2025-03-25**|**LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset**|Manjushree Aithal et.al.|[2503.19804](http://arxiv.org/abs/2503.19804)|null|
 |**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|null|
@@ -3434,6 +3443,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
+|**2025-03-26**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499](http://arxiv.org/abs/2503.20499)|null|
+|**2025-03-26**|**Consistency Trajectory Matching for One-Step Generative Super-Resolution**|Weiyi You et.al.|[2503.20349](http://arxiv.org/abs/2503.20349)|null|
+|**2025-03-26**|**Progressive Focused Transformer for Single Image Super-Resolution**|Wei Long et.al.|[2503.20337](http://arxiv.org/abs/2503.20337)|null|
+|**2025-03-26**|**ESSR: An 8K@30FPS Super-Resolution Accelerator With Edge Selective Network**|Chih-Chia Hsu et.al.|[2503.20245](http://arxiv.org/abs/2503.20245)|null|
 |**2025-03-25**|**Burst Image Super-Resolution with Mamba**|Ozan Unal et.al.|[2503.19634](http://arxiv.org/abs/2503.19634)|null|
 |**2025-03-25**|**Single-Step Latent Consistency Model for Remote Sensing Image Super-Resolution**|Xiaohui Sun et.al.|[2503.19505](http://arxiv.org/abs/2503.19505)|null|
 |**2025-03-25**|**Exploring Semantic Feature Discrimination for Perceptual Image Super-Resolution and Opinion-Unaware No-Reference Image Quality Assessment**|Guanglu Dong et.al.|[2503.19295](http://arxiv.org/abs/2503.19295)|null|
@@ -4462,6 +4476,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**|Ziyu Zhou et.al.|[2503.20734](http://arxiv.org/abs/2503.20734)|null|
+|**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
+|**2025-03-26**|**RSRWKV: A Linear-Complexity 2D Attention Mechanism for Efficient Remote Sensing Vision Task**|Chunshan Li et.al.|[2503.20382](http://arxiv.org/abs/2503.20382)|null|
+|**2025-03-26**|**Assessing SAM for Tree Crown Instance Segmentation from Drone Imagery**|Mélisande Teng et.al.|[2503.20199](http://arxiv.org/abs/2503.20199)|null|
 |**2025-03-25**|**On What Depends the Robustness of Multi-source Models to Missing Data in Earth Observation?**|Francisco Mena et.al.|[2503.19719](http://arxiv.org/abs/2503.19719)|null|
 |**2025-03-25**|**CoSimGen: Controllable Diffusion Model for Simultaneous Image and Mask Generation**|Rupak Bose et.al.|[2503.19661](http://arxiv.org/abs/2503.19661)|null|
 |**2025-03-25**|**Tiling artifacts and trade-offs of feature normalization in the segmentation of large biological images**|Elena Buglakova et.al.|[2503.19545](http://arxiv.org/abs/2503.19545)|null|

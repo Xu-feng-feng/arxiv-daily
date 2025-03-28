@@ -251,6 +251,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Nonlinear Multiple Response Regression and Learning of Latent Spaces**|Ye Tian et.al.|[2503.21608](http://arxiv.org/abs/2503.21608)|null|
+|**2025-03-27**|**F-INR: Functional Tensor Decomposition for Implicit Neural Representations**|Sai Karthikeya Vemuri et.al.|[2503.21507](http://arxiv.org/abs/2503.21507)|null|
+|**2025-03-27**|**Embedding Compression Distortion in Video Coding for Machines**|Yuxiao Sun et.al.|[2503.21469](http://arxiv.org/abs/2503.21469)|null|
+|**2025-03-27**|**Multi-Scale Invertible Neural Network for Wide-Range Variable-Rate Learned Image Compression**|Hanyue Tu et.al.|[2503.21284](http://arxiv.org/abs/2503.21284)|null|
+|**2025-03-27**|**WVSC: Wireless Video Semantic Communication with Multi-frame Compensation**|Bingyan Xie et.al.|[2503.21197](http://arxiv.org/abs/2503.21197)|null|
 |**2025-03-26**|**Bandwidth Allocation for Cloud-Augmented Autonomous Driving**|Peter Schafhalter et.al.|[2503.20127](http://arxiv.org/abs/2503.20127)|null|
 |**2025-03-25**|**Bitstream Collisions in Neural Image Compression via Adversarial Perturbations**|Jordan Madden et.al.|[2503.19817](http://arxiv.org/abs/2503.19817)|null|
 |**2025-03-25**|**GIViC: Generative Implicit Video Compression**|Ge Gao et.al.|[2503.19604](http://arxiv.org/abs/2503.19604)|null|
@@ -1083,14 +1088,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761](http://arxiv.org/abs/2503.21761)|null|
+|**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758](http://arxiv.org/abs/2503.21758)|null|
+|**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745](http://arxiv.org/abs/2503.21745)|null|
+|**2025-03-27**|**Evaluating Text-to-Image Synthesis with a Conditional Fréchet Distance**|Jaywon Koo et.al.|[2503.21721](http://arxiv.org/abs/2503.21721)|null|
+|**2025-03-27**|**Audio-driven Gesture Generation via Deviation Feature in the Latent Space**|Jiahui Chen et.al.|[2503.21616](http://arxiv.org/abs/2503.21616)|null|
+|**2025-03-27**|**In vivo dynamic optical coherence tomography of human skin with hardware- and software-based motion correction**|Yu Guo et.al.|[2503.21384](http://arxiv.org/abs/2503.21384)|null|
+|**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|null|
+|**2025-03-27**|**Reducing CT Metal Artifacts by Learning Latent Space Alignment with Gemstone Spectral Imaging Data**|Wencheng Han et.al.|[2503.21259](http://arxiv.org/abs/2503.21259)|null|
+|**2025-03-26**|**Generalized Ray Tracing with Basis functions for Tomographic Projections**|Youssef Haouchat et.al.|[2503.20907](http://arxiv.org/abs/2503.20907)|null|
+|**2025-03-26**|**Debiasing Kernel-Based Generative Models**|Tian Qin et.al.|[2503.20825](http://arxiv.org/abs/2503.20825)|null|
 |**2025-03-27**|**Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model and Training Strategy**|Yinan Sun et.al.|[2503.20673](http://arxiv.org/abs/2503.20673)|null|
-|**2025-03-26**|**VPO: Aligning Text-to-Video Generation Models with Prompt Optimization**|Jiale Cheng et.al.|[2503.20491](http://arxiv.org/abs/2503.20491)|null|
+|**2025-03-26**|**VPO: Aligning Text-to-Video Generation Models with Prompt Optimization**|Jiale Cheng et.al.|[2503.20491](http://arxiv.org/abs/2503.20491)|**[link](https://github.com/thu-coai/vpo)**|
 |**2025-03-26**|**Adaptive Local Clustering over Attributed Graphs**|Haoran Zheng et.al.|[2503.20488](http://arxiv.org/abs/2503.20488)|**[link](https://github.com/HaoranZ99/laca)**|
 |**2025-03-26**|**Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability**|Yingdong Shi et.al.|[2503.20483](http://arxiv.org/abs/2503.20483)|null|
 |**2025-03-26**|**3D Convolutional Neural Networks for Improved Detection of Intracranial bleeding in CT Imaging**|Bargava Subramanian et.al.|[2503.20306](http://arxiv.org/abs/2503.20306)|null|
 |**2025-03-26**|**Traversing Distortion-Perception Tradeoff using a Single Score-Based Generative Model**|Yuhan Wang et.al.|[2503.20297](http://arxiv.org/abs/2503.20297)|null|
 |**2025-03-26**|**QualiSpeech: A Speech Quality Assessment Dataset with Natural Language Reasoning and Descriptions**|Siyin Wang et.al.|[2503.20290](http://arxiv.org/abs/2503.20290)|null|
-|**2025-03-26**|**EGVD: Event-Guided Video Diffusion Model for Physically Realistic Large-Motion Frame Interpolation**|Ziran Zhang et.al.|[2503.20268](http://arxiv.org/abs/2503.20268)|null|
+|**2025-03-26**|**EGVD: Event-Guided Video Diffusion Model for Physically Realistic Large-Motion Frame Interpolation**|Ziran Zhang et.al.|[2503.20268](http://arxiv.org/abs/2503.20268)|**[link](https://github.com/openimaginglab/egvd)**|
 |**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
 |**2025-03-25**|**LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset**|Manjushree Aithal et.al.|[2503.19804](http://arxiv.org/abs/2503.19804)|null|
 |**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|null|
@@ -3443,9 +3458,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410](http://arxiv.org/abs/2503.21410)|null|
+|**2025-03-27**|**Residual Learning Inspired Crossover Operator and Strategy Enhancements for Evolutionary Multitasking**|Ruilin Wang et.al.|[2503.21347](http://arxiv.org/abs/2503.21347)|null|
+|**2025-03-27**|**Simulation-informed deep learning for enhanced SWOT observations of fine-scale ocean dynamics**|Eugenio Cutolo et.al.|[2503.21303](http://arxiv.org/abs/2503.21303)|null|
+|**2025-03-27**|**PLAIN: Scalable Estimation Architecture for Integrated Sensing and Communication**|Bashar Tahir et.al.|[2503.21242](http://arxiv.org/abs/2503.21242)|null|
+|**2025-03-27**|**ALMA 2D Super-resolution Imaging Survey of Ophiuchus Class I/Flat Spectrum/II Disks -- I: Discovery of New Disk Substructures**|Ayumu Shoshi et.al.|[2503.21060](http://arxiv.org/abs/2503.21060)|null|
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
 |**2025-03-26**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499](http://arxiv.org/abs/2503.20499)|null|
-|**2025-03-26**|**Consistency Trajectory Matching for One-Step Generative Super-Resolution**|Weiyi You et.al.|[2503.20349](http://arxiv.org/abs/2503.20349)|null|
+|**2025-03-27**|**Consistency Trajectory Matching for One-Step Generative Super-Resolution**|Weiyi You et.al.|[2503.20349](http://arxiv.org/abs/2503.20349)|null|
 |**2025-03-26**|**Progressive Focused Transformer for Single Image Super-Resolution**|Wei Long et.al.|[2503.20337](http://arxiv.org/abs/2503.20337)|null|
 |**2025-03-26**|**ESSR: An 8K@30FPS Super-Resolution Accelerator With Edge Selective Network**|Chih-Chia Hsu et.al.|[2503.20245](http://arxiv.org/abs/2503.20245)|null|
 |**2025-03-25**|**Burst Image Super-Resolution with Mamba**|Ozan Unal et.al.|[2503.19634](http://arxiv.org/abs/2503.19634)|null|
@@ -3456,7 +3476,7 @@
 |**2025-03-24**|**Benchmarking Burst Super-Resolution for Polarization Images: Noise Dataset and Analysis**|Inseung Hwang et.al.|[2503.18705](http://arxiv.org/abs/2503.18705)|null|
 |**2025-03-24**|**Leveraging Land Cover Priors for Isoprene Emission Super-Resolution**|Christopher Ummerle et.al.|[2503.18658](http://arxiv.org/abs/2503.18658)|null|
 |**2025-03-24**|**Uncertainty-guided Perturbation for Image Super-Resolution Diffusion Model**|Leheng Zhang et.al.|[2503.18512](http://arxiv.org/abs/2503.18512)|null|
-|**2025-03-25**|**Latent Space Super-Resolution for Higher-Resolution Image Generation with Diffusion Models**|Jinho Jeong et.al.|[2503.18446](http://arxiv.org/abs/2503.18446)|null|
+|**2025-03-25**|**Latent Space Super-Resolution for Higher-Resolution Image Generation with Diffusion Models**|Jinho Jeong et.al.|[2503.18446](http://arxiv.org/abs/2503.18446)|**[link](https://github.com/3587jjh/lsrna)**|
 |**2025-03-23**|**A Two-Stage Rotation-Based Super-Resolution Signature Estimation for Spatial Wideband Systems**|Chandrashekhar Rai et.al.|[2503.18111](http://arxiv.org/abs/2503.18111)|null|
 |**2025-03-22**|**Fractal-IR: A Unified Framework for Efficient and Scalable Image Restoration**|Yawei Li et.al.|[2503.17825](http://arxiv.org/abs/2503.17825)|null|
 |**2025-03-22**|**Hierarchy-Aware and Channel-Adaptive Semantic Communication for Bandwidth-Limited Data Fusion**|Lei Guo et.al.|[2503.17777](http://arxiv.org/abs/2503.17777)|null|
@@ -4476,6 +4496,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Uncertainty-aware Bayesian machine learning modelling of land cover classification**|Samuel Bilson et.al.|[2503.21510](http://arxiv.org/abs/2503.21510)|null|
+|**2025-03-27**|**Dual-Task Learning for Dead Tree Detection and Segmentation with Hybrid Self-Attention U-Nets in Aerial Imagery**|Anis Ur Rahman et.al.|[2503.21438](http://arxiv.org/abs/2503.21438)|null|
+|**2025-03-27**|**HSLiNets: Evaluating Band Ordering Strategies in Hyperspectral and LiDAR Fusion**|Judy X Yang et.al.|[2503.21072](http://arxiv.org/abs/2503.21072)|null|
+|**2025-03-26**|**Size Constraint on Hayabusa2 Extended Mission Rendezvous Target 1998~KY $_{26}$ via VLT/VISIR Non-detection**|Jin Beniyama et.al.|[2503.20891](http://arxiv.org/abs/2503.20891)|null|
 |**2025-03-26**|**SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**|Ziyu Zhou et.al.|[2503.20734](http://arxiv.org/abs/2503.20734)|null|
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
 |**2025-03-26**|**RSRWKV: A Linear-Complexity 2D Attention Mechanism for Efficient Remote Sensing Vision Task**|Chunshan Li et.al.|[2503.20382](http://arxiv.org/abs/2503.20382)|null|
@@ -4491,7 +4515,7 @@
 |**2025-03-24**|**Leveraging Land Cover Priors for Isoprene Emission Super-Resolution**|Christopher Ummerle et.al.|[2503.18658](http://arxiv.org/abs/2503.18658)|null|
 |**2025-03-24**|**HiRes-FusedMIM: A High-Resolution RGB-DSM Pre-trained Model for Building-Level Remote Sensing Applications**|Guneet Mutreja et.al.|[2503.18540](http://arxiv.org/abs/2503.18540)|null|
 |**2025-03-24**|**LiDAR Remote Sensing Meets Weak Supervision: Concepts, Methods, and Perspectives**|Yuan Gao et.al.|[2503.18384](http://arxiv.org/abs/2503.18384)|null|
-|**2025-03-23**|**Challenging Dataset and Multi-modal Gated Mixture of Experts Model for Remote Sensing Copy-Move Forgery Understanding**|Ze Zhang et.al.|[2503.18104](http://arxiv.org/abs/2503.18104)|null|
+|**2025-03-23**|**Challenging Dataset and Multi-modal Gated Mixture of Experts Model for Remote Sensing Copy-Move Forgery Understanding**|Ze Zhang et.al.|[2503.18104](http://arxiv.org/abs/2503.18104)|**[link](https://github.com/shenyedepisa/cm-mmoe)**|
 |**2025-03-23**|**Text-Driven Cross-Modal Place Recognition Method for Remote Sensing Localization**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
 |**2025-03-23**|**Real-World Remote Sensing Image Dehazing: Benchmark and Baseline**|Zeng-Hui Zhu et.al.|[2503.17966](http://arxiv.org/abs/2503.17966)|null|
 |**2025-03-23**|**Satellite-Terrestrial Integrated Fog Networks: Architecture, Technologies, and Challenges**|Shuo Yuan et.al.|[2503.17912](http://arxiv.org/abs/2503.17912)|null|

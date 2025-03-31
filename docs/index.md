@@ -242,6 +242,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**DeCompress: Denoising via Neural Compression**|Ali Zafari et.al.|[2503.22015](http://arxiv.org/abs/2503.22015)|null|
 |**2025-03-27**|**Nonlinear Multiple Response Regression and Learning of Latent Spaces**|Ye Tian et.al.|[2503.21608](http://arxiv.org/abs/2503.21608)|null|
 |**2025-03-27**|**F-INR: Functional Tensor Decomposition for Implicit Neural Representations**|Sai Karthikeya Vemuri et.al.|[2503.21507](http://arxiv.org/abs/2503.21507)|null|
 |**2025-03-27**|**Embedding Compression Distortion in Video Coding for Machines**|Yuxiao Sun et.al.|[2503.21469](http://arxiv.org/abs/2503.21469)|null|
@@ -1077,6 +1078,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
+|**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
+|**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563](http://arxiv.org/abs/2503.22563)|null|
+|**2025-03-28**|**Data Quality Matters: Quantifying Image Quality Impact on Machine Learning Performance**|Christian Steinhauser et.al.|[2503.22375](http://arxiv.org/abs/2503.22375)|null|
+|**2025-03-28**|**Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models**|Ziping Dong et.al.|[2503.22330](http://arxiv.org/abs/2503.22330)|null|
+|**2025-03-28**|**Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion**|Songsong Yu et.al.|[2503.22262](http://arxiv.org/abs/2503.22262)|null|
+|**2025-03-27**|**Multispectral Demosaicing via Dual Cameras**|SaiKiran Tedla et.al.|[2503.22026](http://arxiv.org/abs/2503.22026)|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761](http://arxiv.org/abs/2503.21761)|null|
 |**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758](http://arxiv.org/abs/2503.21758)|**[link](https://github.com/alpha-vllm/lumina-image-2.0)**|
 |**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745](http://arxiv.org/abs/2503.21745)|null|
@@ -3445,6 +3453,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
+|**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563](http://arxiv.org/abs/2503.22563)|null|
+|**2025-03-28**|**Deterministic Medical Image Translation via High-fidelity Brownian Bridges**|Qisheng He et.al.|[2503.22531](http://arxiv.org/abs/2503.22531)|null|
+|**2025-03-28**|**Knowledge Rectification for Camouflaged Object Detection: Unlocking Insights from Low-Quality Data**|Juwei Guan et.al.|[2503.22180](http://arxiv.org/abs/2503.22180)|null|
+|**2025-03-27**|**KernelFusion: Assumption-Free Blind Super-Resolution via Patch Diffusion**|Oliver Heinimann et.al.|[2503.21907](http://arxiv.org/abs/2503.21907)|null|
+|**2025-03-26**|**Low-Rank Adaptation of Pre-Trained Stable Diffusion for Rigid-Body Target ISAR Imaging**|Boan Zhang et.al.|[2503.21823](http://arxiv.org/abs/2503.21823)|null|
 |**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410](http://arxiv.org/abs/2503.21410)|null|
 |**2025-03-27**|**Residual Learning Inspired Crossover Operator and Strategy Enhancements for Evolutionary Multitasking**|Ruilin Wang et.al.|[2503.21347](http://arxiv.org/abs/2503.21347)|null|
 |**2025-03-27**|**Simulation-informed deep learning for enhanced SWOT observations of fine-scale ocean dynamics**|Eugenio Cutolo et.al.|[2503.21303](http://arxiv.org/abs/2503.21303)|null|
@@ -4481,6 +4495,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Assessing Foundation Models for Sea Ice Type Segmentation in Sentinel-1 SAR Imagery**|Samira Alkaee Taleghan et.al.|[2503.22516](http://arxiv.org/abs/2503.22516)|null|
+|**2025-03-28**|**Efficient Building Roof Type Classification: A Domain-Specific Self-Supervised Approach**|Guneet Mutreja et.al.|[2503.22251](http://arxiv.org/abs/2503.22251)|null|
+|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|null|
+|**2025-03-28**|**A Deep Learning Framework for Boundary-Aware Semantic Segmentation**|Tai An et.al.|[2503.22050](http://arxiv.org/abs/2503.22050)|null|
+|**2025-03-27**|**HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery**|Jingtao Li et.al.|[2503.21841](http://arxiv.org/abs/2503.21841)|null|
+|**2025-03-25**|**Forecasting Volcanic Radiative Power (VPR) at Fuego Volcano Using Bayesian Regularized Neural Network**|Snehamoy Chatterjee et.al.|[2503.21803](http://arxiv.org/abs/2503.21803)|null|
 |**2025-03-27**|**Uncertainty-aware Bayesian machine learning modelling of land cover classification**|Samuel Bilson et.al.|[2503.21510](http://arxiv.org/abs/2503.21510)|null|
 |**2025-03-27**|**Dual-Task Learning for Dead Tree Detection and Segmentation with Hybrid Self-Attention U-Nets in Aerial Imagery**|Anis Ur Rahman et.al.|[2503.21438](http://arxiv.org/abs/2503.21438)|null|
 |**2025-03-27**|**HSLiNets: Evaluating Band Ordering Strategies in Hyperspectral and LiDAR Fusion**|Judy X Yang et.al.|[2503.21072](http://arxiv.org/abs/2503.21072)|**[link](https://github.com/judyxyang/hslinets)**|

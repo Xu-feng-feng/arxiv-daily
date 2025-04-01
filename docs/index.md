@@ -242,6 +242,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862](http://arxiv.org/abs/2503.23862)|**[link](https://github.com/pnu-amilab/cleric)**|
+|**2025-03-31**|**An extrapolated and provably convergent algorithm for nonlinear matrix decomposition with the ReLU function**|Nicolas Gillis et.al.|[2503.23832](http://arxiv.org/abs/2503.23832)|**[link](https://github.com/giovanniseraghiti/relu-nmd)**|
+|**2025-03-31**|**TransVFC: A Transformable Video Feature Compression Framework for Machines**|Yuxiao Sun et.al.|[2503.23772](http://arxiv.org/abs/2503.23772)|null|
+|**2025-03-30**|**Enhancing 3D Gaussian Splatting Compression via Spatial Condition-based Prediction**|Jingui Ma et.al.|[2503.23337](http://arxiv.org/abs/2503.23337)|null|
+|**2025-03-29**|**Improved Motion Plane Adaptive 360-Degree Video Compression Using Affine Motion Models**|Marina Ritthaler et.al.|[2503.23151](http://arxiv.org/abs/2503.23151)|null|
+|**2025-03-29**|**ShiftLIC: Lightweight Learned Image Compression with Spatial-Channel Shift Operations**|Youneng Bao et.al.|[2503.23052](http://arxiv.org/abs/2503.23052)|null|
 |**2025-03-27**|**DeCompress: Denoising via Neural Compression**|Ali Zafari et.al.|[2503.22015](http://arxiv.org/abs/2503.22015)|null|
 |**2025-03-27**|**Nonlinear Multiple Response Regression and Learning of Latent Spaces**|Ye Tian et.al.|[2503.21608](http://arxiv.org/abs/2503.21608)|null|
 |**2025-03-27**|**F-INR: Functional Tensor Decomposition for Implicit Neural Representations**|Sai Karthikeya Vemuri et.al.|[2503.21507](http://arxiv.org/abs/2503.21507)|null|
@@ -1078,6 +1084,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
+|**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374](http://arxiv.org/abs/2503.24374)|null|
+|**2025-03-31**|**StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting**|Shakiba Kheradmand et.al.|[2503.24366](http://arxiv.org/abs/2503.24366)|null|
+|**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210](http://arxiv.org/abs/2503.24210)|null|
+|**2025-03-31**|**FineCausal: A Causal-Based Framework for Interpretable Fine-Grained Action Quality Assessment**|Ruisheng Han et.al.|[2503.23911](http://arxiv.org/abs/2503.23911)|**[link](https://github.com/harrison21/finecausal)**|
+|**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897](http://arxiv.org/abs/2503.23897)|null|
+|**2025-03-31**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862](http://arxiv.org/abs/2503.23862)|**[link](https://github.com/pnu-amilab/cleric)**|
+|**2025-03-30**|**What Makes an Evaluation Useful? Common Pitfalls and Best Practices**|Gil Gekker et.al.|[2503.23424](http://arxiv.org/abs/2503.23424)|null|
+|**2025-03-30**|**Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention**|Xin Zuo et.al.|[2503.23422](http://arxiv.org/abs/2503.23422)|null|
+|**2025-03-30**|**Visual Acuity Consistent Foveated Rendering towards Retinal Resolution**|Zhi Zhang et.al.|[2503.23410](http://arxiv.org/abs/2503.23410)|null|
+|**2025-03-30**|**Map Feature Perception Metric for Map Generation Quality Assessment and Loss Optimization**|Chenxing Sun et.al.|[2503.23370](http://arxiv.org/abs/2503.23370)|null|
+|**2025-03-29**|**NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations**|Zhenyu Tang et.al.|[2503.23162](http://arxiv.org/abs/2503.23162)|null|
+|**2025-03-29**|**STSA: Spatial-Temporal Semantic Alignment for Visual Dubbing**|Zijun Ding et.al.|[2503.23039](http://arxiv.org/abs/2503.23039)|null|
+|**2025-03-28**|**Concept and Demonstration of a Low-cost Compact Electron Microscope Enabled by a Photothermionic Carbon Nanotube Cathode**|Casimir Kuzyk et.al.|[2503.22910](http://arxiv.org/abs/2503.22910)|null|
+|**2025-03-28**|**Learning to Reason for Long-Form Story Generation**|Alexander Gurung et.al.|[2503.22828](http://arxiv.org/abs/2503.22828)|null|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
 |**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563](http://arxiv.org/abs/2503.22563)|null|
@@ -3453,6 +3474,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|null|
+|**2025-03-30**|**DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution**|Zheng-Peng Duan et.al.|[2503.23580](http://arxiv.org/abs/2503.23580)|null|
+|**2025-03-30**|**A Lightweight Image Super-Resolution Transformer Trained on Low-Resolution Images Only**|Björn Möller et.al.|[2503.23265](http://arxiv.org/abs/2503.23265)|**[link](https://github.com/ifnspaml/superresolutionmultiscaletraining)**|
+|**2025-03-29**|**A GAN-Enhanced Deep Learning Framework for Rooftop Detection from Historical Aerial Imagery**|Pengyu Chen et.al.|[2503.23200](http://arxiv.org/abs/2503.23200)|null|
 |**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
 |**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563](http://arxiv.org/abs/2503.22563)|null|
 |**2025-03-28**|**Deterministic Medical Image Translation via High-fidelity Brownian Bridges**|Qisheng He et.al.|[2503.22531](http://arxiv.org/abs/2503.22531)|null|
@@ -4495,6 +4520,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219](http://arxiv.org/abs/2503.24219)|null|
+|**2025-03-31**|**A Plasticity-Aware Method for Continual Self-Supervised Learning in Remote Sensing**|Lars Möllenbrok et.al.|[2503.24088](http://arxiv.org/abs/2503.24088)|null|
+|**2025-03-31**|**FlexiMo: A Flexible Remote Sensing Foundation Model**|Xuyang Li et.al.|[2503.23844](http://arxiv.org/abs/2503.23844)|null|
+|**2025-03-31**|**Pan-LUT: Efficient Pan-sharpening via Learnable Look-Up Tables**|Zhongnan Cai et.al.|[2503.23793](http://arxiv.org/abs/2503.23793)|null|
+|**2025-03-31**|**XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?**|Fengxiang Wang et.al.|[2503.23771](http://arxiv.org/abs/2503.23771)|null|
+|**2025-03-31**|**Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space**|Yi Liu et.al.|[2503.23717](http://arxiv.org/abs/2503.23717)|null|
+|**2025-03-30**|**CADFormer: Fine-Grained Cross-modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation**|Maofu Liu et.al.|[2503.23456](http://arxiv.org/abs/2503.23456)|null|
+|**2025-03-30**|**Semantic-Spatial Feature Fusion with Dynamic Graph Refinement for Remote Sensing Image Captioning**|Maofu Liu et.al.|[2503.23453](http://arxiv.org/abs/2503.23453)|null|
+|**2025-03-30**|**EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing**|Hongxiang Jiang et.al.|[2503.23330](http://arxiv.org/abs/2503.23330)|null|
+|**2025-03-29**|**A large-scale image-text dataset benchmark for farmland segmentation**|Chao Tao et.al.|[2503.23106](http://arxiv.org/abs/2503.23106)|null|
+|**2025-03-29**|**Efficient Adaptation For Remote Sensing Visual Grounding**|Hasan Moughnieh et.al.|[2503.23083](http://arxiv.org/abs/2503.23083)|null|
+|**2025-03-28**|**Enhancing DeepLabV3+ to Fuse Aerial and Satellite Images for Semantic Segmentation**|Anas Berka et.al.|[2503.22909](http://arxiv.org/abs/2503.22909)|null|
+|**2025-03-28**|**Generating Synthetic Oracle Datasets to Analyze Noise Impact: A Study on Building Function Classification Using Tweets**|Shanshan Bai et.al.|[2503.22856](http://arxiv.org/abs/2503.22856)|null|
 |**2025-03-28**|**Assessing Foundation Models for Sea Ice Type Segmentation in Sentinel-1 SAR Imagery**|Samira Alkaee Taleghan et.al.|[2503.22516](http://arxiv.org/abs/2503.22516)|null|
 |**2025-03-28**|**Efficient Building Roof Type Classification: A Domain-Specific Self-Supervised Approach**|Guneet Mutreja et.al.|[2503.22251](http://arxiv.org/abs/2503.22251)|null|
 |**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|null|

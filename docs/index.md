@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -249,11 +249,11 @@ layout: default
 |**2025-03-28**|**Multi-Scale Invertible Neural Network for Wide-Range Variable-Rate Learned Image Compression**|Hanyue Tu et.al.|[2503.21284](http://arxiv.org/abs/2503.21284)|**[link](https://github.com/hytu99/msinn-vrlic)**|
 |**2025-03-27**|**WVSC: Wireless Video Semantic Communication with Multi-frame Compensation**|Bingyan Xie et.al.|[2503.21197](http://arxiv.org/abs/2503.21197)|null|
 |**2025-03-26**|**Bandwidth Allocation for Cloud-Augmented Autonomous Driving**|Peter Schafhalter et.al.|[2503.20127](http://arxiv.org/abs/2503.20127)|null|
-|**2025-03-25**|**Bitstream Collisions in Neural Image Compression via Adversarial Perturbations**|Jordan Madden et.al.|[2503.19817](http://arxiv.org/abs/2503.19817)|null|
+|**2025-03-25**|**Bitstream Collisions in Neural Image Compression via Adversarial Perturbations**|Jordan Madden et.al.|[2503.19817](http://arxiv.org/abs/2503.19817)|**[link](https://github.com/neddamj/nicsec)**|
 |**2025-03-25**|**GIViC: Generative Implicit Video Compression**|Ge Gao et.al.|[2503.19604](http://arxiv.org/abs/2503.19604)|null|
 |**2025-03-25**|**TFIC: End-to-End Text-Focused Image Compression for Coding for Machines**|Stefano Della Fiore et.al.|[2503.19495](http://arxiv.org/abs/2503.19495)|null|
 |**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
-|**2025-03-24**|**Rank-Based Modeling for Universal Packets Compression in Multi-Modal Communications**|Xuanhao Luo et.al.|[2503.19097](http://arxiv.org/abs/2503.19097)|null|
+|**2025-03-24**|**Rank-Based Modeling for Universal Packets Compression in Multi-Modal Communications**|Xuanhao Luo et.al.|[2503.19097](http://arxiv.org/abs/2503.19097)|**[link](https://github.com/Xuanhao-Luo/ByteTrans)**|
 |**2025-03-24**|**Merge Mode for Template-based Intra Mode Derivation (TIMD) in ECM**|Mohsen Abdoli et.al.|[2503.18679](http://arxiv.org/abs/2503.18679)|null|
 |**2025-03-24**|**GranQ: Granular Zero-Shot Quantization with Unified Layer-Channel Awareness**|Inpyo Hong et.al.|[2503.18339](http://arxiv.org/abs/2503.18339)|null|
 |**2025-03-23**|**Compression benchmarking of holotomography data using the OME-Zarr storage format**|Dohyeon Lee et.al.|[2503.18037](http://arxiv.org/abs/2503.18037)|null|
@@ -1085,12 +1085,12 @@ layout: default
 |**2025-03-28**|**Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models**|Ziping Dong et.al.|[2503.22330](http://arxiv.org/abs/2503.22330)|null|
 |**2025-03-28**|**Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion**|Songsong Yu et.al.|[2503.22262](http://arxiv.org/abs/2503.22262)|null|
 |**2025-03-27**|**Multispectral Demosaicing via Dual Cameras**|SaiKiran Tedla et.al.|[2503.22026](http://arxiv.org/abs/2503.22026)|null|
-|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761](http://arxiv.org/abs/2503.21761)|null|
+|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761](http://arxiv.org/abs/2503.21761)|**[link](https://github.com/Davidyao99/uni4d)**|
 |**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758](http://arxiv.org/abs/2503.21758)|**[link](https://github.com/alpha-vllm/lumina-image-2.0)**|
 |**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745](http://arxiv.org/abs/2503.21745)|null|
 |**2025-03-27**|**Evaluating Text-to-Image Synthesis with a Conditional Fréchet Distance**|Jaywon Koo et.al.|[2503.21721](http://arxiv.org/abs/2503.21721)|null|
 |**2025-03-27**|**Audio-driven Gesture Generation via Deviation Feature in the Latent Space**|Jiahui Chen et.al.|[2503.21616](http://arxiv.org/abs/2503.21616)|null|
-|**2025-03-27**|**In vivo dynamic optical coherence tomography of human skin with hardware- and software-based motion correction**|Yu Guo et.al.|[2503.21384](http://arxiv.org/abs/2503.21384)|null|
+|**2025-03-27**|**In vivo dynamic optical coherence tomography of human skin with hardware- and software-based motion correction**|Yu Guo et.al.|[2503.21384](http://arxiv.org/abs/2503.21384)|**[link](https://github.com/ComputationalOpticsGroup/SkinDOCT-motion-correction)**|
 |**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|null|
 |**2025-03-27**|**Reducing CT Metal Artifacts by Learning Latent Space Alignment with Gemstone Spectral Imaging Data**|Wencheng Han et.al.|[2503.21259](http://arxiv.org/abs/2503.21259)|null|
 |**2025-03-26**|**Generalized Ray Tracing with Basis functions for Tomographic Projections**|Youssef Haouchat et.al.|[2503.20907](http://arxiv.org/abs/2503.20907)|null|
@@ -3471,7 +3471,7 @@ layout: default
 |**2025-03-26**|**ESSR: An 8K@30FPS Super-Resolution Accelerator With Edge Selective Network**|Chih-Chia Hsu et.al.|[2503.20245](http://arxiv.org/abs/2503.20245)|null|
 |**2025-03-25**|**Burst Image Super-Resolution with Mamba**|Ozan Unal et.al.|[2503.19634](http://arxiv.org/abs/2503.19634)|null|
 |**2025-03-25**|**Single-Step Latent Consistency Model for Remote Sensing Image Super-Resolution**|Xiaohui Sun et.al.|[2503.19505](http://arxiv.org/abs/2503.19505)|null|
-|**2025-03-25**|**Exploring Semantic Feature Discrimination for Perceptual Image Super-Resolution and Opinion-Unaware No-Reference Image Quality Assessment**|Guanglu Dong et.al.|[2503.19295](http://arxiv.org/abs/2503.19295)|null|
+|**2025-03-25**|**Exploring Semantic Feature Discrimination for Perceptual Image Super-Resolution and Opinion-Unaware No-Reference Image Quality Assessment**|Guanglu Dong et.al.|[2503.19295](http://arxiv.org/abs/2503.19295)|**[link](https://github.com/GuangluDong0728/SFD)**|
 |**2025-03-25**|**$L^2$ FMamba: Lightweight Light Field Image Super-Resolution with State Space Model**|Zeqiang Wei et.al.|[2503.19253](http://arxiv.org/abs/2503.19253)|null|
 |**2025-03-24**|**Blind structured illumination microscopy via generalized Richardson-Lucy method**|Valentina Capalbo et.al.|[2503.18786](http://arxiv.org/abs/2503.18786)|null|
 |**2025-03-24**|**Benchmarking Burst Super-Resolution for Polarization Images: Noise Dataset and Analysis**|Inseung Hwang et.al.|[2503.18705](http://arxiv.org/abs/2503.18705)|null|
@@ -4502,10 +4502,10 @@ layout: default
 |**2025-03-27**|**HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery**|Jingtao Li et.al.|[2503.21841](http://arxiv.org/abs/2503.21841)|null|
 |**2025-03-25**|**Forecasting Volcanic Radiative Power (VPR) at Fuego Volcano Using Bayesian Regularized Neural Network**|Snehamoy Chatterjee et.al.|[2503.21803](http://arxiv.org/abs/2503.21803)|null|
 |**2025-03-27**|**Uncertainty-aware Bayesian machine learning modelling of land cover classification**|Samuel Bilson et.al.|[2503.21510](http://arxiv.org/abs/2503.21510)|null|
-|**2025-03-27**|**Dual-Task Learning for Dead Tree Detection and Segmentation with Hybrid Self-Attention U-Nets in Aerial Imagery**|Anis Ur Rahman et.al.|[2503.21438](http://arxiv.org/abs/2503.21438)|null|
+|**2025-03-27**|**Dual-Task Learning for Dead Tree Detection and Segmentation with Hybrid Self-Attention U-Nets in Aerial Imagery**|Anis Ur Rahman et.al.|[2503.21438](http://arxiv.org/abs/2503.21438)|**[link](https://github.com/Global-Ecosystem-Health-Observatory/TreeMort)**|
 |**2025-03-27**|**HSLiNets: Evaluating Band Ordering Strategies in Hyperspectral and LiDAR Fusion**|Judy X Yang et.al.|[2503.21072](http://arxiv.org/abs/2503.21072)|**[link](https://github.com/judyxyang/hslinets)**|
 |**2025-03-26**|**Size Constraint on Hayabusa2 Extended Mission Rendezvous Target 1998~KY $_{26}$ via VLT/VISIR Non-detection**|Jin Beniyama et.al.|[2503.20891](http://arxiv.org/abs/2503.20891)|null|
-|**2025-03-26**|**SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**|Ziyu Zhou et.al.|[2503.20734](http://arxiv.org/abs/2503.20734)|null|
+|**2025-03-26**|**SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**|Ziyu Zhou et.al.|[2503.20734](http://arxiv.org/abs/2503.20734)|**[link](https://github.com/zhouziyu-cn/SChanger)**|
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
 |**2025-03-26**|**RSRWKV: A Linear-Complexity 2D Attention Mechanism for Efficient Remote Sensing Vision Task**|Chunshan Li et.al.|[2503.20382](http://arxiv.org/abs/2503.20382)|null|
 |**2025-03-26**|**Assessing SAM for Tree Crown Instance Segmentation from Drone Imagery**|Mélisande Teng et.al.|[2503.20199](http://arxiv.org/abs/2503.20199)|null|

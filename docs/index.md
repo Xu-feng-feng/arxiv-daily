@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -242,7 +242,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-31**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862](http://arxiv.org/abs/2503.23862)|**[link](https://github.com/pnu-amilab/cleric)**|
+|**2025-04-01**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862](http://arxiv.org/abs/2503.23862)|**[link](https://github.com/pnu-amilab/cleric)**|
 |**2025-03-31**|**An extrapolated and provably convergent algorithm for nonlinear matrix decomposition with the ReLU function**|Nicolas Gillis et.al.|[2503.23832](http://arxiv.org/abs/2503.23832)|**[link](https://github.com/giovanniseraghiti/relu-nmd)**|
 |**2025-03-31**|**TransVFC: A Transformable Video Feature Compression Framework for Machines**|Yuxiao Sun et.al.|[2503.23772](http://arxiv.org/abs/2503.23772)|null|
 |**2025-03-30**|**Enhancing 3D Gaussian Splatting Compression via Spatial Condition-based Prediction**|Jingui Ma et.al.|[2503.23337](http://arxiv.org/abs/2503.23337)|null|
@@ -1090,7 +1090,7 @@ layout: default
 |**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210](http://arxiv.org/abs/2503.24210)|null|
 |**2025-03-31**|**FineCausal: A Causal-Based Framework for Interpretable Fine-Grained Action Quality Assessment**|Ruisheng Han et.al.|[2503.23911](http://arxiv.org/abs/2503.23911)|**[link](https://github.com/harrison21/finecausal)**|
 |**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897](http://arxiv.org/abs/2503.23897)|null|
-|**2025-03-31**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862](http://arxiv.org/abs/2503.23862)|**[link](https://github.com/pnu-amilab/cleric)**|
+|**2025-04-01**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862](http://arxiv.org/abs/2503.23862)|**[link](https://github.com/pnu-amilab/cleric)**|
 |**2025-03-30**|**What Makes an Evaluation Useful? Common Pitfalls and Best Practices**|Gil Gekker et.al.|[2503.23424](http://arxiv.org/abs/2503.23424)|null|
 |**2025-03-30**|**Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention**|Xin Zuo et.al.|[2503.23422](http://arxiv.org/abs/2503.23422)|null|
 |**2025-03-30**|**Visual Acuity Consistent Foveated Rendering towards Retinal Resolution**|Zhi Zhang et.al.|[2503.23410](http://arxiv.org/abs/2503.23410)|null|

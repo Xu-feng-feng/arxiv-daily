@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -245,7 +245,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Compression
 
@@ -1089,7 +1089,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -3481,13 +3481,13 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Super Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|null|
+|**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|**[link](https://github.com/fpramunno/ldm_superresolution)**|
 |**2025-03-30**|**DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution**|Zheng-Peng Duan et.al.|[2503.23580](http://arxiv.org/abs/2503.23580)|null|
 |**2025-03-30**|**A Lightweight Image Super-Resolution Transformer Trained on Low-Resolution Images Only**|Björn Möller et.al.|[2503.23265](http://arxiv.org/abs/2503.23265)|**[link](https://github.com/ifnspaml/superresolutionmultiscaletraining)**|
 |**2025-03-29**|**A GAN-Enhanced Deep Learning Framework for Rooftop Detection from Historical Aerial Imagery**|Pengyu Chen et.al.|[2503.23200](http://arxiv.org/abs/2503.23200)|null|
@@ -3505,7 +3505,7 @@
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
 |**2025-03-28**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499](http://arxiv.org/abs/2503.20499)|null|
 |**2025-03-27**|**Consistency Trajectory Matching for One-Step Generative Super-Resolution**|Weiyi You et.al.|[2503.20349](http://arxiv.org/abs/2503.20349)|null|
-|**2025-03-26**|**Progressive Focused Transformer for Single Image Super-Resolution**|Wei Long et.al.|[2503.20337](http://arxiv.org/abs/2503.20337)|null|
+|**2025-03-26**|**Progressive Focused Transformer for Single Image Super-Resolution**|Wei Long et.al.|[2503.20337](http://arxiv.org/abs/2503.20337)|**[link](https://github.com/labshuhanggu/pft-sr)**|
 |**2025-03-26**|**ESSR: An 8K@30FPS Super-Resolution Accelerator With Edge Selective Network**|Chih-Chia Hsu et.al.|[2503.20245](http://arxiv.org/abs/2503.20245)|null|
 |**2025-03-25**|**Burst Image Super-Resolution with Mamba**|Ozan Unal et.al.|[2503.19634](http://arxiv.org/abs/2503.19634)|null|
 |**2025-03-25**|**Single-Step Latent Consistency Model for Remote Sensing Image Super-Resolution**|Xiaohui Sun et.al.|[2503.19505](http://arxiv.org/abs/2503.19505)|null|
@@ -4529,18 +4529,18 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219](http://arxiv.org/abs/2503.24219)|null|
+|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219](http://arxiv.org/abs/2503.24219)|**[link](https://github.com/rd20karim/mb-ores)**|
 |**2025-03-31**|**A Plasticity-Aware Method for Continual Self-Supervised Learning in Remote Sensing**|Lars Möllenbrok et.al.|[2503.24088](http://arxiv.org/abs/2503.24088)|null|
 |**2025-03-31**|**FlexiMo: A Flexible Remote Sensing Foundation Model**|Xuyang Li et.al.|[2503.23844](http://arxiv.org/abs/2503.23844)|null|
 |**2025-03-31**|**Pan-LUT: Efficient Pan-sharpening via Learnable Look-Up Tables**|Zhongnan Cai et.al.|[2503.23793](http://arxiv.org/abs/2503.23793)|null|
 |**2025-03-31**|**XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?**|Fengxiang Wang et.al.|[2503.23771](http://arxiv.org/abs/2503.23771)|null|
-|**2025-03-31**|**Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space**|Yi Liu et.al.|[2503.23717](http://arxiv.org/abs/2503.23717)|null|
+|**2025-03-31**|**Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space**|Yi Liu et.al.|[2503.23717](http://arxiv.org/abs/2503.23717)|**[link](https://github.com/ly403/emrdm)**|
 |**2025-03-30**|**CADFormer: Fine-Grained Cross-modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation**|Maofu Liu et.al.|[2503.23456](http://arxiv.org/abs/2503.23456)|null|
 |**2025-03-30**|**Semantic-Spatial Feature Fusion with Dynamic Graph Refinement for Remote Sensing Image Captioning**|Maofu Liu et.al.|[2503.23453](http://arxiv.org/abs/2503.23453)|null|
 |**2025-03-30**|**EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing**|Hongxiang Jiang et.al.|[2503.23330](http://arxiv.org/abs/2503.23330)|null|
@@ -5761,7 +5761,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

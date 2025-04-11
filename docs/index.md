@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -246,7 +246,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-09**|**LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding**|Ziyi Wang et.al.|[2504.06835](http://arxiv.org/abs/2504.06835)|null|
 |**2025-04-09**|**FANeRV: Frequency Separation and Augmentation based Neural Representation for Video**|Li Yu et.al.|[2504.06755](http://arxiv.org/abs/2504.06755)|null|
-|**2025-04-07**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|null|
+|**2025-04-10**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|null|
 |**2025-04-08**|**Old and New Results on Alphabetic Codes**|Roberto Bruno et.al.|[2504.05959](http://arxiv.org/abs/2504.05959)|null|
 |**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
 |**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
@@ -1107,7 +1107,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-09**|**End2end-ALARA: Approaching the ALARA Law in CT Imaging with End-to-end Learning**|Xi Tao et.al.|[2504.06777](http://arxiv.org/abs/2504.06777)|null|
 |**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
-|**2025-04-07**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|null|
+|**2025-04-10**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|null|
 |**2025-04-08**|**HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance**|Jiazi Bu et.al.|[2504.06232](http://arxiv.org/abs/2504.06232)|null|
 |**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022](http://arxiv.org/abs/2504.06022)|null|
 |**2025-04-08**|**ViralQC: A Tool for Assessing Completeness and Contamination of Predicted Viral Contigs**|Cheng Peng et.al.|[2504.05790](http://arxiv.org/abs/2504.05790)|null|

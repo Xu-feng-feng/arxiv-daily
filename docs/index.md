@@ -416,7 +416,7 @@ layout: default
 |**2025-01-08**|**Unified Coding for Both Human Perception and Generalized Machine Analytics with CLIP Supervision**|Kangsheng Yin et.al.|[2501.04579](http://arxiv.org/abs/2501.04579)|**[link](https://github.com/yinkangsheng/ug-icm)**|
 |**2025-01-08**|**An Efficient Adaptive Compression Method for Human Perception and Machine Vision Tasks**|Lei Liu et.al.|[2501.04329](http://arxiv.org/abs/2501.04329)|null|
 |**2025-01-03**|**Listening and Seeing Again: Generative Error Correction for Audio-Visual Speech Recognition**|Rui Liu et.al.|[2501.04038](http://arxiv.org/abs/2501.04038)|**[link](https://github.com/circleredrain/avger)**|
-|**2024-12-24**|**MERCURY: A fast and versatile multi-resolution based global emulator of compound climate hazards**|Shruti Nath et.al.|[2501.04018](http://arxiv.org/abs/2501.04018)|null|
+|**2024-12-24**|**MERCURY: A fast and versatile multi-resolution based global emulator of compound climate hazards**|Shruti Nath et.al.|[2501.04018](http://arxiv.org/abs/2501.04018)|**[link](https://github.com/snath-xoc/lifting)**|
 |**2025-01-06**|**A Novel Structure-Agnostic Multi-Objective Approach for Weight-Sharing Compression in Deep Neural Networks**|Rasa Khosrowshahli et.al.|[2501.03095](http://arxiv.org/abs/2501.03095)|null|
 |**2025-01-06**|**Region of Interest based Medical Image Compression**|Utkarsh Prakash Srivastava et.al.|[2501.02895](http://arxiv.org/abs/2501.02895)|null|
 |**2025-01-06**|**Constructing 4D Radio Map in LEO Satellite Networks with Limited Samples**|Haoxuan Yuan et.al.|[2501.02775](http://arxiv.org/abs/2501.02775)|null|
@@ -1143,12 +1143,12 @@ layout: default
 |**2025-04-04**|**Point Cloud Objective Quality: Benchmarking Features and Quality Evaluation**|Joao Prazeres et.al.|[2504.03381](http://arxiv.org/abs/2504.03381)|null|
 |**2025-04-04**|**Space-Time Encoded Modulation for High-Fidelity Diffuse Optical Imaging**|Ben Wiesel et.al.|[2504.03246](http://arxiv.org/abs/2504.03246)|null|
 |**2025-04-04**|**Three Forensic Cues for JPEG AI Images**|Sandra Bergmann et.al.|[2504.03191](http://arxiv.org/abs/2504.03191)|null|
-|**2025-04-04**|**FontGuard: A Robust Font Watermarking Approach Leveraging Deep Font Knowledge**|Kahim Wong et.al.|[2504.03128](http://arxiv.org/abs/2504.03128)|null|
+|**2025-04-04**|**FontGuard: A Robust Font Watermarking Approach Leveraging Deep Font Knowledge**|Kahim Wong et.al.|[2504.03128](http://arxiv.org/abs/2504.03128)|**[link](https://github.com/kahimwong/fontguard)**|
 |**2025-04-03**|**Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization**|Haishan Wang et.al.|[2504.03059](http://arxiv.org/abs/2504.03059)|null|
 |**2025-04-03**|**Fuzzy Implicative Rules: A Unified Approach**|Raquel Fernandez-Peralta et.al.|[2504.03000](http://arxiv.org/abs/2504.03000)|null|
 |**2025-04-03**|**Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization**|Kangle Deng et.al.|[2504.02817](http://arxiv.org/abs/2504.02817)|null|
 |**2025-04-03**|**Development of Automated Data Quality Assessment and Evaluation Indices by Analytical Experience**|Yuka Haruki et.al.|[2504.02663](http://arxiv.org/abs/2504.02663)|null|
-|**2025-04-03**|**Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment**|Fatemeh Behrad et.al.|[2504.02522](http://arxiv.org/abs/2504.02522)|null|
+|**2025-04-03**|**Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment**|Fatemeh Behrad et.al.|[2504.02522](http://arxiv.org/abs/2504.02522)|**[link](https://github.com/fbehrad/charm)**|
 |**2025-04-03**|**MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields**|Yash Kulthe et.al.|[2504.02517](http://arxiv.org/abs/2504.02517)|null|
 |**2025-04-03**|**Translation of Fetal Brain Ultrasound Images into Pseudo-MRI Images using Artificial Intelligence**|Naomi Silverstein et.al.|[2504.02408](http://arxiv.org/abs/2504.02408)|null|
 |**2025-04-03**|**SemiISP/SemiIE: Semi-Supervised Image Signal Processor and Image Enhancement Leveraging One-to-Many Mapping sRGB-to-RAW**|Masakazu Yoshimura et.al.|[2504.02345](http://arxiv.org/abs/2504.02345)|null|
@@ -1166,7 +1166,7 @@ layout: default
 |**2025-04-01**|**Epistemic Alignment: A Mediating Framework for User-LLM Knowledge Delivery**|Nicholas Clark et.al.|[2504.01205](http://arxiv.org/abs/2504.01205)|null|
 |**2025-04-01**|**Video Quality Assessment for Resolution Cross-Over in Live Sports**|Jingwen Zhu et.al.|[2504.01190](http://arxiv.org/abs/2504.01190)|null|
 |**2025-04-01**|**ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations**|Yubo Wang et.al.|[2504.00824](http://arxiv.org/abs/2504.00824)|null|
-|**2025-04-01**|**The GLASS-JWST Early Release Science Programme: The NIRISS Spectroscopic Catalogue**|Peter J. Watson et.al.|[2504.00823](http://arxiv.org/abs/2504.00823)|null|
+|**2025-04-01**|**The GLASS-JWST Early Release Science Programme: The NIRISS Spectroscopic Catalogue**|Peter J. Watson et.al.|[2504.00823](http://arxiv.org/abs/2504.00823)|**[link](https://github.com/pj-watson/pygcg)**|
 |**2025-04-01**|**DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting**|Hyunwoo Park et.al.|[2504.00773](http://arxiv.org/abs/2504.00773)|null|
 |**2025-04-01**|**Enhancing Fundus Image-based Glaucoma Screening via Dynamic Global-Local Feature Integration**|Yuzhuo Zhou et.al.|[2504.00431](http://arxiv.org/abs/2504.00431)|null|
 |**2025-03-31**|**Bayesian Imaging of Interferometric Data from Polarized Electromagnetic Signals**|Philipp Arras et.al.|[2504.00227](http://arxiv.org/abs/2504.00227)|null|
@@ -1918,7 +1918,7 @@ layout: default
 |**2024-12-09**|**AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark**|Lan Li et.al.|[2412.06724](http://arxiv.org/abs/2412.06724)|**[link](https://github.com/LanLi2017/LLM4DC)**|
 |**2024-12-10**|**A No-Reference Medical Image Quality Assessment Method Based on Automated Distortion Recognition Technology: Application to Preprocessing in MRI-guided Radiotherapy**|Zilin Wang et.al.|[2412.06599](http://arxiv.org/abs/2412.06599)|null|
 |**2024-12-09**|**How Certain are Uncertainty Estimates? Three Novel Earth Observation Datasets for Benchmarking Uncertainty Quantification in Machine Learning**|Yuanyuan Wang et.al.|[2412.06451](http://arxiv.org/abs/2412.06451)|null|
-|**2024-12-09**|**Sound2Vision: Generating Diverse Visuals from Audio through Cross-Modal Latent Alignment**|Kim Sung-Bin et.al.|[2412.06209](http://arxiv.org/abs/2412.06209)|null|
+|**2024-12-09**|**Sound2Vision: Generating Diverse Visuals from Audio through Cross-Modal Latent Alignment**|Kim Sung-Bin et.al.|[2412.06209](http://arxiv.org/abs/2412.06209)|**[link](https://github.com/postech-ami/Sound2Scene)**|
 |**2024-12-09**|**One-shot Human Motion Transfer via Occlusion-Robust Flow Prediction and Neural Texturing**|Yuzhu Ji et.al.|[2412.06174](http://arxiv.org/abs/2412.06174)|null|
 |**2024-12-09**|**A CT Image Denoising Method Based on Projection Domain Feature**|Mengyu Sun et.al.|[2412.06135](http://arxiv.org/abs/2412.06135)|null|
 |**2024-12-08**|**Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training**|Zhenghong Zhou et.al.|[2412.06029](http://arxiv.org/abs/2412.06029)|null|
@@ -2135,7 +2135,7 @@ layout: default
 |**2024-11-08**|**Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation**|Long Truong To et.al.|[2411.05641](http://arxiv.org/abs/2411.05641)|null|
 |**2024-11-08**|**DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions**|Rafael Berral-Soler et.al.|[2411.05552](http://arxiv.org/abs/2411.05552)|**[link](https://github.com/avauco/deeparuco)**|
 |**2024-11-08**|**Improving image synthesis with diffusion-negative sampling**|Alakh Desai et.al.|[2411.05473](http://arxiv.org/abs/2411.05473)|null|
-|**2024-11-08**|**RED: Residual Estimation Diffusion for Low-Dose PET Sinogram Reconstruction**|Xingyu Ai et.al.|[2411.05354](http://arxiv.org/abs/2411.05354)|null|
+|**2024-11-08**|**RED: Residual Estimation Diffusion for Low-Dose PET Sinogram Reconstruction**|Xingyu Ai et.al.|[2411.05354](http://arxiv.org/abs/2411.05354)|**[link](https://github.com/yqx7150/red)**|
 |**2024-11-08**|**Enhancing Depth Image Estimation for Underwater Robots by Combining Image Processing and Machine Learning**|Quang Truong Nguyen et.al.|[2411.05344](http://arxiv.org/abs/2411.05344)|null|
 |**2024-11-08**|**A Quality-Centric Framework for Generic Deepfake Detection**|Wentang Song et.al.|[2411.05335](http://arxiv.org/abs/2411.05335)|null|
 |**2024-11-08**|**Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet**|Boxiao Yu et.al.|[2411.05302](http://arxiv.org/abs/2411.05302)|null|
@@ -2417,7 +2417,7 @@ layout: default
 |**2024-09-25**|**The effect of image quality on galaxy merger identification with deep learning**|Robert W. Bickley et.al.|[2409.17081](http://arxiv.org/abs/2409.17081)|null|
 |**2024-09-25**|**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors**|Aiping Zhang et.al.|[2409.17058](http://arxiv.org/abs/2409.17058)|**[link](https://github.com/arctichare105/s3diff)**|
 |**2024-09-25**|**MaViLS, a Benchmark Dataset for Video-to-Slide Alignment, Assessing Baseline Accuracy with a Multimodal Alignment Algorithm Leveraging Speech, OCR, and Visual Features**|Katharina Anderer et.al.|[2409.16765](http://arxiv.org/abs/2409.16765)|**[link](https://github.com/andererka/mavils)**|
-|**2024-09-25**|**Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation**|Youngwan Jin et.al.|[2409.16706](http://arxiv.org/abs/2409.16706)|null|
+|**2024-09-25**|**Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation**|Youngwan Jin et.al.|[2409.16706](http://arxiv.org/abs/2409.16706)|**[link](https://github.com/Yonsei-STL/pix2next)**|
 |**2024-09-25**|**In which fields can ChatGPT detect journal article quality? An evaluation of REF2021 results**|Mike Thelwall et.al.|[2409.16695](http://arxiv.org/abs/2409.16695)|null|
 |**2024-09-25**|**Morphological-consistent Diffusion Network for Ultrasound Coronal Image Enhancement**|Yihao Zhou et.al.|[2409.16661](http://arxiv.org/abs/2409.16661)|null|
 |**2024-09-25**|**Pre-trained Language Models Return Distinguishable Probability Distributions to Unfaithfully Hallucinated Texts**|Taehun Cha et.al.|[2409.16658](http://arxiv.org/abs/2409.16658)|**[link](https://github.com/AIML-K/HalluDist)**|
@@ -2476,7 +2476,7 @@ layout: default
 |**2024-09-12**|**OpenACE: An Open Benchmark for Evaluating Audio Coding Performance**|Jozef Coldenhoff et.al.|[2409.08374](http://arxiv.org/abs/2409.08374)|**[link](https://github.com/jozefcoldenhoff/openace)**|
 |**2024-09-12**|**Expansive Supervision for Neural Radiance Field**|Weixiang Zhang et.al.|[2409.08056](http://arxiv.org/abs/2409.08056)|null|
 |**2024-09-12**|**OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation**|Shun Zou et.al.|[2409.08000](http://arxiv.org/abs/2409.08000)|**[link](https://github.com/zs1314/octamamba)**|
-|**2024-09-14**|**Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment**|Shaode Yu et.al.|[2409.07762](http://arxiv.org/abs/2409.07762)|null|
+|**2024-09-14**|**Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment**|Shaode Yu et.al.|[2409.07762](http://arxiv.org/abs/2409.07762)|**[link](https://github.com/cuc-chen/kan4iqa)**|
 |**2024-09-11**|**Foundation Models Boost Low-Level Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2409.07650](http://arxiv.org/abs/2409.07650)|**[link](https://github.com/abhijay9/zs-iqa)**|
 |**2024-09-11**|**Machine Learning and Constraint Programming for Efficient Healthcare Scheduling**|Aymen Ben Said et.al.|[2409.07547](http://arxiv.org/abs/2409.07547)|null|
 |**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
@@ -4648,13 +4648,13 @@ layout: default
 |**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166](http://arxiv.org/abs/2504.03166)|null|
 |**2025-04-09**|**Joint Retrieval of Cloud properties using Attention-based Deep Learning Models**|Zahid Hassan Tushar et.al.|[2504.03133](http://arxiv.org/abs/2504.03133)|null|
-|**2025-04-01**|**OpenFACADES: An Open Framework for Architectural Caption and Attribute Data Enrichment via Street View Imagery**|Xiucheng Liang et.al.|[2504.02866](http://arxiv.org/abs/2504.02866)|null|
-|**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|null|
-|**2025-04-03**|**Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline**|Peifu Liu et.al.|[2504.02416](http://arxiv.org/abs/2504.02416)|null|
+|**2025-04-01**|**OpenFACADES: An Open Framework for Architectural Caption and Attribute Data Enrichment via Street View Imagery**|Xiucheng Liang et.al.|[2504.02866](http://arxiv.org/abs/2504.02866)|**[link](https://github.com/seshing/openfacades)**|
+|**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|**[link](https://github.com/oucailab/afenet)**|
+|**2025-04-03**|**Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline**|Peifu Liu et.al.|[2504.02416](http://arxiv.org/abs/2504.02416)|**[link](https://github.com/laprf/hrssd)**|
 |**2025-04-02**|**Quantum Meets SAR: A Novel Range-Doppler Algorithm for Next-Gen Earth Observation**|Khalil Al Salahat et.al.|[2504.01832](http://arxiv.org/abs/2504.01832)|null|
 |**2025-04-02**|**Satellite Edge Artificial Intelligence with Large Models: Architectures and Technologies**|Yuanming Shi et.al.|[2504.01676](http://arxiv.org/abs/2504.01676)|null|
 |**2025-04-02**|**DALIP: Distribution Alignment-based Language-Image Pre-Training for Domain-Specific Data**|Junjie Wu et.al.|[2504.01386](http://arxiv.org/abs/2504.01386)|null|
-|**2025-04-01**|**A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities**|Enzhe Sun et.al.|[2504.00901](http://arxiv.org/abs/2504.00901)|null|
+|**2025-04-01**|**A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities**|Enzhe Sun et.al.|[2504.00901](http://arxiv.org/abs/2504.00901)|**[link](https://github.com/yc-cui/deep-learning-spatiotemporal-fusion-survey)**|
 |**2025-04-01**|**Light-cone feature selection in methane hyperspectral images**|Artur Miroszewski et.al.|[2504.00793](http://arxiv.org/abs/2504.00793)|null|
 |**2025-04-01**|**MSSFC-Net:Enhancing Building Interpretation with Multi-Scale Spatial-Spectral Feature Collaboration**|Dehua Huo et.al.|[2504.00759](http://arxiv.org/abs/2504.00759)|null|
 |**2025-04-01**|**Generalization-aware Remote Sensing Change Detection via Domain-agnostic Learning**|Qi Zang et.al.|[2504.00543](http://arxiv.org/abs/2504.00543)|null|
@@ -4675,7 +4675,7 @@ layout: default
 |**2025-03-28**|**Generating Synthetic Oracle Datasets to Analyze Noise Impact: A Study on Building Function Classification Using Tweets**|Shanshan Bai et.al.|[2503.22856](http://arxiv.org/abs/2503.22856)|null|
 |**2025-03-28**|**Assessing Foundation Models for Sea Ice Type Segmentation in Sentinel-1 SAR Imagery**|Samira Alkaee Taleghan et.al.|[2503.22516](http://arxiv.org/abs/2503.22516)|null|
 |**2025-03-28**|**Efficient Building Roof Type Classification: A Domain-Specific Self-Supervised Approach**|Guneet Mutreja et.al.|[2503.22251](http://arxiv.org/abs/2503.22251)|null|
-|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|null|
+|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|**[link](https://github.com/irip-buaa/a-review-for-remote-sensing-vision-language-models)**|
 |**2025-03-28**|**A Deep Learning Framework for Boundary-Aware Semantic Segmentation**|Tai An et.al.|[2503.22050](http://arxiv.org/abs/2503.22050)|null|
 |**2025-03-27**|**HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery**|Jingtao Li et.al.|[2503.21841](http://arxiv.org/abs/2503.21841)|null|
 |**2025-03-25**|**Forecasting Volcanic Radiative Power (VPR) at Fuego Volcano Using Bayesian Regularized Neural Network**|Snehamoy Chatterjee et.al.|[2503.21803](http://arxiv.org/abs/2503.21803)|null|

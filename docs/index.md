@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -3617,7 +3617,7 @@ layout: default
 |**2025-04-09**|**MoEDiff-SR: Mixture of Experts-Guided Diffusion Model for Region-Adaptive MRI Super-Resolution**|Zhe Wang et.al.|[2504.07308](http://arxiv.org/abs/2504.07308)|**[link](https://github.com/zwang78/moediff-sr)**|
 |**2025-04-09**|**Crafting Query-Aware Selective Attention for Single Image Super-Resolution**|Junyoung Kim et.al.|[2504.06634](http://arxiv.org/abs/2504.06634)|null|
 |**2025-04-11**|**Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics**|Wuzhe Xu et.al.|[2504.05443](http://arxiv.org/abs/2504.05443)|null|
-|**2025-04-07**|**Time-adaptive Video Frame Interpolation based on Residual Diffusion**|Victor Fonte Chavez et.al.|[2504.05402](http://arxiv.org/abs/2504.05402)|**[link](https://github.com/VicFonch/Multi-Input-Resshift-Diffusion-VFI)**|
+|**2025-04-15**|**Time-adaptive Video Frame Interpolation based on Residual Diffusion**|Victor Fonte Chavez et.al.|[2504.05402](http://arxiv.org/abs/2504.05402)|**[link](https://github.com/VicFonch/Multi-Input-Resshift-Diffusion-VFI)**|
 |**2025-04-07**|**From Specificity to Generality: Revisiting Generalizable Artifacts in Detecting Face Deepfakes**|Long Ma et.al.|[2504.04827](http://arxiv.org/abs/2504.04827)|null|
 |**2025-04-06**|**Atomic Localization Fluorescent Microscopy**|Yuqin Duan et.al.|[2504.04611](http://arxiv.org/abs/2504.04611)|null|
 |**2025-04-06**|**GAMBAS: Generalised-Hilbert Mamba for Super-resolution of Paediatric Ultra-Low-Field MRI**|Levente Baljer et.al.|[2504.04523](http://arxiv.org/abs/2504.04523)|**[link](https://github.com/levente-1/GAMBAS)**|

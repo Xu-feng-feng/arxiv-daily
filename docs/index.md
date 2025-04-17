@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Non-uniform Point Cloud Upsampling via Local Manifold Distribution**|Yaohui Fang et.al.|[2504.11701](http://arxiv.org/abs/2504.11701)|null|
 |**2025-04-08**|**UVG-VPC: Voxelized Point Cloud Dataset for Visual Volumetric Video-based Coding**|Guillaume Gautier et.al.|[2504.05888](http://arxiv.org/abs/2504.05888)|null|
 |**2025-04-01**|**Hierarchical Attention Networks for Lossless Point Cloud Attribute Compression**|Yueru Chen et.al.|[2504.00481](http://arxiv.org/abs/2504.00481)|null|
 |**2025-03-24**|**UniPCGC: Towards Practical Point Cloud Geometry Compression via an Efficient Unified Approach**|Kangli Wang et.al.|[2503.18541](http://arxiv.org/abs/2503.18541)|**[link](https://github.com/Wangkkklll/UniPCGC)**|
@@ -244,6 +245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|null|
 |**2025-04-15**|**Randomized block proximal method with locally Lipschitz continuous gradient**|Pedro Pérez-Aros et.al.|[2504.11410](http://arxiv.org/abs/2504.11410)|null|
 |**2025-04-15**|**DeepSelective: Feature Gating and Representation Matching for Interpretable Clinical Prediction**|Ruochi Zhang et.al.|[2504.11264](http://arxiv.org/abs/2504.11264)|null|
 |**2025-04-15**|**Guided Wave-Based Structural Awareness Under Varying Operating States via Manifold Representations**|Yiming Fan et.al.|[2504.11235](http://arxiv.org/abs/2504.11235)|null|
@@ -1110,9 +1112,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**SIDME: Self-supervised Image Demoiréing via Masked Encoder-Decoder Reconstruction**|Xia Wang et.al.|[2504.12245](http://arxiv.org/abs/2504.12245)|null|
+|**2025-04-16**|**Coding-Prior Guided Diffusion Network for Video Deblurring**|Yike Liu et.al.|[2504.12222](http://arxiv.org/abs/2504.12222)|null|
+|**2025-04-16**|**Anti-Aesthetics: Protecting Facial Privacy against Customized Text-to-Image Synthesis**|Songping Wang et.al.|[2504.12129](http://arxiv.org/abs/2504.12129)|null|
+|**2025-04-16**|**Understanding Attention Mechanism in Video Diffusion Models**|Bingyan Liu et.al.|[2504.12027](http://arxiv.org/abs/2504.12027)|null|
+|**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018](http://arxiv.org/abs/2504.12018)|null|
+|**2025-04-16**|**PCDiff: Proactive Control for Ownership Protection in Diffusion Models with Watermark Compatibility**|Keke Gai et.al.|[2504.11774](http://arxiv.org/abs/2504.11774)|null|
+|**2025-04-16**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Li Yu et.al.|[2504.11733](http://arxiv.org/abs/2504.11733)|null|
+|**2025-04-16**|**Measuring Global Migration Flows using Online Data**|Guanghua Chi et.al.|[2504.11691](http://arxiv.org/abs/2504.11691)|null|
+|**2025-04-15**|**AskQE: Question Answering as Automatic Evaluation for Machine Translation**|Dayeon Ki et.al.|[2504.11582](http://arxiv.org/abs/2504.11582)|null|
+|**2025-04-15**|**A Comparative Evaluation of CT Global Noise Calculation Methods for Clinical Image Quality Assessment**|Charles M Weaver et.al.|[2504.11578](http://arxiv.org/abs/2504.11578)|null|
 |**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423](http://arxiv.org/abs/2504.11423)|null|
 |**2025-04-15**|**Ring Artifacts Correction Based on Global-Local Features Interaction Guidance in the Projection Domain**|Yunze Liu et.al.|[2504.11375](http://arxiv.org/abs/2504.11375)|null|
-|**2025-04-15**|**Seedream 3.0 Technical Report**|Yu Gao et.al.|[2504.11346](http://arxiv.org/abs/2504.11346)|null|
+|**2025-04-16**|**Seedream 3.0 Technical Report**|Yu Gao et.al.|[2504.11346](http://arxiv.org/abs/2504.11346)|null|
 |**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271](http://arxiv.org/abs/2504.11271)|null|
 |**2025-04-15**|**SAR-to-RGB Translation with Latent Diffusion for Earth Observation**|Kaan Aydin et.al.|[2504.11154](http://arxiv.org/abs/2504.11154)|null|
 |**2025-04-15**|**Taming Consistency Distillation for Accelerated Human Image Animation**|Xiang Wang et.al.|[2504.11143](http://arxiv.org/abs/2504.11143)|null|
@@ -3602,6 +3614,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154](http://arxiv.org/abs/2504.12154)|null|
+|**2025-04-16**|**Virtually structured illumination for terahertz super-resolution imaging**|James P. Fleming et.al.|[2504.12092](http://arxiv.org/abs/2504.12092)|null|
 |**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286](http://arxiv.org/abs/2504.11286)|null|
 |**2025-04-15**|**Invention, Innovation, and Commercialisation in British Biophysics**|Jack Shepherd et.al.|[2504.11276](http://arxiv.org/abs/2504.11276)|null|
 |**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271](http://arxiv.org/abs/2504.11271)|null|
@@ -4677,13 +4691,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Remote sensing colour image semantic segmentation of trails created by large herbivorous Mammals**|Jose Francisco Diez-Pastor et.al.|[2504.12121](http://arxiv.org/abs/2504.12121)|null|
+|**2025-04-16**|**A Diffusion-Based Framework for Terrain-Aware Remote Sensing Image Reconstruction**|Zhenyu Yu et.al.|[2504.12112](http://arxiv.org/abs/2504.12112)|null|
+|**2025-04-16**|**A Complex-valued SAR Foundation Model Based on Physically Inspired Representation Learning**|Mengyu Wang et.al.|[2504.11999](http://arxiv.org/abs/2504.11999)|null|
+|**2025-04-16**|**Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation**|Jie Wang et.al.|[2504.11949](http://arxiv.org/abs/2504.11949)|null|
+|**2025-04-16**|**HyperKING: Quantum-Classical Generative Adversarial Networks for Hyperspectral Image Restoration**|Chia-Hsiang Lin et.al.|[2504.11782](http://arxiv.org/abs/2504.11782)|null|
 |**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416](http://arxiv.org/abs/2504.11416)|null|
 |**2025-04-15**|**YOLO-RS: Remote Sensing Enhanced Crop Detection Methods**|Linlin Xiao et.al.|[2504.11165](http://arxiv.org/abs/2504.11165)|null|
 |**2025-04-15**|**SAR-to-RGB Translation with Latent Diffusion for Earth Observation**|Kaan Aydin et.al.|[2504.11154](http://arxiv.org/abs/2504.11154)|null|
 |**2025-04-15**|**S $^2$ Teacher: Step-by-step Teacher for Sparsely Annotated Oriented Object Detection**|Yu Lin et.al.|[2504.11111](http://arxiv.org/abs/2504.11111)|null|
 |**2025-04-15**|**Change State Space Models for Remote Sensing Change Detection**|Elman Ghazaei et.al.|[2504.11080](http://arxiv.org/abs/2504.11080)|null|
 |**2025-04-15**|**Meta-learning For Few-Shot Time Series Crop Type Classification: A Benchmark On The EuroCropsML Dataset**|Joana Reuss et.al.|[2504.11022](http://arxiv.org/abs/2504.11022)|null|
-|**2025-04-15**|**Self-Supervised Enhancement of Forward-Looking Sonar Images: Bridging Cross-Modal Degradation Gaps through Feature Space Transformation and Multi-Frame Fusion**|Zhisheng Zhang et.al.|[2504.10974](http://arxiv.org/abs/2504.10974)|null|
+|**2025-04-16**|**Self-Supervised Enhancement of Forward-Looking Sonar Images: Bridging Cross-Modal Degradation Gaps through Feature Space Transformation and Multi-Frame Fusion**|Zhisheng Zhang et.al.|[2504.10974](http://arxiv.org/abs/2504.10974)|null|
 |**2025-04-15**|**A comprehensive review of remote sensing in wetland classification and mapping**|Shuai Yuan et.al.|[2504.10842](http://arxiv.org/abs/2504.10842)|null|
 |**2025-04-15**|**LightFormer: A lightweight and efficient decoder for remote sensing image segmentation**|Sihang Chen et.al.|[2504.10834](http://arxiv.org/abs/2504.10834)|null|
 |**2025-04-15**|**Efficient and Robust Remote Sensing Image Denoising Using Randomized Approximation of Geodesics' Gramian on the Manifold Underlying the Patch Space**|Kelum Gajamannage et.al.|[2504.10820](http://arxiv.org/abs/2504.10820)|null|

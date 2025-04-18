@@ -254,6 +254,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997](http://arxiv.org/abs/2504.12997)|null|
+|**2025-04-17**|**Efficient Masked Image Compression with Position-Indexed Self-Attention**|Chengjie Dai et.al.|[2504.12923](http://arxiv.org/abs/2504.12923)|null|
 |**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|null|
 |**2025-04-15**|**Randomized block proximal method with locally Lipschitz continuous gradient**|Pedro Pérez-Aros et.al.|[2504.11410](http://arxiv.org/abs/2504.11410)|null|
 |**2025-04-15**|**DeepSelective: Feature Gating and Representation Matching for Interpretable Clinical Prediction**|Ruochi Zhang et.al.|[2504.11264](http://arxiv.org/abs/2504.11264)|null|
@@ -1123,6 +1125,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|null|
+|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-17**|**Imaging for All-Day Wearable Smart Glasses**|Michael Goesele et.al.|[2504.13060](http://arxiv.org/abs/2504.13060)|null|
+|**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|null|
+|**2025-04-17**|**Efficient Chebyshev Reconstruction for the Anisotropic Equilibrium Model in Magnetic Particle Imaging**|Christine Droigk et.al.|[2504.12981](http://arxiv.org/abs/2504.12981)|null|
+|**2025-04-17**|**Sparks of Science: Hypothesis Generation Using Structured Paper Data**|Charles O'Neill et.al.|[2504.12976](http://arxiv.org/abs/2504.12976)|null|
+|**2025-04-17**|**MathPhys-Guided Coarse-to-Fine Anomaly Synthesis with SQE-Driven Bi-Level Optimization for Anomaly Detection**|Long Qian et.al.|[2504.12970](http://arxiv.org/abs/2504.12970)|null|
+|**2025-04-17**|**Saliency-Aware Diffusion Reconstruction for Effective Invisible Watermark Removal**|Inzamamul Alam et.al.|[2504.12809](http://arxiv.org/abs/2504.12809)|null|
+|**2025-04-17**|**ARAP-GS: Drag-driven As-Rigid-As-Possible 3D Gaussian Splatting Editing with Diffusion Prior**|Xiao Han et.al.|[2504.12788](http://arxiv.org/abs/2504.12788)|null|
+|**2025-04-17**|**Mask Image Watermarking**|Runyi Hu et.al.|[2504.12739](http://arxiv.org/abs/2504.12739)|null|
+|**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704](http://arxiv.org/abs/2504.12704)|null|
+|**2025-04-17**|**Autonomous Drone for Dynamic Smoke Plume Tracking**|Srijan Kumar Pal et.al.|[2504.12664](http://arxiv.org/abs/2504.12664)|null|
+|**2025-04-17**|**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**|Lvmin Zhang et.al.|[2504.12626](http://arxiv.org/abs/2504.12626)|null|
+|**2025-04-17**|**AdaQual-Diff: Diffusion-Based Image Restoration via Adaptive Quality Prompting**|Xin Su et.al.|[2504.12605](http://arxiv.org/abs/2504.12605)|null|
+|**2025-04-16**|**InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework**|Jiale Tao et.al.|[2504.12395](http://arxiv.org/abs/2504.12395)|null|
 |**2025-04-16**|**SIDME: Self-supervised Image Demoiréing via Masked Encoder-Decoder Reconstruction**|Xia Wang et.al.|[2504.12245](http://arxiv.org/abs/2504.12245)|null|
 |**2025-04-16**|**Coding-Prior Guided Diffusion Network for Video Deblurring**|Yike Liu et.al.|[2504.12222](http://arxiv.org/abs/2504.12222)|null|
 |**2025-04-16**|**Anti-Aesthetics: Protecting Facial Privacy against Customized Text-to-Image Synthesis**|Songping Wang et.al.|[2504.12129](http://arxiv.org/abs/2504.12129)|null|
@@ -3627,6 +3644,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|null|
+|**2025-04-17**|**Event-Enhanced Blurry Video Super-Resolution**|Dachun Kai et.al.|[2504.13042](http://arxiv.org/abs/2504.13042)|null|
+|**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|null|
+|**2025-04-17**|**ARAP-GS: Drag-driven As-Rigid-As-Possible 3D Gaussian Splatting Editing with Diffusion Prior**|Xiao Han et.al.|[2504.12788](http://arxiv.org/abs/2504.12788)|null|
 |**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154](http://arxiv.org/abs/2504.12154)|null|
 |**2025-04-16**|**Virtually structured illumination for terahertz super-resolution imaging**|James P. Fleming et.al.|[2504.12092](http://arxiv.org/abs/2504.12092)|null|
 |**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286](http://arxiv.org/abs/2504.11286)|null|
@@ -4706,6 +4727,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|null|
+|**2025-04-17**|**EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery**|Wei Zhang et.al.|[2504.12795](http://arxiv.org/abs/2504.12795)|null|
+|**2025-04-17**|**SAM-Based Building Change Detection with Distribution-Aware Fourier Adaptation and Edge-Constrained Warping**|Yun-Cheng Li et.al.|[2504.12619](http://arxiv.org/abs/2504.12619)|null|
 |**2025-04-16**|**Remote sensing colour image semantic segmentation of trails created by large herbivorous Mammals**|Jose Francisco Diez-Pastor et.al.|[2504.12121](http://arxiv.org/abs/2504.12121)|null|
 |**2025-04-16**|**A Diffusion-Based Framework for Terrain-Aware Remote Sensing Image Reconstruction**|Zhenyu Yu et.al.|[2504.12112](http://arxiv.org/abs/2504.12112)|null|
 |**2025-04-16**|**A Complex-valued SAR Foundation Model Based on Physically Inspired Representation Learning**|Mengyu Wang et.al.|[2504.11999](http://arxiv.org/abs/2504.11999)|null|

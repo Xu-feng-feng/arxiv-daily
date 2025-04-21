@@ -245,6 +245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736](http://arxiv.org/abs/2504.13736)|null|
+|**2025-04-18**|**SolarZip: An Efficient and Adaptive Compression Framework for solar EUV imaging data**|Zedong Liu et.al.|[2504.13504](http://arxiv.org/abs/2504.13504)|null|
+|**2025-04-12**|**Universal Representations for Classification-enhanced Lossy Compression**|Nam Nguyen et.al.|[2504.13191](http://arxiv.org/abs/2504.13191)|null|
 |**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997](http://arxiv.org/abs/2504.12997)|null|
 |**2025-04-17**|**Efficient Masked Image Compression with Position-Indexed Self-Attention**|Chengjie Dai et.al.|[2504.12923](http://arxiv.org/abs/2504.12923)|null|
 |**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|null|
@@ -1114,6 +1117,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622](http://arxiv.org/abs/2504.13622)|null|
+|**2025-04-18**|**Entropic Time Schedulers for Generative Diffusion Models**|Dejan Stancevic et.al.|[2504.13612](http://arxiv.org/abs/2504.13612)|null|
+|**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|null|
+|**2025-04-17**|**Auto-FEDUS: Autoregressive Generative Modeling of Doppler Ultrasound Signals from Fetal Electrocardiograms**|Alireza Rafiei et.al.|[2504.13233](http://arxiv.org/abs/2504.13233)|null|
 |**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|**[link](https://github.com/lixinustc/kvqe-challenge-cvpr-ntire2025)**|
 |**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
 |**2025-04-17**|**Imaging for All-Day Wearable Smart Glasses**|Michael Goesele et.al.|[2504.13060](http://arxiv.org/abs/2504.13060)|null|
@@ -3631,6 +3638,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**AnyTSR: Any-Scale Thermal Super-Resolution for UAV**|Mengyuan Li et.al.|[2504.13682](http://arxiv.org/abs/2504.13682)|null|
+|**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622](http://arxiv.org/abs/2504.13622)|null|
+|**2025-04-18**|**Integrated Super-resolution Sensing and Symbiotic Communication with 3D Sparse MIMO for Low-Altitude UAV Swarm**|Jingran Xu et.al.|[2504.13570](http://arxiv.org/abs/2504.13570)|null|
+|**2025-04-18**|**Equilibrium Conserving Neural Operators for Super-Resolution Learning**|Vivek Oommen et.al.|[2504.13422](http://arxiv.org/abs/2504.13422)|null|
 |**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|**[link](https://github.com/lixinustc/kvqe-challenge-cvpr-ntire2025)**|
 |**2025-04-18**|**Event-Enhanced Blurry Video Super-Resolution**|Dachun Kai et.al.|[2504.13042](http://arxiv.org/abs/2504.13042)|**[link](https://github.com/dachunkai/ev-deblurvsr)**|
 |**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|**[link](https://github.com/led-666/ttrd3)**|
@@ -4712,6 +4723,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**|Hongjia Chen et.al.|[2504.13748](http://arxiv.org/abs/2504.13748)|null|
+|**2025-04-18**|**Variational Autoencoder Framework for Hyperspectral Retrievals (Hyper-VAE) of Phytoplankton Absorption and Chlorophyll a in Coastal Waters for NASA's EMIT and PACE Missions**|Jiadong Lou et.al.|[2504.13476](http://arxiv.org/abs/2504.13476)|null|
+|**2025-04-18**|**Learning from Noisy Pseudo-labels for All-Weather Land Cover Mapping**|Wang Liu et.al.|[2504.13458](http://arxiv.org/abs/2504.13458)|null|
+|**2025-04-18**|**SatelliteCalculator: A Multi-Task Vision Foundation Model for Quantitative Remote Sensing Inversion**|Zhenyu Yu et.al.|[2504.13442](http://arxiv.org/abs/2504.13442)|null|
+|**2025-04-18**|**HSACNet: Hierarchical Scale-Aware Consistency Regularized Semi-Supervised Change Detection**|Qi'ao Xu et.al.|[2504.13428](http://arxiv.org/abs/2504.13428)|null|
 |**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|**[link](https://github.com/led-666/ttrd3)**|
 |**2025-04-17**|**EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery**|Wei Zhang et.al.|[2504.12795](http://arxiv.org/abs/2504.12795)|null|
 |**2025-04-17**|**SAM-Based Building Change Detection with Distribution-Aware Fourier Adaptation and Edge-Constrained Warping**|Yun-Cheng Li et.al.|[2504.12619](http://arxiv.org/abs/2504.12619)|null|

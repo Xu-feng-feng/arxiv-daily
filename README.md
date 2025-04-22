@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-20**|**Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space**|Yichi Zhang et.al.|[2504.14471](http://arxiv.org/abs/2504.14471)|null|
+|**2025-04-19**|**ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**|Xie Liang et.al.|[2504.14240](http://arxiv.org/abs/2504.14240)|null|
 |**2025-04-16**|**Non-uniform Point Cloud Upsampling via Local Manifold Distribution**|Yaohui Fang et.al.|[2504.11701](http://arxiv.org/abs/2504.11701)|null|
 |**2025-04-08**|**UVG-VPC: Voxelized Point Cloud Dataset for Visual Volumetric Video-based Coding**|Guillaume Gautier et.al.|[2504.05888](http://arxiv.org/abs/2504.05888)|null|
 |**2025-04-01**|**Hierarchical Attention Networks for Lossless Point Cloud Attribute Compression**|Yueru Chen et.al.|[2504.00481](http://arxiv.org/abs/2504.00481)|null|
@@ -254,12 +256,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897](http://arxiv.org/abs/2504.14897)|null|
+|**2025-04-20**|**Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space**|Yichi Zhang et.al.|[2504.14471](http://arxiv.org/abs/2504.14471)|null|
+|**2025-04-19**|**Text-Audio-Visual-conditioned Diffusion Model for Video Saliency Prediction**|Li Yu et.al.|[2504.14267](http://arxiv.org/abs/2504.14267)|null|
+|**2025-04-18**|**Statistical Analysis and End-to-End Performance Evaluation of Traffic Models for Automotive Data**|Marcello Bullo et.al.|[2504.14017](http://arxiv.org/abs/2504.14017)|null|
+|**2025-04-17**|**Multiscale Tensor Summation Factorization as a New Neural Network Layer (MTS Layer) for Multidimensional Data Processing**|Mehmet Yamaç et.al.|[2504.13975](http://arxiv.org/abs/2504.13975)|null|
 |**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736](http://arxiv.org/abs/2504.13736)|null|
-|**2025-04-18**|**SolarZip: An Efficient and Adaptive Compression Framework for solar EUV imaging data**|Zedong Liu et.al.|[2504.13504](http://arxiv.org/abs/2504.13504)|null|
+|**2025-04-21**|**SolarZip: An Efficient and Adaptive Compression Framework for Solar EUV Imaging Data**|Zedong Liu et.al.|[2504.13504](http://arxiv.org/abs/2504.13504)|null|
 |**2025-04-12**|**Universal Representations for Classification-enhanced Lossy Compression**|Nam Nguyen et.al.|[2504.13191](http://arxiv.org/abs/2504.13191)|null|
 |**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997](http://arxiv.org/abs/2504.12997)|null|
 |**2025-04-17**|**Efficient Masked Image Compression with Position-Indexed Self-Attention**|Chengjie Dai et.al.|[2504.12923](http://arxiv.org/abs/2504.12923)|null|
-|**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|null|
+|**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|**[link](https://github.com/liuyike422/codinghomo)**|
 |**2025-04-15**|**Randomized block proximal method with locally Lipschitz continuous gradient**|Pedro Pérez-Aros et.al.|[2504.11410](http://arxiv.org/abs/2504.11410)|**[link](https://github.com/davidtbelen/arbpg)**|
 |**2025-04-15**|**DeepSelective: Feature Gating and Representation Matching for Interpretable Clinical Prediction**|Ruochi Zhang et.al.|[2504.11264](http://arxiv.org/abs/2504.11264)|null|
 |**2025-04-15**|**Guided Wave-Based Structural Awareness Under Varying Operating States via Manifold Representations**|Yiming Fan et.al.|[2504.11235](http://arxiv.org/abs/2504.11235)|null|
@@ -1128,6 +1135,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
+|**2025-04-21**|**Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform**|Xianpan Zhou et.al.|[2504.15182](http://arxiv.org/abs/2504.15182)|null|
+|**2025-04-21**|**Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration**|Junyuan Deng et.al.|[2504.15159](http://arxiv.org/abs/2504.15159)|null|
+|**2025-04-21**|**Structure-guided Diffusion Transformer for Low-Light Image Enhancement**|Xiangchen Yin et.al.|[2504.15054](http://arxiv.org/abs/2504.15054)|null|
+|**2025-04-21**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: KwaiSR Dataset and Study**|Xin Li et.al.|[2504.15003](http://arxiv.org/abs/2504.15003)|null|
+|**2025-04-21**|**K-DRIFT Preparation: Experimental Verification of an Observation Strategy for Accurate Dark-Sky Flats**|Woowon Byun et.al.|[2504.14914](http://arxiv.org/abs/2504.14914)|null|
+|**2025-04-20**|**Translation Analytics for Freelancers: I. Introduction, Data Preparation, Baseline Evaluations**|Yuri Balashov et.al.|[2504.14619](http://arxiv.org/abs/2504.14619)|null|
+|**2025-04-20**|**NTIRE 2025 Challenge on Real-World Face Restoration: Methods and Results**|Zheng Chen et.al.|[2504.14600](http://arxiv.org/abs/2504.14600)|**[link](https://github.com/zhengchen1999/ntire2025_realworld_face_restoration)**|
+|**2025-04-20**|**SUDO: Enhancing Text-to-Image Diffusion Models with Self-Supervised Direct Preference Optimization**|Liang Peng et.al.|[2504.14534](http://arxiv.org/abs/2504.14534)|**[link](https://github.com/spengliang/sudo)**|
+|**2025-04-20**|**Pulmonary electrical impedance tomography based on deep recurrent neural networks**|Zhenzhong Song et.al.|[2504.14521](http://arxiv.org/abs/2504.14521)|null|
+|**2025-04-19**|**Single Document Image Highlight Removal via A Large-Scale Real-World Dataset and A Location-Aware Network**|Lu Pan et.al.|[2504.14238](http://arxiv.org/abs/2504.14238)|null|
+|**2025-04-19**|**Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models**|Xinlin Zhuang et.al.|[2504.14194](http://arxiv.org/abs/2504.14194)|null|
+|**2025-04-18**|**Point-Driven Interactive Text and Image Layer Editing Using Diffusion Models**|Zhenyu Yu et.al.|[2504.14108](http://arxiv.org/abs/2504.14108)|null|
+|**2025-04-18**|**Towards Scale-Aware Low-Light Enhancement via Structure-Guided Transformer Design**|Wei Dong et.al.|[2504.14075](http://arxiv.org/abs/2504.14075)|**[link](https://github.com/minyan8/imagine)**|
+|**2025-04-18**|**Fashion-RAG: Multimodal Fashion Image Editing via Retrieval-Augmented Generation**|Fulvio Sanguigni et.al.|[2504.14011](http://arxiv.org/abs/2504.14011)|null|
+|**2025-04-18**|**Entropy Rectifying Guidance for Diffusion and Flow Models**|Tariq Berrada Ifriqi et.al.|[2504.13987](http://arxiv.org/abs/2504.13987)|null|
 |**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622](http://arxiv.org/abs/2504.13622)|null|
 |**2025-04-18**|**Entropic Time Schedulers for Generative Diffusion Models**|Dejan Stancevic et.al.|[2504.13612](http://arxiv.org/abs/2504.13612)|null|
 |**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|null|
@@ -3651,7 +3674,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-18**|**AnyTSR: Any-Scale Thermal Super-Resolution for UAV**|Mengyuan Li et.al.|[2504.13682](http://arxiv.org/abs/2504.13682)|null|
+|**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
+|**2025-04-21**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: KwaiSR Dataset and Study**|Xin Li et.al.|[2504.15003](http://arxiv.org/abs/2504.15003)|null|
+|**2025-04-20**|**NTIRE 2025 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2504.14582](http://arxiv.org/abs/2504.14582)|**[link](https://github.com/zhengchen1999/ntire2025_imagesr_x4)**|
+|**2025-04-20**|**STARS: Sparse Learning Correlation Filter with Spatio-temporal Regularization and Super-resolution Reconstruction for Thermal Infrared Target Tracking**|Shang Zhang et.al.|[2504.14491](http://arxiv.org/abs/2504.14491)|null|
+|**2025-04-18**|**AnyTSR: Any-Scale Thermal Super-Resolution for UAV**|Mengyuan Li et.al.|[2504.13682](http://arxiv.org/abs/2504.13682)|**[link](https://github.com/vision4robotics/anytsr)**|
 |**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622](http://arxiv.org/abs/2504.13622)|null|
 |**2025-04-18**|**Integrated Super-resolution Sensing and Symbiotic Communication with 3D Sparse MIMO for Low-Altitude UAV Swarm**|Jingran Xu et.al.|[2504.13570](http://arxiv.org/abs/2504.13570)|null|
 |**2025-04-18**|**Equilibrium Conserving Neural Operators for Super-Resolution Learning**|Vivek Oommen et.al.|[2504.13422](http://arxiv.org/abs/2504.13422)|null|
@@ -4738,9 +4765,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**|Chengxi Han et.al.|[2504.15170](http://arxiv.org/abs/2504.15170)|**[link](https://github.com/chengxihan/hsanet)**|
+|**2025-04-21**|**Segmentation with Noisy Labels via Spatially Correlated Distributions**|Ryu Tadokoro et.al.|[2504.14795](http://arxiv.org/abs/2504.14795)|**[link](https://github.com/pfnet-research/bayesian_spatialcorr)**|
+|**2025-04-21**|**When Cloud Removal Meets Diffusion Model in Remote Sensing**|Zhenyu Yu et.al.|[2504.14785](http://arxiv.org/abs/2504.14785)|null|
+|**2025-04-20**|**Interdisciplinary Integration of Remote Sensing -- A Review with Four Examples**|Zichen Jin et.al.|[2504.14590](http://arxiv.org/abs/2504.14590)|null|
+|**2025-04-18**|**What determines the brightness of magnetically open solar corona?: Insights from three-dimensional radiative MHD simulations and observations**|Haruhisa Iijima et.al.|[2504.14049](http://arxiv.org/abs/2504.14049)|null|
+|**2025-04-17**|**A Collaborative Platform for Soil Organic Carbon Inference Based on Spatiotemporal Remote Sensing Data**|Jose Manuel Aroca-Fernandez et.al.|[2504.13962](http://arxiv.org/abs/2504.13962)|null|
 |**2025-04-18**|**DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**|Hongjia Chen et.al.|[2504.13748](http://arxiv.org/abs/2504.13748)|null|
 |**2025-04-18**|**Variational Autoencoder Framework for Hyperspectral Retrievals (Hyper-VAE) of Phytoplankton Absorption and Chlorophyll a in Coastal Waters for NASA's EMIT and PACE Missions**|Jiadong Lou et.al.|[2504.13476](http://arxiv.org/abs/2504.13476)|null|
-|**2025-04-18**|**Learning from Noisy Pseudo-labels for All-Weather Land Cover Mapping**|Wang Liu et.al.|[2504.13458](http://arxiv.org/abs/2504.13458)|null|
+|**2025-04-18**|**Learning from Noisy Pseudo-labels for All-Weather Land Cover Mapping**|Wang Liu et.al.|[2504.13458](http://arxiv.org/abs/2504.13458)|**[link](https://github.com/stuliu/dfc2025track1)**|
 |**2025-04-18**|**SatelliteCalculator: A Multi-Task Vision Foundation Model for Quantitative Remote Sensing Inversion**|Zhenyu Yu et.al.|[2504.13442](http://arxiv.org/abs/2504.13442)|null|
 |**2025-04-18**|**HSACNet: Hierarchical Scale-Aware Consistency Regularized Semi-Supervised Change Detection**|Qi'ao Xu et.al.|[2504.13428](http://arxiv.org/abs/2504.13428)|null|
 |**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|**[link](https://github.com/led-666/ttrd3)**|

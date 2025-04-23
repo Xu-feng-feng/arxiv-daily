@@ -256,6 +256,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Low-Rank Adaptation of Neural Fields**|Anh Truong et.al.|[2504.15933](http://arxiv.org/abs/2504.15933)|null|
+|**2025-04-21**|**Plug-and-Play Versatile Compressed Video Enhancement**|Huimin Zeng et.al.|[2504.15380](http://arxiv.org/abs/2504.15380)|null|
 |**2025-04-21**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897](http://arxiv.org/abs/2504.14897)|null|
 |**2025-04-20**|**Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space**|Yichi Zhang et.al.|[2504.14471](http://arxiv.org/abs/2504.14471)|null|
 |**2025-04-19**|**Text-Audio-Visual-conditioned Diffusion Model for Video Saliency Prediction**|Li Yu et.al.|[2504.14267](http://arxiv.org/abs/2504.14267)|null|
@@ -1135,6 +1137,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Survey of Video Diffusion Models: Foundations, Implementations, and Applications**|Yimu Wang et.al.|[2504.16081](http://arxiv.org/abs/2504.16081)|null|
+|**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
+|**2025-04-22**|**Boosting Generative Image Modeling via Joint Image-Feature Synthesis**|Theodoros Kouzelis et.al.|[2504.16064](http://arxiv.org/abs/2504.16064)|null|
+|**2025-04-22**|**MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment**|Yachun Mi et.al.|[2504.16003](http://arxiv.org/abs/2504.16003)|null|
+|**2025-04-22**|**DSDNet: Raw Domain Demoiréing via Dual Color-Space Synergy**|Qirui Yang et.al.|[2504.15756](http://arxiv.org/abs/2504.15756)|null|
+|**2025-04-22**|**You Sense Only Once Beneath: Ultra-Light Real-Time Underwater Object Detection**|Jun Dong et.al.|[2504.15694](http://arxiv.org/abs/2504.15694)|null|
+|**2025-04-21**|**Iris: A Next Generation Digital Pathology Rendering Engine**|Ryan Erik Landvater et.al.|[2504.15437](http://arxiv.org/abs/2504.15437)|null|
+|**2025-04-21**|**Plug-and-Play Versatile Compressed Video Enhancement**|Huimin Zeng et.al.|[2504.15380](http://arxiv.org/abs/2504.15380)|null|
+|**2025-04-20**|**Enhancing DR Classification with Swin Transformer and Shifted Window Attention**|Meher Boulaabi et.al.|[2504.15317](http://arxiv.org/abs/2504.15317)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-21**|**Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform**|Xianpan Zhou et.al.|[2504.15182](http://arxiv.org/abs/2504.15182)|null|
 |**2025-04-21**|**Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration**|Junyuan Deng et.al.|[2504.15159](http://arxiv.org/abs/2504.15159)|null|
@@ -3674,6 +3685,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Survey of Video Diffusion Models: Foundations, Implementations, and Applications**|Yimu Wang et.al.|[2504.16081](http://arxiv.org/abs/2504.16081)|null|
+|**2025-04-22**|**RepNet-VSR: Reparameterizable Architecture for High-Fidelity Video Super-Resolution**|Biao Wu et.al.|[2504.15649](http://arxiv.org/abs/2504.15649)|null|
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
 |**2025-04-21**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: KwaiSR Dataset and Study**|Xin Li et.al.|[2504.15003](http://arxiv.org/abs/2504.15003)|null|
 |**2025-04-20**|**NTIRE 2025 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2504.14582](http://arxiv.org/abs/2504.14582)|**[link](https://github.com/zhengchen1999/ntire2025_imagesr_x4)**|
@@ -4765,6 +4778,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification**|Hongxing Peng et.al.|[2504.15612](http://arxiv.org/abs/2504.15612)|null|
 |**2025-04-21**|**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**|Chengxi Han et.al.|[2504.15170](http://arxiv.org/abs/2504.15170)|**[link](https://github.com/chengxihan/hsanet)**|
 |**2025-04-21**|**Segmentation with Noisy Labels via Spatially Correlated Distributions**|Ryu Tadokoro et.al.|[2504.14795](http://arxiv.org/abs/2504.14795)|**[link](https://github.com/pfnet-research/bayesian_spatialcorr)**|
 |**2025-04-21**|**When Cloud Removal Meets Diffusion Model in Remote Sensing**|Zhenyu Yu et.al.|[2504.14785](http://arxiv.org/abs/2504.14785)|null|

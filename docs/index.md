@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -249,7 +249,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-22**|**Low-Rank Adaptation of Neural Fields**|Anh Truong et.al.|[2504.15933](http://arxiv.org/abs/2504.15933)|null|
 |**2025-04-21**|**Plug-and-Play Versatile Compressed Video Enhancement**|Huimin Zeng et.al.|[2504.15380](http://arxiv.org/abs/2504.15380)|null|
-|**2025-04-21**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897](http://arxiv.org/abs/2504.14897)|null|
+|**2025-04-23**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897](http://arxiv.org/abs/2504.14897)|null|
 |**2025-04-20**|**Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space**|Yichi Zhang et.al.|[2504.14471](http://arxiv.org/abs/2504.14471)|null|
 |**2025-04-19**|**Text-Audio-Visual-conditioned Diffusion Model for Video Saliency Prediction**|Li Yu et.al.|[2504.14267](http://arxiv.org/abs/2504.14267)|null|
 |**2025-04-18**|**Statistical Analysis and End-to-End Performance Evaluation of Traffic Models for Automotive Data**|Marcello Bullo et.al.|[2504.14017](http://arxiv.org/abs/2504.14017)|null|
@@ -3689,7 +3689,7 @@ layout: default
 |**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154](http://arxiv.org/abs/2504.12154)|null|
 |**2025-04-16**|**Virtually structured illumination for terahertz super-resolution imaging**|James P. Fleming et.al.|[2504.12092](http://arxiv.org/abs/2504.12092)|null|
 |**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286](http://arxiv.org/abs/2504.11286)|null|
-|**2025-04-15**|**Invention, Innovation, and Commercialisation in British Biophysics**|Jack Shepherd et.al.|[2504.11276](http://arxiv.org/abs/2504.11276)|null|
+|**2025-04-23**|**Invention, Innovation, and Commercialisation in British Biophysics**|Jack Shepherd et.al.|[2504.11276](http://arxiv.org/abs/2504.11276)|null|
 |**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271](http://arxiv.org/abs/2504.11271)|**[link](https://github.com/yaozzz666/dscf-sr)**|
 |**2025-04-14**|**The Tenth NTIRE 2025 Efficient Super-Resolution Challenge Report**|Bin Ren et.al.|[2504.10686](http://arxiv.org/abs/2504.10686)|**[link](https://github.com/amazingren/ntire2025_esr)**|
 |**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375](http://arxiv.org/abs/2504.10375)|null|

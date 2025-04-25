@@ -256,6 +256,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Quantum Autoencoder for Multivariate Time Series Anomaly Detection**|Kilian Tscharke et.al.|[2504.17548](http://arxiv.org/abs/2504.17548)|null|
+|**2025-04-24**|**Range Image-Based Implicit Neural Compression for LiDAR Point Clouds**|Akihiro Kuwabara et.al.|[2504.17229](http://arxiv.org/abs/2504.17229)|null|
+|**2025-04-22**|**TVC: Tokenized Video Compression with Ultra-Low Bitrate**|Lebin Zhou et.al.|[2504.16953](http://arxiv.org/abs/2504.16953)|null|
 |**2025-04-23**|**Learning Switchable Priors for Neural Image Compression**|Haotian Zhang et.al.|[2504.16586](http://arxiv.org/abs/2504.16586)|null|
 |**2025-04-24**|**FPGA-Based Neural Network Accelerators for Space Applications: A Survey**|Pedro Antunes et.al.|[2504.16173](http://arxiv.org/abs/2504.16173)|null|
 |**2025-04-22**|**Low-Rank Adaptation of Neural Fields**|Anh Truong et.al.|[2504.15933](http://arxiv.org/abs/2504.15933)|null|
@@ -1139,6 +1142,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning**|Nikola Janjušević et.al.|[2504.17698](http://arxiv.org/abs/2504.17698)|null|
+|**2025-04-24**|**Tamper-evident Image using JPEG Fixed Points**|Zhaofeng Si et.al.|[2504.17594](http://arxiv.org/abs/2504.17594)|null|
+|**2025-04-24**|**ESDiff: Encoding Strategy-inspired Diffusion Model with Few-shot Learning for Color Image Inpainting**|Junyan Zhang et.al.|[2504.17524](http://arxiv.org/abs/2504.17524)|null|
+|**2025-04-24**|**Inverse-Designed Metasurfaces for Wavefront Restoration in Under-Display Camera Systems**|Jaegang Jo et.al.|[2504.17368](http://arxiv.org/abs/2504.17368)|null|
+|**2025-04-24**|**Scene Perceived Image Perceptual Score (SPIPS): combining global and local perception for image quality assessment**|Zhiqiang Lao et.al.|[2504.17234](http://arxiv.org/abs/2504.17234)|null|
+|**2025-04-23**|**Distilling semantically aware orders for autoregressive image generation**|Rishav Pramanik et.al.|[2504.17069](http://arxiv.org/abs/2504.17069)|null|
+|**2025-04-23**|**Diffusion Probabilistic Models for Compressive SAR Imaging**|Odysseas Pappas et.al.|[2504.17053](http://arxiv.org/abs/2504.17053)|null|
+|**2025-04-23**|**Dense Air Pollution Estimation from Sparse in-situ Measurements and Satellite Data**|Ruben Gonzalez Avilés et.al.|[2504.17039](http://arxiv.org/abs/2504.17039)|null|
+|**2025-04-22**|**TVC: Tokenized Video Compression with Ultra-Low Bitrate**|Lebin Zhou et.al.|[2504.16953](http://arxiv.org/abs/2504.16953)|null|
 |**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
 |**2025-04-23**|**ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance**|Ying Li et.al.|[2504.16464](http://arxiv.org/abs/2504.16464)|null|
 |**2025-04-23**|**VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models**|Xuming Hu et.al.|[2504.16359](http://arxiv.org/abs/2504.16359)|null|
@@ -3692,6 +3704,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**CKMDiff: A Generative Diffusion Model for CKM Construction via Inverse Problems with Learned Priors**|Shen Fu et.al.|[2504.17323](http://arxiv.org/abs/2504.17323)|null|
+|**2025-04-24**|**Physics-based super-resolved simulation of 3D elastic wave propagation adopting scalable Diffusion Transformer**|Hugo Gabrielidis et.al.|[2504.17308](http://arxiv.org/abs/2504.17308)|null|
+|**2025-04-23**|**Iterative Collaboration Network Guided By Reconstruction Prior for Medical Image Super-Resolution**|Xiaoyan Kui et.al.|[2504.16958](http://arxiv.org/abs/2504.16958)|null|
 |**2025-04-22**|**Regularizing Differentiable Architecture Search with Smooth Activation**|Yanlin Zhou et.al.|[2504.16306](http://arxiv.org/abs/2504.16306)|null|
 |**2025-04-22**|**Survey of Video Diffusion Models: Foundations, Implementations, and Applications**|Yimu Wang et.al.|[2504.16081](http://arxiv.org/abs/2504.16081)|null|
 |**2025-04-22**|**RepNet-VSR: Reparameterizable Architecture for High-Fidelity Video Super-Resolution**|Biao Wu et.al.|[2504.15649](http://arxiv.org/abs/2504.15649)|null|
@@ -4786,6 +4801,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Unsupervised Urban Land Use Mapping with Street View Contrastive Clustering and a Geographical Prior**|Lin Che et.al.|[2504.17551](http://arxiv.org/abs/2504.17551)|null|
+|**2025-04-24**|**Fine-tune Smarter, Not Harder: Parameter-Efficient Fine-Tuning for Geospatial Foundation Models**|Francesc Marti-Escofet et.al.|[2504.17397](http://arxiv.org/abs/2504.17397)|null|
+|**2025-04-24**|**A Genealogy of Multi-Sensor Foundation Models in Remote Sensing**|Kevin Lane et.al.|[2504.17177](http://arxiv.org/abs/2504.17177)|null|
 |**2025-04-23**|**High-Quality Cloud-Free Optical Image Synthesis Using Multi-Temporal SAR and Contaminated Optical Data**|Chenxi Duan et.al.|[2504.16870](http://arxiv.org/abs/2504.16870)|null|
 |**2025-04-23**|**A Diff-Attention Aware State Space Fusion Model for Remote Sensing Classification**|Wenping Ma et.al.|[2504.16665](http://arxiv.org/abs/2504.16665)|null|
 |**2025-04-23**|**SAIP-Net: Enhancing Remote Sensing Image Segmentation via Spectral Adaptive Information Propagation**|Zhongtao Wang et.al.|[2504.16564](http://arxiv.org/abs/2504.16564)|null|

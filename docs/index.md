@@ -274,7 +274,7 @@ layout: default
 |**2025-04-17**|**FANeRV: Frequency Separation and Augmentation based Neural Representation for Video**|Li Yu et.al.|[2504.06755](http://arxiv.org/abs/2504.06755)|null|
 |**2025-04-10**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|null|
 |**2025-04-08**|**Old and New Results on Alphabetic Codes**|Roberto Bruno et.al.|[2504.05959](http://arxiv.org/abs/2504.05959)|null|
-|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
+|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|**[link](https://github.com/saidwivedi/InteractVLM)**|
 |**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
 |**2025-04-07**|**Randomized block Krylov method for approximation of truncated tensor SVD**|Malihe Nobakht Kooshkghazi et.al.|[2504.04989](http://arxiv.org/abs/2504.04989)|null|
 |**2025-04-07**|**3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model**|Haisheng Fu et.al.|[2504.04658](http://arxiv.org/abs/2504.04658)|**[link](https://github.com/fengyurenpingsheng/WeConvene)**|
@@ -1172,10 +1172,10 @@ layout: default
 |**2025-04-18**|**Entropy Rectifying Guidance for Diffusion and Flow Models**|Tariq Berrada Ifriqi et.al.|[2504.13987](http://arxiv.org/abs/2504.13987)|null|
 |**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622](http://arxiv.org/abs/2504.13622)|null|
 |**2025-04-18**|**Entropic Time Schedulers for Generative Diffusion Models**|Dejan Stancevic et.al.|[2504.13612](http://arxiv.org/abs/2504.13612)|null|
-|**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|null|
+|**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|**[link](https://github.com/ErgastiAlex/U-Shape-Mamba)**|
 |**2025-04-17**|**Auto-FEDUS: Autoregressive Generative Modeling of Doppler Ultrasound Signals from Fetal Electrocardiograms**|Alireza Rafiei et.al.|[2504.13233](http://arxiv.org/abs/2504.13233)|null|
 |**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|**[link](https://github.com/lixinustc/kvqe-challenge-cvpr-ntire2025)**|
-|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|**[link](https://github.com/skyworkai/skyreels-v2)**|
 |**2025-04-17**|**Imaging for All-Day Wearable Smart Glasses**|Michael Goesele et.al.|[2504.13060](http://arxiv.org/abs/2504.13060)|null|
 |**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|**[link](https://github.com/led-666/ttrd3)**|
 |**2025-04-17**|**Efficient Chebyshev Reconstruction for the Anisotropic Equilibrium Model in Magnetic Particle Imaging**|Christine Droigk et.al.|[2504.12981](http://arxiv.org/abs/2504.12981)|null|
@@ -1218,7 +1218,7 @@ layout: default
 |**2025-04-14**|**EquiVDM: Equivariant Video Diffusion Models with Temporally Consistent Noise**|Chao Liu et.al.|[2504.09789](http://arxiv.org/abs/2504.09789)|null|
 |**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-04-13**|**KeyVID: Keyframe-Aware Video Diffusion for Audio-Synchronized Visual Animation**|Xingrui Wang et.al.|[2504.09656](http://arxiv.org/abs/2504.09656)|null|
-|**2025-04-13**|**Trajectory-guided Motion Perception for Facial Expression Quality Assessment in Neurological Disorders**|Shuchao Duan et.al.|[2504.09530](http://arxiv.org/abs/2504.09530)|null|
+|**2025-04-13**|**Trajectory-guided Motion Perception for Facial Expression Quality Assessment in Neurological Disorders**|Shuchao Duan et.al.|[2504.09530](http://arxiv.org/abs/2504.09530)|**[link](https://github.com/shuchaoduan/tramp-former)**|
 |**2025-04-13**|**A Secure Communication Protocol for Remote Keyless Entry System with Adaptive Adjustment of Transmission Parameters**|Jingjing Guo et.al.|[2504.09527](http://arxiv.org/abs/2504.09527)|null|
 |**2025-04-13**|**Enhancing Wide-Angle Image Using Narrow-Angle View of the Same Scene**|Hussain Md. Safwan et.al.|[2504.09455](http://arxiv.org/abs/2504.09455)|null|
 |**2025-04-12**|**Towards Explainable Partial-AIGC Image Quality Assessment**|Jiaying Qian et.al.|[2504.09291](http://arxiv.org/abs/2504.09291)|null|
@@ -2174,7 +2174,7 @@ layout: default
 |**2024-11-22**|**Fast High-Quality Enhanced Imaging Algorithm for Layered Dielectric Targets Based on MMW MIMO-SAR System**|Xu Chen et.al.|[2411.14837](http://arxiv.org/abs/2411.14837)|null|
 |**2024-11-22**|**BrightVAE: Luminosity Enhancement in Underexposed Endoscopic Images**|Farzaneh Koohestani et.al.|[2411.14663](http://arxiv.org/abs/2411.14663)|null|
 |**2024-11-22**|**VQalAttent: a Transparent Speech Generation Pipeline based on Transformer-learned VQ-VAE Latent Space**|Armani Rodriguez et.al.|[2411.14642](http://arxiv.org/abs/2411.14642)|null|
-|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
+|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|**[link](https://github.com/rssl-mtu/enhancement-detection-analysis)**|
 |**2024-11-21**|**Optimal Transcoding Preset Selection for Live Video Streaming**|Zahra Nabizadeh et.al.|[2411.14613](http://arxiv.org/abs/2411.14613)|null|
 |**2024-11-21**|**Roadmap on Advances in Visual and Physiological Optics**|Jesús E. Gómez-Correa et.al.|[2411.14606](http://arxiv.org/abs/2411.14606)|null|
 |**2024-11-21**|**Night-to-Day Translation via Illumination Degradation Disentanglement**|Guanzhou Lan et.al.|[2411.14504](http://arxiv.org/abs/2411.14504)|null|
@@ -4836,7 +4836,7 @@ layout: default
 |**2025-04-12**|**AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images**|Saikat Dutta et.al.|[2504.09203](http://arxiv.org/abs/2504.09203)|null|
 |**2025-04-14**|**COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails**|Miguel Espinosa et.al.|[2504.08548](http://arxiv.org/abs/2504.08548)|null|
 |**2025-04-10**|**Multi-Task Learning with Multi-Annotation Triplet Loss for Improved Object Detection**|Meilun Zhou et.al.|[2504.08054](http://arxiv.org/abs/2504.08054)|**[link](https://github.com/gatorsense/matl)**|
-|**2025-04-11**|**A Mechanism-Learning Deeply Coupled Model for Remote Sensing Retrieval of Global Land Surface Temperature**|Tian Xie et.al.|[2504.07481](http://arxiv.org/abs/2504.07481)|null|
+|**2025-04-11**|**A Mechanism-Learning Deeply Coupled Model for Remote Sensing Retrieval of Global Land Surface Temperature**|Tian Xie et.al.|[2504.07481](http://arxiv.org/abs/2504.07481)|**[link](https://github.com/TianXie-WHU/PCMCNN)**|
 |**2025-04-09**|**Few-Shot Adaptation of Grounding DINO for Agricultural Domain**|Rajhans Singh et.al.|[2504.07252](http://arxiv.org/abs/2504.07252)|null|
 |**2025-04-14**|**MESA: Text-Driven Terrain Generation Using Latent Diffusion and Global Copernicus Data**|Paul Borne--Pons et.al.|[2504.07210](http://arxiv.org/abs/2504.07210)|**[link](https://github.com/PaulBorneP/MESA)**|
 |**2025-04-09**|**Efficient Self-Supervised Learning for Earth Observation via Dynamic Dataset Curation**|Thomas Kerdreux et.al.|[2504.06962](http://arxiv.org/abs/2504.06962)|null|

@@ -256,6 +256,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935](http://arxiv.org/abs/2504.19935)|null|
+|**2025-04-28**|**Universally Wheeler Languages**|Ruben Becker et.al.|[2504.19537](http://arxiv.org/abs/2504.19537)|null|
+|**2025-04-27**|**MLICv2: Enhanced Multi-Reference Entropy Modeling for Learned Image Compression**|Wei Jiang et.al.|[2504.19119](http://arxiv.org/abs/2504.19119)|null|
+|**2025-04-26**|**Revisiting Transformers through the Lens of Low Entropy and Dynamic Sparsity**|Ruifeng Ren et.al.|[2504.18929](http://arxiv.org/abs/2504.18929)|null|
+|**2025-04-26**|**4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression**|Zicong Chen et.al.|[2504.18925](http://arxiv.org/abs/2504.18925)|null|
 |**2025-04-25**|**MROP: Modulated Rank-One Projections for compressive radio interferometric imaging**|Olivier Leblanc et.al.|[2504.18446](http://arxiv.org/abs/2504.18446)|null|
 |**2025-04-25**|**Partition Map-Based Fast Block Partitioning for VVC Inter Coding**|Xinmin Feng et.al.|[2504.18398](http://arxiv.org/abs/2504.18398)|null|
 |**2025-04-24**|**Quantum Autoencoder for Multivariate Time Series Anomaly Detection**|Kilian Tscharke et.al.|[2504.17548](http://arxiv.org/abs/2504.17548)|null|
@@ -1144,10 +1149,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**CompleteMe: Reference-based Human Image Completion**|Yu-Ju Tsai et.al.|[2504.20042](http://arxiv.org/abs/2504.20042)|null|
+|**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935](http://arxiv.org/abs/2504.19935)|null|
+|**2025-04-28**|**Accelerated 3D-3D rigid registration of echocardiographic images obtained from apical window using particle filter**|Thanuja Uruththirakodeeswaran et.al.|[2504.19930](http://arxiv.org/abs/2504.19930)|null|
+|**2025-04-28**|**Prompt Guiding Multi-Scale Adaptive Sparse Representation-driven Network for Low-Dose CT MAR**|Baoshun Shi et.al.|[2504.19687](http://arxiv.org/abs/2504.19687)|null|
+|**2025-04-27**|**HumMorph: Generalized Dynamic Human Neural Fields from Few Views**|Jakub Zadrożny et.al.|[2504.19390](http://arxiv.org/abs/2504.19390)|null|
+|**2025-04-27**|**Machine Learning-Based Modeling of the Anode Heel Effect in X-ray Beam Monte Carlo Simulations**|Hussein Harb et.al.|[2504.19155](http://arxiv.org/abs/2504.19155)|null|
+|**2025-04-26**|**Calibrating Translation Decoding with Quality Estimation on LLMs**|Di Wu et.al.|[2504.19044](http://arxiv.org/abs/2504.19044)|null|
+|**2025-04-26**|**REED-VAE: RE-Encode Decode Training for Iterative Image Editing with Diffusion Models**|Gal Almog et.al.|[2504.18989](http://arxiv.org/abs/2504.18989)|null|
+|**2025-04-26**|**Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning**|Yifan Xie et.al.|[2504.18810](http://arxiv.org/abs/2504.18810)|null|
 |**2025-04-25**|**Augmenting Perceptual Super-Resolution via Image Quality Predictors**|Fengjia Zhang et.al.|[2504.18524](http://arxiv.org/abs/2504.18524)|null|
 |**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[2504.18448](http://arxiv.org/abs/2504.18448)|null|
 |**2025-04-25**|**Disentangle Identity, Cooperate Emotion: Correlation-Aware Emotional Talking Portrait Generation**|Weipeng Tan et.al.|[2504.18087](http://arxiv.org/abs/2504.18087)|null|
-|**2025-04-25**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
+|**2025-04-28**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
 |**2025-04-23**|**Learning Underwater Active Perception in Simulation**|Alexandre Cardaillac et.al.|[2504.17817](http://arxiv.org/abs/2504.17817)|null|
 |**2025-04-24**|**Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning**|Nikola Janjušević et.al.|[2504.17698](http://arxiv.org/abs/2504.17698)|null|
 |**2025-04-24**|**Tamper-evident Image using JPEG Fixed Points**|Zhaofeng Si et.al.|[2504.17594](http://arxiv.org/abs/2504.17594)|null|
@@ -3711,6 +3725,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-27**|**Super-resolution Wideband Beam Training for Near-field Communications with Ultra-low Overhead**|Cong Zhou et.al.|[2504.19262](http://arxiv.org/abs/2504.19262)|null|
+|**2025-04-26**|**QFGN: A Quantum Approach to High-Fidelity Implicit Neural Representations**|Hongni Jin et.al.|[2504.19053](http://arxiv.org/abs/2504.19053)|null|
+|**2025-04-26**|**Predicting Stress in Two-phase Random Materials and Super-Resolution Method for Stress Images by Embedding Physical Information**|Tengfei Xing et.al.|[2504.18854](http://arxiv.org/abs/2504.18854)|null|
+|**2025-04-26**|**Frequency-Integrated Transformer for Arbitrary-Scale Super-Resolution**|Xufei Wang et.al.|[2504.18818](http://arxiv.org/abs/2504.18818)|null|
+|**2025-04-24**|**Geometry aware inference of steady state PDEs using Equivariant Neural Fields representations**|Giovanni Catalani et.al.|[2504.18591](http://arxiv.org/abs/2504.18591)|null|
 |**2025-04-25**|**Augmenting Perceptual Super-Resolution via Image Quality Predictors**|Fengjia Zhang et.al.|[2504.18524](http://arxiv.org/abs/2504.18524)|null|
 |**2025-04-25**|**Salient Region-Guided Spacecraft Image Arbitrary-Scale Super-Resolution Network**|Jingfan Yang et.al.|[2504.18127](http://arxiv.org/abs/2504.18127)|null|
 |**2025-04-25**|**HOSVD-SR: A Physics-Based Deep Learning Framework for Super-Resolution in Fluid Dynamics**|Guillermo Barragán et.al.|[2504.17994](http://arxiv.org/abs/2504.17994)|null|
@@ -4811,6 +4830,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery**|Andreas Kalogeras et.al.|[2504.19996](http://arxiv.org/abs/2504.19996)|null|
+|**2025-04-28**|**Mapping of Weed Management Methods in Orchards using Sentinel-2 and PlanetScope Data**|Ioannis Kontogiorgakis et.al.|[2504.19991](http://arxiv.org/abs/2504.19991)|null|
+|**2025-04-28**|**EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak Supervision with Species Observations and Wikipedia**|Valerie Zermatten et.al.|[2504.19742](http://arxiv.org/abs/2504.19742)|null|
+|**2025-04-28**|**NSegment : Noisy Segment Improves Remote Sensing Image Segmentation**|Yechan Kim et.al.|[2504.19634](http://arxiv.org/abs/2504.19634)|null|
+|**2025-04-28**|**Lightweight Adapter Learning for More Generalized Remote Sensing Change Detection**|Dou Quan et.al.|[2504.19598](http://arxiv.org/abs/2504.19598)|null|
+|**2025-04-28**|**Magnifier: A Multi-grained Neural Network-based Architecture for Burned Area Delineation**|Daniele Rege Cambrin et.al.|[2504.19589](http://arxiv.org/abs/2504.19589)|null|
+|**2025-04-28**|**EarthMapper: Visual Autoregressive Models for Controllable Bidirectional Satellite-Map Translation**|Zhe Dong et.al.|[2504.19432](http://arxiv.org/abs/2504.19432)|null|
+|**2025-04-27**|**CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis**|Alexander Baumann et.al.|[2504.19223](http://arxiv.org/abs/2504.19223)|null|
+|**2025-04-27**|**PAD: Phase-Amplitude Decoupling Fusion for Multi-Modal Land Cover Classification**|Huiling Zheng et.al.|[2504.19136](http://arxiv.org/abs/2504.19136)|null|
+|**2025-04-27**|**Vessel Length Estimation from Magnetic Wake Signature: A Physics-Informed Residual Neural Network Approach**|Mohammad Amir Fallah et.al.|[2504.19112](http://arxiv.org/abs/2504.19112)|null|
+|**2025-04-27**|**Dual-Branch Residual Network for Cross-Domain Few-Shot Hyperspectral Image Classification with Refined Prototype**|Anyong Qin et.al.|[2504.19074](http://arxiv.org/abs/2504.19074)|null|
+|**2025-04-26**|**R-Sparse R-CNN: SAR Ship Detection Based on Background-Aware Sparse Learnable Proposals**|Kamirul Kamirul et.al.|[2504.18959](http://arxiv.org/abs/2504.18959)|null|
+|**2025-04-26**|**Evaluating AI-Driven Automated Map Digitization in QGIS**|Diana Febrita et.al.|[2504.18777](http://arxiv.org/abs/2504.18777)|null|
+|**2025-04-26**|**PyViT-FUSE: A Foundation Model for Multi-Sensor Earth Observation Data**|Manuel Weber et.al.|[2504.18770](http://arxiv.org/abs/2504.18770)|null|
+|**2025-04-25**|**Photon Absorption Remote Sensing Virtual Histopathology: Diagnostic Equivalence to Gold-Standard H&E Staining in Skin Cancer Excisional Biopsies**|Benjamin R. Ecclestone et.al.|[2504.18737](http://arxiv.org/abs/2504.18737)|null|
 |**2025-04-25**|**Design and Evaluation of a UGV-Based Robotic Platform for Precision Soil Moisture Remote Sensing**|Ilektra Tsimpidi et.al.|[2504.18284](http://arxiv.org/abs/2504.18284)|null|
 |**2025-04-25**|**SSL4Eco: A Global Seasonal Dataset for Geospatial Foundation Models in Ecology**|Elena Plekhanova et.al.|[2504.18256](http://arxiv.org/abs/2504.18256)|null|
 |**2025-04-25**|**Influence of molecular rotation on the generation of N $_2^+$ air lasing**|Wenli Yang et.al.|[2504.18124](http://arxiv.org/abs/2504.18124)|null|

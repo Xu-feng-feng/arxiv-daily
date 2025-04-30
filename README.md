@@ -256,6 +256,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Neural Stereo Video Compression with Hybrid Disparity Compensation**|Shiyin Jiang et.al.|[2504.20383](http://arxiv.org/abs/2504.20383)|null|
+|**2025-04-25**|**Low-Rank Matrix Approximation for Neural Network Compression**|Kalyan Cherukuri et.al.|[2504.20078](http://arxiv.org/abs/2504.20078)|null|
 |**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935](http://arxiv.org/abs/2504.19935)|null|
 |**2025-04-28**|**Universally Wheeler Languages**|Ruben Becker et.al.|[2504.19537](http://arxiv.org/abs/2504.19537)|null|
 |**2025-04-27**|**MLICv2: Enhanced Multi-Reference Entropy Modeling for Learned Image Compression**|Wei Jiang et.al.|[2504.19119](http://arxiv.org/abs/2504.19119)|null|
@@ -1149,6 +1151,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**YoChameleon: Personalized Vision and Language Generation**|Thao Nguyen et.al.|[2504.20998](http://arxiv.org/abs/2504.20998)|null|
+|**2025-04-29**|**All-dielectric metasurface polarization scrambler for imaging applications**|Edith Hartmann et.al.|[2504.20727](http://arxiv.org/abs/2504.20727)|null|
+|**2025-04-29**|**Histogram-Probabilistic Multi-Hypothesis Tracking with Integrated Target Existence**|Lukas Herrmann et.al.|[2504.20526](http://arxiv.org/abs/2504.20526)|null|
+|**2025-04-29**|**LMM4Gen3DHF: Benchmarking and Evaluating Multimodal 3D Human Face Generation with LMMs**|Woo Yi Yang et.al.|[2504.20466](http://arxiv.org/abs/2504.20466)|null|
+|**2025-04-29**|**APG-MOS: Auditory Perception Guided-MOS Predictor for Synthetic Speech**|Zhicheng Lian et.al.|[2504.20447](http://arxiv.org/abs/2504.20447)|null|
 |**2025-04-28**|**CompleteMe: Reference-based Human Image Completion**|Yu-Ju Tsai et.al.|[2504.20042](http://arxiv.org/abs/2504.20042)|null|
 |**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935](http://arxiv.org/abs/2504.19935)|null|
 |**2025-04-28**|**Accelerated 3D-3D rigid registration of echocardiographic images obtained from apical window using particle filter**|Thanuja Uruththirakodeeswaran et.al.|[2504.19930](http://arxiv.org/abs/2504.19930)|null|
@@ -3725,6 +3732,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**FourierSpecNet: Neural Collision Operator Approximation Inspired by the Fourier Spectral Method for Solving the Boltzmann Equation**|Jae Yong Lee et.al.|[2504.20408](http://arxiv.org/abs/2504.20408)|null|
 |**2025-04-27**|**Super-resolution Wideband Beam Training for Near-field Communications with Ultra-low Overhead**|Cong Zhou et.al.|[2504.19262](http://arxiv.org/abs/2504.19262)|null|
 |**2025-04-26**|**QFGN: A Quantum Approach to High-Fidelity Implicit Neural Representations**|Hongni Jin et.al.|[2504.19053](http://arxiv.org/abs/2504.19053)|null|
 |**2025-04-26**|**Predicting Stress in Two-phase Random Materials and Super-Resolution Method for Stress Images by Embedding Physical Information**|Tengfei Xing et.al.|[2504.18854](http://arxiv.org/abs/2504.18854)|null|
@@ -4830,6 +4838,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**A Quantum Range-Doppler Algorithm for Synthetic Aperture Radar Image Formation**|Alessandro Giovagnoli et.al.|[2504.20811](http://arxiv.org/abs/2504.20811)|null|
+|**2025-04-29**|**LDPoly: Latent Diffusion for Polygonal Road Outline Extraction in Large-Scale Topographic Mapping**|Weiqin Jiao et.al.|[2504.20645](http://arxiv.org/abs/2504.20645)|null|
+|**2025-04-29**|**A Case Study of the Tornadic Supercell in the province of Pampanga, Philippines (27 May 2024)**|Generich H. Capuli et.al.|[2504.20559](http://arxiv.org/abs/2504.20559)|null|
+|**2025-04-29**|**Continuum, CO and Water vapour maps of the Orion Nebula. First millimetre spectral imaging with Concerto**|F. -X. Désert et.al.|[2504.20487](http://arxiv.org/abs/2504.20487)|null|
+|**2025-04-28**|**DeepAndes: A Self-Supervised Vision Foundation Model for Multi-Spectral Remote Sensing Imagery of the Andes**|Junlin Guo et.al.|[2504.20303](http://arxiv.org/abs/2504.20303)|null|
+|**2025-04-28**|**Spatio-temporal data fusion of censored threshold exceedances**|M. Daniela Cuba et.al.|[2504.20268](http://arxiv.org/abs/2504.20268)|null|
+|**2025-04-28**|**Physics-Informed Diffusion Models for SAR Ship Wake Generation from Text Prompts**|Kamirul Kamirul et.al.|[2504.20241](http://arxiv.org/abs/2504.20241)|null|
+|**2025-04-28**|**Remote Sensing Imagery for Flood Detection: Exploration of Augmentation Strategies**|Vladyslav Polushko et.al.|[2504.20203](http://arxiv.org/abs/2504.20203)|null|
 |**2025-04-28**|**Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery**|Andreas Kalogeras et.al.|[2504.19996](http://arxiv.org/abs/2504.19996)|null|
 |**2025-04-28**|**Mapping of Weed Management Methods in Orchards using Sentinel-2 and PlanetScope Data**|Ioannis Kontogiorgakis et.al.|[2504.19991](http://arxiv.org/abs/2504.19991)|null|
 |**2025-04-28**|**EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak Supervision with Species Observations and Wikipedia**|Valerie Zermatten et.al.|[2504.19742](http://arxiv.org/abs/2504.19742)|null|

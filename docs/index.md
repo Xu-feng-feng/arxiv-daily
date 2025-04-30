@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -3728,7 +3728,7 @@ layout: default
 |**2025-04-22**|**RepNet-VSR: Reparameterizable Architecture for High-Fidelity Video Super-Resolution**|Biao Wu et.al.|[2504.15649](http://arxiv.org/abs/2504.15649)|null|
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
 |**2025-04-21**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: KwaiSR Dataset and Study**|Xin Li et.al.|[2504.15003](http://arxiv.org/abs/2504.15003)|null|
-|**2025-04-20**|**NTIRE 2025 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2504.14582](http://arxiv.org/abs/2504.14582)|**[link](https://github.com/zhengchen1999/ntire2025_imagesr_x4)**|
+|**2025-04-29**|**NTIRE 2025 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2504.14582](http://arxiv.org/abs/2504.14582)|**[link](https://github.com/zhengchen1999/ntire2025_imagesr_x4)**|
 |**2025-04-20**|**STARS: Sparse Learning Correlation Filter with Spatio-temporal Regularization and Super-resolution Reconstruction for Thermal Infrared Target Tracking**|Shang Zhang et.al.|[2504.14491](http://arxiv.org/abs/2504.14491)|null|
 |**2025-04-18**|**AnyTSR: Any-Scale Thermal Super-Resolution for UAV**|Mengyuan Li et.al.|[2504.13682](http://arxiv.org/abs/2504.13682)|**[link](https://github.com/vision4robotics/anytsr)**|
 |**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622](http://arxiv.org/abs/2504.13622)|null|

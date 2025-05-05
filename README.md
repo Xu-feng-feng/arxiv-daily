@@ -256,6 +256,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites**|Loc X. Nguyen et.al.|[2505.00966](http://arxiv.org/abs/2505.00966)|null|
 |**2025-05-01**|**Compressing fluid flows with nonlinear machine learning: mode decomposition, latent modeling, and flow control**|Koji Fukagata et.al.|[2505.00343](http://arxiv.org/abs/2505.00343)|null|
 |**2025-05-01**|**Efficient Neural Video Representation with Temporally Coherent Modulation**|Seungjun Shin et.al.|[2505.00335](http://arxiv.org/abs/2505.00335)|null|
 |**2025-04-30**|**SR-NeRV: Improving Embedding Efficiency of Neural Video Representation via Super-Resolution**|Taiga Hayami et.al.|[2505.00046](http://arxiv.org/abs/2505.00046)|null|
@@ -1161,6 +1162,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406](http://arxiv.org/abs/2505.01406)|null|
+|**2025-05-02**|**Potential Contrast: Properties, Equivalences, and Generalization to Multiple Classes**|Wallace Peaslee et.al.|[2505.01388](http://arxiv.org/abs/2505.01388)|null|
+|**2025-05-02**|**FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis**|Jiangtong Tan et.al.|[2505.01172](http://arxiv.org/abs/2505.01172)|null|
+|**2025-05-02**|**VSC: Visual Search Compositional Text-to-Image Diffusion Model**|Do Huu Dat et.al.|[2505.01104](http://arxiv.org/abs/2505.01104)|null|
+|**2025-05-02**|**Diffuse Optical Ptychography**|Mingwei He et.al.|[2505.01090](http://arxiv.org/abs/2505.01090)|null|
+|**2025-05-02**|**Enhancing Realism in Holographic Augmented Reality Displays through Occlusion Handling**|Woongseob Han et.al.|[2505.00942](http://arxiv.org/abs/2505.00942)|null|
+|**2025-05-01**|**The Comparability of Model Fusion to Measured Data in Confuser Rejection**|Conor Flynn et.al.|[2505.00836](http://arxiv.org/abs/2505.00836)|null|
 |**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687](http://arxiv.org/abs/2505.00687)|null|
 |**2025-05-01**|**Deep Learning Assisted Outer Volume Removal for Highly-Accelerated Real-Time Dynamic MRI**|Merve Gülle et.al.|[2505.00643](http://arxiv.org/abs/2505.00643)|null|
 |**2025-05-01**|**KeySync: A Robust Approach for Leakage-free Lip Synchronization in High Resolution**|Antoni Bigata et.al.|[2505.00497](http://arxiv.org/abs/2505.00497)|null|
@@ -3763,6 +3771,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**One Target, Many Views: Multi-User Fusion for Collaborative Uplink ISAC**|Sajad Daei et.al.|[2505.01223](http://arxiv.org/abs/2505.01223)|null|
+|**2025-05-02**|**Phase-shifting structured illumination with polarization-encoded metasurface**|Linzhi Yu et.al.|[2505.01051](http://arxiv.org/abs/2505.01051)|null|
 |**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687](http://arxiv.org/abs/2505.00687)|null|
 |**2025-05-01**|**Towards Lightweight Hyperspectral Image Super-Resolution with Depthwise Separable Dilated Convolutional Network**|Usman Muhammad et.al.|[2505.00374](http://arxiv.org/abs/2505.00374)|null|
 |**2025-05-01**|**Efficient Neural Video Representation with Temporally Coherent Modulation**|Seungjun Shin et.al.|[2505.00335](http://arxiv.org/abs/2505.00335)|null|
@@ -4875,6 +4885,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing**|Fahong Zhang et.al.|[2505.01385](http://arxiv.org/abs/2505.01385)|null|
+|**2025-05-02**|**Core-Set Selection for Data-efficient Land Cover Segmentation**|Keiller Nogueira et.al.|[2505.01225](http://arxiv.org/abs/2505.01225)|null|
+|**2025-05-02**|**T-Graph: Enhancing Sparse-view Camera Pose Estimation by Pairwise Translation Graph**|Qingyu Xian et.al.|[2505.01207](http://arxiv.org/abs/2505.01207)|null|
+|**2025-04-30**|**XeMap: Contextual Referring in Large-Scale Remote Sensing Environments**|Yuxi Li et.al.|[2505.00738](http://arxiv.org/abs/2505.00738)|null|
 |**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
 |**2025-05-01**|**Field-scale soil moisture estimated from Sentinel-1 SAR data using a knowledge-guided deep learning approach**|Yi Yu et.al.|[2505.00265](http://arxiv.org/abs/2505.00265)|null|
 |**2025-04-30**|**Rydberg Atom Electric Field Sensors as Linear Time-invariant Systems**|Neel Malvania et.al.|[2505.00159](http://arxiv.org/abs/2505.00159)|null|

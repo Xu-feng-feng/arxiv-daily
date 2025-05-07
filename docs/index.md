@@ -247,6 +247,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
+|**2025-05-05**|**Gone With the Bits: Revealing Racial Bias in Low-Rate Neural Compression for Facial Images**|Tian Qiu et.al.|[2505.02949](http://arxiv.org/abs/2505.02949)|null|
 |**2025-05-05**|**A Rate-Quality Model for Learned Video Coding**|Sang NguyenQuang et.al.|[2505.02720](http://arxiv.org/abs/2505.02720)|null|
 |**2025-05-05**|**Data Compression for Time Series Modelling: A Case Study of Smart Grid Demand Forecasting**|Mikkel Bue Lykkegaard et.al.|[2505.02606](http://arxiv.org/abs/2505.02606)|null|
 |**2025-05-04**|**Robust Localization, Mapping, and Navigation for Quadruped Robots**|Dyuman Aditya et.al.|[2505.02272](http://arxiv.org/abs/2505.02272)|null|
@@ -1156,6 +1158,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**DISARM++: Beyond scanner-free harmonization**|Luca Caldera et.al.|[2505.03715](http://arxiv.org/abs/2505.03715)|null|
+|**2025-05-06**|**Towards Smart Point-and-Shoot Photography**|Jiawan Li et.al.|[2505.03638](http://arxiv.org/abs/2505.03638)|null|
+|**2025-05-06**|**Breaking Annotation Barriers: Generalized Video Quality Assessment via Ranking-based Self-Supervision**|Linhan Cao et.al.|[2505.03631](http://arxiv.org/abs/2505.03631)|null|
+|**2025-05-06**|**PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model**|Y. B. Wang et.al.|[2505.03603](http://arxiv.org/abs/2505.03603)|null|
+|**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562](http://arxiv.org/abs/2505.03562)|null|
+|**2025-05-06**|**MRI motion correction via efficient residual-guided denoising diffusion probabilistic models**|Mojtaba Safari et.al.|[2505.03498](http://arxiv.org/abs/2505.03498)|null|
+|**2025-05-06**|**EOPose : Exemplar-based object reposing using Generalized Pose Correspondences**|Sarthak Mehrotra et.al.|[2505.03394](http://arxiv.org/abs/2505.03394)|null|
+|**2025-05-06**|**DiffVQA: Video Quality Assessment Using Diffusion Feature Extractor**|Wei-Ting Chen et.al.|[2505.03261](http://arxiv.org/abs/2505.03261)|null|
+|**2025-05-06**|**Is AI currently capable of identifying wild oysters? A comparison of human annotators against the AI model, ODYSSEE**|Brendan Campbell et.al.|[2505.03108](http://arxiv.org/abs/2505.03108)|null|
+|**2025-05-05**|**NTIRE 2025 Challenge on UGC Video Enhancement: Methods and Results**|Nikolay Safonov et.al.|[2505.03007](http://arxiv.org/abs/2505.03007)|null|
 |**2025-05-05**|**MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**|Zinan Guo et.al.|[2505.02823](http://arxiv.org/abs/2505.02823)|null|
 |**2025-05-05**|**Advances in Automated Fetal Brain MRI Segmentation and Biometry: Insights from the FeTA 2024 Challenge**|Vladyslav Zalevskyi et.al.|[2505.02784](http://arxiv.org/abs/2505.02784)|null|
 |**2025-05-05**|**DeepSparse: A Foundation Model for Sparse-View CBCT Reconstruction**|Yiqun Lin et.al.|[2505.02628](http://arxiv.org/abs/2505.02628)|null|
@@ -3777,6 +3789,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**|Haotong Cheng et.al.|[2505.03522](http://arxiv.org/abs/2505.03522)|null|
+|**2025-05-06**|**A Fusion-Guided Inception Network for Hyperspectral Image Super-Resolution**|Usman Muhammad et.al.|[2505.03431](http://arxiv.org/abs/2505.03431)|null|
+|**2025-05-06**|**USF Spectral Estimation: Prevalence of Gaussian Cramér-Rao Bounds Despite Modulo Folding**|Ruiming Guo et.al.|[2505.03098](http://arxiv.org/abs/2505.03098)|null|
 |**2025-05-05**|**Advances in Automated Fetal Brain MRI Segmentation and Biometry: Insights from the FeTA 2024 Challenge**|Vladyslav Zalevskyi et.al.|[2505.02784](http://arxiv.org/abs/2505.02784)|null|
 |**2025-05-05**|**MSFNet-CPD: Multi-Scale Cross-Modal Fusion Network for Crop Pest Detection**|Jiaqi Zhang et.al.|[2505.02441](http://arxiv.org/abs/2505.02441)|null|
 |**2025-05-04**|**Small Clips, Big Gains: Learning Long-Range Refocused Temporal Information for Video Super-Resolution**|Xingyu Zhou et.al.|[2505.02159](http://arxiv.org/abs/2505.02159)|null|
@@ -4895,6 +4910,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**|Haotong Cheng et.al.|[2505.03522](http://arxiv.org/abs/2505.03522)|null|
+|**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Guoting Wei et.al.|[2505.03334](http://arxiv.org/abs/2505.03334)|null|
+|**2025-05-06**|**Very High-Resolution Forest Mapping with TanDEM-X InSAR Data and Self-Supervised Learning**|José-Luis Bueso-Bello et.al.|[2505.03327](http://arxiv.org/abs/2505.03327)|null|
+|**2025-05-06**|**Towards Efficient Benchmarking of Foundation Models in Remote Sensing: A Capabilities Encoding Approach**|Pierre Adorni et.al.|[2505.03299](http://arxiv.org/abs/2505.03299)|null|
+|**2025-05-05**|**Modeling Spatial Extremes using Non-Gaussian Spatial Autoregressive Models via Convolutional Neural Networks**|Sweta Rai et.al.|[2505.03034](http://arxiv.org/abs/2505.03034)|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829](http://arxiv.org/abs/2505.02829)|null|
 |**2025-05-05**|**Faithful and secure distributed quantum sensing under general-coherent attacks**|G. Bizzarri et.al.|[2505.02620](http://arxiv.org/abs/2505.02620)|null|
 |**2025-05-05**|**Sampling Kantorovich operators for speckle noise reduction using a Down-Up scaling approach and gap filling in remote sensing images**|Danilo Costarelli et.al.|[2505.02422](http://arxiv.org/abs/2505.02422)|null|

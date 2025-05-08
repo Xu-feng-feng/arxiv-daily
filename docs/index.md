@@ -1158,6 +1158,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Securing Immersive 360 Video Streams through Attribute-Based Selective Encryption**|Mohammad Waquas Usmani et.al.|[2505.04466](http://arxiv.org/abs/2505.04466)|null|
+|**2025-05-06**|**dfreproject: A Python package for astronomical reprojection**|Carter Lee Rhea et.al.|[2505.03932](http://arxiv.org/abs/2505.03932)|null|
 |**2025-05-06**|**DISARM++: Beyond scanner-free harmonization**|Luca Caldera et.al.|[2505.03715](http://arxiv.org/abs/2505.03715)|null|
 |**2025-05-06**|**Towards Smart Point-and-Shoot Photography**|Jiawan Li et.al.|[2505.03638](http://arxiv.org/abs/2505.03638)|null|
 |**2025-05-07**|**Breaking Annotation Barriers: Generalized Video Quality Assessment via Ranking-based Self-Supervision**|Linhan Cao et.al.|[2505.03631](http://arxiv.org/abs/2505.03631)|null|
@@ -3789,6 +3791,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Frequency super-resolution with quantum environment engineering in a weakly coupled nuclear-spin system**|Tianzi Wang et.al.|[2505.04090](http://arxiv.org/abs/2505.04090)|null|
+|**2025-05-06**|**Deep Learning Framework for Infrastructure Maintenance: Crack Detection and High-Resolution Imaging of Infrastructure Surfaces**|Nikhil M. Pawar et.al.|[2505.03974](http://arxiv.org/abs/2505.03974)|null|
 |**2025-05-06**|**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**|Haotong Cheng et.al.|[2505.03522](http://arxiv.org/abs/2505.03522)|null|
 |**2025-05-06**|**A Fusion-Guided Inception Network for Hyperspectral Image Super-Resolution**|Usman Muhammad et.al.|[2505.03431](http://arxiv.org/abs/2505.03431)|**[link](https://github.com/usman1021/fusion)**|
 |**2025-05-06**|**USF Spectral Estimation: Prevalence of Gaussian Cramér-Rao Bounds Despite Modulo Folding**|Ruiming Guo et.al.|[2505.03098](http://arxiv.org/abs/2505.03098)|null|
@@ -4910,6 +4914,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**A Weak Supervision Learning Approach Towards an Equitable Parking Lot Occupancy Estimation**|Theophilus Aidoo et.al.|[2505.04229](http://arxiv.org/abs/2505.04229)|null|
+|**2025-05-07**|**Enhanced SCanNet with CBAM and Dice Loss for Semantic Change Detection**|Athulya Ratnayake et.al.|[2505.04199](http://arxiv.org/abs/2505.04199)|**[link](https://github.com/Buddhi19/SCanNet)**|
+|**2025-05-06**|**Prototype-Based Information Compensation Network for Multi-Source Remote Sensing Data Classification**|Feng Gao et.al.|[2505.04003](http://arxiv.org/abs/2505.04003)|**[link](https://github.com/oucailab/picnet)**|
+|**2025-05-05**|**From Spaceborn to Airborn: SAR Image Synthesis Using Foundation Models for Multi-Scale Adaptation**|Solène Debuysère et.al.|[2505.03844](http://arxiv.org/abs/2505.03844)|null|
+|**2025-05-02**|**AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging Sentinel-2, DEM, and NOAA climate data**|Ioannis Nasios et.al.|[2505.03808](http://arxiv.org/abs/2505.03808)|null|
 |**2025-05-06**|**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**|Haotong Cheng et.al.|[2505.03522](http://arxiv.org/abs/2505.03522)|null|
 |**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Guoting Wei et.al.|[2505.03334](http://arxiv.org/abs/2505.03334)|null|
 |**2025-05-06**|**Very High-Resolution Forest Mapping with TanDEM-X InSAR Data and Self-Supervised Learning**|José-Luis Bueso-Bello et.al.|[2505.03327](http://arxiv.org/abs/2505.03327)|null|

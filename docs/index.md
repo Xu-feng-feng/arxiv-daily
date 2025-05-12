@@ -247,6 +247,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Strong converse Exponents of Partially Smoothed Information Measures**|Mario Berta et.al.|[2505.06050](http://arxiv.org/abs/2505.06050)|null|
+|**2025-05-09**|**Towards Facial Image Compression with Consistency Preserving Diffusion Prior**|Yimin Zhou et.al.|[2505.05870](http://arxiv.org/abs/2505.05870)|null|
+|**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
 |**2025-05-08**|**Augmented Deep Contexts for Spatially Embedded Video Coding**|Yifan Bian et.al.|[2505.05309](http://arxiv.org/abs/2505.05309)|**[link](https://github.com/esakak/sevc)**|
 |**2025-05-07**|**Steerable Scene Generation with Post Training and Inference-Time Search**|Nicholas Pfaff et.al.|[2505.04831](http://arxiv.org/abs/2505.04831)|null|
 |**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
@@ -1160,6 +1163,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Towards Facial Image Compression with Consistency Preserving Diffusion Prior**|Yimin Zhou et.al.|[2505.05870](http://arxiv.org/abs/2505.05870)|null|
+|**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
+|**2025-05-09**|**Towards order of magnitude X-ray dose reduction in breast cancer imaging using phase contrast and deep denoising**|Ashkan Pakzad et.al.|[2505.05812](http://arxiv.org/abs/2505.05812)|**[link](https://github.com/quell-devs/quell)**|
+|**2025-05-09**|**Hybrid Learning: A Novel Combination of Self-Supervised and Supervised Learning for MRI Reconstruction without High-Quality Training Reference**|Haoyang Pei et.al.|[2505.05703](http://arxiv.org/abs/2505.05703)|null|
+|**2025-05-08**|**A New k-Space Model for Non-Cartesian Fourier Imaging**|Chin-Cheng Chan et.al.|[2505.05647](http://arxiv.org/abs/2505.05647)|null|
+|**2025-05-08**|**Score-based Self-supervised MRI Denoising**|Jiachen Tu et.al.|[2505.05631](http://arxiv.org/abs/2505.05631)|null|
+|**2025-05-08**|**OXSeg: Multidimensional attention UNet-based lip segmentation using semi-supervised lip contours**|Hanie Moghaddasi et.al.|[2505.05531](http://arxiv.org/abs/2505.05531)|null|
 |**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470](http://arxiv.org/abs/2505.05470)|**[link](https://github.com/yifan123/flow_grpo)**|
 |**2025-05-08**|**A Study on Improvement of Image Quality in Quantum Polarized Microscopy using an Entangled-Photon Source**|Mousume Samad et.al.|[2505.05457](http://arxiv.org/abs/2505.05457)|null|
 |**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|**[link](https://github.com/zhangr2021/TransProQA)**|
@@ -3801,6 +3811,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855](http://arxiv.org/abs/2505.05855)|null|
+|**2025-05-07**|**StereoINR: Cross-View Geometry Consistent Stereo Super Resolution with Implicit Neural Representation**|Yi Liu et.al.|[2505.05509](http://arxiv.org/abs/2505.05509)|null|
 |**2025-05-08**|**Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**|Jie Deng et.al.|[2505.05367](http://arxiv.org/abs/2505.05367)|null|
 |**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209](http://arxiv.org/abs/2505.05209)|null|
 |**2025-05-07**|**EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events**|Shuoyan Wei et.al.|[2505.04657](http://arxiv.org/abs/2505.04657)|null|
@@ -4927,6 +4939,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection**|Zhangchi Hu et.al.|[2505.05741](http://arxiv.org/abs/2505.05741)|null|
+|**2025-05-08**|**Enhancing Satellite Object Localization with Dilated Convolutions and Attention-aided Spatial Pooling**|Seraj Al Mahmud Mostafa et.al.|[2505.05599](http://arxiv.org/abs/2505.05599)|**[link](https://github.com/ai-4-atmosphere-remote-sensing/satellite-object-localization)**|
+|**2025-05-07**|**Uranus Flagship Science-Driven Tour Design: Community Input Poll**|Amy Simon et.al.|[2505.05514](http://arxiv.org/abs/2505.05514)|null|
 |**2025-05-08**|**Scheimpflug cameras for range-resolved observations of the atmospheric effects on laser propagation**|Nathan Meraz et.al.|[2505.05399](http://arxiv.org/abs/2505.05399)|null|
 |**2025-05-08**|**Feature-Augmented Deep Networks for Multiscale Building Segmentation in High-Resolution UAV and Satellite Imagery**|Chintan B. Maniyar et.al.|[2505.05321](http://arxiv.org/abs/2505.05321)|null|
 |**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|null|

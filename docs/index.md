@@ -247,6 +247,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-11**|**Towards Scalable IoT Deployment for Visual Anomaly Detection via Efficient Compression**|Arianna Stropeni et.al.|[2505.07119](http://arxiv.org/abs/2505.07119)|null|
+|**2025-05-10**|**ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection**|Lei Hu et.al.|[2505.06603](http://arxiv.org/abs/2505.06603)|**[link](https://github.com/hulei7/replaycad)**|
+|**2025-05-10**|**TierBase: A Workload-Driven Cost-Optimized Key-Value Store**|Zhitao Shen et.al.|[2505.06556](http://arxiv.org/abs/2505.06556)|null|
+|**2025-05-10**|**Event-based Neural Spike Detection Using Spiking Neural Networks for Neuromorphic iBMI Systems**|Chanwook Hwang et.al.|[2505.06544](http://arxiv.org/abs/2505.06544)|null|
 |**2025-05-09**|**Strong converse Exponents of Partially Smoothed Information Measures**|Mario Berta et.al.|[2505.06050](http://arxiv.org/abs/2505.06050)|null|
 |**2025-05-09**|**Towards Facial Image Compression with Consistency Preserving Diffusion Prior**|Yimin Zhou et.al.|[2505.05870](http://arxiv.org/abs/2505.05870)|null|
 |**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
@@ -1163,6 +1167,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|null|
+|**2025-05-12**|**Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation**|Dragos-Patru Covei et.al.|[2505.07699](http://arxiv.org/abs/2505.07699)|null|
+|**2025-05-12**|**A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development**|Werner Geyer et.al.|[2505.07664](http://arxiv.org/abs/2505.07664)|null|
+|**2025-05-12**|**Addressing degeneracies in latent interpolation for diffusion models**|Erik Landolsi et.al.|[2505.07481](http://arxiv.org/abs/2505.07481)|null|
+|**2025-05-12**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
+|**2025-05-12**|**Few-shot Semantic Encoding and Decoding for Video Surveillance**|Baoping Cheng et.al.|[2505.07381](http://arxiv.org/abs/2505.07381)|null|
+|**2025-05-12**|**Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data**|David de-Fitero-Dominguez et.al.|[2505.07372](http://arxiv.org/abs/2505.07372)|null|
+|**2025-05-12**|**GAN-based synthetic FDG PET images from T1 brain MRI can serve to improve performance of deep unsupervised anomaly detection models**|Daria Zotova et.al.|[2505.07364](http://arxiv.org/abs/2505.07364)|null|
+|**2025-05-12**|**Synthetic Similarity Search in Automotive Production**|Christoph Huber et.al.|[2505.07256](http://arxiv.org/abs/2505.07256)|null|
+|**2025-05-12**|**Multi-band Frequency Reconstruction for Neural Psychoacoustic Coding**|Dianwen Ng et.al.|[2505.07235](http://arxiv.org/abs/2505.07235)|null|
+|**2025-05-12**|**Metrics that matter: Evaluating image quality metrics for medical image generation**|Yash Deo et.al.|[2505.07175](http://arxiv.org/abs/2505.07175)|null|
+|**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071](http://arxiv.org/abs/2505.07071)|**[link](https://github.com/liu-zihang/samsr)**|
+|**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
+|**2025-05-11**|**Replay-Based Continual Learning with Dual-Layered Distillation and a Streamlined U-Net for Efficient Text-to-Image Generation**|Md. Naimur Asif Borno et.al.|[2505.06995](http://arxiv.org/abs/2505.06995)|null|
+|**2025-05-10**|**Tuning Butterworth filter's parameters in SPECT reconstructions via kernel-based Bayesian optimization with a no-reference image evaluation metric**|Luca Pastrello et.al.|[2505.06692](http://arxiv.org/abs/2505.06692)|null|
+|**2025-05-10**|**MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning**|Zixian Zhao et.al.|[2505.06665](http://arxiv.org/abs/2505.06665)|null|
+|**2025-05-10**|**Two-Stage Random Alternation Framework for Zero-Shot Pansharpening**|Haorui Chen et.al.|[2505.06576](http://arxiv.org/abs/2505.06576)|null|
+|**2025-05-10**|**Good Things Come in Pairs: Paired Autoencoders for Inverse Problems**|Matthias Chung et.al.|[2505.06549](http://arxiv.org/abs/2505.06549)|null|
+|**2025-05-10**|**HDGlyph: A Hierarchical Disentangled Glyph-Based Framework for Long-Tail Text Rendering in Diffusion Models**|Shuhan Zhuang et.al.|[2505.06543](http://arxiv.org/abs/2505.06543)|null|
+|**2025-05-10**|**Virtualized 3D Gaussians: Flexible Cluster-based Level-of-Detail System for Real-Time Rendering of Composed Scenes**|Xijie Yang et.al.|[2505.06523](http://arxiv.org/abs/2505.06523)|null|
 |**2025-05-09**|**Towards Facial Image Compression with Consistency Preserving Diffusion Prior**|Yimin Zhou et.al.|[2505.05870](http://arxiv.org/abs/2505.05870)|null|
 |**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
 |**2025-05-09**|**Towards order of magnitude X-ray dose reduction in breast cancer imaging using phase contrast and deep denoising**|Ashkan Pakzad et.al.|[2505.05812](http://arxiv.org/abs/2505.05812)|**[link](https://github.com/quell-devs/quell)**|
@@ -3811,6 +3835,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071](http://arxiv.org/abs/2505.07071)|**[link](https://github.com/liu-zihang/samsr)**|
+|**2025-05-11**|**High-Frequency Prior-Driven Adaptive Masking for Accelerating Image Super-Resolution**|Wei Shang et.al.|[2505.06975](http://arxiv.org/abs/2505.06975)|**[link](https://github.com/shangwei5/amsr)**|
+|**2025-05-11**|**Joint Low-level and High-level Textual Representation Learning with Multiple Masking Strategies**|Zhengmi Tang et.al.|[2505.06855](http://arxiv.org/abs/2505.06855)|null|
+|**2025-05-10**|**PC-SRGAN: Physically Consistent Super-Resolution Generative Adversarial Network for General Transient Simulations**|Md Rakibul Hasan et.al.|[2505.06502](http://arxiv.org/abs/2505.06502)|null|
+|**2025-05-10**|**Phase-based stimulated emission depletion (pSTED) magnetic particle imaging**|Guang Jia et.al.|[2505.06490](http://arxiv.org/abs/2505.06490)|null|
+|**2025-05-10**|**Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere**|Noah D. Brenowitz et.al.|[2505.06474](http://arxiv.org/abs/2505.06474)|null|
+|**2025-05-09**|**Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark**|Valfride Nascimento et.al.|[2505.06393](http://arxiv.org/abs/2505.06393)|null|
 |**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855](http://arxiv.org/abs/2505.05855)|null|
 |**2025-05-07**|**StereoINR: Cross-View Geometry Consistent Stereo Super Resolution with Implicit Neural Representation**|Yi Liu et.al.|[2505.05509](http://arxiv.org/abs/2505.05509)|null|
 |**2025-05-08**|**Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**|Jie Deng et.al.|[2505.05367](http://arxiv.org/abs/2505.05367)|null|
@@ -4939,6 +4970,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Solar Orbiter's 2024 Major Flare Campaigns: An Overview**|Daniel F. Ryan et.al.|[2505.07472](http://arxiv.org/abs/2505.07472)|null|
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-11**|**Enhancing Monocular Height Estimation via Sparse LiDAR-Guided Correction**|Jian Song et.al.|[2505.06905](http://arxiv.org/abs/2505.06905)|null|
+|**2025-05-11**|**Exploring the Magnetotail from Low Altitudes: Evolution of Energetic Electron Flux During the Substorm Growth Phase**|Weiqin Sun et.al.|[2505.06797](http://arxiv.org/abs/2505.06797)|null|
+|**2025-05-10**|**Online Feedback Efficient Active Target Discovery in Partially Observable Environments**|Anindya Sarkar et.al.|[2505.06535](http://arxiv.org/abs/2505.06535)|null|
 |**2025-05-09**|**Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection**|Zhangchi Hu et.al.|[2505.05741](http://arxiv.org/abs/2505.05741)|null|
 |**2025-05-08**|**Enhancing Satellite Object Localization with Dilated Convolutions and Attention-aided Spatial Pooling**|Seraj Al Mahmud Mostafa et.al.|[2505.05599](http://arxiv.org/abs/2505.05599)|**[link](https://github.com/ai-4-atmosphere-remote-sensing/satellite-object-localization)**|
 |**2025-05-07**|**Uranus Flagship Science-Driven Tour Design: Community Input Poll**|Amy Simon et.al.|[2505.05514](http://arxiv.org/abs/2505.05514)|null|

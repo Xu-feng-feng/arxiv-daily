@@ -256,6 +256,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion**|Anle Ke et.al.|[2505.08281](http://arxiv.org/abs/2505.08281)|null|
+|**2025-05-13**|**Clustering-based Low-Rank Matrix Approximation: An Adaptive Theoretical Analysis with Application to Data Compression**|Sisipho Hamlomo et.al.|[2505.08256](http://arxiv.org/abs/2505.08256)|null|
 |**2025-05-11**|**Towards Scalable IoT Deployment for Visual Anomaly Detection via Efficient Compression**|Arianna Stropeni et.al.|[2505.07119](http://arxiv.org/abs/2505.07119)|null|
 |**2025-05-10**|**ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection**|Lei Hu et.al.|[2505.06603](http://arxiv.org/abs/2505.06603)|**[link](https://github.com/hulei7/replaycad)**|
 |**2025-05-10**|**TierBase: A Workload-Driven Cost-Optimized Key-Value Store**|Zhitao Shen et.al.|[2505.06556](http://arxiv.org/abs/2505.06556)|null|
@@ -1178,6 +1180,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks**|Ziyuan He et.al.|[2505.08614](http://arxiv.org/abs/2505.08614)|null|
+|**2025-05-13**|**The RaspGrade Dataset: Towards Automatic Raspberry Ripeness Grading with Deep Learning**|Mohamed Lamine Mekhalfi et.al.|[2505.08537](http://arxiv.org/abs/2505.08537)|null|
+|**2025-05-13**|**A Deep Learning-Driven Framework for Inhalation Injury Grading Using Bronchoscopy Images**|Yifan Li et.al.|[2505.08517](http://arxiv.org/abs/2505.08517)|null|
+|**2025-05-13**|**The Evolutionary Map of the Universe: A new radio atlas for the southern hemisphere sky**|A. M. Hopkins et.al.|[2505.08271](http://arxiv.org/abs/2505.08271)|null|
+|**2025-05-13**|**LLM-Based Detection of Tangled Code Changes for Higher-Quality Method-Level Bug Datasets**|Md Nahidul Islam Opu et.al.|[2505.08263](http://arxiv.org/abs/2505.08263)|null|
+|**2025-05-13**|**Removing Watermarks with Partial Regeneration using Semantic Information**|Krti Tallam et.al.|[2505.08234](http://arxiv.org/abs/2505.08234)|**[link](https://github.com/krtit/semanticregen)**|
+|**2025-05-13**|**Behind the Noise: Conformal Quantile Regression Reveals Emergent Representations**|Petrus H. Zwart et.al.|[2505.08176](http://arxiv.org/abs/2505.08176)|null|
+|**2025-05-12**|**Asymptotically Efficient Data-adaptive Penalized Shrinkage Estimation with Application to Causal Inference**|Herbert P. Susmann et.al.|[2505.08065](http://arxiv.org/abs/2505.08065)|null|
+|**2025-05-12**|**Multimodal Assessment of Classroom Discourse Quality: A Text-Centered Attention-Based Multi-Task Learning Approach**|Ruikun Hou et.al.|[2505.07902](http://arxiv.org/abs/2505.07902)|null|
 |**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|null|
 |**2025-05-12**|**Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation**|Dragos-Patru Covei et.al.|[2505.07699](http://arxiv.org/abs/2505.07699)|null|
 |**2025-05-12**|**A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development**|Werner Geyer et.al.|[2505.07664](http://arxiv.org/abs/2505.07664)|null|
@@ -3848,6 +3859,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Revealing economic facts: LLMs know more than they say**|Marcus Buckmann et.al.|[2505.08662](http://arxiv.org/abs/2505.08662)|null|
+|**2025-05-13**|**Improving Data Fidelity via Diffusion Model-based Correction and Super resolution**|Wuzhe Xu et.al.|[2505.08526](http://arxiv.org/abs/2505.08526)|null|
+|**2025-05-13**|**Dynamic Snake Upsampling Operater and Boundary-Skeleton Weighted Loss for Tubular Structure Segmentation**|Yiqi Chen et.al.|[2505.08525](http://arxiv.org/abs/2505.08525)|null|
+|**2025-05-13**|**DHECA-SuperGaze: Dual Head-Eye Cross-Attention and Super-Resolution for Unconstrained Gaze Estimation**|Franko Šikić et.al.|[2505.08426](http://arxiv.org/abs/2505.08426)|null|
+|**2025-05-13**|**N $^2$ LoS: Single-Tag mmWave Backscatter for Robust Non-Line-of-Sight Localization**|Zhenguo Shi et.al.|[2505.08240](http://arxiv.org/abs/2505.08240)|null|
 |**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071](http://arxiv.org/abs/2505.07071)|**[link](https://github.com/liu-zihang/samsr)**|
 |**2025-05-11**|**High-Frequency Prior-Driven Adaptive Masking for Accelerating Image Super-Resolution**|Wei Shang et.al.|[2505.06975](http://arxiv.org/abs/2505.06975)|**[link](https://github.com/shangwei5/amsr)**|
 |**2025-05-11**|**Joint Low-level and High-level Textual Representation Learning with Multiple Masking Strategies**|Zhengmi Tang et.al.|[2505.06855](http://arxiv.org/abs/2505.06855)|null|
@@ -4985,6 +5001,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**FedRS-Bench: Realistic Federated Learning Datasets and Benchmarks in Remote Sensing**|Haodong Zhao et.al.|[2505.08325](http://arxiv.org/abs/2505.08325)|null|
+|**2025-05-13**|**Knowledge-Informed Deep Learning for Irrigation Type Mapping from Remote Sensing**|Oishee Bintey Hoque et.al.|[2505.08302](http://arxiv.org/abs/2505.08302)|null|
+|**2025-05-12**|**MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing**|Aybora Koksal et.al.|[2505.07984](http://arxiv.org/abs/2505.07984)|null|
 |**2025-05-12**|**Solar Orbiter's 2024 Major Flare Campaigns: An Overview**|Daniel F. Ryan et.al.|[2505.07472](http://arxiv.org/abs/2505.07472)|null|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-11**|**Enhancing Monocular Height Estimation via Sparse LiDAR-Guided Correction**|Jian Song et.al.|[2505.06905](http://arxiv.org/abs/2505.06905)|null|

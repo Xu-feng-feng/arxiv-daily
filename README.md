@@ -256,6 +256,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Efficient LiDAR Reflectance Compression via Scanning Serialization**|Jiahao Zhu et.al.|[2505.09433](http://arxiv.org/abs/2505.09433)|null|
+|**2025-05-14**|**Neural Video Compression using 2D Gaussian Splatting**|Lakshya Gupta et.al.|[2505.09324](http://arxiv.org/abs/2505.09324)|null|
+|**2025-05-14**|**BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression**|Wei Jiang et.al.|[2505.09193](http://arxiv.org/abs/2505.09193)|null|
 |**2025-05-13**|**Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion**|Anle Ke et.al.|[2505.08281](http://arxiv.org/abs/2505.08281)|null|
 |**2025-05-13**|**Clustering-based Low-Rank Matrix Approximation: An Adaptive Theoretical Analysis with Application to Data Compression**|Sisipho Hamlomo et.al.|[2505.08256](http://arxiv.org/abs/2505.08256)|null|
 |**2025-05-11**|**Towards Scalable IoT Deployment for Visual Anomaly Detection via Efficient Compression**|Arianna Stropeni et.al.|[2505.07119](http://arxiv.org/abs/2505.07119)|null|
@@ -1180,6 +1183,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Conformal Bounds on Full-Reference Image Quality for Imaging Inverse Problems**|Jeffrey Wen et.al.|[2505.09528](http://arxiv.org/abs/2505.09528)|**[link](https://github.com/jwen307/quality_uq)**|
+|**2025-05-14**|**PDE: Gene Effect Inspired Parameter Dynamic Evolution for Low-light Image Enhancement**|Tong Li et.al.|[2505.09196](http://arxiv.org/abs/2505.09196)|null|
+|**2025-05-14**|**TopoDiT-3D: Topology-Aware Diffusion Transformer with Bottleneck Structure for 3D Point Cloud Generation**|Zechao Guan et.al.|[2505.09140](http://arxiv.org/abs/2505.09140)|**[link](https://github.com/zechao-guan/topodit-3d)**|
+|**2025-05-13**|**Learning Cocoercive Conservative Denoisers via Helmholtz Decomposition for Poisson Inverse Problems**|Deliang Wei et.al.|[2505.08909](http://arxiv.org/abs/2505.08909)|null|
+|**2025-05-12**|**Towards SFW sampling for diffusion models via external conditioning**|Camilo Carvajal Reyes et.al.|[2505.08817](http://arxiv.org/abs/2505.08817)|null|
 |**2025-05-14**|**WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks**|Ziyuan He et.al.|[2505.08614](http://arxiv.org/abs/2505.08614)|**[link](https://github.com/vpsg-research/waveguard)**|
 |**2025-05-14**|**The RaspGrade Dataset: Towards Automatic Raspberry Ripeness Grading with Deep Learning**|Mohamed Lamine Mekhalfi et.al.|[2505.08537](http://arxiv.org/abs/2505.08537)|null|
 |**2025-05-13**|**A Deep Learning-Driven Framework for Inhalation Injury Grading Using Bronchoscopy Images**|Yifan Li et.al.|[2505.08517](http://arxiv.org/abs/2505.08517)|null|
@@ -3859,6 +3867,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**|Maik Dannecker et.al.|[2505.09565](http://arxiv.org/abs/2505.09565)|null|
 |**2025-05-13**|**Revealing economic facts: LLMs know more than they say**|Marcus Buckmann et.al.|[2505.08662](http://arxiv.org/abs/2505.08662)|null|
 |**2025-05-14**|**Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution**|Wuzhe Xu et.al.|[2505.08526](http://arxiv.org/abs/2505.08526)|null|
 |**2025-05-13**|**Dynamic Snake Upsampling Operater and Boundary-Skeleton Weighted Loss for Tubular Structure Segmentation**|Yiqi Chen et.al.|[2505.08525](http://arxiv.org/abs/2505.08525)|null|
@@ -5001,6 +5010,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Predicting butterfly species presence from satellite imagery using soft contrastive regularisation**|Thijs L van der Plas et.al.|[2505.09306](http://arxiv.org/abs/2505.09306)|null|
+|**2025-05-14**|**The high-energy protons of the ground level enhancement (GLE74) event on 11 May 2024**|A. Papaioannou et.al.|[2505.09180](http://arxiv.org/abs/2505.09180)|null|
 |**2025-05-13**|**FedRS-Bench: Realistic Federated Learning Datasets and Benchmarks in Remote Sensing**|Haodong Zhao et.al.|[2505.08325](http://arxiv.org/abs/2505.08325)|null|
 |**2025-05-13**|**Knowledge-Informed Deep Learning for Irrigation Type Mapping from Remote Sensing**|Oishee Bintey Hoque et.al.|[2505.08302](http://arxiv.org/abs/2505.08302)|null|
 |**2025-05-12**|**MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing**|Aybora Koksal et.al.|[2505.07984](http://arxiv.org/abs/2505.07984)|null|

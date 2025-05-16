@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -250,7 +250,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Compression
 
@@ -258,11 +258,11 @@
 |---|---|---|---|---|
 |**2025-05-14**|**Efficient LiDAR Reflectance Compression via Scanning Serialization**|Jiahao Zhu et.al.|[2505.09433](http://arxiv.org/abs/2505.09433)|null|
 |**2025-05-14**|**Neural Video Compression using 2D Gaussian Splatting**|Lakshya Gupta et.al.|[2505.09324](http://arxiv.org/abs/2505.09324)|null|
-|**2025-05-14**|**BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression**|Wei Jiang et.al.|[2505.09193](http://arxiv.org/abs/2505.09193)|null|
+|**2025-05-15**|**BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression**|Wei Jiang et.al.|[2505.09193](http://arxiv.org/abs/2505.09193)|null|
 |**2025-05-13**|**Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion**|Anle Ke et.al.|[2505.08281](http://arxiv.org/abs/2505.08281)|null|
 |**2025-05-13**|**Clustering-based Low-Rank Matrix Approximation: An Adaptive Theoretical Analysis with Application to Data Compression**|Sisipho Hamlomo et.al.|[2505.08256](http://arxiv.org/abs/2505.08256)|null|
-|**2025-05-11**|**Towards Scalable IoT Deployment for Visual Anomaly Detection via Efficient Compression**|Arianna Stropeni et.al.|[2505.07119](http://arxiv.org/abs/2505.07119)|null|
-|**2025-05-10**|**ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection**|Lei Hu et.al.|[2505.06603](http://arxiv.org/abs/2505.06603)|**[link](https://github.com/hulei7/replaycad)**|
+|**2025-05-15**|**Towards Scalable IoT Deployment for Visual Anomaly Detection via Efficient Compression**|Arianna Stropeni et.al.|[2505.07119](http://arxiv.org/abs/2505.07119)|null|
+|**2025-05-10**|**ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection**|Lei Hu et.al.|[2505.06603](http://arxiv.org/abs/2505.06603)|null|
 |**2025-05-10**|**TierBase: A Workload-Driven Cost-Optimized Key-Value Store**|Zhitao Shen et.al.|[2505.06556](http://arxiv.org/abs/2505.06556)|null|
 |**2025-05-10**|**Event-based Neural Spike Detection Using Spiking Neural Networks for Neuromorphic iBMI Systems**|Chanwook Hwang et.al.|[2505.06544](http://arxiv.org/abs/2505.06544)|null|
 |**2025-05-09**|**Strong converse Exponents of Partially Smoothed Information Measures**|Mario Berta et.al.|[2505.06050](http://arxiv.org/abs/2505.06050)|null|
@@ -1177,7 +1177,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -1187,7 +1187,7 @@
 |**2025-05-14**|**PDE: Gene Effect Inspired Parameter Dynamic Evolution for Low-light Image Enhancement**|Tong Li et.al.|[2505.09196](http://arxiv.org/abs/2505.09196)|null|
 |**2025-05-14**|**TopoDiT-3D: Topology-Aware Diffusion Transformer with Bottleneck Structure for 3D Point Cloud Generation**|Zechao Guan et.al.|[2505.09140](http://arxiv.org/abs/2505.09140)|**[link](https://github.com/zechao-guan/topodit-3d)**|
 |**2025-05-13**|**Learning Cocoercive Conservative Denoisers via Helmholtz Decomposition for Poisson Inverse Problems**|Deliang Wei et.al.|[2505.08909](http://arxiv.org/abs/2505.08909)|null|
-|**2025-05-12**|**Towards SFW sampling for diffusion models via external conditioning**|Camilo Carvajal Reyes et.al.|[2505.08817](http://arxiv.org/abs/2505.08817)|null|
+|**2025-05-12**|**Towards SFW sampling for diffusion models via external conditioning**|Camilo Carvajal Reyes et.al.|[2505.08817](http://arxiv.org/abs/2505.08817)|**[link](https://github.com/camilocarvajalreyes/sfws-stable-diffusion)**|
 |**2025-05-14**|**WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks**|Ziyuan He et.al.|[2505.08614](http://arxiv.org/abs/2505.08614)|**[link](https://github.com/vpsg-research/waveguard)**|
 |**2025-05-14**|**The RaspGrade Dataset: Towards Automatic Raspberry Ripeness Grading with Deep Learning**|Mohamed Lamine Mekhalfi et.al.|[2505.08537](http://arxiv.org/abs/2505.08537)|null|
 |**2025-05-13**|**A Deep Learning-Driven Framework for Inhalation Injury Grading Using Bronchoscopy Images**|Yifan Li et.al.|[2505.08517](http://arxiv.org/abs/2505.08517)|null|
@@ -1195,9 +1195,9 @@
 |**2025-05-13**|**LLM-Based Detection of Tangled Code Changes for Higher-Quality Method-Level Bug Datasets**|Md Nahidul Islam Opu et.al.|[2505.08263](http://arxiv.org/abs/2505.08263)|null|
 |**2025-05-13**|**Removing Watermarks with Partial Regeneration using Semantic Information**|Krti Tallam et.al.|[2505.08234](http://arxiv.org/abs/2505.08234)|**[link](https://github.com/krtit/semanticregen)**|
 |**2025-05-13**|**Behind the Noise: Conformal Quantile Regression Reveals Emergent Representations**|Petrus H. Zwart et.al.|[2505.08176](http://arxiv.org/abs/2505.08176)|null|
-|**2025-05-12**|**Asymptotically Efficient Data-adaptive Penalized Shrinkage Estimation with Application to Causal Inference**|Herbert P. Susmann et.al.|[2505.08065](http://arxiv.org/abs/2505.08065)|null|
+|**2025-05-12**|**Asymptotically Efficient Data-adaptive Penalized Shrinkage Estimation with Application to Causal Inference**|Herbert P. Susmann et.al.|[2505.08065](http://arxiv.org/abs/2505.08065)|**[link](https://github.com/herbps10/efficient_penalized_estimation_paper)**|
 |**2025-05-12**|**Multimodal Assessment of Classroom Discourse Quality: A Text-Centered Attention-Based Multi-Task Learning Approach**|Ruikun Hou et.al.|[2505.07902](http://arxiv.org/abs/2505.07902)|null|
-|**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|null|
+|**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|**[link](https://github.com/chiahao3/ptyrad)**|
 |**2025-05-12**|**Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation**|Dragos-Patru Covei et.al.|[2505.07699](http://arxiv.org/abs/2505.07699)|null|
 |**2025-05-12**|**A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development**|Werner Geyer et.al.|[2505.07664](http://arxiv.org/abs/2505.07664)|null|
 |**2025-05-12**|**Addressing degeneracies in latent interpolation for diffusion models**|Erik Landolsi et.al.|[2505.07481](http://arxiv.org/abs/2505.07481)|null|
@@ -3861,7 +3861,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -3879,7 +3879,7 @@
 |**2025-05-10**|**PC-SRGAN: Physically Consistent Super-Resolution Generative Adversarial Network for General Transient Simulations**|Md Rakibul Hasan et.al.|[2505.06502](http://arxiv.org/abs/2505.06502)|null|
 |**2025-05-10**|**Phase-based stimulated emission depletion (pSTED) magnetic particle imaging**|Guang Jia et.al.|[2505.06490](http://arxiv.org/abs/2505.06490)|null|
 |**2025-05-10**|**Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere**|Noah D. Brenowitz et.al.|[2505.06474](http://arxiv.org/abs/2505.06474)|null|
-|**2025-05-09**|**Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark**|Valfride Nascimento et.al.|[2505.06393](http://arxiv.org/abs/2505.06393)|null|
+|**2025-05-09**|**Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark**|Valfride Nascimento et.al.|[2505.06393](http://arxiv.org/abs/2505.06393)|**[link](https://github.com/valfride/lpsrgan)**|
 |**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855](http://arxiv.org/abs/2505.05855)|null|
 |**2025-05-07**|**StereoINR: Cross-View Geometry Consistent Stereo Super Resolution with Implicit Neural Representation**|Yi Liu et.al.|[2505.05509](http://arxiv.org/abs/2505.05509)|null|
 |**2025-05-08**|**Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**|Jie Deng et.al.|[2505.05367](http://arxiv.org/abs/2505.05367)|null|
@@ -5004,13 +5004,13 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-14**|**Predicting butterfly species presence from satellite imagery using soft contrastive regularisation**|Thijs L van der Plas et.al.|[2505.09306](http://arxiv.org/abs/2505.09306)|null|
+|**2025-05-14**|**Predicting butterfly species presence from satellite imagery using soft contrastive regularisation**|Thijs L van der Plas et.al.|[2505.09306](http://arxiv.org/abs/2505.09306)|**[link](https://github.com/vdplasthijs/pecl)**|
 |**2025-05-14**|**The high-energy protons of the ground level enhancement (GLE74) event on 11 May 2024**|A. Papaioannou et.al.|[2505.09180](http://arxiv.org/abs/2505.09180)|null|
 |**2025-05-13**|**FedRS-Bench: Realistic Federated Learning Datasets and Benchmarks in Remote Sensing**|Haodong Zhao et.al.|[2505.08325](http://arxiv.org/abs/2505.08325)|null|
 |**2025-05-13**|**Knowledge-Informed Deep Learning for Irrigation Type Mapping from Remote Sensing**|Oishee Bintey Hoque et.al.|[2505.08302](http://arxiv.org/abs/2505.08302)|null|
@@ -6393,7 +6393,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

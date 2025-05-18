@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -3875,7 +3875,7 @@ layout: default
 |**2025-05-11**|**Joint Low-level and High-level Textual Representation Learning with Multiple Masking Strategies**|Zhengmi Tang et.al.|[2505.06855](http://arxiv.org/abs/2505.06855)|null|
 |**2025-05-10**|**PC-SRGAN: Physically Consistent Super-Resolution Generative Adversarial Network for General Transient Simulations**|Md Rakibul Hasan et.al.|[2505.06502](http://arxiv.org/abs/2505.06502)|null|
 |**2025-05-10**|**Phase-based stimulated emission depletion (pSTED) magnetic particle imaging**|Guang Jia et.al.|[2505.06490](http://arxiv.org/abs/2505.06490)|null|
-|**2025-05-10**|**Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere**|Noah D. Brenowitz et.al.|[2505.06474](http://arxiv.org/abs/2505.06474)|null|
+|**2025-05-10**|**Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere**|Noah D. Brenowitz et.al.|[2505.06474](http://arxiv.org/abs/2505.06474)|**[link](https://github.com/NVlabs/cBottle)**|
 |**2025-05-09**|**Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark**|Valfride Nascimento et.al.|[2505.06393](http://arxiv.org/abs/2505.06393)|**[link](https://github.com/valfride/lpsrgan)**|
 |**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855](http://arxiv.org/abs/2505.05855)|null|
 |**2025-05-07**|**StereoINR: Cross-View Geometry Consistent Stereo Super Resolution with Implicit Neural Representation**|Yi Liu et.al.|[2505.05509](http://arxiv.org/abs/2505.05509)|null|
@@ -5006,7 +5006,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-15**|**ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction**|Shijie Lyu et.al.|[2505.10027](http://arxiv.org/abs/2505.10027)|null|
-|**2025-05-15**|**Non-Registration Change Detection: A Novel Change Detection Task and Benchmark Dataset**|Zhe Shan et.al.|[2505.09939](http://arxiv.org/abs/2505.09939)|null|
+|**2025-05-15**|**Non-Registration Change Detection: A Novel Change Detection Task and Benchmark Dataset**|Zhe Shan et.al.|[2505.09939](http://arxiv.org/abs/2505.09939)|**[link](https://github.com/shanzard/nrcd)**|
 |**2025-05-14**|**Predicting butterfly species presence from satellite imagery using soft contrastive regularisation**|Thijs L van der Plas et.al.|[2505.09306](http://arxiv.org/abs/2505.09306)|**[link](https://github.com/vdplasthijs/pecl)**|
 |**2025-05-14**|**The high-energy protons of the ground level enhancement (GLE74) event on 11 May 2024**|A. Papaioannou et.al.|[2505.09180](http://arxiv.org/abs/2505.09180)|null|
 |**2025-05-13**|**FedRS-Bench: Realistic Federated Learning Datasets and Benchmarks in Remote Sensing**|Haodong Zhao et.al.|[2505.08325](http://arxiv.org/abs/2505.08325)|null|
@@ -5023,7 +5023,7 @@ layout: default
 |**2025-05-09**|**Scheimpflug cameras for range-resolved observations of the atmospheric effects on laser propagation**|Nathan Meraz et.al.|[2505.05399](http://arxiv.org/abs/2505.05399)|null|
 |**2025-05-08**|**Feature-Augmented Deep Networks for Multiscale Building Segmentation in High-Resolution UAV and Satellite Imagery**|Chintan B. Maniyar et.al.|[2505.05321](http://arxiv.org/abs/2505.05321)|null|
 |**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|**[link](https://github.com/Henryjiepanli/Building-Guided-Pseudo-Label-Learning-for-Cross-Modal-Building-Damage-Mapping)**|
-|**2025-05-07**|**A Weak Supervision Learning Approach Towards an Equitable Parking Lot Occupancy Estimation**|Theophilus Aidoo et.al.|[2505.04229](http://arxiv.org/abs/2505.04229)|null|
+|**2025-05-07**|**A Weak Supervision Learning Approach Towards an Equitable Parking Lot Occupancy Estimation**|Theophilus Aidoo et.al.|[2505.04229](http://arxiv.org/abs/2505.04229)|**[link](https://github.com/societal-computing/equitable_mobility_estimation)**|
 |**2025-05-07**|**Enhanced SCanNet with CBAM and Dice Loss for Semantic Change Detection**|Athulya Ratnayake et.al.|[2505.04199](http://arxiv.org/abs/2505.04199)|**[link](https://github.com/Buddhi19/SCanNet)**|
 |**2025-05-06**|**Prototype-Based Information Compensation Network for Multi-Source Remote Sensing Data Classification**|Feng Gao et.al.|[2505.04003](http://arxiv.org/abs/2505.04003)|**[link](https://github.com/oucailab/picnet)**|
 |**2025-05-05**|**From Spaceborn to Airborn: SAR Image Synthesis Using Foundation Models for Multi-Scale Adaptation**|Solène Debuysère et.al.|[2505.03844](http://arxiv.org/abs/2505.03844)|null|

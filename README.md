@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**SRMamba: Mamba for Super-Resolution of LiDAR Point Clouds**|Chuang Chen et.al.|[2505.10601](http://arxiv.org/abs/2505.10601)|null|
 |**2025-04-20**|**Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space**|Yichi Zhang et.al.|[2504.14471](http://arxiv.org/abs/2504.14471)|null|
 |**2025-04-19**|**ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**|Xie Liang et.al.|[2504.14240](http://arxiv.org/abs/2504.14240)|null|
 |**2025-04-16**|**Non-uniform Point Cloud Upsampling via Local Manifold Distribution**|Yaohui Fang et.al.|[2504.11701](http://arxiv.org/abs/2504.11701)|null|
@@ -256,6 +257,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
+|**2025-05-15**|**Generalization of Repetitiveness Measures for Two-Dimensional Strings**|Lorenzo Carfagna et.al.|[2505.10680](http://arxiv.org/abs/2505.10680)|null|
 |**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/abs/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|
 |**2025-05-15**|**LAV: Audio-Driven Dynamic Visual Generation with Neural Compression and StyleGAN2**|Jongmin Jung et.al.|[2505.10101](http://arxiv.org/abs/2505.10101)|null|
 |**2025-05-15**|**High Quality Underwater Image Compression with Adaptive Correction and Codebook-based Augmentation**|Yimin Zhou et.al.|[2505.09986](http://arxiv.org/abs/2505.09986)|null|
@@ -1186,6 +1189,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**No Gold Standard, No Problem: Reference-Free Evaluation of Taxonomies**|Pascal Wullschleger et.al.|[2505.11470](http://arxiv.org/abs/2505.11470)|null|
+|**2025-05-16**|**Entropy-Driven Genetic Optimization for Deep-Feature-Guided Low-Light Image Enhancement**|Nirjhor Datta et.al.|[2505.11246](http://arxiv.org/abs/2505.11246)|null|
+|**2025-05-16**|**DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling**|Yuang Ai et.al.|[2505.11196](http://arxiv.org/abs/2505.11196)|null|
+|**2025-05-16**|**Controlling spatial correlation in k-space interpolation networks for MRI reconstruction: denoising versus apparent blurring**|Istvan Homolya et.al.|[2505.11155](http://arxiv.org/abs/2505.11155)|null|
+|**2025-05-16**|**Pseudo-Label Quality Decoupling and Correction for Semi-Supervised Instance Segmentation**|Jianghang Lin et.al.|[2505.11075](http://arxiv.org/abs/2505.11075)|null|
+|**2025-05-16**|**Shackled Dancing: A Bit-Locked Diffusion Algorithm for Lossless and Controllable Image Steganography**|Tianshuo Zhang et.al.|[2505.10950](http://arxiv.org/abs/2505.10950)|null|
+|**2025-05-16**|**ToDMA: Large Model-Driven Token-Domain Multiple Access for Semantic Communications**|Li Qiao et.al.|[2505.10946](http://arxiv.org/abs/2505.10946)|null|
+|**2025-05-16**|**Textured mesh Quality Assessment using Geometry and Color Field Similarity**|Kaifa Yang et.al.|[2505.10824](http://arxiv.org/abs/2505.10824)|null|
+|**2025-05-14**|**Bias and Generalizability of Foundation Models across Datasets in Breast Mammography**|Germani Elodie et.al.|[2505.10579](http://arxiv.org/abs/2505.10579)|null|
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
 |**2025-05-15**|**Visual Fidelity Index for Generative Semantic Communications with Critical Information Embedding**|Jianhao Huang et.al.|[2505.10405](http://arxiv.org/abs/2505.10405)|null|
 |**2025-05-15**|**Comparative Analysis of Richardson-Lucy Deconvolution and Data Unfolding with Mean Integrated Square Error Optimization**|Nikolay D. Gagunashvili et.al.|[2505.10283](http://arxiv.org/abs/2505.10283)|null|
@@ -3874,6 +3886,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Equal is Not Always Fair: A New Perspective on Hyperspectral Representation Non-Uniformity**|Wuzhou Quan et.al.|[2505.11267](http://arxiv.org/abs/2505.11267)|null|
+|**2025-05-16**|**Determining the utility of ultrafast nonlinear contrast enhanced and super resolution ultrasound for imaging microcirculation in the human small intestine**|Clotilde Vié et.al.|[2505.11096](http://arxiv.org/abs/2505.11096)|null|
+|**2025-05-16**|**HSRMamba: Efficient Wavelet Stripe State Space Model for Hyperspectral Image Super-Resolution**|Baisong Li et.al.|[2505.11062](http://arxiv.org/abs/2505.11062)|null|
+|**2025-05-15**|**SRMamba: Mamba for Super-Resolution of LiDAR Point Clouds**|Chuang Chen et.al.|[2505.10601](http://arxiv.org/abs/2505.10601)|null|
+|**2025-05-14**|**Super-Resolution Generative Adversarial Networks based Video Enhancement**|Kağan ÇETİN et.al.|[2505.10589](http://arxiv.org/abs/2505.10589)|null|
+|**2025-05-14**|**GRNN:Recurrent Neural Network based on Ghost Features for Video Super-Resolution**|Yutong Guo et.al.|[2505.10577](http://arxiv.org/abs/2505.10577)|null|
 |**2025-05-15**|**Depth Anything with Any Prior**|Zehan Wang et.al.|[2505.10565](http://arxiv.org/abs/2505.10565)|null|
 |**2025-05-15**|**Subspace-Based Super-Resolution Sensing for Bi-Static ISAC with Clock Asynchronism**|Jingbo Zhao et.al.|[2505.10174](http://arxiv.org/abs/2505.10174)|null|
 |**2025-05-15**|**ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction**|Shijie Lyu et.al.|[2505.10027](http://arxiv.org/abs/2505.10027)|null|
@@ -5020,6 +5038,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Evolution of granular salty ice analogs for Europa: Sublimation and Irradiation**|Rafael Ottersberg et.al.|[2505.11498](http://arxiv.org/abs/2505.11498)|null|
+|**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
+|**2025-05-16**|**Diffusion Model in Hyperspectral Image Processing and Analysis: A Review**|Xing Hu et.al.|[2505.11158](http://arxiv.org/abs/2505.11158)|null|
+|**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
+|**2025-05-16**|**M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Fusion Object Detection**|Chao Wang et.al.|[2505.10931](http://arxiv.org/abs/2505.10931)|null|
+|**2025-05-16**|**Developing and Integrating Trust Modeling into Multi-Objective Reinforcement Learning for Intelligent Agricultural Management**|Zhaoan Wang et.al.|[2505.10803](http://arxiv.org/abs/2505.10803)|null|
+|**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-15**|**ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction**|Shijie Lyu et.al.|[2505.10027](http://arxiv.org/abs/2505.10027)|null|
 |**2025-05-15**|**Non-Registration Change Detection: A Novel Change Detection Task and Benchmark Dataset**|Zhe Shan et.al.|[2505.09939](http://arxiv.org/abs/2505.09939)|**[link](https://github.com/shanzard/nrcd)**|
 |**2025-05-14**|**Predicting butterfly species presence from satellite imagery using soft contrastive regularisation**|Thijs L van der Plas et.al.|[2505.09306](http://arxiv.org/abs/2505.09306)|**[link](https://github.com/vdplasthijs/pecl)**|

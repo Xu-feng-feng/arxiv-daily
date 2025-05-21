@@ -249,6 +249,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Neural Video Compression with Context Modulation**|Chuanbo Tang et.al.|[2505.14541](http://arxiv.org/abs/2505.14541)|null|
+|**2025-05-20**|**Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models**|Xuyang Liu et.al.|[2505.14454](http://arxiv.org/abs/2505.14454)|**[link](https://github.com/xuyang-liu16/vidcom2)**|
+|**2025-05-19**|**GANCompress: GAN-Enhanced Neural Image Compression with Binary Spherical Quantization**|Karthik Sivakoti et.al.|[2505.13542](http://arxiv.org/abs/2505.13542)|null|
 |**2025-05-19**|**DD-Ranking: Rethinking the Evaluation of Dataset Distillation**|Zekai Li et.al.|[2505.13300](http://arxiv.org/abs/2505.13300)|**[link](https://github.com/nus-hpc-ai-lab/dd-ranking)**|
 |**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152](http://arxiv.org/abs/2505.13152)|**[link](https://github.com/jbrenig/rescdc)**|
 |**2025-05-19**|**Towards a Universal Image Degradation Model via Content-Degradation Disentanglement**|Wenbo Yang et.al.|[2505.12860](http://arxiv.org/abs/2505.12860)|null|
@@ -1182,9 +1185,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
+|**2025-05-20**|**Neural Inverse Scattering with Score-based Regularization**|Yuan Gao et.al.|[2505.14560](http://arxiv.org/abs/2505.14560)|null|
+|**2025-05-20**|**Automated, Cross-Layer Root Cause Analysis of 5G Video-Conferencing Quality Degradation**|Fan Yi et.al.|[2505.14540](http://arxiv.org/abs/2505.14540)|null|
+|**2025-05-20**|**VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank**|Tianhe Wu et.al.|[2505.14460](http://arxiv.org/abs/2505.14460)|null|
+|**2025-05-20**|**Accuracy and Fairness of Facial Recognition Technology in Low-Quality Police Images: An Experiment With Synthetic Faces**|Maria Cuellar et.al.|[2505.14320](http://arxiv.org/abs/2505.14320)|null|
+|**2025-05-20**|**Towards Generating Realistic Underwater Images**|Abdul-Kazeem Shamba et.al.|[2505.14296](http://arxiv.org/abs/2505.14296)|null|
+|**2025-05-20**|**High-energy X-ray phase-contrast CT of an adult human chest phantom**|Jannis N. Ahlers et.al.|[2505.14075](http://arxiv.org/abs/2505.14075)|null|
+|**2025-05-20**|**Recreating Neural Activity During Speech Production with Language and Speech Model Embeddings**|Owais Mujtaba Khanday et.al.|[2505.14074](http://arxiv.org/abs/2505.14074)|**[link](https://github.com/owaismujtaba/llm_brain_representations)**|
+|**2025-05-20**|**OmniStyle: Filtering High Quality Style Transfer Data at Scale**|Ye Wang et.al.|[2505.14028](http://arxiv.org/abs/2505.14028)|null|
+|**2025-05-20**|**RLVR-World: Training World Models with Reinforcement Learning**|Jialong Wu et.al.|[2505.13934](http://arxiv.org/abs/2505.13934)|**[link](https://github.com/thuml/RLVR-World)**|
+|**2025-05-20**|**Automated Quality Evaluation of Cervical Cytopathology Whole Slide Images Based on Content Analysis**|Lanlan Kang et.al.|[2505.13875](http://arxiv.org/abs/2505.13875)|null|
+|**2025-05-20**|**Exploring Image Quality Assessment from a New Perspective: Pupil Size**|Yixuan Gao et.al.|[2505.13841](http://arxiv.org/abs/2505.13841)|null|
+|**2025-05-19**|**Learning Wavelet-Sparse FDK for 3D Cone-Beam CT Reconstruction**|Yipeng Sun et.al.|[2505.13579](http://arxiv.org/abs/2505.13579)|null|
 |**2025-05-19**|**Neural-Enhanced Rate Adaptation and Computation Distribution for Emerging mmWave Multi-User 3D Video Streaming Systems**|Babak Badnava et.al.|[2505.13337](http://arxiv.org/abs/2505.13337)|null|
 |**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
-|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215](http://arxiv.org/abs/2505.13215)|null|
+|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215](http://arxiv.org/abs/2505.13215)|**[link](https://github.com/ohsngjun/3D-4DGS)**|
 |**2025-05-19**|**Combinatorial Sample-and Back-Focal-Plane (BFP) Imaging. Pt. I: Instrument and acquisition parameters affecting BFP images and their analysis**|Omer Shavit et.al.|[2505.13190](http://arxiv.org/abs/2505.13190)|null|
 |**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152](http://arxiv.org/abs/2505.13152)|**[link](https://github.com/jbrenig/rescdc)**|
 |**2025-05-19**|**ARIW-Framework: Adaptive Robust Iterative Watermarking Framework**|Shaowu Wu et.al.|[2505.13101](http://arxiv.org/abs/2505.13101)|null|
@@ -3895,6 +3911,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank**|Tianhe Wu et.al.|[2505.14460](http://arxiv.org/abs/2505.14460)|null|
+|**2025-05-20**|**Hunyuan-Game: Industrial-grade Intelligent Game Creation Model**|Ruihuang Li et.al.|[2505.14135](http://arxiv.org/abs/2505.14135)|null|
+|**2025-05-20**|**Every Pixel Tells a Story: End-to-End Urdu Newspaper OCR**|Samee Arif et.al.|[2505.13943](http://arxiv.org/abs/2505.13943)|null|
+|**2025-05-20**|**Blind Restoration of High-Resolution Ultrasound Video**|Chu Chen et.al.|[2505.13915](http://arxiv.org/abs/2505.13915)|null|
 |**2025-05-19**|**Calibration-free single-frame super-resolution fluorescence microscopy**|Anežka Dostálová et.al.|[2505.13293](http://arxiv.org/abs/2505.13293)|null|
 |**2025-05-19**|**Enhancing Diffusion-Weighted Images (DWI) for Diffusion MRI: Is it Enough without Non-Diffusion-Weighted B=0 Reference?**|Yinzhe Wu et.al.|[2505.12978](http://arxiv.org/abs/2505.12978)|null|
 |**2025-05-18**|**CLIP-aware Domain-Adaptive Super-Resolution**|Zhengyang Lu et.al.|[2505.12391](http://arxiv.org/abs/2505.12391)|null|
@@ -5055,6 +5075,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Neural Inverse Scattering with Score-based Regularization**|Yuan Gao et.al.|[2505.14560](http://arxiv.org/abs/2505.14560)|null|
+|**2025-05-20**|**Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives**|Xingxing Weng et.al.|[2505.14361](http://arxiv.org/abs/2505.14361)|null|
+|**2025-05-20**|**Assessing wildfire susceptibility in Iran: Leveraging machine learning for geospatial analysis of climatic and anthropogenic factors**|Ehsan Masoudian et.al.|[2505.14122](http://arxiv.org/abs/2505.14122)|null|
+|**2025-05-20**|**Generalizable Multispectral Land Cover Classification via Frequency-Aware Mixture of Low-Rank Token Experts**|Xi Chen et.al.|[2505.14088](http://arxiv.org/abs/2505.14088)|null|
+|**2025-05-20**|**Selective Structured State Space for Multispectral-fused Small Target Detection**|Qianqian Zhang et.al.|[2505.14043](http://arxiv.org/abs/2505.14043)|null|
+|**2025-05-20**|**Investigation of Martian UV Dayglow Emissions in the Southern Hemisphere during Solar Quiet-time Conditions: Insights from Multi-year MAVEN/IUVS Observations**|Aadarsh Raj Sharma et.al.|[2505.13977](http://arxiv.org/abs/2505.13977)|null|
+|**2025-05-20**|**Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture**|Malakhi Hopkins et.al.|[2505.13916](http://arxiv.org/abs/2505.13916)|null|
+|**2025-05-17**|**Continuous Domain Generalization**|Zekun Cai et.al.|[2505.13519](http://arxiv.org/abs/2505.13519)|null|
 |**2025-05-19**|**RB-SCD: A New Benchmark for Semantic Change Detection of Roads and Bridges in Traffic Scenes**|Qingling Shu et.al.|[2505.13212](http://arxiv.org/abs/2505.13212)|null|
 |**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088](http://arxiv.org/abs/2505.13088)|null|
 |**2025-05-18**|**GlobalGeoTree: A Multi-Granular Vision-Language Dataset for Global Tree Species Classification**|Yang Mu et.al.|[2505.12513](http://arxiv.org/abs/2505.12513)|**[link](https://github.com/muyang99/globalgeotree)**|

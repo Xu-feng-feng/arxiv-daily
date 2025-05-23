@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5090,7 +5090,7 @@ layout: default
 |**2025-05-21**|**Visual Question Answering on Multiple Remote Sensing Image Modalities**|Hichem Boussaid et.al.|[2505.15401](http://arxiv.org/abs/2505.15401)|null|
 |**2025-05-21**|**Parameter-Efficient Fine-Tuning of Multispectral Foundation Models for Hyperspectral Image Classification**|Bernardin Ligan et.al.|[2505.15334](http://arxiv.org/abs/2505.15334)|null|
 |**2025-05-21**|**CEBSNet: Change-Excited and Background-Suppressed Network with Temporal Dependency Modeling for Bitemporal Change Detection**|Qi'ao Xu et.al.|[2505.15322](http://arxiv.org/abs/2505.15322)|null|
-|**2025-05-21**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222](http://arxiv.org/abs/2505.15222)|**[link](https://github.com/yisiluo/continuous-representation-zoo)**|
+|**2025-05-22**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222](http://arxiv.org/abs/2505.15222)|**[link](https://github.com/yisiluo/continuous-representation-zoo)**|
 |**2025-05-21**|**Building LOD Representation for 3D Urban Scenes**|Shanshan Pan et.al.|[2505.15190](http://arxiv.org/abs/2505.15190)|null|
 |**2025-05-21**|**From Pixels to Images: Deep Learning Advances in Remote Sensing Image Semantic Segmentation**|Quanwei Liu et.al.|[2505.15147](http://arxiv.org/abs/2505.15147)|null|
 |**2025-05-21**|**Data Augmentation and Resolution Enhancement using GANs and Diffusion Models for Tree Segmentation**|Alessandro dos Santos Ferreira et.al.|[2505.15077](http://arxiv.org/abs/2505.15077)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -253,7 +253,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Compression
 
@@ -265,7 +265,7 @@
 |**2025-05-22**|**TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Manipulation**|Yang Li et.al.|[2505.16289](http://arxiv.org/abs/2505.16289)|null|
 |**2025-05-22**|**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression**|Linfeng Qi et.al.|[2505.16177](http://arxiv.org/abs/2505.16177)|null|
 |**2025-05-22**|**Compressing Human Body Video with Interactive Semantics: A Generative Approach**|Bolin Chen et.al.|[2505.16152](http://arxiv.org/abs/2505.16152)|null|
-|**2025-05-22**|**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates**|Jinpei Guo et.al.|[2505.16091](http://arxiv.org/abs/2505.16091)|null|
+|**2025-05-22**|**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates**|Jinpei Guo et.al.|[2505.16091](http://arxiv.org/abs/2505.16091)|**[link](https://github.com/jp-guo/oscar)**|
 |**2025-05-21**|**Combining Progressive Image Compression and Random Access in DNA Data Storage**|Xavier Pic et.al.|[2505.15632](http://arxiv.org/abs/2505.15632)|null|
 |**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558](http://arxiv.org/abs/2505.15558)|null|
 |**2025-05-21**|**Certified Neural Approximations of Nonlinear Dynamics**|Frederik Baymler Mathiesen et.al.|[2505.15497](http://arxiv.org/abs/2505.15497)|**[link](https://github.com/Zinoex/certified-neural-approximations)**|
@@ -1202,17 +1202,17 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Quality Assessment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|null|
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|**[link](https://github.com/gogoduan/got-r1)**|
 |**2025-05-22**|**Active Speech Enhancement: Active Speech Denoising Decliping and Deveraberation**|Ofir Yaish et.al.|[2505.16911](http://arxiv.org/abs/2505.16911)|null|
-|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|null|
+|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
-|**2025-05-22**|**REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training**|Ziqiao Wang et.al.|[2505.16792](http://arxiv.org/abs/2505.16792)|null|
+|**2025-05-22**|**REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training**|Ziqiao Wang et.al.|[2505.16792](http://arxiv.org/abs/2505.16792)|**[link](https://github.com/nus-hpc-ai-lab/haste)**|
 |**2025-05-22**|**Mesh-RFT: Enhancing Mesh Generation via Fine-grained Reinforcement Fine-Tuning**|Jian Liu et.al.|[2505.16761](http://arxiv.org/abs/2505.16761)|null|
 |**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687](http://arxiv.org/abs/2505.16687)|null|
 |**2025-05-22**|**Performance of Objective Speech Quality Metrics on Languages Beyond Validation Data: A Study of Turkish and Korean**|Javier Perez et.al.|[2505.16616](http://arxiv.org/abs/2505.16616)|null|
@@ -1221,12 +1221,12 @@
 |**2025-05-22**|**Utilizing citation index and synthetic quality measure to compare Wikipedia languages across various topics**|Włodzimierz Lewoniewski et.al.|[2505.16506](http://arxiv.org/abs/2505.16506)|null|
 |**2025-05-22**|**InspectionV3: Enhancing Tobacco Quality Assessment with Deep Convolutional Neural Networks for Automated Workshop Management**|Yao Wei et.al.|[2505.16485](http://arxiv.org/abs/2505.16485)|null|
 |**2025-05-22**|**UBGAN: Enhancing Coded Speech with Blind and Guided Bandwidth Extension**|Kishan Gupta et.al.|[2505.16404](http://arxiv.org/abs/2505.16404)|null|
-|**2025-05-22**|**FPQVAR: Floating Point Quantization for Visual Autoregressive Model with FPGA Hardware Co-design**|Renjie Wei et.al.|[2505.16335](http://arxiv.org/abs/2505.16335)|null|
+|**2025-05-22**|**FPQVAR: Floating Point Quantization for Visual Autoregressive Model with FPGA Hardware Co-design**|Renjie Wei et.al.|[2505.16335](http://arxiv.org/abs/2505.16335)|**[link](https://github.com/pku-sec-lab/fpqvar)**|
 |**2025-05-22**|**NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment**|Shuhao Han et.al.|[2505.16314](http://arxiv.org/abs/2505.16314)|null|
 |**2025-05-22**|**A Shape-Aware Total Body Photography System for In-focus Surface Coverage Optimization**|Wei-Lun Huang et.al.|[2505.16228](http://arxiv.org/abs/2505.16228)|null|
 |**2025-05-22**|**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression**|Linfeng Qi et.al.|[2505.16177](http://arxiv.org/abs/2505.16177)|null|
-|**2025-05-22**|**LLMs Are Not Scorers: Rethinking MT Evaluation with Generation-Based Methods**|Hyang Cui et.al.|[2505.16129](http://arxiv.org/abs/2505.16129)|null|
-|**2025-05-22**|**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates**|Jinpei Guo et.al.|[2505.16091](http://arxiv.org/abs/2505.16091)|null|
+|**2025-05-22**|**LLMs Are Not Scorers: Rethinking MT Evaluation with Generation-Based Methods**|Hyang Cui et.al.|[2505.16129](http://arxiv.org/abs/2505.16129)|**[link](https://github.com/cuiniki/llms-are-not-scorers)**|
+|**2025-05-22**|**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates**|Jinpei Guo et.al.|[2505.16091](http://arxiv.org/abs/2505.16091)|**[link](https://github.com/jp-guo/oscar)**|
 |**2025-05-21**|**CP-LLM: Context and Pixel Aware Large Language Model for Video Quality Assessment**|Wen Wen et.al.|[2505.16025](http://arxiv.org/abs/2505.16025)|null|
 |**2025-05-21**|**Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization**|Satoshi Kosugi et.al.|[2505.15812](http://arxiv.org/abs/2505.15812)|**[link](https://github.com/satoshi-kosugi/powerful-attention)**|
 |**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737](http://arxiv.org/abs/2505.15737)|null|
@@ -3955,7 +3955,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -3964,7 +3964,7 @@
 |**2025-05-22**|**Joint Flow And Feature Refinement Using Attention For Video Restoration**|Ranjith Merugu et.al.|[2505.16434](http://arxiv.org/abs/2505.16434)|null|
 |**2025-05-22**|**SuperPure: Efficient Purification of Localized and Distributed Adversarial Patches via Super-Resolution GAN Models**|Hossein Khalili et.al.|[2505.16318](http://arxiv.org/abs/2505.16318)|null|
 |**2025-05-22**|**DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution**|Zheng Chen et.al.|[2505.16239](http://arxiv.org/abs/2505.16239)|null|
-|**2025-05-22**|**Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey**|Liyan Wang et.al.|[2505.16161](http://arxiv.org/abs/2505.16161)|null|
+|**2025-05-22**|**Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey**|Liyan Wang et.al.|[2505.16161](http://arxiv.org/abs/2505.16161)|**[link](https://github.com/wlydlut/uhd-image-restoration-survey)**|
 |**2025-05-21**|**Super-Resolution with Structured Motion**|Gabby Litterio et.al.|[2505.15961](http://arxiv.org/abs/2505.15961)|null|
 |**2025-05-21**|**BadSR: Stealthy Label Backdoor Attacks on Image Super-Resolution**|Ji Guo et.al.|[2505.15308](http://arxiv.org/abs/2505.15308)|null|
 |**2025-05-20**|**Super-Resolution Optical Coherence Tomography Using Diffusion Model-Based Plug-and-Play Priors**|Yaning Wang et.al.|[2505.14916](http://arxiv.org/abs/2505.14916)|null|
@@ -5128,15 +5128,15 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**REOBench: Benchmarking Robustness of Earth Observation Foundation Models**|Xiang Li et.al.|[2505.16793](http://arxiv.org/abs/2505.16793)|null|
+|**2025-05-22**|**REOBench: Benchmarking Robustness of Earth Observation Foundation Models**|Xiang Li et.al.|[2505.16793](http://arxiv.org/abs/2505.16793)|**[link](https://github.com/lx709/reobench)**|
 |**2025-05-22**|**Representation Discrepancy Bridging Method for Remote Sensing Image-Text Retrieval**|Hailong Ning et.al.|[2505.16756](http://arxiv.org/abs/2505.16756)|null|
-|**2025-05-22**|**On the use of Graphs for Satellite Image Time Series**|Corentin Dufourg et.al.|[2505.16685](http://arxiv.org/abs/2505.16685)|null|
+|**2025-05-22**|**On the use of Graphs for Satellite Image Time Series**|Corentin Dufourg et.al.|[2505.16685](http://arxiv.org/abs/2505.16685)|**[link](https://github.com/corentin-dfg/graph4sits)**|
 |**2025-05-22**|**TextureSAM: Towards a Texture Aware Foundation Model for Segmentation**|Inbal Cohen et.al.|[2505.16540](http://arxiv.org/abs/2505.16540)|null|
 |**2025-05-22**|**Quantum-Driven Multihead Inland Waterbody Detection With Transformer-Encoded CYGNSS Delay-Doppler Map Data**|Chia-Hsiang Lin et.al.|[2505.16391](http://arxiv.org/abs/2505.16391)|null|
 |**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|**[link](https://github.com/VoyagerXvoyagerx/InstructSAM)**|
@@ -6561,7 +6561,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

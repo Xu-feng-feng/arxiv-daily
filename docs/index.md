@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -260,7 +260,7 @@ layout: default
 |**2025-05-22**|**TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Manipulation**|Yang Li et.al.|[2505.16289](http://arxiv.org/abs/2505.16289)|null|
 |**2025-05-22**|**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression**|Linfeng Qi et.al.|[2505.16177](http://arxiv.org/abs/2505.16177)|null|
 |**2025-05-22**|**Compressing Human Body Video with Interactive Semantics: A Generative Approach**|Bolin Chen et.al.|[2505.16152](http://arxiv.org/abs/2505.16152)|null|
-|**2025-05-22**|**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates**|Jinpei Guo et.al.|[2505.16091](http://arxiv.org/abs/2505.16091)|**[link](https://github.com/jp-guo/oscar)**|
+|**2025-05-24**|**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates**|Jinpei Guo et.al.|[2505.16091](http://arxiv.org/abs/2505.16091)|**[link](https://github.com/jp-guo/oscar)**|
 |**2025-05-21**|**Combining Progressive Image Compression and Random Access in DNA Data Storage**|Xavier Pic et.al.|[2505.15632](http://arxiv.org/abs/2505.15632)|null|
 |**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558](http://arxiv.org/abs/2505.15558)|null|
 |**2025-05-21**|**Certified Neural Approximations of Nonlinear Dynamics**|Frederik Baymler Mathiesen et.al.|[2505.15497](http://arxiv.org/abs/2505.15497)|**[link](https://github.com/Zinoex/certified-neural-approximations)**|

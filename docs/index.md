@@ -253,6 +253,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|null|
+|**2025-05-27**|**Transfer learning for multifidelity simulation-based inference in cosmology**|Alex A. Saoulis et.al.|[2505.21215](http://arxiv.org/abs/2505.21215)|null|
+|**2025-05-27**|**Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution**|Minghao Han et.al.|[2505.20984](http://arxiv.org/abs/2505.20984)|null|
+|**2025-05-27**|**QwT-v2: Practical, Effective and Efficient Post-Training Quantization**|Ningyuan Tang et.al.|[2505.20932](http://arxiv.org/abs/2505.20932)|null|
+|**2025-05-27**|**Stationary MMD Points for Cubature**|Zonghao Chen et.al.|[2505.20754](http://arxiv.org/abs/2505.20754)|**[link](https://github.com/hudsonchen/MMDF_cubature)**|
 |**2025-05-26**|**MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models**|Zhongzhan Huang et.al.|[2505.19959](http://arxiv.org/abs/2505.19959)|null|
 |**2025-05-26**|**A Comprehensive Real-World Assessment of Audio Watermarking Algorithms: Will They Survive Neural Codecs?**|Yigitcan Özer et.al.|[2505.19663](http://arxiv.org/abs/2505.19663)|null|
 |**2025-05-26**|**Information-theoretic Generalization Analysis for VQ-VAEs: A Role of Latent Variables**|Futoshi Futami et.al.|[2505.19470](http://arxiv.org/abs/2505.19470)|null|
@@ -1207,6 +1212,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502](http://arxiv.org/abs/2505.21502)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
+|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
+|**2025-05-27**|**OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers**|Ziqiao Peng et.al.|[2505.21448](http://arxiv.org/abs/2505.21448)|null|
+|**2025-05-27**|**Towards Robust Automated Perceptual Voice Quality Assessment with Deep Learning**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
+|**2025-05-27**|**Model as Loss: A Self-Consistent Training Paradigm**|Saisamarth Rajesh Phaye et.al.|[2505.21156](http://arxiv.org/abs/2505.21156)|null|
+|**2025-05-27**|**Conditional Diffusion Models with Classifier-Free Gibbs-like Guidance**|Badr Moufad et.al.|[2505.21101](http://arxiv.org/abs/2505.21101)|null|
+|**2025-05-27**|**All-optical discrete illumination-based compressed ultrafast photography**|Long Cheng et.al.|[2505.21086](http://arxiv.org/abs/2505.21086)|null|
+|**2025-05-27**|**Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals**|Davide Lobba et.al.|[2505.21062](http://arxiv.org/abs/2505.21062)|null|
+|**2025-05-27**|**Proposal for the optical design of three robust and highly performing FPI systems for the European Solar Telescope**|Goran B. Scharmer et.al.|[2505.21053](http://arxiv.org/abs/2505.21053)|null|
+|**2025-05-27**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041](http://arxiv.org/abs/2505.21041)|null|
+|**2025-05-27**|**RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy**|Aiyue Chen et.al.|[2505.21036](http://arxiv.org/abs/2505.21036)|null|
+|**2025-05-27**|**Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution**|Minghao Han et.al.|[2505.20984](http://arxiv.org/abs/2505.20984)|null|
+|**2025-05-27**|**Stereo Radargrammetry Using Deep Learning from Airborne SAR Images**|Tatsuya Sasayama et.al.|[2505.20876](http://arxiv.org/abs/2505.20876)|null|
+|**2025-05-27**|**Uni-VERSA: Versatile Speech Assessment with a Unified Network**|Jiatong Shi et.al.|[2505.20741](http://arxiv.org/abs/2505.20741)|null|
+|**2025-05-27**|**LeDiFlow: Learned Distribution-guided Flow Matching to Accelerate Image Generation**|Pascal Zwick et.al.|[2505.20723](http://arxiv.org/abs/2505.20723)|null|
+|**2025-05-27**|**Photography Perspective Composition: Towards Aesthetic Perspective Recommendation**|Lujian Yao et.al.|[2505.20655](http://arxiv.org/abs/2505.20655)|null|
+|**2025-05-27**|**InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling**|Xiaoxiao Jiang et.al.|[2505.20600](http://arxiv.org/abs/2505.20600)|null|
+|**2025-05-26**|**MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance**|Aniket Roy et.al.|[2505.20525](http://arxiv.org/abs/2505.20525)|null|
+|**2025-05-26**|**In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation**|Yu Xu et.al.|[2505.20271](http://arxiv.org/abs/2505.20271)|null|
 |**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|null|
 |**2025-05-26**|**ICDM: Interference Cancellation Diffusion Models for Wireless Semantic Communications**|Tong Wu et.al.|[2505.19983](http://arxiv.org/abs/2505.19983)|null|
 |**2025-05-26**|**PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction**|Kanglei Zhou et.al.|[2505.19972](http://arxiv.org/abs/2505.19972)|null|
@@ -3988,13 +4013,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Label-free Super-Resolution Microvessel Color Flow Imaging with Ultrasound**|Zhengchang Kou et.al.|[2505.21384](http://arxiv.org/abs/2505.21384)|null|
+|**2025-05-27**|**DiMoSR: Feature Modulation via Multi-Branch Dilated Convolutions for Efficient Image Super-Resolution**|M. Akin Yilmaz et.al.|[2505.21262](http://arxiv.org/abs/2505.21262)|null|
+|**2025-05-27**|**Instance Data Condensation for Image Super-Resolution**|Tianhao Peng et.al.|[2505.21099](http://arxiv.org/abs/2505.21099)|null|
 |**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958](http://arxiv.org/abs/2505.19958)|null|
 |**2025-05-26**|**Deep Spectral Prior**|Yanqi Cheng et.al.|[2505.19873](http://arxiv.org/abs/2505.19873)|null|
 |**2025-05-26**|**Challenges and perspectives in using multimodal imaging techniques to advance the understanding of fish intestinal microvilli**|Ankit Butola et.al.|[2505.19798](http://arxiv.org/abs/2505.19798)|null|
 |**2025-05-26**|**Burst Image Super-Resolution via Multi-Cross Attention Encoding and Multi-Scan State-Space Decoding**|Tengda Huang et.al.|[2505.19668](http://arxiv.org/abs/2505.19668)|null|
 |**2025-05-24**|**Memory-Efficient Super-Resolution of 3D Micro-CT Images Using Octree-Based GANs: Enhancing Resolution and Segmentation Accuracy**|Evgeny Ugolkov et.al.|[2505.18664](http://arxiv.org/abs/2505.18664)|null|
 |**2025-05-24**|**SuperGS: Consistent and Detailed 3D Super-Resolution Scene Reconstruction via Gaussian Splatting**|Shiyun Xie et.al.|[2505.18649](http://arxiv.org/abs/2505.18649)|null|
-|**2025-05-24**|**Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment**|Bryan Sangwoo Kim et.al.|[2505.18600](http://arxiv.org/abs/2505.18600)|null|
+|**2025-05-27**|**Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment**|Bryan Sangwoo Kim et.al.|[2505.18600](http://arxiv.org/abs/2505.18600)|null|
 |**2025-05-26**|**SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction**|Jiangjie Wu et.al.|[2505.17472](http://arxiv.org/abs/2505.17472)|null|
 |**2025-05-23**|**FLEX: A Backbone for Diffusion-Based Modeling of Spatio-temporal Physical Systems**|N. Benjamin Erichson et.al.|[2505.17351](http://arxiv.org/abs/2505.17351)|null|
 |**2025-05-22**|**Joint Flow And Feature Refinement Using Attention For Video Restoration**|Ranjith Merugu et.al.|[2505.16434](http://arxiv.org/abs/2505.16434)|null|
@@ -5168,6 +5196,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
+|**2025-05-27**|**GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution**|Fengxiang Wang et.al.|[2505.21375](http://arxiv.org/abs/2505.21375)|null|
+|**2025-05-27**|**YOLO-SPCI: Enhancing Remote Sensing Object Detection via Selective-Perspective-Class Integration**|Xinyuan Wang et.al.|[2505.21370](http://arxiv.org/abs/2505.21370)|null|
+|**2025-05-27**|**AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping**|Wenyuan Li et.al.|[2505.21357](http://arxiv.org/abs/2505.21357)|null|
+|**2025-05-27**|**DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response**|Junjue Wang et.al.|[2505.21089](http://arxiv.org/abs/2505.21089)|null|
+|**2025-05-27**|**DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding**|Weihao Xuan et.al.|[2505.21076](http://arxiv.org/abs/2505.21076)|null|
 |**2025-05-26**|**A fully automated urban PV parameterization framework for improved estimation of energy production profiles**|Bowen Tian et.al.|[2505.19876](http://arxiv.org/abs/2505.19876)|null|
 |**2025-05-26**|**Selective focusing of multiple particles in a layered medium**|Jun Lai et.al.|[2505.19524](http://arxiv.org/abs/2505.19524)|null|
 |**2025-05-26**|**A Contrastive Learning Foundation Model Based on Perfectly Aligned Sample Pairs for Remote Sensing Images**|Hengtong Shen et.al.|[2505.19447](http://arxiv.org/abs/2505.19447)|null|

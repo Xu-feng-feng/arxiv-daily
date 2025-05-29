@@ -253,6 +253,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Synonymous Variational Inference for Perceptual Image Compression**|Zijian Liang et.al.|[2505.22438](http://arxiv.org/abs/2505.22438)|null|
+|**2025-05-27**|**Highly Efficient Non-Separable Transforms for Next Generation Video Coding**|Amir Said et.al.|[2505.21728](http://arxiv.org/abs/2505.21728)|null|
 |**2025-05-28**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|null|
 |**2025-05-27**|**Transfer learning for multifidelity simulation-based inference in cosmology**|Alex A. Saoulis et.al.|[2505.21215](http://arxiv.org/abs/2505.21215)|null|
 |**2025-05-27**|**Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution**|Minghao Han et.al.|[2505.20984](http://arxiv.org/abs/2505.20984)|null|
@@ -1212,6 +1214,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**|Zhe Kong et.al.|[2505.22647](http://arxiv.org/abs/2505.22647)|null|
+|**2025-05-28**|**Scaling-up Perceptual Video Quality Assessment**|Ziheng Jia et.al.|[2505.22543](http://arxiv.org/abs/2505.22543)|null|
+|**2025-05-28**|**PrismLayers: Open Data for High-Quality Multi-Layer Transparent Image Generative Models**|Junwen Chen et.al.|[2505.22523](http://arxiv.org/abs/2505.22523)|null|
+|**2025-05-28**|**Understanding Adversarial Training with Energy-based Models**|Mujtaba Hussain Mirza et.al.|[2505.22486](http://arxiv.org/abs/2505.22486)|null|
+|**2025-05-28**|**Large-Area Fabrication-aware Computational Diffractive Optics**|Kaixuan Wei et.al.|[2505.22313](http://arxiv.org/abs/2505.22313)|null|
+|**2025-05-28**|**FaceEditTalker: Interactive Talking Head Generation with Facial Attribute Editing**|Guanwen Feng et.al.|[2505.22141](http://arxiv.org/abs/2505.22141)|null|
+|**2025-05-28**|**Real-Time Blind Defocus Deblurring for Earth Observation: The IMAGIN-e Mission Approach**|Alejandro D. Mousist et.al.|[2505.22128](http://arxiv.org/abs/2505.22128)|null|
+|**2025-05-28**|**SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model**|Yifan Chang et.al.|[2505.22126](http://arxiv.org/abs/2505.22126)|null|
+|**2025-05-28**|**High Volume Rate 3D Ultrasound Reconstruction with Diffusion Models**|Tristan S. W. Stevens et.al.|[2505.22090](http://arxiv.org/abs/2505.22090)|null|
+|**2025-05-28**|**AquaMonitor: A multimodal multi-view image sequence dataset for real-life aquatic invertebrate biodiversity monitoring**|Mikko Impiö et.al.|[2505.22065](http://arxiv.org/abs/2505.22065)|null|
+|**2025-05-28**|**One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models**|Senmao Li et.al.|[2505.21960](http://arxiv.org/abs/2505.21960)|null|
+|**2025-05-28**|**Patch-based Reconstruction for Unsupervised Dynamic MRI using Learnable Tensor Function with Implicit Neural Representation**|Yuanyuan Liu et.al.|[2505.21894](http://arxiv.org/abs/2505.21894)|null|
+|**2025-05-28**|**FPAN: Mitigating Replication in Diffusion Models through the Fine-Grained Probabilistic Addition of Noise to Token Embeddings**|Jingqi Xu et.al.|[2505.21848](http://arxiv.org/abs/2505.21848)|null|
+|**2025-05-27**|**HDRSDR-VQA: A Subjective Video Quality Dataset for HDR and SDR Comparative Evaluation**|Bowen Chen et.al.|[2505.21831](http://arxiv.org/abs/2505.21831)|null|
+|**2025-05-27**|**Rethinking Chunk Size For Long-Document Retrieval: A Multi-Dataset Analysis**|Sinchana Ramakanth Bhat et.al.|[2505.21700](http://arxiv.org/abs/2505.21700)|null|
 |**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502](http://arxiv.org/abs/2505.21502)|null|
 |**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
@@ -4013,6 +4030,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Surf2CT: Cascaded 3D Flow Matching Models for Torso 3D CT Synthesis from Skin Surface**|Siyeop Yoon et.al.|[2505.22511](http://arxiv.org/abs/2505.22511)|null|
+|**2025-05-28**|**Cascaded 3D Diffusion Models for Whole-body 3D 18-F FDG PET/CT synthesis from Demographics**|Siyeop Yoon et.al.|[2505.22489](http://arxiv.org/abs/2505.22489)|null|
+|**2025-05-27**|**Learning to See More: UAS-Guided Super-Resolution of Satellite Imagery for Precision Agriculture**|Arif Masrur et.al.|[2505.21746](http://arxiv.org/abs/2505.21746)|null|
 |**2025-05-27**|**Label-free Super-Resolution Microvessel Color Flow Imaging with Ultrasound**|Zhengchang Kou et.al.|[2505.21384](http://arxiv.org/abs/2505.21384)|null|
 |**2025-05-27**|**DiMoSR: Feature Modulation via Multi-Branch Dilated Convolutions for Efficient Image Super-Resolution**|M. Akin Yilmaz et.al.|[2505.21262](http://arxiv.org/abs/2505.21262)|null|
 |**2025-05-27**|**Instance Data Condensation for Image Super-Resolution**|Tianhao Peng et.al.|[2505.21099](http://arxiv.org/abs/2505.21099)|null|
@@ -5196,8 +5216,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Collaborative Learning for Unsupervised Multimodal Remote Sensing Image Registration: Integrating Self-Supervision and MIM-Guided Diffusion-Based Image Translation**|Xiaochen Wei et.al.|[2505.22000](http://arxiv.org/abs/2505.22000)|null|
+|**2025-05-27**|**Adaptive Block-Based Change-Point Detection for Sparse Spatially Clustered Data with Applications in Remote Sensing Imaging**|Alan Moore et.al.|[2505.21814](http://arxiv.org/abs/2505.21814)|null|
+|**2025-05-23**|**WakeMod: A 6.9uW Wake-Up Radio Module with -72.6dBm Sensitivity for On-Demand IoT**|Lukas Schulthess et.al.|[2505.21529](http://arxiv.org/abs/2505.21529)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
-|**2025-05-27**|**GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution**|Fengxiang Wang et.al.|[2505.21375](http://arxiv.org/abs/2505.21375)|null|
+|**2025-05-27**|**GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution**|Fengxiang Wang et.al.|[2505.21375](http://arxiv.org/abs/2505.21375)|**[link](https://github.com/MiliLab/GeoLLaVA-8K)**|
 |**2025-05-27**|**YOLO-SPCI: Enhancing Remote Sensing Object Detection via Selective-Perspective-Class Integration**|Xinyuan Wang et.al.|[2505.21370](http://arxiv.org/abs/2505.21370)|null|
 |**2025-05-28**|**AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping**|Wenyuan Li et.al.|[2505.21357](http://arxiv.org/abs/2505.21357)|null|
 |**2025-05-27**|**DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response**|Junjue Wang et.al.|[2505.21089](http://arxiv.org/abs/2505.21089)|null|

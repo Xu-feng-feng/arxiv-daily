@@ -253,6 +253,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**Likelihoods for Stochastic Gravitational Wave Background Data Analysis**|Gabriele Franciolini et.al.|[2505.24695](http://arxiv.org/abs/2505.24695)|null|
+|**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|null|
 |**2025-05-29**|**Position Dependent Prediction Combination For Intra-Frame Video Coding**|Amir Said et.al.|[2505.23672](http://arxiv.org/abs/2505.23672)|null|
 |**2025-05-29**|**Low-Complexity Transform Adjustments For Video Coding**|Amir Said et.al.|[2505.23618](http://arxiv.org/abs/2505.23618)|null|
 |**2025-05-29**|**Quasi-Periodic Optical Key-Enabled Hybrid Cryptography: Merging Diffractive Physics and Deep Learning for High-Dimensional Security**|Haiqi Gao et.al.|[2505.23479](http://arxiv.org/abs/2505.23479)|null|
@@ -1219,6 +1222,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
+|**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826](http://arxiv.org/abs/2505.24826)|null|
+|**2025-05-30**|**Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation**|Yucheng Zhou et.al.|[2505.24787](http://arxiv.org/abs/2505.24787)|null|
+|**2025-05-30**|**RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement**|Raman Jha et.al.|[2505.24705](http://arxiv.org/abs/2505.24705)|null|
+|**2025-05-30**|**ARECHO: Autoregressive Evaluation via Chain-Based Hypothesis Optimization for Speech Multi-Metric Estimation**|Jiatong Shi et.al.|[2505.24518](http://arxiv.org/abs/2505.24518)|null|
+|**2025-05-30**|**Digital twins enable full-reference quality assessment of photoacoustic image reconstructions**|Janek Gröhl et.al.|[2505.24514](http://arxiv.org/abs/2505.24514)|null|
+|**2025-05-30**|**Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation**|Ximing Xing et.al.|[2505.24499](http://arxiv.org/abs/2505.24499)|null|
+|**2025-05-30**|**VietMix: A Naturally Occurring Vietnamese-English Code-Mixed Corpus with Iterative Augmentation for Machine Translation**|Hieu Tran et.al.|[2505.24472](http://arxiv.org/abs/2505.24472)|null|
+|**2025-05-30**|**EasyText: Controllable Diffusion Transformer for Multilingual Text Rendering**|Runnan Lu et.al.|[2505.24417](http://arxiv.org/abs/2505.24417)|null|
+|**2025-05-30**|**PCIE_Interaction Solution for Ego4D Social Interaction Challenge**|Kanokphan Lertniphonphan et.al.|[2505.24404](http://arxiv.org/abs/2505.24404)|null|
+|**2025-05-30**|**Interactive Video Generation via Domain Adaptation**|Ishaan Rawal et.al.|[2505.24253](http://arxiv.org/abs/2505.24253)|null|
+|**2025-05-30**|**STORK: Improving the Fidelity of Mid-NFE Sampling for Diffusion and Flow Matching Models**|Zheng Tan et.al.|[2505.24210](http://arxiv.org/abs/2505.24210)|null|
+|**2025-05-29**|**DGIQA: Depth-guided Feature Attention and Refinement for Generalizable Image Quality Assessment**|Vaishnav Ramesh et.al.|[2505.24002](http://arxiv.org/abs/2505.24002)|null|
 |**2025-05-29**|**DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**|Amber Yijia Zheng et.al.|[2505.23743](http://arxiv.org/abs/2505.23743)|null|
 |**2025-05-29**|**SenWiCh: Sense-Annotation of Low-Resource Languages for WiC using Hybrid Methods**|Roksana Goworek et.al.|[2505.23714](http://arxiv.org/abs/2505.23714)|null|
 |**2025-05-29**|**Multilook Coherent Imaging: Theoretical Guarantees and Algorithms**|Xi Chen et.al.|[2505.23594](http://arxiv.org/abs/2505.23594)|**[link](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)**|
@@ -4050,6 +4066,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Beyond Pretty Pictures: Combined Single- and Multi-Image Super-resolution for Sentinel-2 Images**|Aditya Retnanto et.al.|[2505.24799](http://arxiv.org/abs/2505.24799)|null|
+|**2025-05-30**|**Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|[2505.24605](http://arxiv.org/abs/2505.24605)|null|
 |**2025-05-29**|**Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey**|Yunliang Qi et.al.|[2505.23248](http://arxiv.org/abs/2505.23248)|null|
 |**2025-05-29**|**TextSR: Diffusion Super-Resolution with Multilingual OCR Guidance**|Keren Ye et.al.|[2505.23119](http://arxiv.org/abs/2505.23119)|null|
 |**2025-05-29**|**SeG-SR: Integrating Semantic Knowledge into Remote Sensing Image Super-Resolution via Vision-Language Model**|Bowen Chen et.al.|[2505.23010](http://arxiv.org/abs/2505.23010)|null|
@@ -5239,6 +5257,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
+|**2025-05-30**|**From Pixels to Camera: Scaling Superconducting Nanowire Single-Photon Detectors for Imaging at the Quantum-Limit**|Jun Gao et.al.|[2505.24725](http://arxiv.org/abs/2505.24725)|null|
+|**2025-05-30**|**Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing**|Anasse Boutayeb et.al.|[2505.24489](http://arxiv.org/abs/2505.24489)|null|
+|**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|null|
+|**2025-05-30**|**STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising**|Jingjing Liu et.al.|[2505.24327](http://arxiv.org/abs/2505.24327)|null|
 |**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|**[link](https://github.com/mbzuai-oryx/thinkgeo)**|
 |**2025-05-29**|**Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation**|Georgios Voulgaris et.al.|[2505.23597](http://arxiv.org/abs/2505.23597)|null|
 |**2025-05-29**|**A Modern Theory of Cross-Validation through the Lens of Stability**|Jing Lei et.al.|[2505.23592](http://arxiv.org/abs/2505.23592)|null|

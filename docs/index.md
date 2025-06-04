@@ -253,6 +253,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Approximate Borderline Sampling using Granular-Ball for Classification Tasks**|Qin Xie et.al.|[2506.02366](http://arxiv.org/abs/2506.02366)|null|
+|**2025-06-02**|**Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression**|Woojin Cho et.al.|[2506.01234](http://arxiv.org/abs/2506.01234)|null|
+|**2025-06-02**|**Structured Pruning and Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01229](http://arxiv.org/abs/2506.01229)|null|
+|**2025-06-02**|**Flexible Mixed Precision Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01221](http://arxiv.org/abs/2506.01221)|null|
+|**2025-05-31**|**ViVo: A Dataset for Volumetric VideoReconstruction and Compression**|Adrian Azzarelli et.al.|[2506.00558](http://arxiv.org/abs/2506.00558)|null|
+|**2025-05-31**|**Your Demands Deserve More Bits: Referring Semantic Image Compression at Ultra-low Bitrate**|Chenhao Wu et.al.|[2506.00526](http://arxiv.org/abs/2506.00526)|null|
 |**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
 |**2025-05-30**|**Likelihoods for Stochastic Gravitational Wave Background Data Analysis**|Gabriele Franciolini et.al.|[2505.24695](http://arxiv.org/abs/2505.24695)|null|
 |**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|null|
@@ -1222,6 +1228,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**CamCloneMaster: Enabling Reference-based Camera Control for Video Generation**|Yawen Luo et.al.|[2506.03140](http://arxiv.org/abs/2506.03140)|null|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
+|**2025-06-03**|**Astrophotography turbulence mitigation via generative models**|Joonyeoup Kim et.al.|[2506.02981](http://arxiv.org/abs/2506.02981)|null|
+|**2025-06-03**|**IMPARA-GED: Grammatical Error Detection is Boosting Reference-free Grammatical Error Quality Estimator**|Yusuke Sakai et.al.|[2506.02899](http://arxiv.org/abs/2506.02899)|null|
+|**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875](http://arxiv.org/abs/2506.02875)|null|
+|**2025-06-03**|**ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration**|Cheng Yang et.al.|[2506.02633](http://arxiv.org/abs/2506.02633)|null|
+|**2025-06-03**|**One-Step Diffusion-based Real-World Image Super-Resolution with Visual Perception Distillation**|Xue Wu et.al.|[2506.02605](http://arxiv.org/abs/2506.02605)|null|
+|**2025-06-03**|**Multi-modal brain MRI synthesis based on SwinUNETR**|Haowen Pang et.al.|[2506.02467](http://arxiv.org/abs/2506.02467)|null|
+|**2025-06-02**|**Motion aware video generative model**|Bowen Xue et.al.|[2506.02244](http://arxiv.org/abs/2506.02244)|null|
+|**2025-06-02**|**SALF-MOS: Speaker Agnostic Latent Features Downsampled for MOS Prediction**|Saurabh Agrawal et.al.|[2506.02082](http://arxiv.org/abs/2506.02082)|null|
+|**2025-06-02**|**IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout**|Fei Shen et.al.|[2506.01949](http://arxiv.org/abs/2506.01949)|null|
+|**2025-06-03**|**MedEBench: Revisiting Text-instructed Image Editing on Medical Domain**|Minghao Liu et.al.|[2506.01921](http://arxiv.org/abs/2506.01921)|null|
+|**2025-06-02**|**Beyond Pixel Agreement: Large Language Models as Clinical Guardrails for Reliable Medical Image Segmentation**|Jiaxi Sheng et.al.|[2506.01841](http://arxiv.org/abs/2506.01841)|null|
+|**2025-06-02**|**WorldExplorer: Towards Generating Fully Navigable 3D Scenes**|Manuel-Andreas Schneider et.al.|[2506.01799](http://arxiv.org/abs/2506.01799)|null|
+|**2025-06-03**|**Datasheets Aren't Enough: DataRubrics for Automated Quality Metrics and Accountability**|Genta Indra Winata et.al.|[2506.01789](http://arxiv.org/abs/2506.01789)|null|
+|**2025-06-02**|**STORM: Benchmarking Visual Rating of MLLMs with a Comprehensive Ordinal Regression Dataset**|Jinhong Wang et.al.|[2506.01738](http://arxiv.org/abs/2506.01738)|null|
+|**2025-06-02**|**Observation of the Crab Nebula with the Single-Mirror Small-Size Telescope stereoscopic system at low altitude**|C. Alispach et.al.|[2506.01733](http://arxiv.org/abs/2506.01733)|null|
+|**2025-06-02**|**Self-Supervised Speech Quality Assessment (S3QA): Leveraging Speech Foundation Models for a Scalable Speech Quality Metric**|Mattson Ogg et.al.|[2506.01655](http://arxiv.org/abs/2506.01655)|null|
+|**2025-06-02**|**Enhancing Diffusion-based Unrestricted Adversarial Attacks via Adversary Preferences Alignment**|Kaixun Jiang et.al.|[2506.01511](http://arxiv.org/abs/2506.01511)|null|
+|**2025-06-02**|**Universal Preference-Score-based Pairwise Speech Quality Assessment**|Yu-Fei Shi et.al.|[2506.01455](http://arxiv.org/abs/2506.01455)|null|
 |**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
 |**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826](http://arxiv.org/abs/2505.24826)|null|
 |**2025-05-30**|**Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation**|Yucheng Zhou et.al.|[2505.24787](http://arxiv.org/abs/2505.24787)|null|
@@ -4066,6 +4092,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow**|Heming Bai et.al.|[2506.03016](http://arxiv.org/abs/2506.03016)|null|
+|**2025-06-03**|**PBR-SR: Mesh PBR Texture Super Resolution from 2D Image Priors**|Yujin Chen et.al.|[2506.02846](http://arxiv.org/abs/2506.02846)|null|
+|**2025-06-03**|**One-Step Diffusion-based Real-World Image Super-Resolution with Visual Perception Distillation**|Xue Wu et.al.|[2506.02605](http://arxiv.org/abs/2506.02605)|null|
+|**2025-06-03**|**Application of convolutional neural networks in image super-resolution**|Tian Chunwei et.al.|[2506.02604](http://arxiv.org/abs/2506.02604)|null|
+|**2025-06-03**|**A Tree-guided CNN for image super-resolution**|Chunwei Tian et.al.|[2506.02585](http://arxiv.org/abs/2506.02585)|null|
+|**2025-06-02**|**NTIRE 2025 Challenge on RAW Image Restoration and Super-Resolution**|Marcos V. Conde et.al.|[2506.02197](http://arxiv.org/abs/2506.02197)|null|
+|**2025-06-01**|**Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution**|Shijun Shi et.al.|[2506.01037](http://arxiv.org/abs/2506.01037)|null|
+|**2025-05-31**|**Text-to-CT Generation via 3D Latent Diffusion Model with Contrastive Vision-Language Pretraining**|Daniele Molino et.al.|[2506.00633](http://arxiv.org/abs/2506.00633)|null|
 |**2025-06-02**|**Beyond Pretty Pictures: Combined Single- and Multi-Image Super-resolution for Sentinel-2 Images**|Aditya Retnanto et.al.|[2505.24799](http://arxiv.org/abs/2505.24799)|null|
 |**2025-05-30**|**Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|[2505.24605](http://arxiv.org/abs/2505.24605)|null|
 |**2025-05-31**|**Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey**|Yunliang Qi et.al.|[2505.23248](http://arxiv.org/abs/2505.23248)|null|
@@ -5257,6 +5291,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Validating remotely sensed biomass estimates with forest inventory data in the western US**|Xiuyu Cao et.al.|[2506.03120](http://arxiv.org/abs/2506.03120)|null|
+|**2025-06-03**|**Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery**|Michelle Chen et.al.|[2506.03114](http://arxiv.org/abs/2506.03114)|null|
+|**2025-06-03**|**Pan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings**|Amal S. Perera et.al.|[2506.02868](http://arxiv.org/abs/2506.02868)|null|
+|**2025-06-03**|**Dynamic mapping from static labels: remote sensing dynamic sample generation with temporal-spectral embedding**|Shuai Yuan et.al.|[2506.02574](http://arxiv.org/abs/2506.02574)|null|
+|**2025-06-03**|**Enhancing Monocular Height Estimation via Weak Supervision from Imperfect Labels**|Sining Chen et.al.|[2506.02534](http://arxiv.org/abs/2506.02534)|null|
+|**2025-06-03**|**MobCLIP: Learning General-purpose Geospatial Representation at Scale**|Ya Wen et.al.|[2506.01297](http://arxiv.org/abs/2506.01297)|null|
+|**2025-06-01**|**Many Will Enter, Few Will Win: Cost and Sensitivity of Exploratory Dynamics**|Elena F Koslover et.al.|[2506.00775](http://arxiv.org/abs/2506.00775)|null|
+|**2025-05-31**|**Image Restoration Learning via Noisy Supervision in the Fourier Domain**|Haosen Liu et.al.|[2506.00564](http://arxiv.org/abs/2506.00564)|null|
+|**2025-05-30**|**ZeShot-VQA: Zero-Shot Visual Question Answering Framework with Answer Mapping for Natural Disaster Damage Assessment**|Ehsan Karimi et.al.|[2506.00238](http://arxiv.org/abs/2506.00238)|null|
 |**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
 |**2025-05-30**|**From Pixels to Camera: Scaling Superconducting Nanowire Single-Photon Detectors for Imaging at the Quantum-Limit**|Jun Gao et.al.|[2505.24725](http://arxiv.org/abs/2505.24725)|null|
 |**2025-05-30**|**Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing**|Anasse Boutayeb et.al.|[2505.24489](http://arxiv.org/abs/2505.24489)|null|

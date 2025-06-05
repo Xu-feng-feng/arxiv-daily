@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
+|**2025-06-04**|**SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models**|Yuhao Wu et.al.|[2506.04180](http://arxiv.org/abs/2506.04180)|null|
+|**2025-06-04**|**Synthetic multi-inversion time magnetic resonance images for visualization of subcortical structures**|Savannah P. Hays et.al.|[2506.04173](http://arxiv.org/abs/2506.04173)|null|
+|**2025-06-04**|**Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network**|Abdelouahed Laazoufi et.al.|[2506.04081](http://arxiv.org/abs/2506.04081)|null|
+|**2025-06-04**|**Collaborative On-Sensor Array Cameras**|Jipeng Sun et.al.|[2506.04061](http://arxiv.org/abs/2506.04061)|null|
+|**2025-06-04**|**Joint Video Enhancement with Deblurring, Super-Resolution, and Frame Interpolation Network**|Giyong Choi et.al.|[2506.03892](http://arxiv.org/abs/2506.03892)|null|
+|**2025-06-04**|**EuroGEST: Investigating gender stereotypes in multilingual language models**|Jacqueline Rowe et.al.|[2506.03867](http://arxiv.org/abs/2506.03867)|null|
+|**2025-06-04**|**Conformer-based Ultrasound-to-Speech Conversion**|Ibrahim Ibrahimov et.al.|[2506.03831](http://arxiv.org/abs/2506.03831)|**[link](https://github.com/ibrahimkhaliloglu/conformer_UTS)**|
+|**2025-06-04**|**ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning**|Feng Han et.al.|[2506.03596](http://arxiv.org/abs/2506.03596)|null|
+|**2025-06-04**|**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**|Ziyi Wu et.al.|[2506.03517](http://arxiv.org/abs/2506.03517)|null|
 |**2025-06-03**|**CamCloneMaster: Enabling Reference-based Camera Control for Video Generation**|Yawen Luo et.al.|[2506.03140](http://arxiv.org/abs/2506.03140)|null|
 |**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
 |**2025-06-03**|**Astrophotography turbulence mitigation via generative models**|Joonyeoup Kim et.al.|[2506.02981](http://arxiv.org/abs/2506.02981)|null|
@@ -4092,6 +4102,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging**|Xuanru Zhou et.al.|[2506.04116](http://arxiv.org/abs/2506.04116)|null|
+|**2025-06-04**|**Joint Video Enhancement with Deblurring, Super-Resolution, and Frame Interpolation Network**|Giyong Choi et.al.|[2506.03892](http://arxiv.org/abs/2506.03892)|null|
+|**2025-06-04**|**SAAT: Synergistic Alternating Aggregation Transformer for Image Super-Resolution**|Jianfeng Wu et.al.|[2506.03740](http://arxiv.org/abs/2506.03740)|null|
+|**2025-06-03**|**A Survey of Deep Learning Video Super-Resolution**|Arbind Agrahari Baniya et.al.|[2506.03216](http://arxiv.org/abs/2506.03216)|null|
 |**2025-06-03**|**Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow**|Heming Bai et.al.|[2506.03016](http://arxiv.org/abs/2506.03016)|null|
 |**2025-06-03**|**PBR-SR: Mesh PBR Texture Super Resolution from 2D Image Priors**|Yujin Chen et.al.|[2506.02846](http://arxiv.org/abs/2506.02846)|null|
 |**2025-06-03**|**One-Step Diffusion-based Real-World Image Super-Resolution with Visual Perception Distillation**|Xue Wu et.al.|[2506.02605](http://arxiv.org/abs/2506.02605)|null|
@@ -5291,6 +5305,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**FPGA-Enabled Machine Learning Applications in Earth Observation: A Systematic Review**|Cédric Léonard et.al.|[2506.03938](http://arxiv.org/abs/2506.03938)|**[link](https://github.com/CedricLeon/Survey_RS-ML-FPGA)**|
+|**2025-06-04**|**A Large-Scale Referring Remote Sensing Image Segmentation Dataset and Benchmark**|Zhigang Yang et.al.|[2506.03583](http://arxiv.org/abs/2506.03583)|null|
+|**2025-06-03**|**Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment Across Street-Level and Aerial Imagery**|Pengyu Chen et.al.|[2506.03388](http://arxiv.org/abs/2506.03388)|null|
 |**2025-06-03**|**Validating remotely sensed biomass estimates with forest inventory data in the western US**|Xiuyu Cao et.al.|[2506.03120](http://arxiv.org/abs/2506.03120)|null|
 |**2025-06-03**|**Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery**|Michelle Chen et.al.|[2506.03114](http://arxiv.org/abs/2506.03114)|null|
 |**2025-06-03**|**Pan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings**|Amal S. Perera et.al.|[2506.02868](http://arxiv.org/abs/2506.02868)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1239,7 +1239,7 @@ layout: default
 |**2025-06-02**|**Motion aware video generative model**|Bowen Xue et.al.|[2506.02244](http://arxiv.org/abs/2506.02244)|null|
 |**2025-06-02**|**SALF-MOS: Speaker Agnostic Latent Features Downsampled for MOS Prediction**|Saurabh Agrawal et.al.|[2506.02082](http://arxiv.org/abs/2506.02082)|null|
 |**2025-06-02**|**IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout**|Fei Shen et.al.|[2506.01949](http://arxiv.org/abs/2506.01949)|null|
-|**2025-06-03**|**MedEBench: Revisiting Text-instructed Image Editing on Medical Domain**|Minghao Liu et.al.|[2506.01921](http://arxiv.org/abs/2506.01921)|null|
+|**2025-06-04**|**MedEBench: Revisiting Text-instructed Image Editing on Medical Domain**|Minghao Liu et.al.|[2506.01921](http://arxiv.org/abs/2506.01921)|null|
 |**2025-06-02**|**Beyond Pixel Agreement: Large Language Models as Clinical Guardrails for Reliable Medical Image Segmentation**|Jiaxi Sheng et.al.|[2506.01841](http://arxiv.org/abs/2506.01841)|null|
 |**2025-06-02**|**WorldExplorer: Towards Generating Fully Navigable 3D Scenes**|Manuel-Andreas Schneider et.al.|[2506.01799](http://arxiv.org/abs/2506.01799)|null|
 |**2025-06-03**|**Datasheets Aren't Enough: DataRubrics for Automated Quality Metrics and Accountability**|Genta Indra Winata et.al.|[2506.01789](http://arxiv.org/abs/2506.01789)|null|
@@ -4097,7 +4097,7 @@ layout: default
 |**2025-06-03**|**One-Step Diffusion-based Real-World Image Super-Resolution with Visual Perception Distillation**|Xue Wu et.al.|[2506.02605](http://arxiv.org/abs/2506.02605)|null|
 |**2025-06-03**|**Application of convolutional neural networks in image super-resolution**|Tian Chunwei et.al.|[2506.02604](http://arxiv.org/abs/2506.02604)|null|
 |**2025-06-03**|**A Tree-guided CNN for image super-resolution**|Chunwei Tian et.al.|[2506.02585](http://arxiv.org/abs/2506.02585)|null|
-|**2025-06-02**|**NTIRE 2025 Challenge on RAW Image Restoration and Super-Resolution**|Marcos V. Conde et.al.|[2506.02197](http://arxiv.org/abs/2506.02197)|null|
+|**2025-06-04**|**NTIRE 2025 Challenge on RAW Image Restoration and Super-Resolution**|Marcos V. Conde et.al.|[2506.02197](http://arxiv.org/abs/2506.02197)|null|
 |**2025-06-01**|**Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution**|Shijun Shi et.al.|[2506.01037](http://arxiv.org/abs/2506.01037)|null|
 |**2025-05-31**|**Text-to-CT Generation via 3D Latent Diffusion Model with Contrastive Vision-Language Pretraining**|Daniele Molino et.al.|[2506.00633](http://arxiv.org/abs/2506.00633)|null|
 |**2025-06-02**|**Beyond Pretty Pictures: Combined Single- and Multi-Image Super-resolution for Sentinel-2 Images**|Aditya Retnanto et.al.|[2505.24799](http://arxiv.org/abs/2505.24799)|null|
@@ -5296,7 +5296,7 @@ layout: default
 |**2025-06-03**|**Pan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings**|Amal S. Perera et.al.|[2506.02868](http://arxiv.org/abs/2506.02868)|null|
 |**2025-06-03**|**Dynamic mapping from static labels: remote sensing dynamic sample generation with temporal-spectral embedding**|Shuai Yuan et.al.|[2506.02574](http://arxiv.org/abs/2506.02574)|null|
 |**2025-06-03**|**Enhancing Monocular Height Estimation via Weak Supervision from Imperfect Labels**|Sining Chen et.al.|[2506.02534](http://arxiv.org/abs/2506.02534)|null|
-|**2025-06-03**|**MobCLIP: Learning General-purpose Geospatial Representation at Scale**|Ya Wen et.al.|[2506.01297](http://arxiv.org/abs/2506.01297)|null|
+|**2025-06-04**|**MobCLIP: Learning General-purpose Geospatial Representation at Scale**|Ya Wen et.al.|[2506.01297](http://arxiv.org/abs/2506.01297)|null|
 |**2025-06-01**|**Many Will Enter, Few Will Win: Cost and Sensitivity of Exploratory Dynamics**|Elena F Koslover et.al.|[2506.00775](http://arxiv.org/abs/2506.00775)|null|
 |**2025-05-31**|**Image Restoration Learning via Noisy Supervision in the Fourier Domain**|Haosen Liu et.al.|[2506.00564](http://arxiv.org/abs/2506.00564)|null|
 |**2025-05-30**|**ZeShot-VQA: Zero-Shot Visual Question Answering Framework with Answer Mapping for Natural Disaster Damage Assessment**|Ehsan Karimi et.al.|[2506.00238](http://arxiv.org/abs/2506.00238)|null|

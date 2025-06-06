@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -261,7 +261,7 @@ layout: default
 |**2025-05-31**|**Your Demands Deserve More Bits: Referring Semantic Image Compression at Ultra-low Bitrate**|Chenhao Wu et.al.|[2506.00526](http://arxiv.org/abs/2506.00526)|null|
 |**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
 |**2025-05-30**|**Likelihoods for Stochastic Gravitational Wave Background Data Analysis**|Gabriele Franciolini et.al.|[2505.24695](http://arxiv.org/abs/2505.24695)|null|
-|**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|null|
+|**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|**[link](https://github.com/CrashedBboy/SGGIC)**|
 |**2025-05-29**|**Position Dependent Prediction Combination For Intra-Frame Video Coding**|Amir Said et.al.|[2505.23672](http://arxiv.org/abs/2505.23672)|null|
 |**2025-05-29**|**Low-Complexity Transform Adjustments For Video Coding**|Amir Said et.al.|[2505.23618](http://arxiv.org/abs/2505.23618)|null|
 |**2025-05-29**|**Quasi-Periodic Optical Key-Enabled Hybrid Cryptography: Merging Diffractive Physics and Deep Learning for High-Dimensional Security**|Haiqi Gao et.al.|[2505.23479](http://arxiv.org/abs/2505.23479)|null|

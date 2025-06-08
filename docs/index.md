@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -262,7 +262,7 @@ layout: default
 |**2025-06-02**|**Flexible Mixed Precision Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01221](http://arxiv.org/abs/2506.01221)|null|
 |**2025-05-31**|**ViVo: A Dataset for Volumetric VideoReconstruction and Compression**|Adrian Azzarelli et.al.|[2506.00558](http://arxiv.org/abs/2506.00558)|null|
 |**2025-05-31**|**Your Demands Deserve More Bits: Referring Semantic Image Compression at Ultra-low Bitrate**|Chenhao Wu et.al.|[2506.00526](http://arxiv.org/abs/2506.00526)|null|
-|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|**[link](https://github.com/ceezh/silvr)**|
 |**2025-05-30**|**Likelihoods for Stochastic Gravitational Wave Background Data Analysis**|Gabriele Franciolini et.al.|[2505.24695](http://arxiv.org/abs/2505.24695)|null|
 |**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|**[link](https://github.com/CrashedBboy/SGGIC)**|
 |**2025-05-29**|**Position Dependent Prediction Combination For Intra-Frame Video Coding**|Amir Said et.al.|[2505.23672](http://arxiv.org/abs/2505.23672)|null|
@@ -5340,7 +5340,7 @@ layout: default
 |**2025-06-01**|**Many Will Enter, Few Will Win: Cost and Sensitivity of Exploratory Dynamics**|Elena F Koslover et.al.|[2506.00775](http://arxiv.org/abs/2506.00775)|null|
 |**2025-05-31**|**Image Restoration Learning via Noisy Supervision in the Fourier Domain**|Haosen Liu et.al.|[2506.00564](http://arxiv.org/abs/2506.00564)|null|
 |**2025-05-30**|**ZeShot-VQA: Zero-Shot Visual Question Answering Framework with Answer Mapping for Natural Disaster Damage Assessment**|Ehsan Karimi et.al.|[2506.00238](http://arxiv.org/abs/2506.00238)|null|
-|**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
+|**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|**[link](https://github.com/archiel19/frax4)**|
 |**2025-05-30**|**From Pixels to Camera: Scaling Superconducting Nanowire Single-Photon Detectors for Imaging at the Quantum-Limit**|Jun Gao et.al.|[2505.24725](http://arxiv.org/abs/2505.24725)|null|
 |**2025-05-30**|**Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing**|Anasse Boutayeb et.al.|[2505.24489](http://arxiv.org/abs/2505.24489)|null|
 |**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|null|

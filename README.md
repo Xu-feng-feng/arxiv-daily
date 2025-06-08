@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -256,7 +256,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Compression
 
@@ -271,7 +271,7 @@
 |**2025-06-02**|**Flexible Mixed Precision Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01221](http://arxiv.org/abs/2506.01221)|null|
 |**2025-05-31**|**ViVo: A Dataset for Volumetric VideoReconstruction and Compression**|Adrian Azzarelli et.al.|[2506.00558](http://arxiv.org/abs/2506.00558)|null|
 |**2025-05-31**|**Your Demands Deserve More Bits: Referring Semantic Image Compression at Ultra-low Bitrate**|Chenhao Wu et.al.|[2506.00526](http://arxiv.org/abs/2506.00526)|null|
-|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|**[link](https://github.com/ceezh/silvr)**|
 |**2025-05-30**|**Likelihoods for Stochastic Gravitational Wave Background Data Analysis**|Gabriele Franciolini et.al.|[2505.24695](http://arxiv.org/abs/2505.24695)|null|
 |**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|**[link](https://github.com/CrashedBboy/SGGIC)**|
 |**2025-05-29**|**Position Dependent Prediction Combination For Intra-Frame Video Coding**|Amir Said et.al.|[2505.23672](http://arxiv.org/abs/2505.23672)|null|
@@ -1236,7 +1236,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -4123,7 +4123,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -5336,7 +5336,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -5355,7 +5355,7 @@
 |**2025-06-01**|**Many Will Enter, Few Will Win: Cost and Sensitivity of Exploratory Dynamics**|Elena F Koslover et.al.|[2506.00775](http://arxiv.org/abs/2506.00775)|null|
 |**2025-05-31**|**Image Restoration Learning via Noisy Supervision in the Fourier Domain**|Haosen Liu et.al.|[2506.00564](http://arxiv.org/abs/2506.00564)|null|
 |**2025-05-30**|**ZeShot-VQA: Zero-Shot Visual Question Answering Framework with Answer Mapping for Natural Disaster Damage Assessment**|Ehsan Karimi et.al.|[2506.00238](http://arxiv.org/abs/2506.00238)|null|
-|**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
+|**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|**[link](https://github.com/archiel19/frax4)**|
 |**2025-05-30**|**From Pixels to Camera: Scaling Superconducting Nanowire Single-Photon Detectors for Imaging at the Quantum-Limit**|Jun Gao et.al.|[2505.24725](http://arxiv.org/abs/2505.24725)|null|
 |**2025-05-30**|**Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing**|Anasse Boutayeb et.al.|[2505.24489](http://arxiv.org/abs/2505.24489)|null|
 |**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|null|
@@ -6817,7 +6817,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

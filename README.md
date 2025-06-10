@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -256,12 +256,13 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**The JPEG XL Image Coding System: History, Features, Coding Tools, Design Rationale, and Future**|Jon Sneyers et.al.|[2506.05987](http://arxiv.org/abs/2506.05987)|null|
 |**2025-06-05**|**Kernel $k$ -Medoids as General Vector Quantization**|Thore Gerlach et.al.|[2506.04786](http://arxiv.org/abs/2506.04786)|null|
 |**2025-06-05**|**A Fast, Accurate and Oscillation-free Spectral Collocation Solver for High-dimensional Transport Problems**|Nicola Cavallini et.al.|[2506.04732](http://arxiv.org/abs/2506.04732)|null|
 |**2025-06-03**|**MUC-G4: Minimal Unsat Core-Guided Incremental Verification for Deep Neural Network Compression**|Jingyang Li et.al.|[2506.04268](http://arxiv.org/abs/2506.04268)|null|
@@ -1236,12 +1237,20 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Quality Assessment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Bidirectional Image-Event Guided Low-Light Image Enhancement**|Zhanwen Liu et.al.|[2506.06120](http://arxiv.org/abs/2506.06120)|null|
+|**2025-06-06**|**On Inverse Problems, Parameter Estimation, and Domain Generalization**|Deborah Pereg et.al.|[2506.06024](http://arxiv.org/abs/2506.06024)|null|
+|**2025-06-06**|**Rethinking Semi-supervised Segmentation Beyond Accuracy: Reliability and Robustness**|Steven Landgraf et.al.|[2506.05917](http://arxiv.org/abs/2506.05917)|null|
+|**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558](http://arxiv.org/abs/2506.05558)|null|
+|**2025-06-05**|**EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh**|Tao Hu et.al.|[2506.05554](http://arxiv.org/abs/2506.05554)|null|
+|**2025-06-05**|**F2T2-HiT: A U-Shaped FFT Transformer and Hierarchical Transformer for Reflection Removal**|Jie Cai et.al.|[2506.05489](http://arxiv.org/abs/2506.05489)|null|
+|**2025-06-05**|**Implicit Neural Representation for Video Restoration**|Mary Aiyetigbo et.al.|[2506.05488](http://arxiv.org/abs/2506.05488)|null|
+|**2025-06-05**|**Degradation-Aware Image Enhancement via Vision-Language Classification**|Jie Cai et.al.|[2506.05450](http://arxiv.org/abs/2506.05450)|null|
 |**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
 |**2025-06-06**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096](http://arxiv.org/abs/2506.05096)|null|
 |**2025-06-05**|**Robustness as Architecture: Designing IQA Models to Withstand Adversarial Perturbations**|Igor Meleshin et.al.|[2506.04951](http://arxiv.org/abs/2506.04951)|null|
@@ -4123,12 +4132,15 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Super Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Controlled Data Rebalancing in Multi-Task Learning for Real-World Image Super-Resolution**|Shuchen Lin et.al.|[2506.05607](http://arxiv.org/abs/2506.05607)|null|
+|**2025-06-05**|**Implicit Neural Representation for Video Restoration**|Mary Aiyetigbo et.al.|[2506.05488](http://arxiv.org/abs/2506.05488)|null|
+|**2025-06-05**|**Degradation-Aware Image Enhancement via Vision-Language Classification**|Jie Cai et.al.|[2506.05450](http://arxiv.org/abs/2506.05450)|null|
 |**2025-06-05**|**Practical Manipulation Model for Robust Deepfake Detection**|Benedikt Hopf et.al.|[2506.05119](http://arxiv.org/abs/2506.05119)|null|
 |**2025-06-05**|**DACN: Dual-Attention Convolutional Network for Hyperspectral Image Super-Resolution**|Usman Muhammad et.al.|[2506.05041](http://arxiv.org/abs/2506.05041)|null|
 |**2025-06-05**|**Multi-scale Image Super Resolution with a Single Auto-Regressive Model**|Enrique Sanchez et.al.|[2506.04990](http://arxiv.org/abs/2506.04990)|null|
@@ -5336,12 +5348,19 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**SatelliteFormula: Multi-Modal Symbolic Regression from Remote Sensing Imagery for Physics Discovery**|Zhenyu Yu et.al.|[2506.06176](http://arxiv.org/abs/2506.06176)|null|
+|**2025-06-06**|**Venus Cloud Research: Progress and Perspectives**|Longkang Dai et.al.|[2506.06164](http://arxiv.org/abs/2506.06164)|null|
+|**2025-06-06**|**A Novel Large-scale Crop Dataset and Dual-stream Transformer Method for Fine-grained Hierarchical Crop Classification from Integrated Hyperspectral EnMAP Data and Multispectral Sentinel-2 Time Series**|Wenyuan Li et.al.|[2506.06155](http://arxiv.org/abs/2506.06155)|null|
+|**2025-06-06**|**SDS-Net: Shallow-Deep Synergism-detection Network for infrared small target detection**|Taoran Yue et.al.|[2506.06042](http://arxiv.org/abs/2506.06042)|null|
+|**2025-06-06**|**Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection**|Yu Li et.al.|[2506.05872](http://arxiv.org/abs/2506.05872)|null|
+|**2025-06-05**|**UAV-Based Remote Sensing of Soil Moisture Across Diverse Land Covers: Validation and Bayesian Uncertainty Characterization**|Runze Zhang et.al.|[2506.05572](http://arxiv.org/abs/2506.05572)|null|
+|**2025-06-05**|**U-NetMN and SegNetMN: Modified U-Net and SegNet models for bimodal SAR image segmentation**|Marwane Kzadri et.al.|[2506.05444](http://arxiv.org/abs/2506.05444)|null|
 |**2025-06-05**|**Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery**|Mélisande Teng et.al.|[2506.04970](http://arxiv.org/abs/2506.04970)|null|
 |**2025-06-04**|**FPGA-Enabled Machine Learning Applications in Earth Observation: A Systematic Review**|Cédric Léonard et.al.|[2506.03938](http://arxiv.org/abs/2506.03938)|**[link](https://github.com/CedricLeon/Survey_RS-ML-FPGA)**|
 |**2025-06-04**|**A Large-Scale Referring Remote Sensing Image Segmentation Dataset and Benchmark**|Zhigang Yang et.al.|[2506.03583](http://arxiv.org/abs/2506.03583)|null|
@@ -6817,7 +6836,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

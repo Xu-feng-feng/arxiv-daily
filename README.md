@@ -262,6 +262,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Fine-Grained Motion Compression and Selective Temporal Fusion for Neural B-Frame Video Coding**|Xihua Sheng et.al.|[2506.07709](http://arxiv.org/abs/2506.07709)|null|
+|**2025-06-09**|**Generative Models at the Frontier of Compression: A Survey on Generative Face Video Coding**|Bolin Chen et.al.|[2506.07369](http://arxiv.org/abs/2506.07369)|null|
+|**2025-06-07**|**Towards AI-Native Fronthaul: Neural Compression for NextG Cloud RAN**|Chenghong Bian et.al.|[2506.06925](http://arxiv.org/abs/2506.06925)|null|
+|**2025-06-07**|**Employing Discrete Fourier Transform in Representational Learning**|Raoof HojatJalali et.al.|[2506.06765](http://arxiv.org/abs/2506.06765)|null|
 |**2025-06-06**|**The JPEG XL Image Coding System: History, Features, Coding Tools, Design Rationale, and Future**|Jon Sneyers et.al.|[2506.05987](http://arxiv.org/abs/2506.05987)|null|
 |**2025-06-05**|**Kernel $k$ -Medoids as General Vector Quantization**|Thore Gerlach et.al.|[2506.04786](http://arxiv.org/abs/2506.04786)|null|
 |**2025-06-05**|**A Fast, Accurate and Oscillation-free Spectral Collocation Solver for High-dimensional Transport Problems**|Nicola Cavallini et.al.|[2506.04732](http://arxiv.org/abs/2506.04732)|null|
@@ -270,7 +274,7 @@
 |**2025-06-02**|**Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression**|Woojin Cho et.al.|[2506.01234](http://arxiv.org/abs/2506.01234)|null|
 |**2025-06-02**|**Structured Pruning and Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01229](http://arxiv.org/abs/2506.01229)|null|
 |**2025-06-02**|**Flexible Mixed Precision Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01221](http://arxiv.org/abs/2506.01221)|null|
-|**2025-05-31**|**ViVo: A Dataset for Volumetric VideoReconstruction and Compression**|Adrian Azzarelli et.al.|[2506.00558](http://arxiv.org/abs/2506.00558)|null|
+|**2025-06-09**|**ViVo: A Dataset for Volumetric Video Reconstruction and Compression**|Adrian Azzarelli et.al.|[2506.00558](http://arxiv.org/abs/2506.00558)|null|
 |**2025-05-31**|**Your Demands Deserve More Bits: Referring Semantic Image Compression at Ultra-low Bitrate**|Chenhao Wu et.al.|[2506.00526](http://arxiv.org/abs/2506.00526)|null|
 |**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|**[link](https://github.com/ceezh/silvr)**|
 |**2025-05-30**|**Likelihoods for Stochastic Gravitational Wave Background Data Analysis**|Gabriele Franciolini et.al.|[2505.24695](http://arxiv.org/abs/2505.24695)|null|
@@ -1243,6 +1247,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006](http://arxiv.org/abs/2506.08006)|null|
+|**2025-06-09**|**Audio-Sync Video Generation with Multi-Stream Temporal Control**|Shuchen Weng et.al.|[2506.08003](http://arxiv.org/abs/2506.08003)|null|
+|**2025-06-09**|**Squeeze3D: Your 3D Generation Model is Secretly an Extreme Neural Compressor**|Rishit Dagli et.al.|[2506.07932](http://arxiv.org/abs/2506.07932)|null|
+|**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923](http://arxiv.org/abs/2506.07923)|null|
+|**2025-06-09**|**Video Unlearning via Low-Rank Refusal Vector**|Simone Facchiano et.al.|[2506.07891](http://arxiv.org/abs/2506.07891)|null|
+|**2025-06-09**|**Diffusion Counterfactual Generation with Semantic Abduction**|Rajat Rasal et.al.|[2506.07883](http://arxiv.org/abs/2506.07883)|null|
+|**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
+|**2025-06-09**|**Research quality evaluation by AI in the era of Large Language Models: Advantages, disadvantages, and systemic effects**|Mike Thelwall et.al.|[2506.07748](http://arxiv.org/abs/2506.07748)|null|
+|**2025-06-09**|**PIG: Physically-based Multi-Material Interaction with 3D Gaussians**|Zeyu Xiao et.al.|[2506.07657](http://arxiv.org/abs/2506.07657)|null|
+|**2025-06-09**|**Information-guided optimization of image-based sensorless adaptive optics methods**|Biwei Zhang et.al.|[2506.07482](http://arxiv.org/abs/2506.07482)|null|
+|**2025-06-09**|**Compressed Feature Quality Assessment: Dataset and Baselines**|Changsheng Gao et.al.|[2506.07412](http://arxiv.org/abs/2506.07412)|null|
+|**2025-06-09**|**Distributed Image Semantic Communication via Nonlinear Transform Coding**|Yufei Bo et.al.|[2506.07391](http://arxiv.org/abs/2506.07391)|null|
+|**2025-06-08**|**Multi-Step Guided Diffusion for Image Restoration on Edge Devices: Toward Lightweight Perception in Embodied AI**|Aditya Chakravarty et.al.|[2506.07286](http://arxiv.org/abs/2506.07286)|null|
+|**2025-06-08**|**First positronium imaging using $^{44}$ Sc with the J-PET scanner: a case study on the NEMA-Image Quality phantom**|Manish Das et.al.|[2506.07230](http://arxiv.org/abs/2506.07230)|null|
+|**2025-06-08**|**Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models**|Sangwon Jang et.al.|[2506.07177](http://arxiv.org/abs/2506.07177)|null|
+|**2025-06-08**|**Mathesis: Towards Formal Theorem Proving from Natural Languages**|Yu Xuejun et.al.|[2506.07047](http://arxiv.org/abs/2506.07047)|null|
+|**2025-06-08**|**Deep regularization networks for inverse problems with noisy operators**|Fatemeh Pourahmadian et.al.|[2506.07008](http://arxiv.org/abs/2506.07008)|null|
+|**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
+|**2025-06-07**|**Controllable Coupled Image Generation via Diffusion Models**|Chenfei Yuan et.al.|[2506.06826](http://arxiv.org/abs/2506.06826)|null|
+|**2025-06-07**|**An Efficient Digital Watermarking Technique for Small Scale devices**|Kaushik Talathi et.al.|[2506.06691](http://arxiv.org/abs/2506.06691)|null|
 |**2025-06-06**|**Bidirectional Image-Event Guided Low-Light Image Enhancement**|Zhanwen Liu et.al.|[2506.06120](http://arxiv.org/abs/2506.06120)|null|
 |**2025-06-06**|**On Inverse Problems, Parameter Estimation, and Domain Generalization**|Deborah Pereg et.al.|[2506.06024](http://arxiv.org/abs/2506.06024)|null|
 |**2025-06-06**|**Rethinking Semi-supervised Segmentation Beyond Accuracy: Reliability and Robustness**|Steven Landgraf et.al.|[2506.05917](http://arxiv.org/abs/2506.05917)|null|
@@ -4138,6 +4162,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Low-Complexity Super-Resolution Signature Estimation of XL-MIMO FMCW Radar**|Chandrashekhar Rai et.al.|[2506.07979](http://arxiv.org/abs/2506.07979)|null|
+|**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897](http://arxiv.org/abs/2506.07897)|null|
+|**2025-06-09**|**Self-Cascaded Diffusion Models for Arbitrary-Scale Image Super-Resolution**|Junseo Bang et.al.|[2506.07813](http://arxiv.org/abs/2506.07813)|null|
+|**2025-06-09**|**Incorporating Uncertainty-Guided and Top-k Codebook Matching for Real-World Blind Image Super-Resolution**|Weilei Wen et.al.|[2506.07809](http://arxiv.org/abs/2506.07809)|null|
+|**2025-06-09**|**Adaptive Blind Super-Resolution Network for Spatial-Specific and Spatial-Agnostic Degradations**|Weilei Wen et.al.|[2506.07705](http://arxiv.org/abs/2506.07705)|null|
+|**2025-06-08**|**FANVID: A Benchmark for Face and License Plate Recognition in Low-Resolution Videos**|Kavitha Viswanathan et.al.|[2506.07304](http://arxiv.org/abs/2506.07304)|null|
+|**2025-06-08**|**Multi-Step Guided Diffusion for Image Restoration on Edge Devices: Toward Lightweight Perception in Embodied AI**|Aditya Chakravarty et.al.|[2506.07286](http://arxiv.org/abs/2506.07286)|null|
+|**2025-06-08**|**DM $^3$ Net: Dual-Camera Super-Resolution via Domain Modulation and Multi-scale Matching**|Cong Guan et.al.|[2506.06993](http://arxiv.org/abs/2506.06993)|null|
+|**2025-06-08**|**Task-driven real-world super-resolution of document scans**|Maciej Zyrek et.al.|[2506.06953](http://arxiv.org/abs/2506.06953)|null|
+|**2025-06-07**|**A Systematic Investigation on Deep Learning-Based Omnidirectional Image and Video Super-Resolution**|Qianqian Zhao et.al.|[2506.06710](http://arxiv.org/abs/2506.06710)|null|
 |**2025-06-05**|**Controlled Data Rebalancing in Multi-Task Learning for Real-World Image Super-Resolution**|Shuchen Lin et.al.|[2506.05607](http://arxiv.org/abs/2506.05607)|null|
 |**2025-06-05**|**Implicit Neural Representation for Video Restoration**|Mary Aiyetigbo et.al.|[2506.05488](http://arxiv.org/abs/2506.05488)|null|
 |**2025-06-05**|**Degradation-Aware Image Enhancement via Vision-Language Classification**|Jie Cai et.al.|[2506.05450](http://arxiv.org/abs/2506.05450)|null|
@@ -5354,6 +5388,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**A Comparative Study of U-Net Architectures for Change Detection in Satellite Images**|Yaxita Amin et.al.|[2506.07925](http://arxiv.org/abs/2506.07925)|null|
+|**2025-06-09**|**F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation**|Hengzhi Chen et.al.|[2506.07847](http://arxiv.org/abs/2506.07847)|null|
+|**2025-06-07**|**Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery**|Yu-Hsuan Ho et.al.|[2506.06667](http://arxiv.org/abs/2506.06667)|null|
+|**2025-06-02**|**Multi-Platform Methane Plume Detection via Model and Domain Adaptation**|Vassiliki Mancoridis et.al.|[2506.06348](http://arxiv.org/abs/2506.06348)|null|
 |**2025-06-06**|**SatelliteFormula: Multi-Modal Symbolic Regression from Remote Sensing Imagery for Physics Discovery**|Zhenyu Yu et.al.|[2506.06176](http://arxiv.org/abs/2506.06176)|null|
 |**2025-06-06**|**Venus Cloud Research: Progress and Perspectives**|Longkang Dai et.al.|[2506.06164](http://arxiv.org/abs/2506.06164)|null|
 |**2025-06-06**|**A Novel Large-scale Crop Dataset and Dual-stream Transformer Method for Fine-grained Hierarchical Crop Classification from Integrated Hyperspectral EnMAP Data and Multispectral Sentinel-2 Time Series**|Wenyuan Li et.al.|[2506.06155](http://arxiv.org/abs/2506.06155)|null|

@@ -253,6 +253,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Optimizing Learned Image Compression on Scalar and Entropy-Constraint Quantization**|Florian Borzechowski et.al.|[2506.08662](http://arxiv.org/abs/2506.08662)|null|
+|**2025-06-10**|**AstroCompress: A benchmark dataset for multi-purpose compression of astronomical data**|Tuan Truong et.al.|[2506.08306](http://arxiv.org/abs/2506.08306)|null|
 |**2025-06-09**|**Fine-Grained Motion Compression and Selective Temporal Fusion for Neural B-Frame Video Coding**|Xihua Sheng et.al.|[2506.07709](http://arxiv.org/abs/2506.07709)|null|
 |**2025-06-09**|**Generative Models at the Frontier of Compression: A Survey on Generative Face Video Coding**|Bolin Chen et.al.|[2506.07369](http://arxiv.org/abs/2506.07369)|null|
 |**2025-06-07**|**Towards AI-Native Fronthaul: Neural Compression for NextG Cloud RAN**|Chenghong Bian et.al.|[2506.06925](http://arxiv.org/abs/2506.06925)|null|
@@ -1236,6 +1238,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion: A Study on the Impact of CBCT Quality and Alignment**|Maximilian Tschuchnig et.al.|[2506.08716](http://arxiv.org/abs/2506.08716)|null|
+|**2025-06-10**|**Brevity is the soul of sustainability: Characterizing LLM response lengths**|Soham Poddar et.al.|[2506.08686](http://arxiv.org/abs/2506.08686)|null|
+|**2025-06-10**|**Biologically Inspired Deep Learning Approaches for Fetal Ultrasound Image Classification**|Rinat Prochii et.al.|[2506.08623](http://arxiv.org/abs/2506.08623)|null|
+|**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4 $\times$ RTX 4090s**|Xijun Wang et.al.|[2506.08529](http://arxiv.org/abs/2506.08529)|null|
+|**2025-06-10**|**Enhancing Motion Dynamics of Image-to-Video Models via Adaptive Low-Pass Guidance**|June Suk Choi et.al.|[2506.08456](http://arxiv.org/abs/2506.08456)|null|
+|**2025-06-10**|**Better Reasoning with Less Data: Enhancing VLMs Through Unified Modality Scoring**|Mingjie Xu et.al.|[2506.08429](http://arxiv.org/abs/2506.08429)|null|
+|**2025-06-10**|**Image Demoiréing Using Dual Camera Fusion on Mobile Phones**|Yanting Mei et.al.|[2506.08361](http://arxiv.org/abs/2506.08361)|null|
+|**2025-06-10**|**How Much To Guide: Revisiting Adaptive Guidance in Classifier-Free Guidance Text-to-Vision Diffusion Models**|Huixuan Zhang et.al.|[2506.08351](http://arxiv.org/abs/2506.08351)|null|
+|**2025-06-10**|**Complex-Valued Holographic Radiance Fields**|Yicheng Zhan et.al.|[2506.08350](http://arxiv.org/abs/2506.08350)|null|
+|**2025-06-09**|**High-density three-dimensional holography using rapid modulation of light**|Jorge-Alberto Peralta-Ángeles et.al.|[2506.08253](http://arxiv.org/abs/2506.08253)|null|
 |**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006](http://arxiv.org/abs/2506.08006)|null|
 |**2025-06-09**|**Audio-Sync Video Generation with Multi-Stream Temporal Control**|Shuchen Weng et.al.|[2506.08003](http://arxiv.org/abs/2506.08003)|null|
 |**2025-06-09**|**Squeeze3D: Your 3D Generation Model is Secretly an Extreme Neural Compressor**|Rishit Dagli et.al.|[2506.07932](http://arxiv.org/abs/2506.07932)|null|
@@ -4149,6 +4161,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**MAMBO: High-Resolution Generative Approach for Mammography Images**|Milica Škipina et.al.|[2506.08677](http://arxiv.org/abs/2506.08677)|null|
+|**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4 $\times$ RTX 4090s**|Xijun Wang et.al.|[2506.08529](http://arxiv.org/abs/2506.08529)|null|
+|**2025-06-10**|**Plug-and-Play Linear Attention for Pre-trained Image and Video Restoration Models**|Srinivasan Kidambi et.al.|[2506.08520](http://arxiv.org/abs/2506.08520)|null|
 |**2025-06-09**|**Low-Complexity Super-Resolution Signature Estimation of XL-MIMO FMCW Radar**|Chandrashekhar Rai et.al.|[2506.07979](http://arxiv.org/abs/2506.07979)|null|
 |**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897](http://arxiv.org/abs/2506.07897)|null|
 |**2025-06-09**|**Self-Cascaded Diffusion Models for Arbitrary-Scale Image Super-Resolution**|Junseo Bang et.al.|[2506.07813](http://arxiv.org/abs/2506.07813)|null|
@@ -5373,6 +5388,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Landsat-Bench: Datasets and Benchmarks for Landsat Foundation Models**|Isaac Corley et.al.|[2506.08780](http://arxiv.org/abs/2506.08780)|null|
+|**2025-06-10**|**RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation**|Jiayi Song et.al.|[2506.08772](http://arxiv.org/abs/2506.08772)|null|
+|**2025-06-09**|**IGraSS: Learning to Identify Infrastructure Networks from Satellite Imagery by Iterative Graph-constrained Semantic Segmentation**|Oishee Bintey Hoque et.al.|[2506.08137](http://arxiv.org/abs/2506.08137)|null|
 |**2025-06-09**|**A Comparative Study of U-Net Architectures for Change Detection in Satellite Images**|Yaxita Amin et.al.|[2506.07925](http://arxiv.org/abs/2506.07925)|null|
 |**2025-06-09**|**F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation**|Hengzhi Chen et.al.|[2506.07847](http://arxiv.org/abs/2506.07847)|null|
 |**2025-06-07**|**Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery**|Yu-Hsuan Ho et.al.|[2506.06667](http://arxiv.org/abs/2506.06667)|null|

@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Generalized Gaussian Entropy Model for Point Cloud Attribute Compression with Dynamic Likelihood Intervals**|Changhao Peng et.al.|[2506.09510](http://arxiv.org/abs/2506.09510)|null|
 |**2025-05-26**|**LPCM: Learning-based Predictive Coding for LiDAR Point Cloud Compression**|Chang Sun et.al.|[2505.20059](http://arxiv.org/abs/2505.20059)|null|
 |**2025-05-21**|**A Novel Benchmark and Dataset for Efficient 3D Gaussian Splatting with Gaussian Point Cloud Compression**|Kangli Wang et.al.|[2505.18197](http://arxiv.org/abs/2505.18197)|**[link](https://github.com/Wangkkklll/GausPcc)**|
 |**2025-05-23**|**Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds**|Hao Jing et.al.|[2505.17442](http://arxiv.org/abs/2505.17442)|null|
@@ -253,6 +254,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Generalized Gaussian Entropy Model for Point Cloud Attribute Compression with Dynamic Likelihood Intervals**|Changhao Peng et.al.|[2506.09510](http://arxiv.org/abs/2506.09510)|null|
+|**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|null|
 |**2025-06-10**|**Optimizing Learned Image Compression on Scalar and Entropy-Constraint Quantization**|Florian Borzechowski et.al.|[2506.08662](http://arxiv.org/abs/2506.08662)|null|
 |**2025-06-10**|**AstroCompress: A benchmark dataset for multi-purpose compression of astronomical data**|Tuan Truong et.al.|[2506.08306](http://arxiv.org/abs/2506.08306)|null|
 |**2025-06-09**|**Fine-Grained Motion Compression and Selective Temporal Fusion for Neural B-Frame Video Coding**|Xihua Sheng et.al.|[2506.07709](http://arxiv.org/abs/2506.07709)|null|
@@ -1238,6 +1241,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits**|Ron Yosef et.al.|[2506.09988](http://arxiv.org/abs/2506.09988)|null|
+|**2025-06-11**|**Error-Guided Pose Augmentation: Enhancing Rehabilitation Exercise Assessment through Targeted Data Generation**|Omar Sherif et.al.|[2506.09833](http://arxiv.org/abs/2506.09833)|null|
+|**2025-06-11**|**Metritocracy: Representative Metrics for Lite Benchmarks**|Ariel Procaccia et.al.|[2506.09813](http://arxiv.org/abs/2506.09813)|null|
+|**2025-06-11**|**Learning Quality from Complexity and Structure: A Feature-Fused XGBoost Model for Video Quality Assessment**|Amritha Premkumar et.al.|[2506.09795](http://arxiv.org/abs/2506.09795)|null|
+|**2025-06-11**|**A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**|Yukang Feng et.al.|[2506.09427](http://arxiv.org/abs/2506.09427)|null|
+|**2025-06-10**|**Seedance 1.0: Exploring the Boundaries of Video Generation Models**|Yu Gao et.al.|[2506.09113](http://arxiv.org/abs/2506.09113)|null|
 |**2025-06-10**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion: A Study on the Impact of CBCT Quality and Alignment**|Maximilian Tschuchnig et.al.|[2506.08716](http://arxiv.org/abs/2506.08716)|null|
 |**2025-06-10**|**Brevity is the soul of sustainability: Characterizing LLM response lengths**|Soham Poddar et.al.|[2506.08686](http://arxiv.org/abs/2506.08686)|null|
 |**2025-06-10**|**Biologically Inspired Deep Learning Approaches for Fetal Ultrasound Image Classification**|Rinat Prochii et.al.|[2506.08623](http://arxiv.org/abs/2506.08623)|null|
@@ -4161,6 +4170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|null|
 |**2025-06-10**|**MAMBO: High-Resolution Generative Approach for Mammography Images**|Milica Škipina et.al.|[2506.08677](http://arxiv.org/abs/2506.08677)|null|
 |**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4 $\times$ RTX 4090s**|Xijun Wang et.al.|[2506.08529](http://arxiv.org/abs/2506.08529)|null|
 |**2025-06-10**|**Plug-and-Play Linear Attention for Pre-trained Image and Video Restoration Models**|Srinivasan Kidambi et.al.|[2506.08520](http://arxiv.org/abs/2506.08520)|null|
@@ -5388,8 +5398,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**GLD-Road:A global-local decoding road network extraction model for remote sensing images**|Ligao Deng et.al.|[2506.09553](http://arxiv.org/abs/2506.09553)|null|
+|**2025-06-11**|**A Novel Lightweight Transformer with Edge-Aware Fusion for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2506.09429](http://arxiv.org/abs/2506.09429)|null|
+|**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang et.al.|[2506.09327](http://arxiv.org/abs/2506.09327)|null|
 |**2025-06-10**|**Landsat-Bench: Datasets and Benchmarks for Landsat Foundation Models**|Isaac Corley et.al.|[2506.08780](http://arxiv.org/abs/2506.08780)|null|
-|**2025-06-10**|**RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation**|Jiayi Song et.al.|[2506.08772](http://arxiv.org/abs/2506.08772)|null|
+|**2025-06-11**|**RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation**|Jiayi Song et.al.|[2506.08772](http://arxiv.org/abs/2506.08772)|null|
 |**2025-06-11**|**IGraSS: Learning to Identify Infrastructure Networks from Satellite Imagery by Iterative Graph-constrained Semantic Segmentation**|Oishee Bintey Hoque et.al.|[2506.08137](http://arxiv.org/abs/2506.08137)|null|
 |**2025-06-09**|**A Comparative Study of U-Net Architectures for Change Detection in Satellite Images**|Yaxita Amin et.al.|[2506.07925](http://arxiv.org/abs/2506.07925)|null|
 |**2025-06-09**|**F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation**|Hengzhi Chen et.al.|[2506.07847](http://arxiv.org/abs/2506.07847)|null|

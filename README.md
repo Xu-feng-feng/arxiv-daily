@@ -263,6 +263,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**Rethinking Generative Human Video Coding with Implicit Motion Transformation**|Bolin Chen et.al.|[2506.10453](http://arxiv.org/abs/2506.10453)|null|
+|**2025-06-11**|**GPU Acceleration of SQL Analytics on Compressed Data**|Zezhou Huang et.al.|[2506.10092](http://arxiv.org/abs/2506.10092)|null|
 |**2025-06-11**|**Generalized Gaussian Entropy Model for Point Cloud Attribute Compression with Dynamic Likelihood Intervals**|Changhao Peng et.al.|[2506.09510](http://arxiv.org/abs/2506.09510)|null|
 |**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|null|
 |**2025-06-10**|**Optimizing Learned Image Compression on Scalar and Entropy-Constraint Quantization**|Florian Borzechowski et.al.|[2506.08662](http://arxiv.org/abs/2506.08662)|null|
@@ -1252,6 +1254,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**M4V: Multi-Modal Mamba for Text-to-Video Generation**|Jiancheng Huang et.al.|[2506.10915](http://arxiv.org/abs/2506.10915)|null|
+|**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Guimeng Liu et.al.|[2506.10895](http://arxiv.org/abs/2506.10895)|null|
+|**2025-06-12**|**Stroke-based Cyclic Amplifier: Image Super-Resolution at Arbitrary Ultra-Large Scales**|Wenhao Guo et.al.|[2506.10774](http://arxiv.org/abs/2506.10774)|null|
+|**2025-06-12**|**Underage Detection through a Multi-Task and MultiAge Approach for Screening Minors in Unconstrained Imagery**|Christopher Gaul et.al.|[2506.10689](http://arxiv.org/abs/2506.10689)|null|
+|**2025-06-12**|**Unsourced Adversarial CAPTCHA: A Bi-Phase Adversarial CAPTCHA Framework**|Xia Du et.al.|[2506.10685](http://arxiv.org/abs/2506.10685)|null|
+|**2025-06-12**|**High-resolution efficient image generation from WiFi CSI using a pretrained latent diffusion model**|Eshan Ramesh et.al.|[2506.10605](http://arxiv.org/abs/2506.10605)|null|
+|**2025-06-12**|**A Crack in the Bark: Leveraging Public Knowledge to Remove Tree-Ring Watermarks**|Junhua Lin et.al.|[2506.10502](http://arxiv.org/abs/2506.10502)|null|
+|**2025-06-12**|**Low-Barrier Dataset Collection with Real Human Body for Interactive Per-Garment Virtual Try-On**|Zaiqiang Wu et.al.|[2506.10468](http://arxiv.org/abs/2506.10468)|null|
+|**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
+|**2025-06-12**|**Research on Audio-Visual Quality Assessment Dataset and Method for User-Generated Omnidirectional Video**|Fei Zhao et.al.|[2506.10331](http://arxiv.org/abs/2506.10331)|null|
+|**2025-06-12**|**DUN-SRE: Deep Unrolling Network with Spatiotemporal Rotation Equivariance for Dynamic MRI Reconstruction**|Yuliang Zhu et.al.|[2506.10309](http://arxiv.org/abs/2506.10309)|null|
+|**2025-06-12**|**Discrete Audio Tokens: More Than a Survey!**|Pooneh Mousavi et.al.|[2506.10274](http://arxiv.org/abs/2506.10274)|null|
+|**2025-06-11**|**D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning**|Muqi Zou et.al.|[2506.10125](http://arxiv.org/abs/2506.10125)|null|
+|**2025-06-10**|**Ambient Diffusion Omni: Training Good Models with Bad Data**|Giannis Daras et.al.|[2506.10038](http://arxiv.org/abs/2506.10038)|null|
+|**2025-06-10**|**FastFLUX: Pruning FLUX with Block-wise Replacement and Sandwich Training**|Fuhan Cai et.al.|[2506.10035](http://arxiv.org/abs/2506.10035)|null|
 |**2025-06-11**|**EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits**|Ron Yosef et.al.|[2506.09988](http://arxiv.org/abs/2506.09988)|null|
 |**2025-06-11**|**Error-Guided Pose Augmentation: Enhancing Rehabilitation Exercise Assessment through Targeted Data Generation**|Omar Sherif et.al.|[2506.09833](http://arxiv.org/abs/2506.09833)|null|
 |**2025-06-11**|**Metritocracy: Representative Metrics for Lite Benchmarks**|Ariel Procaccia et.al.|[2506.09813](http://arxiv.org/abs/2506.09813)|null|
@@ -4183,6 +4200,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**ReGuidance: A Simple Diffusion Wrapper for Boosting Sample Quality on Hard Inverse Problems**|Aayush Karan et.al.|[2506.10955](http://arxiv.org/abs/2506.10955)|null|
+|**2025-06-12**|**Stroke-based Cyclic Amplifier: Image Super-Resolution at Arbitrary Ultra-Large Scales**|Wenhao Guo et.al.|[2506.10774](http://arxiv.org/abs/2506.10774)|null|
 |**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|null|
 |**2025-06-10**|**MAMBO: High-Resolution Generative Approach for Mammography Images**|Milica Škipina et.al.|[2506.08677](http://arxiv.org/abs/2506.08677)|null|
 |**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4 $\times$ RTX 4090s**|Xijun Wang et.al.|[2506.08529](http://arxiv.org/abs/2506.08529)|null|
@@ -5413,6 +5432,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection**|Xinyuan Liu et.al.|[2506.10601](http://arxiv.org/abs/2506.10601)|null|
+|**2025-06-12**|**Semantic Localization Guiding Segment Anything Model For Reference Remote Sensing Image Segmentation**|Shuyang Li et.al.|[2506.10503](http://arxiv.org/abs/2506.10503)|null|
 |**2025-06-11**|**GLD-Road:A global-local decoding road network extraction model for remote sensing images**|Ligao Deng et.al.|[2506.09553](http://arxiv.org/abs/2506.09553)|null|
 |**2025-06-11**|**A Novel Lightweight Transformer with Edge-Aware Fusion for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2506.09429](http://arxiv.org/abs/2506.09429)|null|
 |**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang et.al.|[2506.09327](http://arxiv.org/abs/2506.09327)|null|

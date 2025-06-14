@@ -266,7 +266,7 @@
 |**2025-06-12**|**Rethinking Generative Human Video Coding with Implicit Motion Transformation**|Bolin Chen et.al.|[2506.10453](http://arxiv.org/abs/2506.10453)|null|
 |**2025-06-11**|**GPU Acceleration of SQL Analytics on Compressed Data**|Zezhou Huang et.al.|[2506.10092](http://arxiv.org/abs/2506.10092)|null|
 |**2025-06-11**|**Generalized Gaussian Entropy Model for Point Cloud Attribute Compression with Dynamic Likelihood Intervals**|Changhao Peng et.al.|[2506.09510](http://arxiv.org/abs/2506.09510)|null|
-|**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|null|
+|**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|**[link](https://github.com/ant-research/scalelsd)**|
 |**2025-06-10**|**Optimizing Learned Image Compression on Scalar and Entropy-Constraint Quantization**|Florian Borzechowski et.al.|[2506.08662](http://arxiv.org/abs/2506.08662)|null|
 |**2025-06-10**|**AstroCompress: A benchmark dataset for multi-purpose compression of astronomical data**|Tuan Truong et.al.|[2506.08306](http://arxiv.org/abs/2506.08306)|null|
 |**2025-06-09**|**Fine-Grained Motion Compression and Selective Temporal Fusion for Neural B-Frame Video Coding**|Xihua Sheng et.al.|[2506.07709](http://arxiv.org/abs/2506.07709)|null|
@@ -4202,10 +4202,10 @@
 |---|---|---|---|---|
 |**2025-06-12**|**ReGuidance: A Simple Diffusion Wrapper for Boosting Sample Quality on Hard Inverse Problems**|Aayush Karan et.al.|[2506.10955](http://arxiv.org/abs/2506.10955)|null|
 |**2025-06-12**|**Stroke-based Cyclic Amplifier: Image Super-Resolution at Arbitrary Ultra-Large Scales**|Wenhao Guo et.al.|[2506.10774](http://arxiv.org/abs/2506.10774)|null|
-|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|null|
+|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|**[link](https://github.com/gregongie/super_inrs)**|
 |**2025-06-10**|**MAMBO: High-Resolution Generative Approach for Mammography Images**|Milica Škipina et.al.|[2506.08677](http://arxiv.org/abs/2506.08677)|null|
 |**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4 $\times$ RTX 4090s**|Xijun Wang et.al.|[2506.08529](http://arxiv.org/abs/2506.08529)|null|
-|**2025-06-10**|**Plug-and-Play Linear Attention for Pre-trained Image and Video Restoration Models**|Srinivasan Kidambi et.al.|[2506.08520](http://arxiv.org/abs/2506.08520)|null|
+|**2025-06-10**|**Plug-and-Play Linear Attention for Pre-trained Image and Video Restoration Models**|Srinivasan Kidambi et.al.|[2506.08520](http://arxiv.org/abs/2506.08520)|**[link](https://github.com/srinivas-512/pnp_nystra)**|
 |**2025-06-09**|**Low-Complexity Super-Resolution Signature Estimation of XL-MIMO FMCW Radar**|Chandrashekhar Rai et.al.|[2506.07979](http://arxiv.org/abs/2506.07979)|null|
 |**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897](http://arxiv.org/abs/2506.07897)|null|
 |**2025-06-09**|**Self-Cascaded Diffusion Models for Arbitrary-Scale Image Super-Resolution**|Junseo Bang et.al.|[2506.07813](http://arxiv.org/abs/2506.07813)|null|

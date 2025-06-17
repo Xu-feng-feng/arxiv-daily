@@ -36,7 +36,7 @@
 |**2025-03-24**|**UniPCGC: Towards Practical Point Cloud Geometry Compression via an Efficient Unified Approach**|Kangli Wang et.al.|[2503.18541](http://arxiv.org/abs/2503.18541)|**[link](https://github.com/Wangkkklll/UniPCGC)**|
 |**2025-03-24**|**Voxel-based Point Cloud Geometry Compression with Space-to-Channel Context**|Bojun Liu et.al.|[2503.18283](http://arxiv.org/abs/2503.18283)|null|
 |**2025-03-21**|**High Efficiency Wiener Filter-based Point Cloud Quality Enhancement for MPEG G-PCC**|Yuxuan Wei et.al.|[2503.17467](http://arxiv.org/abs/2503.17467)|null|
-|**2025-03-21**|**R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model**|Boyuan Zheng et.al.|[2503.17097](http://arxiv.org/abs/2503.17097)|null|
+|**2025-06-16**|**R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model**|Boyuan Zheng et.al.|[2503.17097](http://arxiv.org/abs/2503.17097)|null|
 |**2025-03-18**|**RBFIM: Perceptual Quality Assessment for Compressed Point Clouds Using Radial Basis Function Interpolation**|Zhang Chen et.al.|[2503.14154](http://arxiv.org/abs/2503.14154)|null|
 |**2025-03-16**|**RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds**|Kang You et.al.|[2503.12382](http://arxiv.org/abs/2503.12382)|**[link](https://github.com/njuvision/reno)**|
 |**2025-02-26**|**PCE-GAN: A Generative Adversarial Network for Point Cloud Attribute Quality Enhancement based on Optimal Transport**|Tian Guo et.al.|[2503.00047](http://arxiv.org/abs/2503.00047)|null|
@@ -263,6 +263,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Dark Energy Survey Year 3 results: $w$ CDM cosmology from simulation-based inference with persistent homology on the sphere**|J. Prat et.al.|[2506.13439](http://arxiv.org/abs/2506.13439)|null|
+|**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419](http://arxiv.org/abs/2506.13419)|null|
+|**2025-06-15**|**Zero-shot denoising via neural compression: Theoretical and algorithmic framework**|Ali Zafari et.al.|[2506.12693](http://arxiv.org/abs/2506.12693)|null|
+|**2025-06-13**|**Applications of Combinatorics on Words with Symbolic Dynamics**|Duaa Abdullah et.al.|[2506.12150](http://arxiv.org/abs/2506.12150)|null|
 |**2025-06-13**|**Scheduling Agile Earth Observation Satellites with Onboard Processing and Real-Time Monitoring**|Antonio M. Mercado-Martínez et.al.|[2506.11556](http://arxiv.org/abs/2506.11556)|null|
 |**2025-06-12**|**Rethinking Generative Human Video Coding with Implicit Motion Transformation**|Bolin Chen et.al.|[2506.10453](http://arxiv.org/abs/2506.10453)|null|
 |**2025-06-11**|**GPU Acceleration of SQL Analytics on Compressed Data**|Zezhou Huang et.al.|[2506.10092](http://arxiv.org/abs/2506.10092)|null|
@@ -1255,6 +1259,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**SpeechRefiner: Towards Perceptual Quality Refinement for Front-End Algorithms**|Sirui Li et.al.|[2506.13709](http://arxiv.org/abs/2506.13709)|null|
+|**2025-06-16**|**UltraVideo: High-Quality UHD Video Dataset with Comprehensive Captions**|Zhucun Xue et.al.|[2506.13691](http://arxiv.org/abs/2506.13691)|null|
+|**2025-06-16**|**First Positronium Lifetime Imaging with Scandium-44 on a Long Axial Field-of-view PET/CT**|Lorenzo Mercolli et.al.|[2506.13460](http://arxiv.org/abs/2506.13460)|null|
+|**2025-06-16**|**DicFace: Dirichlet-Constrained Variational Codebook Learning for Temporally Coherent Video Face Restoration**|Yan Chen et.al.|[2506.13355](http://arxiv.org/abs/2506.13355)|null|
+|**2025-06-16**|**Efficient Approximate Temporal Triangle Counting in Streaming with Predictions**|Giorgio Venturin et.al.|[2506.13173](http://arxiv.org/abs/2506.13173)|null|
+|**2025-06-14**|**Towards Seamless Borders: A Method for Mitigating Inconsistencies in Image Inpainting and Outpainting**|Xingzhong Hou et.al.|[2506.12530](http://arxiv.org/abs/2506.12530)|null|
+|**2025-06-14**|**Fine-Grained HDR Image Quality Assessment From Noticeably Distorted to Very High Fidelity**|Mohsen Jenadeleh et.al.|[2506.12505](http://arxiv.org/abs/2506.12505)|null|
+|**2025-06-14**|**Real-Time Per-Garment Virtual Try-On with Temporal Consistency for Loose-Fitting Garments**|Zaiqiang Wu et.al.|[2506.12348](http://arxiv.org/abs/2506.12348)|**[link](https://github.com/ZaiqiangWu/RTV)**|
+|**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|null|
+|**2025-06-13**|**Improving Speech Enhancement with Multi-Metric Supervision from Learned Quality Assessment**|Wei Wang et.al.|[2506.12260](http://arxiv.org/abs/2506.12260)|null|
 |**2025-06-13**|**SphereDrag: Spherical Geometry-Aware Panoramic Image Editing**|Zhiao Feng et.al.|[2506.11863](http://arxiv.org/abs/2506.11863)|null|
 |**2025-06-13**|**Fast MRI of bones in the knee -- An AI-driven reconstruction approach for adiabatic inversion recovery prepared ultra-short echo time sequences**|Philipp Hans Nunn et.al.|[2506.11771](http://arxiv.org/abs/2506.11771)|null|
 |**2025-06-13**|**EyeSim-VQA: A Free-Energy-Guided Eye Simulation Framework for Video Quality Assessment**|Zhaoyang Wang et.al.|[2506.11549](http://arxiv.org/abs/2506.11549)|null|
@@ -4210,6 +4224,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
+|**2025-06-16**|**ESRPCB: an Edge guided Super-Resolution model and Ensemble learning for tiny Printed Circuit Board Defect detection**|Xiem HoangVan et.al.|[2506.13476](http://arxiv.org/abs/2506.13476)|null|
+|**2025-06-16**|**DoA Estimation using MUSIC with Range/Doppler Multiplexing for MIMO-OFDM Radar**|Murat Babek Salman et.al.|[2506.13258](http://arxiv.org/abs/2506.13258)|null|
+|**2025-06-15**|**Adaptive Dropout: Unleashing Dropout across Layers for Generalizable Image Super-Resolution**|Hang Xu et.al.|[2506.12738](http://arxiv.org/abs/2506.12738)|null|
+|**2025-06-14**|**Efficient Star Distillation Attention Network for Lightweight Image Super-Resolution**|Fangwei Hao et.al.|[2506.12475](http://arxiv.org/abs/2506.12475)|null|
+|**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|null|
 |**2025-06-13**|**Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution**|Zhangkai Ni et.al.|[2506.11823](http://arxiv.org/abs/2506.11823)|null|
 |**2025-06-13**|**MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution**|Linfeng He et.al.|[2506.11768](http://arxiv.org/abs/2506.11768)|null|
 |**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|null|
@@ -5450,6 +5470,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.|[2506.13733](http://arxiv.org/abs/2506.13733)|null|
+|**2025-06-16**|**Atomizer: Generalizing to new modalities by breaking satellite images down to a set of scalars**|Hugo Riffaud de Turckheim et.al.|[2506.13542](http://arxiv.org/abs/2506.13542)|null|
+|**2025-06-16**|**UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data**|Vasiliki Balaska et.al.|[2506.13505](http://arxiv.org/abs/2506.13505)|null|
+|**2025-06-16**|**Joint Analysis of Optical and SAR Vegetation Indices for Vineyard Monitoring: Assessing Biomass Dynamics and Phenological Stages over Po Valley, Italy**|Andrea Bergamaschi et.al.|[2506.13327](http://arxiv.org/abs/2506.13327)|null|
+|**2025-06-15**|**Heating, Excitation, Dissociation, and Ionization of Molecules by High-Energy Photons in Planetary Atmospheres**|Antonio García Muñoz et.al.|[2506.12956](http://arxiv.org/abs/2506.12956)|null|
+|**2025-06-15**|**HyRet-Change: A hybrid retentive network for remote sensing change detection**|Mustansar Fiaz et.al.|[2506.12836](http://arxiv.org/abs/2506.12836)|null|
+|**2025-06-13**|**Remote sensing of tectonic induced stress across faults using high energy muon beams**|L. Serafini et.al.|[2506.12196](http://arxiv.org/abs/2506.12196)|null|
 |**2025-06-13**|**Entanglement-inspired frequency-agile rangefinding**|Weijie Nie et.al.|[2506.11980](http://arxiv.org/abs/2506.11980)|null|
 |**2025-06-13**|**AgriPotential: A Novel Multi-Spectral and Multi-Temporal Remote Sensing Dataset for Agricultural Potentials**|Mohammad El Sakka et.al.|[2506.11740](http://arxiv.org/abs/2506.11740)|null|
 |**2025-06-13**|**Data-driven approaches to inverse problems**|Carola-Bibiane Schönlieb et.al.|[2506.11732](http://arxiv.org/abs/2506.11732)|null|

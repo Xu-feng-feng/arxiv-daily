@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1250,7 +1250,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-16**|**SpeechRefiner: Towards Perceptual Quality Refinement for Front-End Algorithms**|Sirui Li et.al.|[2506.13709](http://arxiv.org/abs/2506.13709)|null|
 |**2025-06-16**|**UltraVideo: High-Quality UHD Video Dataset with Comprehensive Captions**|Zhucun Xue et.al.|[2506.13691](http://arxiv.org/abs/2506.13691)|null|
-|**2025-06-16**|**First Positronium Lifetime Imaging with Scandium-44 on a Long Axial Field-of-view PET/CT**|Lorenzo Mercolli et.al.|[2506.13460](http://arxiv.org/abs/2506.13460)|null|
+|**2025-06-17**|**First Positronium Lifetime Imaging with Scandium-44 on a Long Axial Field-of-view PET/CT**|Lorenzo Mercolli et.al.|[2506.13460](http://arxiv.org/abs/2506.13460)|null|
 |**2025-06-16**|**DicFace: Dirichlet-Constrained Variational Codebook Learning for Temporally Coherent Video Face Restoration**|Yan Chen et.al.|[2506.13355](http://arxiv.org/abs/2506.13355)|null|
 |**2025-06-16**|**Efficient Approximate Temporal Triangle Counting in Streaming with Predictions**|Giorgio Venturin et.al.|[2506.13173](http://arxiv.org/abs/2506.13173)|null|
 |**2025-06-14**|**Towards Seamless Borders: A Method for Mitigating Inconsistencies in Image Inpainting and Outpainting**|Xingzhong Hou et.al.|[2506.12530](http://arxiv.org/abs/2506.12530)|null|

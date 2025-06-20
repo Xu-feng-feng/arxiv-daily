@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -254,10 +254,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|null|
+|**2025-06-18**|**MSNeRV: Neural Video Representation with Multi-Scale Feature Fusion**|Jun Zhu et.al.|[2506.15276](http://arxiv.org/abs/2506.15276)|null|
+|**2025-06-18**|**ABC: Adaptive BayesNet Structure Learning for Computational Scalable Multi-task Image Compression**|Yufeng Zhang et.al.|[2506.15228](http://arxiv.org/abs/2506.15228)|null|
+|**2025-06-18**|**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models**|Xuelin Shen et.al.|[2506.15201](http://arxiv.org/abs/2506.15201)|null|
 |**2025-06-17**|**Breaking the Multi-Enhancement Bottleneck: Domain-Consistent Quality Enhancement for Compressed Images**|Qunliang Xing et.al.|[2506.14152](http://arxiv.org/abs/2506.14152)|null|
 |**2025-06-16**|**Dark Energy Survey Year 3 results: $w$ CDM cosmology from simulation-based inference with persistent homology on the sphere**|J. Prat et.al.|[2506.13439](http://arxiv.org/abs/2506.13439)|null|
 |**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419](http://arxiv.org/abs/2506.13419)|null|
-|**2025-06-15**|**Zero-shot denoising via neural compression: Theoretical and algorithmic framework**|Ali Zafari et.al.|[2506.12693](http://arxiv.org/abs/2506.12693)|null|
+|**2025-06-15**|**Zero-shot denoising via neural compression: Theoretical and algorithmic framework**|Ali Zafari et.al.|[2506.12693](http://arxiv.org/abs/2506.12693)|**[link](https://github.com/computational-imaging-ru/zs-ncdenoiser)**|
 |**2025-06-13**|**Applications of Combinatorics on Words with Symbolic Dynamics**|Duaa Abdullah et.al.|[2506.12150](http://arxiv.org/abs/2506.12150)|null|
 |**2025-06-13**|**Scheduling Agile Earth Observation Satellites with Onboard Processing and Real-Time Monitoring**|Antonio M. Mercado-Martínez et.al.|[2506.11556](http://arxiv.org/abs/2506.11556)|null|
 |**2025-06-12**|**Rethinking Generative Human Video Coding with Implicit Motion Transformation**|Bolin Chen et.al.|[2506.10453](http://arxiv.org/abs/2506.10453)|null|
@@ -265,7 +269,7 @@ layout: default
 |**2025-06-11**|**Generalized Gaussian Entropy Model for Point Cloud Attribute Compression with Dynamic Likelihood Intervals**|Changhao Peng et.al.|[2506.09510](http://arxiv.org/abs/2506.09510)|null|
 |**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|**[link](https://github.com/ant-research/scalelsd)**|
 |**2025-06-10**|**Optimizing Learned Image Compression on Scalar and Entropy-Constraint Quantization**|Florian Borzechowski et.al.|[2506.08662](http://arxiv.org/abs/2506.08662)|null|
-|**2025-06-10**|**AstroCompress: A benchmark dataset for multi-purpose compression of astronomical data**|Tuan Truong et.al.|[2506.08306](http://arxiv.org/abs/2506.08306)|null|
+|**2025-06-10**|**AstroCompress: A benchmark dataset for multi-purpose compression of astronomical data**|Tuan Truong et.al.|[2506.08306](http://arxiv.org/abs/2506.08306)|**[link](https://github.com/tuatruog/astrocompress)**|
 |**2025-06-09**|**Fine-Grained Motion Compression and Selective Temporal Fusion for Neural B-Frame Video Coding**|Xihua Sheng et.al.|[2506.07709](http://arxiv.org/abs/2506.07709)|null|
 |**2025-06-09**|**Generative Models at the Frontier of Compression: A Survey on Generative Face Video Coding**|Bolin Chen et.al.|[2506.07369](http://arxiv.org/abs/2506.07369)|null|
 |**2025-06-07**|**Towards AI-Native Fronthaul: Neural Compression for NextG Cloud RAN**|Chenghong Bian et.al.|[2506.06925](http://arxiv.org/abs/2506.06925)|null|
@@ -1249,12 +1253,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645](http://arxiv.org/abs/2506.15645)|null|
+|**2025-06-18**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|null|
+|**2025-06-18**|**Advanced cervical cancer classification: enhancing pap smear images with hybrid PMD Filter-CLAHE**|Ach Khozaimi et.al.|[2506.15489](http://arxiv.org/abs/2506.15489)|null|
+|**2025-06-18**|**When Model Knowledge meets Diffusion Model: Diffusion-assisted Data-free Image Synthesis with Alignment of Domain and Class**|Yujin Kim et.al.|[2506.15381](http://arxiv.org/abs/2506.15381)|null|
+|**2025-06-18**|**Privacy-Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference**|Jonghun Kim et.al.|[2506.15258](http://arxiv.org/abs/2506.15258)|null|
+|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
+|**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218](http://arxiv.org/abs/2506.15218)|null|
+|**2025-06-18**|**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models**|Xuelin Shen et.al.|[2506.15201](http://arxiv.org/abs/2506.15201)|null|
+|**2025-06-18**|**You Only Render Once: Enhancing Energy and Computation Efficiency of Mobile Virtual Reality**|Xingyu Chen et.al.|[2506.15183](http://arxiv.org/abs/2506.15183)|null|
+|**2025-06-17**|**A Comparative Evaluation of Deep Learning Models for Speech Enhancement in Real-World Noisy Environments**|Md Jahangir Alam Khondkar et.al.|[2506.15000](http://arxiv.org/abs/2506.15000)|null|
+|**2025-06-17**|**Improved Image Reconstruction and Diffusion Parameter Estimation Using a Temporal Convolutional Network Model of Gradient Trajectory Errors**|Jonathan B. Martin et.al.|[2506.14995](http://arxiv.org/abs/2506.14995)|null|
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719](http://arxiv.org/abs/2506.14719)|null|
 |**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
 |**2025-06-17**|**QUEST: Quality-aware Semi-supervised Table Extraction for Business Documents**|Eliott Thomas et.al.|[2506.14568](http://arxiv.org/abs/2506.14568)|null|
 |**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
 |**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
-|**2025-06-17**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315](http://arxiv.org/abs/2506.14315)|null|
+|**2025-06-18**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315](http://arxiv.org/abs/2506.14315)|null|
 |**2025-06-17**|**Quality Assessment of Python Tests Generated by Large Language Models**|Victor Alves et.al.|[2506.14297](http://arxiv.org/abs/2506.14297)|null|
 |**2025-06-17**|**synth-dacl: Does Synthetic Defect Data Enhance Segmentation Accuracy and Robustness for Real-World Bridge Inspections?**|Johannes Flotzinger et.al.|[2506.14255](http://arxiv.org/abs/2506.14255)|null|
 |**2025-06-17**|**MAS-LitEval : Multi-Agent System for Literary Translation Quality Assessment**|Junghwan Kim et.al.|[2506.14199](http://arxiv.org/abs/2506.14199)|null|
@@ -4224,6 +4239,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|null|
+|**2025-06-18**|**Nano-resolved sensing of 3D electromagnetic fields via single emitters' extreme variation of enhanced spontaneous emission**|R. Margoth Córdova-Castro et.al.|[2506.15095](http://arxiv.org/abs/2506.15095)|null|
 |**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|null|
 |**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
 |**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
@@ -4234,7 +4251,7 @@ layout: default
 |**2025-06-16**|**DoA Estimation using MUSIC with Range/Doppler Multiplexing for MIMO-OFDM Radar**|Murat Babek Salman et.al.|[2506.13258](http://arxiv.org/abs/2506.13258)|null|
 |**2025-06-15**|**Adaptive Dropout: Unleashing Dropout across Layers for Generalizable Image Super-Resolution**|Hang Xu et.al.|[2506.12738](http://arxiv.org/abs/2506.12738)|null|
 |**2025-06-14**|**Efficient Star Distillation Attention Network for Lightweight Image Super-Resolution**|Fangwei Hao et.al.|[2506.12475](http://arxiv.org/abs/2506.12475)|null|
-|**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|null|
+|**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|**[link](https://github.com/microsoft/vsr-challenge)**|
 |**2025-06-13**|**Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution**|Zhangkai Ni et.al.|[2506.11823](http://arxiv.org/abs/2506.11823)|null|
 |**2025-06-13**|**MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution**|Linfeng He et.al.|[2506.11768](http://arxiv.org/abs/2506.11768)|null|
 |**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|null|
@@ -5473,6 +5490,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification**|Junhao Wu et.al.|[2506.15565](http://arxiv.org/abs/2506.15565)|null|
+|**2025-06-17**|**Demonstrating Superresolution in Radar Range Estimation Using a Denoising Autoencoder**|Robert Czupryniak et.al.|[2506.14906](http://arxiv.org/abs/2506.14906)|null|
 |**2025-06-17**|**DepthSeg: Depth prompting in remote sensing semantic segmentation**|Ning Zhou et.al.|[2506.14382](http://arxiv.org/abs/2506.14382)|null|
 |**2025-06-16**|**Mapping Farmed Landscapes from Remote Sensing**|Michelangelo Conserva et.al.|[2506.13993](http://arxiv.org/abs/2506.13993)|null|
 |**2025-06-16**|**Prominence material observed by SoloHI beyond 0.5au**|C. Mac Cormack et.al.|[2506.13966](http://arxiv.org/abs/2506.13966)|null|

@@ -254,7 +254,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|
+|**2025-06-19**|**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates**|Chanung Park et.al.|[2506.16572](http://arxiv.org/abs/2506.16572)|null|
+|**2025-06-19**|**DT-UFC: Universal Large Model Feature Coding via Peaky-to-Balanced Distribution Transformation**|Changsheng Gao et.al.|[2506.16495](http://arxiv.org/abs/2506.16495)|null|
+|**2025-06-19**|**Watermarking Autoregressive Image Generation**|Nikola Jovanović et.al.|[2506.16349](http://arxiv.org/abs/2506.16349)|null|
+|**2025-06-19**|**Data Compression with Relative Entropy Coding**|Gergely Flamich et.al.|[2506.16309](http://arxiv.org/abs/2506.16309)|null|
+|**2025-06-19**|**Fast Training-free Perceptual Image Compression**|Ziran Zhu et.al.|[2506.16102](http://arxiv.org/abs/2506.16102)|null|
+|**2025-06-19**|**Information-computation trade-offs in non-linear transforms**|Connor Ding et.al.|[2506.15948](http://arxiv.org/abs/2506.15948)|null|
+|**2025-06-18**|**GratNet: A Photorealistic Neural Shader for Diffractive Surfaces**|Narayan Kandel et.al.|[2506.15815](http://arxiv.org/abs/2506.15815)|null|
+|**2025-06-20**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|
 |**2025-06-18**|**MSNeRV: Neural Video Representation with Multi-Scale Feature Fusion**|Jun Zhu et.al.|[2506.15276](http://arxiv.org/abs/2506.15276)|null|
 |**2025-06-18**|**ABC: Adaptive BayesNet Structure Learning for Computational Scalable Multi-task Image Compression**|Yufeng Zhang et.al.|[2506.15228](http://arxiv.org/abs/2506.15228)|**[link](https://github.com/worldlife123/cbench_basic)**|
 |**2025-06-18**|**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models**|Xuelin Shen et.al.|[2506.15201](http://arxiv.org/abs/2506.15201)|**[link](https://github.com/jiayinxu5499/psic)**|
@@ -1253,11 +1260,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**The Hidden Cost of an Image: Quantifying the Energy Consumption of AI Image Generation**|Giulia Bertazzini et.al.|[2506.17016](http://arxiv.org/abs/2506.17016)|null|
+|**2025-06-20**|**PET Tracer Separation Using Conditional Diffusion Transformer with Multi-latent Space Learning**|Bin Huang et.al.|[2506.16934](http://arxiv.org/abs/2506.16934)|null|
+|**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
+|**2025-06-19**|**MetaQAP -- A Meta-Learning Approach for Quality-Aware Pretraining in Image Quality Assessment**|Muhammad Azeem Aslam et.al.|[2506.16601](http://arxiv.org/abs/2506.16601)|null|
+|**2025-06-19**|**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates**|Chanung Park et.al.|[2506.16572](http://arxiv.org/abs/2506.16572)|null|
+|**2025-06-19**|**Towards Bitrate-Efficient and Noise-Robust Speech Coding with Variable Bitrate RVQ**|Yunkee Chae et.al.|[2506.16538](http://arxiv.org/abs/2506.16538)|null|
+|**2025-06-19**|**Data Compression with Relative Entropy Coding**|Gergely Flamich et.al.|[2506.16309](http://arxiv.org/abs/2506.16309)|null|
+|**2025-06-19**|**Active MRI Acquisition with Diffusion Guided Bayesian Experimental Design**|Jacopo Iollo et.al.|[2506.16237](http://arxiv.org/abs/2506.16237)|null|
+|**2025-06-19**|**From Coarse to Continuous: Progressive Refinement Implicit Neural Representation for Motion-Robust Anisotropic MRI Reconstruction**|Zhenxuan Zhang et.al.|[2506.16210](http://arxiv.org/abs/2506.16210)|null|
+|**2025-06-19**|**Neural Prioritisation for Web Crawling**|Francesza Pezzuti et.al.|[2506.16146](http://arxiv.org/abs/2506.16146)|null|
+|**2025-06-19**|**Enhanced Dermatology Image Quality Assessment via Cross-Domain Training**|Ignacio Hernández Montilla et.al.|[2506.16116](http://arxiv.org/abs/2506.16116)|null|
+|**2025-06-19**|**Fast Training-free Perceptual Image Compression**|Ziran Zhu et.al.|[2506.16102](http://arxiv.org/abs/2506.16102)|null|
+|**2025-06-19**|**STAR-Pose: Efficient Low-Resolution Video Human Pose Estimation via Spatial-Temporal Adaptive Super-Resolution**|Yucheng Jin et.al.|[2506.16061](http://arxiv.org/abs/2506.16061)|null|
+|**2025-06-19**|**Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization**|Cong Wang et.al.|[2506.15980](http://arxiv.org/abs/2506.15980)|null|
+|**2025-06-19**|**CORAL: Disentangling Latent Representations in Long-Tailed Diffusion**|Esther Rodriguez et.al.|[2506.15933](http://arxiv.org/abs/2506.15933)|null|
 |**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645](http://arxiv.org/abs/2506.15645)|null|
-|**2025-06-18**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|**[link](https://github.com/yjsunnn/dloral)**|
+|**2025-06-20**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|**[link](https://github.com/yjsunnn/dloral)**|
 |**2025-06-18**|**Advanced cervical cancer classification: enhancing pap smear images with hybrid PMD Filter-CLAHE**|Ach Khozaimi et.al.|[2506.15489](http://arxiv.org/abs/2506.15489)|null|
 |**2025-06-18**|**When Model Knowledge meets Diffusion Model: Diffusion-assisted Data-free Image Synthesis with Alignment of Domain and Class**|Yujin Kim et.al.|[2506.15381](http://arxiv.org/abs/2506.15381)|null|
-|**2025-06-18**|**Privacy-Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference**|Jonghun Kim et.al.|[2506.15258](http://arxiv.org/abs/2506.15258)|**[link](https://github.com/jongdory/latent-he)**|
+|**2025-06-20**|**Privacy-Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference**|Jonghun Kim et.al.|[2506.15258](http://arxiv.org/abs/2506.15258)|**[link](https://github.com/jongdory/latent-he)**|
 |**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218](http://arxiv.org/abs/2506.15218)|**[link](https://github.com/hedan-11/dm-fnet)**|
 |**2025-06-18**|**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models**|Xuelin Shen et.al.|[2506.15201](http://arxiv.org/abs/2506.15201)|**[link](https://github.com/jiayinxu5499/psic)**|
@@ -4239,7 +4261,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-18**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|**[link](https://github.com/yjsunnn/dloral)**|
+|**2025-06-20**|**Unsupervised Image Super-Resolution Reconstruction Based on Real-World Degradation Patterns**|Yiyang Tie et.al.|[2506.17027](http://arxiv.org/abs/2506.17027)|null|
+|**2025-06-20**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
+|**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
+|**2025-06-19**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|null|
+|**2025-06-19**|**STAR-Pose: Efficient Low-Resolution Video Human Pose Estimation via Spatial-Temporal Adaptive Super-Resolution**|Yucheng Jin et.al.|[2506.16061](http://arxiv.org/abs/2506.16061)|null|
+|**2025-06-20**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|**[link](https://github.com/yjsunnn/dloral)**|
 |**2025-06-18**|**Nano-resolved sensing of 3D electromagnetic fields via single emitters' extreme variation of enhanced spontaneous emission**|R. Margoth Córdova-Castro et.al.|[2506.15095](http://arxiv.org/abs/2506.15095)|null|
 |**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|**[link](https://github.com/inria-thoth/ddm4ip)**|
 |**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|

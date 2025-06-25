@@ -263,6 +263,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Video Compression for Spatiotemporal Earth System Data**|Oscar J. Pellicer-Valero et.al.|[2506.19656](http://arxiv.org/abs/2506.19656)|null|
+|**2025-06-24**|**Explicit Residual-Based Scalable Image Coding for Humans and Machines**|Yui Tatsumi et.al.|[2506.19297](http://arxiv.org/abs/2506.19297)|null|
+|**2025-06-23**|**NIC-RobustBench: A Comprehensive Open-Source Toolkit for Neural Image Compression and Robustness Analysis**|Georgii Bychkov et.al.|[2506.19051](http://arxiv.org/abs/2506.19051)|null|
 |**2025-06-23**|**On the computation of tensor functions under tensor-tensor multiplications with linear maps**|Jeong-Hoon Ju et.al.|[2506.18713](http://arxiv.org/abs/2506.18713)|null|
 |**2025-06-22**|**LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images**|Chenyue Song et.al.|[2506.17983](http://arxiv.org/abs/2506.17983)|null|
 |**2025-06-19**|**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates**|Chanung Park et.al.|[2506.16572](http://arxiv.org/abs/2506.16572)|**[link](https://github.com/freemasti/diffo)**|
@@ -1273,6 +1276,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
+|**2025-06-24**|**Active View Selector: Fast and Accurate Active View Selection with Cross Reference Image Quality Assessment**|Zirui Wang et.al.|[2506.19844](http://arxiv.org/abs/2506.19844)|null|
+|**2025-06-24**|**Improving Progressive Generation with Decomposable Flow Matching**|Moayed Haji-Ali et.al.|[2506.19839](http://arxiv.org/abs/2506.19839)|null|
+|**2025-06-24**|**Evaluating Compliance with Visualization Guidelines in Diagrams for Scientific Publications Using Large Vision Language Models**|Johannes Rückert et.al.|[2506.19825](http://arxiv.org/abs/2506.19825)|null|
+|**2025-06-24**|**Guidance in the Frequency Domain Enables High-Fidelity Sampling at Low CFG Scales**|Seyedmorteza Sadat et.al.|[2506.19713](http://arxiv.org/abs/2506.19713)|null|
+|**2025-06-24**|**Filling of incomplete sinograms from sparse PET detector configurations using a residual U-Net**|Klara Leffler et.al.|[2506.19600](http://arxiv.org/abs/2506.19600)|null|
+|**2025-06-24**|**ReMAR-DS: Recalibrated Feature Learning for Metal Artifact Reduction and CT Domain Transformation**|Mubashara Rehman et.al.|[2506.19531](http://arxiv.org/abs/2506.19531)|null|
+|**2025-06-24**|**Angio-Diff: Learning a Self-Supervised Adversarial Diffusion Model for Angiographic Geometry Generation**|Zhifeng Wang et.al.|[2506.19455](http://arxiv.org/abs/2506.19455)|null|
+|**2025-06-24**|**NAADA: A Noise-Aware Attention Denoising Autoencoder for Dental Panoramic Radiographs**|Khuram Naveed et.al.|[2506.19387](http://arxiv.org/abs/2506.19387)|null|
+|**2025-06-24**|**Learning to assess subjective impressions from speech**|Yuto Kondo et.al.|[2506.19335](http://arxiv.org/abs/2506.19335)|null|
+|**2025-06-24**|**Style Transfer: A Decade Survey**|Tianshan Zhang et.al.|[2506.19278](http://arxiv.org/abs/2506.19278)|null|
+|**2025-06-24**|**Automated Image Recognition Framework**|Quang-Binh Nguyen et.al.|[2506.19261](http://arxiv.org/abs/2506.19261)|null|
+|**2025-06-23**|**VHU-Net: Variational Hadamard U-Net for Body MRI Bias Field Correction**|Xin Zhu et.al.|[2506.19181](http://arxiv.org/abs/2506.19181)|null|
 |**2025-06-23**|**A B-Spline Finite Element Method for Cloth Simulation**|Yuqi Meng et.al.|[2506.18867](http://arxiv.org/abs/2506.18867)|null|
 |**2025-06-23**|**Phantom-Data : Towards a General Subject-Consistent Video Generation Dataset**|Zhuowei Chen et.al.|[2506.18851](http://arxiv.org/abs/2506.18851)|null|
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
@@ -4294,6 +4310,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**|Liangbin Xie et.al.|[2506.19838](http://arxiv.org/abs/2506.19838)|null|
+|**2025-06-24**|**ClearerVoice-Studio: Bridging Advanced Speech Processing Research and Practical Deployment**|Shengkui Zhao et.al.|[2506.19398](http://arxiv.org/abs/2506.19398)|null|
 |**2025-06-21**|**A novel fast short-time root music method for vibration monitoring of high-speed spindles**|Huiguang Zhang et.al.|[2506.17600](http://arxiv.org/abs/2506.17600)|null|
 |**2025-06-20**|**Efficient Feedback Gate Network for Hyperspectral Image Super-Resolution**|Xufei Wang et.al.|[2506.17361](http://arxiv.org/abs/2506.17361)|null|
 |**2025-06-20**|**Unsupervised Image Super-Resolution Reconstruction Based on Real-World Degradation Patterns**|Yiyang Tie et.al.|[2506.17027](http://arxiv.org/abs/2506.17027)|null|
@@ -5554,6 +5572,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Video Compression for Spatiotemporal Earth System Data**|Oscar J. Pellicer-Valero et.al.|[2506.19656](http://arxiv.org/abs/2506.19656)|null|
+|**2025-06-24**|**Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications**|Lujun Li et.al.|[2506.19591](http://arxiv.org/abs/2506.19591)|null|
+|**2025-06-24**|**SMARTIES: Spectrum-Aware Multi-Sensor Auto-Encoder for Remote Sensing Images**|Gencer Sumbul et.al.|[2506.19585](http://arxiv.org/abs/2506.19585)|null|
+|**2025-06-24**|**MambaOutRS: A Hybrid CNN-Fourier Architecture for Remote Sensing Image Classification**|Minjong Cheon et.al.|[2506.19561](http://arxiv.org/abs/2506.19561)|null|
+|**2025-06-24**|**A Global-Local Cross-Attention Network for Ultra-high Resolution Remote Sensing Image Semantic Segmentation**|Chen Yi et.al.|[2506.19406](http://arxiv.org/abs/2506.19406)|null|
+|**2025-06-24**|**3D-SSM: A Novel 3D Selective Scan Module for Remote Sensing Change Detection**|Rui Huang et.al.|[2506.19263](http://arxiv.org/abs/2506.19263)|null|
+|**2025-06-23**|**DiffRIS: Enhancing Referring Remote Sensing Image Segmentation with Pre-trained Text-to-Image Diffusion Models**|Zhe Dong et.al.|[2506.18946](http://arxiv.org/abs/2506.18946)|null|
 |**2025-06-23**|**Resampling Augmentation for Time Series Contrastive Learning: Application to Remote Sensing**|Antoine Saget et.al.|[2506.18587](http://arxiv.org/abs/2506.18587)|null|
 |**2025-06-23**|**Attention-Based Ensemble Learning for Crop Classification Using Landsat 8-9 Fusion**|Zeeshan Ramzan et.al.|[2506.18321](http://arxiv.org/abs/2506.18321)|null|
 |**2025-06-22**|**G-SEED: A Spatio-temporal Encoding Framework for Forest and Grassland Data Based on GeoSOT**|Xuan Ouyang et.al.|[2506.18094](http://arxiv.org/abs/2506.18094)|null|

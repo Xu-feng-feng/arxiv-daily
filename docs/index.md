@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -258,7 +258,7 @@ layout: default
 |**2025-06-24**|**Explicit Residual-Based Scalable Image Coding for Humans and Machines**|Yui Tatsumi et.al.|[2506.19297](http://arxiv.org/abs/2506.19297)|null|
 |**2025-06-23**|**NIC-RobustBench: A Comprehensive Open-Source Toolkit for Neural Image Compression and Robustness Analysis**|Georgii Bychkov et.al.|[2506.19051](http://arxiv.org/abs/2506.19051)|null|
 |**2025-06-23**|**On the computation of tensor functions under tensor-tensor multiplications with linear maps**|Jeong-Hoon Ju et.al.|[2506.18713](http://arxiv.org/abs/2506.18713)|null|
-|**2025-06-22**|**LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images**|Chenyue Song et.al.|[2506.17983](http://arxiv.org/abs/2506.17983)|null|
+|**2025-06-25**|**LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images**|Chenyue Song et.al.|[2506.17983](http://arxiv.org/abs/2506.17983)|null|
 |**2025-06-19**|**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates**|Chanung Park et.al.|[2506.16572](http://arxiv.org/abs/2506.16572)|**[link](https://github.com/freemasti/diffo)**|
 |**2025-06-19**|**DT-UFC: Universal Large Model Feature Coding via Peaky-to-Balanced Distribution Transformation**|Changsheng Gao et.al.|[2506.16495](http://arxiv.org/abs/2506.16495)|null|
 |**2025-06-19**|**Watermarking Autoregressive Image Generation**|Nikola Jovanović et.al.|[2506.16349](http://arxiv.org/abs/2506.16349)|**[link](https://github.com/facebookresearch/wmar)**|
@@ -1283,7 +1283,7 @@ layout: default
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
 |**2025-06-23**|**Matrix-Game: Interactive World Foundation Model**|Yifan Zhang et.al.|[2506.18701](http://arxiv.org/abs/2506.18701)|null|
 |**2025-06-23**|**RDPO: Real Data Preference Optimization for Physics Consistency Video Generation**|Wenxu Qian et.al.|[2506.18655](http://arxiv.org/abs/2506.18655)|null|
-|**2025-06-23**|**2D Triangle Splatting for Direct Differentiable Mesh Training**|Kaifeng Sheng et.al.|[2506.18575](http://arxiv.org/abs/2506.18575)|null|
+|**2025-06-23**|**2D Triangle Splatting for Direct Differentiable Mesh Training**|Kaifeng Sheng et.al.|[2506.18575](http://arxiv.org/abs/2506.18575)|**[link](https://github.com/GaodeRender/triangle-splatting)**|
 |**2025-06-23**|**VQ-Insight: Teaching VLMs for AI-Generated Video Quality Understanding via Progressive Visual Reinforcement Learning**|Xuanyu Zhang et.al.|[2506.18564](http://arxiv.org/abs/2506.18564)|null|
 |**2025-06-23**|**What You Think Is What You Get: Bridge User Intent and Transfer Function Design through Multimodal Large Language Models**|Yiyao Wang et.al.|[2506.18407](http://arxiv.org/abs/2506.18407)|null|
 |**2025-06-23**|**Selecting N-lowest scores for training MOS prediction models**|Yuto Kondo et.al.|[2506.18326](http://arxiv.org/abs/2506.18326)|null|

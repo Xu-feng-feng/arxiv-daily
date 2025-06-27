@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1270,7 +1270,7 @@ layout: default
 |**2025-06-25**|**FundaQ-8: A Clinically-Inspired Scoring Framework for Automated Fundus Image Quality Assessment**|Lee Qi Zun et.al.|[2506.20303](http://arxiv.org/abs/2506.20303)|null|
 |**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302](http://arxiv.org/abs/2506.20302)|null|
 |**2025-06-25**|**Ctrl-Z Sampling: Diffusion Sampling with Controlled Random Zigzag Explorations**|Shunqi Mao et.al.|[2506.20294](http://arxiv.org/abs/2506.20294)|null|
-|**2025-06-25**|**Signal-to-noise and spatial resolution in in-line imaging. 2. Phase-contrast tomography**|T. E. Gureyev et.al.|[2506.20277](http://arxiv.org/abs/2506.20277)|null|
+|**2025-06-26**|**Signal-to-noise and spatial resolution in in-line imaging. 2. Phase-contrast tomography**|T. E. Gureyev et.al.|[2506.20277](http://arxiv.org/abs/2506.20277)|null|
 |**2025-06-25**|**RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer**|Da Li et.al.|[2506.20202](http://arxiv.org/abs/2506.20202)|null|
 |**2025-06-25**|**MS-IQA: A Multi-Scale Feature Fusion Network for PET/CT Image Quality Assessment**|Siqiao Li et.al.|[2506.20200](http://arxiv.org/abs/2506.20200)|null|
 |**2025-06-24**|**Diffusion-based Task-oriented Semantic Communications with Model Inversion Attack**|Xuesong Wang et.al.|[2506.19886](http://arxiv.org/abs/2506.19886)|null|
@@ -5570,7 +5570,7 @@ layout: default
 |**2025-06-25**|**Probing Solar Polar Regions**|Yuanyong Deng et.al.|[2506.20502](http://arxiv.org/abs/2506.20502)|null|
 |**2025-06-25**|**TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis**|Zhengpeng Feng et.al.|[2506.20380](http://arxiv.org/abs/2506.20380)|null|
 |**2025-06-25**|**Breaking Spatial Boundaries: Spectral-Domain Registration Guided Hyperspectral and Multispectral Blind Fusion**|Kunjing Yang et.al.|[2506.20293](http://arxiv.org/abs/2506.20293)|null|
-|**2025-06-25**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|
+|**2025-06-26**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|
 |**2025-06-25**|**Photon Absorption Remote Sensing (PARS): Comprehensive Absorption Imaging Enabling Label-Free Biomolecule Characterization and Mapping**|Benjamin R. Ecclestone et.al.|[2506.20069](http://arxiv.org/abs/2506.20069)|null|
 |**2025-06-24**|**Video Compression for Spatiotemporal Earth System Data**|Oscar J. Pellicer-Valero et.al.|[2506.19656](http://arxiv.org/abs/2506.19656)|null|
 |**2025-06-24**|**Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications**|Lujun Li et.al.|[2506.19591](http://arxiv.org/abs/2506.19591)|null|

@@ -1320,7 +1320,7 @@ layout: default
 |**2025-06-20**|**PET Tracer Separation Using Conditional Diffusion Transformer with Multi-latent Space Learning**|Bin Huang et.al.|[2506.16934](http://arxiv.org/abs/2506.16934)|null|
 |**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
 |**2025-06-19**|**MetaQAP -- A Meta-Learning Approach for Quality-Aware Pretraining in Image Quality Assessment**|Muhammad Azeem Aslam et.al.|[2506.16601](http://arxiv.org/abs/2506.16601)|null|
-|**2025-06-19**|**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates**|Chanung Park et.al.|[2506.16572](http://arxiv.org/abs/2506.16572)|null|
+|**2025-06-19**|**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates**|Chanung Park et.al.|[2506.16572](http://arxiv.org/abs/2506.16572)|**[link](https://github.com/freemasti/diffo)**|
 |**2025-06-19**|**Towards Bitrate-Efficient and Noise-Robust Speech Coding with Variable Bitrate RVQ**|Yunkee Chae et.al.|[2506.16538](http://arxiv.org/abs/2506.16538)|null|
 |**2025-06-19**|**Data Compression with Relative Entropy Coding**|Gergely Flamich et.al.|[2506.16309](http://arxiv.org/abs/2506.16309)|null|
 |**2025-06-19**|**Active MRI Acquisition with Diffusion Guided Bayesian Experimental Design**|Jacopo Iollo et.al.|[2506.16237](http://arxiv.org/abs/2506.16237)|null|
@@ -1329,7 +1329,7 @@ layout: default
 |**2025-06-19**|**Enhanced Dermatology Image Quality Assessment via Cross-Domain Training**|Ignacio Hernández Montilla et.al.|[2506.16116](http://arxiv.org/abs/2506.16116)|null|
 |**2025-06-19**|**Fast Training-free Perceptual Image Compression**|Ziran Zhu et.al.|[2506.16102](http://arxiv.org/abs/2506.16102)|null|
 |**2025-06-19**|**STAR-Pose: Efficient Low-Resolution Video Human Pose Estimation via Spatial-Temporal Adaptive Super-Resolution**|Yucheng Jin et.al.|[2506.16061](http://arxiv.org/abs/2506.16061)|null|
-|**2025-06-19**|**Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization**|Cong Wang et.al.|[2506.15980](http://arxiv.org/abs/2506.15980)|null|
+|**2025-06-19**|**Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization**|Cong Wang et.al.|[2506.15980](http://arxiv.org/abs/2506.15980)|**[link](https://github.com/umnooob/signvip)**|
 |**2025-06-19**|**CORAL: Disentangling Latent Representations in Long-Tailed Diffusion**|Esther Rodriguez et.al.|[2506.15933](http://arxiv.org/abs/2506.15933)|null|
 |**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645](http://arxiv.org/abs/2506.15645)|null|
 |**2025-06-20**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|**[link](https://github.com/yjsunnn/dloral)**|
@@ -1343,12 +1343,12 @@ layout: default
 |**2025-06-17**|**A Comparative Evaluation of Deep Learning Models for Speech Enhancement in Real-World Noisy Environments**|Md Jahangir Alam Khondkar et.al.|[2506.15000](http://arxiv.org/abs/2506.15000)|**[link](https://github.com/jahangirkhondkar/dl_speechenhancementtoolkit)**|
 |**2025-06-17**|**Improved Image Reconstruction and Diffusion Parameter Estimation Using a Temporal Convolutional Network Model of Gradient Trajectory Errors**|Jonathan B. Martin et.al.|[2506.14995](http://arxiv.org/abs/2506.14995)|**[link](https://github.com/jonbmartin/tcn_gradient_prediction)**|
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719](http://arxiv.org/abs/2506.14719)|null|
-|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|**[link](https://github.com/yukexing/3dgs-ieval-15k)**|
 |**2025-06-17**|**QUEST: Quality-aware Semi-supervised Table Extraction for Business Documents**|Eliott Thomas et.al.|[2506.14568](http://arxiv.org/abs/2506.14568)|null|
-|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
+|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|**[link](https://github.com/nysp78/counterfactual-video-generation)**|
 |**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
 |**2025-06-18**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315](http://arxiv.org/abs/2506.14315)|null|
-|**2025-06-17**|**Quality Assessment of Python Tests Generated by Large Language Models**|Victor Alves et.al.|[2506.14297](http://arxiv.org/abs/2506.14297)|null|
+|**2025-06-17**|**Quality Assessment of Python Tests Generated by Large Language Models**|Victor Alves et.al.|[2506.14297](http://arxiv.org/abs/2506.14297)|**[link](https://github.com/ovictorpa/llms-research)**|
 |**2025-06-17**|**synth-dacl: Does Synthetic Defect Data Enhance Segmentation Accuracy and Robustness for Real-World Bridge Inspections?**|Johannes Flotzinger et.al.|[2506.14255](http://arxiv.org/abs/2506.14255)|null|
 |**2025-06-17**|**MAS-LitEval : Multi-Agent System for Literary Translation Quality Assessment**|Junghwan Kim et.al.|[2506.14199](http://arxiv.org/abs/2506.14199)|null|
 |**2025-06-17**|**Breaking the Multi-Enhancement Bottleneck: Domain-Consistent Quality Enhancement for Compressed Images**|Qunliang Xing et.al.|[2506.14152](http://arxiv.org/abs/2506.14152)|null|
@@ -1367,7 +1367,7 @@ layout: default
 |**2025-06-13**|**SphereDrag: Spherical Geometry-Aware Panoramic Image Editing**|Zhiao Feng et.al.|[2506.11863](http://arxiv.org/abs/2506.11863)|null|
 |**2025-06-13**|**Fast MRI of bones in the knee -- An AI-driven reconstruction approach for adiabatic inversion recovery prepared ultra-short echo time sequences**|Philipp Hans Nunn et.al.|[2506.11771](http://arxiv.org/abs/2506.11771)|null|
 |**2025-06-13**|**EyeSim-VQA: A Free-Energy-Guided Eye Simulation Framework for Video Quality Assessment**|Zhaoyang Wang et.al.|[2506.11549](http://arxiv.org/abs/2506.11549)|null|
-|**2025-06-13**|**CGVQM+D: Computer Graphics Video Quality Metric and Dataset**|Akshay Jindal et.al.|[2506.11546](http://arxiv.org/abs/2506.11546)|null|
+|**2025-06-13**|**CGVQM+D: Computer Graphics Video Quality Metric and Dataset**|Akshay Jindal et.al.|[2506.11546](http://arxiv.org/abs/2506.11546)|**[link](https://github.com/intellabs/cgvqm)**|
 |**2025-06-13**|**Efficient Speech Enhancement via Embeddings from Pre-trained Generative Audioencoders**|Xingwei Sun et.al.|[2506.11514](http://arxiv.org/abs/2506.11514)|**[link](https://github.com/xiaomi-research/dasheng-denoiser)**|
 |**2025-06-13**|**Taming Stable Diffusion for Computed Tomography Blind Super-Resolution**|Chunlei Li et.al.|[2506.11496](http://arxiv.org/abs/2506.11496)|null|
 |**2025-06-13**|**Byzantine Outside, Curious Inside: Reconstructing Data Through Malicious Updates**|Kai Yue et.al.|[2506.11413](http://arxiv.org/abs/2506.11413)|null|
@@ -1438,7 +1438,7 @@ layout: default
 |**2025-06-05**|**Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining**|Yong Sun et.al.|[2506.04950](http://arxiv.org/abs/2506.04950)|null|
 |**2025-06-05**|**Deep learning image burst stacking to reconstruct high-resolution ground-based solar observations**|Christoph Schirninger et.al.|[2506.04781](http://arxiv.org/abs/2506.04781)|null|
 |**2025-06-05**|**Physics Informed Capsule Enhanced Variational AutoEncoder for Underwater Image Enhancement**|Niki Martinel et.al.|[2506.04753](http://arxiv.org/abs/2506.04753)|null|
-|**2025-06-05**|**Towards Holistic Visual Quality Assessment of AI-Generated Videos: A LLM-Based Multi-Dimensional Evaluation Model**|Zelu Qi et.al.|[2506.04715](http://arxiv.org/abs/2506.04715)|null|
+|**2025-06-05**|**Towards Holistic Visual Quality Assessment of AI-Generated Videos: A LLM-Based Multi-Dimensional Evaluation Model**|Zelu Qi et.al.|[2506.04715](http://arxiv.org/abs/2506.04715)|**[link](https://github.com/qizelu/aigveval)**|
 |**2025-06-05**|**StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation**|Ranjith Merugu et.al.|[2506.04567](http://arxiv.org/abs/2506.04567)|**[link](https://github.com/statsmerging/statsmerging)**|
 |**2025-06-04**|**HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation**|Hermann Kumbong et.al.|[2506.04421](http://arxiv.org/abs/2506.04421)|null|
 |**2025-06-04**|**Fine-Tuning Video Transformers for Word-Level Bangla Sign Language: A Comparative Analysis for Classification Tasks**|Jubayer Ahmed Bhuiyan Shawon et.al.|[2506.04367](http://arxiv.org/abs/2506.04367)|null|
@@ -1531,7 +1531,7 @@ layout: default
 |**2025-05-27**|**Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution**|Minghao Han et.al.|[2505.20984](http://arxiv.org/abs/2505.20984)|null|
 |**2025-05-28**|**Stereo Radargrammetry Using Deep Learning from Airborne SAR Images**|Tatsuya Sasayama et.al.|[2505.20876](http://arxiv.org/abs/2505.20876)|null|
 |**2025-05-27**|**Uni-VERSA: Versatile Speech Assessment with a Unified Network**|Jiatong Shi et.al.|[2505.20741](http://arxiv.org/abs/2505.20741)|null|
-|**2025-05-27**|**LeDiFlow: Learned Distribution-guided Flow Matching to Accelerate Image Generation**|Pascal Zwick et.al.|[2505.20723](http://arxiv.org/abs/2505.20723)|null|
+|**2025-05-27**|**LeDiFlow: Learned Distribution-guided Flow Matching to Accelerate Image Generation**|Pascal Zwick et.al.|[2505.20723](http://arxiv.org/abs/2505.20723)|**[link](https://github.com/fzi-forschungszentrum-informatik/lediflow)**|
 |**2025-05-27**|**Photography Perspective Composition: Towards Aesthetic Perspective Recommendation**|Lujian Yao et.al.|[2505.20655](http://arxiv.org/abs/2505.20655)|null|
 |**2025-05-27**|**InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling**|Xiaoxiao Jiang et.al.|[2505.20600](http://arxiv.org/abs/2505.20600)|null|
 |**2025-05-26**|**MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance**|Aniket Roy et.al.|[2505.20525](http://arxiv.org/abs/2505.20525)|null|
@@ -3089,7 +3089,7 @@ layout: default
 |**2024-10-07**|**Image Watermarks are Removable Using Controllable Regeneration from Clean Noise**|Yepeng Liu et.al.|[2410.05470](http://arxiv.org/abs/2410.05470)|**[link](https://github.com/yepengliu/ctrlregen)**|
 |**2024-10-07**|**SharpSLAM: 3D Object-Oriented Visual SLAM with Deblurring for Agile Drones**|Denis Davletshin et.al.|[2410.05405](http://arxiv.org/abs/2410.05405)|null|
 |**2024-10-07**|**Towards a Modern and Lightweight Rendering Engine for Dynamic Robotic Simulations**|Christopher John Allison et.al.|[2410.05095](http://arxiv.org/abs/2410.05095)|null|
-|**2024-10-07**|**Real-time cardiac cine MRI -- A comparison of a diffusion probabilistic model with alternative state-of-the-art image reconstruction techniques for undersampled spiral acquisitions**|Oliver Schad et.al.|[2410.04843](http://arxiv.org/abs/2410.04843)|null|
+|**2024-10-07**|**Real-time cardiac cine MRI -- A comparison of a diffusion probabilistic model with alternative state-of-the-art image reconstruction techniques for undersampled spiral acquisitions**|Oliver Schad et.al.|[2410.04843](http://arxiv.org/abs/2410.04843)|**[link](https://github.com/exprad/diffusion)**|
 |**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
 |**2024-10-07**|**Transforming Color: A Novel Image Colorization Method**|Hamza Shafiq et.al.|[2410.04799](http://arxiv.org/abs/2410.04799)|null|
 |**2024-10-07**|**CAR: Controllable Autoregressive Modeling for Visual Generation**|Ziyu Yao et.al.|[2410.04671](http://arxiv.org/abs/2410.04671)|**[link](https://github.com/miracledance/car)**|
@@ -4343,7 +4343,7 @@ layout: default
 |**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|**[link](https://github.com/microsoft/vsr-challenge)**|
 |**2025-06-13**|**Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution**|Zhangkai Ni et.al.|[2506.11823](http://arxiv.org/abs/2506.11823)|**[link](https://github.com/eezkni/ssiu)**|
 |**2025-06-13**|**MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution**|Linfeng He et.al.|[2506.11768](http://arxiv.org/abs/2506.11768)|null|
-|**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|null|
+|**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|**[link](https://github.com/norskregnesentral/difffusr)**|
 |**2025-06-13**|**FCA2: Frame Compression-Aware Autoencoder for Modular and Fast Compressed Video Super-Resolution**|Zhaoyang Wang et.al.|[2506.11545](http://arxiv.org/abs/2506.11545)|null|
 |**2025-06-13**|**Joint Angle and Velocity-Estimation for Target Localization in Bistatic mmWave MIMO Radar in the Presence of Clutter**|Priyanka Maity et.al.|[2506.11497](http://arxiv.org/abs/2506.11497)|null|
 |**2025-06-13**|**Taming Stable Diffusion for Computed Tomography Blind Super-Resolution**|Chunlei Li et.al.|[2506.11496](http://arxiv.org/abs/2506.11496)|null|

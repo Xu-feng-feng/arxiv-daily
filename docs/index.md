@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5602,7 +5602,7 @@ layout: default
 |**2025-06-26**|**Pushing Trade-Off Boundaries: Compact yet Effective Remote Sensing Change Detection**|Luosheng Xu et.al.|[2506.21109](http://arxiv.org/abs/2506.21109)|null|
 |**2025-06-25**|**Building Lightweight Semantic Segmentation Models for Aerial Images Using Dual Relation Distillation**|Minglong Li et.al.|[2506.20688](http://arxiv.org/abs/2506.20688)|null|
 |**2025-06-25**|**SFNet: Fusion of Spatial and Frequency-Domain Features for Remote Sensing Image Forgery Detection**|Ji Qi et.al.|[2506.20599](http://arxiv.org/abs/2506.20599)|null|
-|**2025-06-25**|**Probing Solar Polar Regions**|Yuanyong Deng et.al.|[2506.20502](http://arxiv.org/abs/2506.20502)|null|
+|**2025-06-28**|**Probing Solar Polar Regions**|Yuanyong Deng et.al.|[2506.20502](http://arxiv.org/abs/2506.20502)|null|
 |**2025-06-25**|**TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis**|Zhengpeng Feng et.al.|[2506.20380](http://arxiv.org/abs/2506.20380)|null|
 |**2025-06-25**|**Breaking Spatial Boundaries: Spectral-Domain Registration Guided Hyperspectral and Multispectral Blind Fusion**|Kunjing Yang et.al.|[2506.20293](http://arxiv.org/abs/2506.20293)|null|
 |**2025-06-26**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|

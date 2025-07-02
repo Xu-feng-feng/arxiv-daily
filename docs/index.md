@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1294,7 +1294,7 @@ layout: default
 |**2025-06-28**|**VSRM: A Robust Mamba-Based Framework for Video Super-Resolution**|Dinh Phu Tran et.al.|[2506.22762](http://arxiv.org/abs/2506.22762)|null|
 |**2025-06-28**|**Degradation-Modeled Multipath Diffusion for Tunable Metalens Photography**|Jianing Zhang et.al.|[2506.22753](http://arxiv.org/abs/2506.22753)|null|
 |**2025-06-27**|**High Resolution Isotropic 3D Cine imaging with Automated Segmentation using Concatenated 2D Real-time Imaging and Deep Learning**|Mark Wrobel et.al.|[2506.22532](http://arxiv.org/abs/2506.22532)|null|
-|**2025-06-30**|**Dehazing Light Microscopy Images with Guided Conditional Flow Matching: finding a sweet spot between fidelity and realism**|Anirban Ray et.al.|[2506.22397](http://arxiv.org/abs/2506.22397)|null|
+|**2025-07-01**|**Dehazing Light Microscopy Images with Guided Conditional Flow Matching: finding a sweet spot between fidelity and realism**|Anirban Ray et.al.|[2506.22397](http://arxiv.org/abs/2506.22397)|null|
 |**2025-06-27**|**DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model**|Yuliang Huang et.al.|[2506.22280](http://arxiv.org/abs/2506.22280)|null|
 |**2025-06-27**|**ReF-LLE: Personalized Low-Light Enhancement via Reference-Guided Deep Reinforcement Learning**|Ming Zhao et.al.|[2506.22216](http://arxiv.org/abs/2506.22216)|null|
 |**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|

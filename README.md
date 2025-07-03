@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Robust Multi-generation Learned Compression of Point Cloud Attribute**|Xiangzuo Liu et.al.|[2507.01320](http://arxiv.org/abs/2507.01320)|null|
 |**2025-06-28**|**Point Cloud Compression and Objective Quality Assessment: A Survey**|Yiling Xu et.al.|[2506.22902](http://arxiv.org/abs/2506.22902)|null|
 |**2025-06-27**|**Low-Rank Implicit Neural Representation via Schatten-p Quasi-Norm and Jacobian Regularization**|Zhengyun Cheng et.al.|[2506.22134](http://arxiv.org/abs/2506.22134)|null|
 |**2025-06-11**|**Generalized Gaussian Entropy Model for Point Cloud Attribute Compression with Dynamic Likelihood Intervals**|Changhao Peng et.al.|[2506.09510](http://arxiv.org/abs/2506.09510)|null|
@@ -265,6 +266,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Perception-Oriented Latent Coding for High-Performance Compressed Domain Semantic Inference**|Xu Zhang et.al.|[2507.01608](http://arxiv.org/abs/2507.01608)|null|
+|**2025-07-01**|**LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression**|Haotian Wu et.al.|[2507.01204](http://arxiv.org/abs/2507.01204)|null|
+|**2025-07-01**|**Tensor network methods for the Gross-Pitaevskii equation on fine grids**|Ryan J. J. Connor et.al.|[2507.01149](http://arxiv.org/abs/2507.01149)|null|
+|**2025-07-02**|**Customizable ROI-Based Deep Image Compression**|Jian Jin et.al.|[2507.00373](http://arxiv.org/abs/2507.00373)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
 |**2025-06-29**|**SIEDD: Shared-Implicit Encoder with Discrete Decoders**|Vikram Rangarajan et.al.|[2506.23382](http://arxiv.org/abs/2506.23382)|null|
 |**2025-06-28**|**A Novel Adaptive Low-Rank Matrix Approximation Method for Image Compression and Reconstruction**|Weiwei Xu et.al.|[2506.22713](http://arxiv.org/abs/2506.22713)|null|
@@ -1287,6 +1292,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices**|Hailong Yan et.al.|[2507.01838](http://arxiv.org/abs/2507.01838)|null|
+|**2025-07-02**|**Enhancing Multi-Exposure High Dynamic Range Imaging with Overlapped Codebook for Improved Representation Learning**|Keuntek Lee et.al.|[2507.01588](http://arxiv.org/abs/2507.01588)|null|
+|**2025-07-02**|**ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation**|Jimyeong Kim et.al.|[2507.01496](http://arxiv.org/abs/2507.01496)|null|
+|**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
+|**2025-07-02**|**Robust Brain Tumor Segmentation with Incomplete MRI Modalities Using Hölder Divergence and Mutual Information-Enhanced Knowledge Transfer**|Runze Cheng et.al.|[2507.01254](http://arxiv.org/abs/2507.01254)|null|
+|**2025-07-01**|**Empirical Analysis Of Heuristic and Approximation Algorithms for the The Mutual-Visibility Problem**|Vanja Stojanović et.al.|[2507.01076](http://arxiv.org/abs/2507.01076)|null|
+|**2025-07-01**|**Diffusion Classifier Guidance for Non-robust Classifiers**|Philipp Vaeth et.al.|[2507.00687](http://arxiv.org/abs/2507.00687)|null|
+|**2025-07-01**|**Mind the Detail: Uncovering Clinically Relevant Image Details in Accelerated MRI with Semantically Diverse Reconstructions**|Jan Nikolas Morshuis et.al.|[2507.00670](http://arxiv.org/abs/2507.00670)|null|
+|**2025-07-01**|**MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentationin 4D Ultrasound**|Rusi Chen et.al.|[2507.00660](http://arxiv.org/abs/2507.00660)|null|
+|**2025-07-01**|**Integration of quantum random number generators with post-quantum cryptography algorithms**|Paula Alonso Blanco et.al.|[2507.00658](http://arxiv.org/abs/2507.00658)|null|
+|**2025-07-01**|**Physics-Informed Neural ODEs for Temporal Dynamics Modeling in Cardiac T1 Mapping**|Nuno Capitão et.al.|[2507.00613](http://arxiv.org/abs/2507.00613)|null|
+|**2025-07-01**|**Latent Posterior-Mean Rectified Flow for Higher-Fidelity Perceptual Face Restoration**|Xin Luo et.al.|[2507.00447](http://arxiv.org/abs/2507.00447)|null|
+|**2025-07-01**|**MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis**|Jianhao Xie et.al.|[2507.00377](http://arxiv.org/abs/2507.00377)|null|
+|**2025-07-01**|**GDGS: 3D Gaussian Splatting Via Geometry-Guided Initialization And Dynamic Density Control**|Xingjun Wang et.al.|[2507.00363](http://arxiv.org/abs/2507.00363)|null|
+|**2025-06-30**|**A High-Fidelity Speech Super Resolution Network using a Complex Global Attention Module with Spectro-Temporal Loss**|Tarikul Islam Tamiti et.al.|[2507.00229](http://arxiv.org/abs/2507.00229)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
@@ -4364,6 +4384,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Efficient Kilometer-Scale Precipitation Downscaling with Conditional Wavelet Diffusion**|Chugang Yi et.al.|[2507.01354](http://arxiv.org/abs/2507.01354)|null|
+|**2025-07-01**|**DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution**|Zhe Kong et.al.|[2507.01012](http://arxiv.org/abs/2507.01012)|null|
+|**2025-07-01**|**Guided Unconditional and Conditional Generative Models for Super-Resolution and Inference of Quasi-Geostrophic Turbulence**|Anantha Narayanan Suresh Babu et.al.|[2507.00719](http://arxiv.org/abs/2507.00719)|null|
+|**2025-07-01**|**Design of meta-surface lens integrated with pupil filter**|Runhui Zhong et.al.|[2507.00381](http://arxiv.org/abs/2507.00381)|null|
+|**2025-06-30**|**A High-Fidelity Speech Super Resolution Network using a Complex Global Attention Module with Spectro-Temporal Loss**|Tarikul Islam Tamiti et.al.|[2507.00229](http://arxiv.org/abs/2507.00229)|null|
+|**2025-06-30**|**SurgiSR4K: A High-Resolution Endoscopic Video Dataset for Robotic-Assisted Minimally Invasive Procedures**|Fengyi Jiang et.al.|[2507.00209](http://arxiv.org/abs/2507.00209)|null|
 |**2025-06-30**|**Simultaneous Super-Resolution of Spatial and Spectral Imaging with a Camera Array and Notch Filters**|Peng Lin et.al.|[2506.24014](http://arxiv.org/abs/2506.24014)|null|
 |**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801](http://arxiv.org/abs/2506.23801)|null|
 |**2025-06-30**|**TurboVSR: Fantastic Video Upscalers and Where to Find Them**|Zhongdao Wang et.al.|[2506.23618](http://arxiv.org/abs/2506.23618)|null|
@@ -5640,6 +5666,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**SSL4SAR: Self-Supervised Learning for Glacier Calving Front Extraction from SAR Imagery**|Nora Gourmelon et.al.|[2507.01747](http://arxiv.org/abs/2507.01747)|null|
+|**2025-07-02**|**A Gift from the Integration of Discriminative and Diffusion-based Generative Learning: Boundary Refinement Remote Sensing Semantic Segmentation**|Hao Wang et.al.|[2507.01573](http://arxiv.org/abs/2507.01573)|null|
+|**2025-07-02**|**AI and Remote Sensing for Resilient and Sustainable Built Environments: A Review of Current Methods, Open Data and Future Directions**|Ubada El Joulani et.al.|[2507.01547](http://arxiv.org/abs/2507.01547)|null|
+|**2025-07-02**|**Integrating Traditional and Deep Learning Methods to Detect Tree Crowns in Satellite Images**|Ozan Durgut et.al.|[2507.01502](http://arxiv.org/abs/2507.01502)|null|
+|**2025-07-02**|**Advancements in Weed Mapping: A Systematic Review**|Mohammad Jahanbakht et.al.|[2507.01269](http://arxiv.org/abs/2507.01269)|null|
+|**2025-07-01**|**Type-1.5 SNSPD: Interacting vortex theory of two bandgap superconducting single photon detectors**|Leif Bauer et.al.|[2507.01240](http://arxiv.org/abs/2507.01240)|null|
+|**2025-07-01**|**Landslide Detection and Mapping Using Deep Learning Across Multi-Source Satellite Data and Geographic Regions**|Rahul A. Burange et.al.|[2507.01123](http://arxiv.org/abs/2507.01123)|null|
+|**2025-07-01**|**CGEarthEye:A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation**|Zhiwei Yi et.al.|[2507.00356](http://arxiv.org/abs/2507.00356)|null|
+|**2025-06-30**|**SelvaBox: A high-resolution dataset for tropical tree crown detection**|Hugo Baudchon et.al.|[2507.00170](http://arxiv.org/abs/2507.00170)|null|
 |**2025-06-30**|**Predicting Instabilities in Transient Landforms and Interconnected Ecosystems**|Taylor Smith et.al.|[2506.23946](http://arxiv.org/abs/2506.23946)|null|
 |**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801](http://arxiv.org/abs/2506.23801)|null|
 |**2025-06-30**|**Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution**|Luigi Sigillo et.al.|[2506.23566](http://arxiv.org/abs/2506.23566)|null|

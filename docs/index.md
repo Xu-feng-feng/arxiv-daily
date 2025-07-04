@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -260,7 +260,7 @@ layout: default
 |**2025-07-02**|**Perception-Oriented Latent Coding for High-Performance Compressed Domain Semantic Inference**|Xu Zhang et.al.|[2507.01608](http://arxiv.org/abs/2507.01608)|null|
 |**2025-07-01**|**LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression**|Haotian Wu et.al.|[2507.01204](http://arxiv.org/abs/2507.01204)|null|
 |**2025-07-01**|**Tensor network methods for the Gross-Pitaevskii equation on fine grids**|Ryan J. J. Connor et.al.|[2507.01149](http://arxiv.org/abs/2507.01149)|null|
-|**2025-07-02**|**Customizable ROI-Based Deep Image Compression**|Jian Jin et.al.|[2507.00373](http://arxiv.org/abs/2507.00373)|null|
+|**2025-07-03**|**Customizable ROI-Based Deep Image Compression**|Jian Jin et.al.|[2507.00373](http://arxiv.org/abs/2507.00373)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
 |**2025-06-29**|**SIEDD: Shared-Implicit Encoder with Discrete Decoders**|Vikram Rangarajan et.al.|[2506.23382](http://arxiv.org/abs/2506.23382)|null|
 |**2025-06-28**|**A Novel Adaptive Low-Rank Matrix Approximation Method for Image Compression and Reconstruction**|Weiwei Xu et.al.|[2506.22713](http://arxiv.org/abs/2506.22713)|null|
@@ -1289,7 +1289,7 @@ layout: default
 |**2025-07-01**|**Empirical Analysis Of Heuristic and Approximation Algorithms for the The Mutual-Visibility Problem**|Vanja Stojanović et.al.|[2507.01076](http://arxiv.org/abs/2507.01076)|null|
 |**2025-07-01**|**Diffusion Classifier Guidance for Non-robust Classifiers**|Philipp Vaeth et.al.|[2507.00687](http://arxiv.org/abs/2507.00687)|null|
 |**2025-07-01**|**Mind the Detail: Uncovering Clinically Relevant Image Details in Accelerated MRI with Semantically Diverse Reconstructions**|Jan Nikolas Morshuis et.al.|[2507.00670](http://arxiv.org/abs/2507.00670)|null|
-|**2025-07-01**|**MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentationin 4D Ultrasound**|Rusi Chen et.al.|[2507.00660](http://arxiv.org/abs/2507.00660)|null|
+|**2025-07-03**|**MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentationin 4D Ultrasound**|Rusi Chen et.al.|[2507.00660](http://arxiv.org/abs/2507.00660)|null|
 |**2025-07-01**|**Integration of quantum random number generators with post-quantum cryptography algorithms**|Paula Alonso Blanco et.al.|[2507.00658](http://arxiv.org/abs/2507.00658)|null|
 |**2025-07-01**|**Physics-Informed Neural ODEs for Temporal Dynamics Modeling in Cardiac T1 Mapping**|Nuno Capitão et.al.|[2507.00613](http://arxiv.org/abs/2507.00613)|null|
 |**2025-07-01**|**Latent Posterior-Mean Rectified Flow for Higher-Fidelity Perceptual Face Restoration**|Xin Luo et.al.|[2507.00447](http://arxiv.org/abs/2507.00447)|null|
@@ -1300,7 +1300,7 @@ layout: default
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
 |**2025-06-30**|**URGENT-PK: Perceptually-Aligned Ranking Model Designed for Speech Enhancement Competition**|Jiahe Wang et.al.|[2506.23874](http://arxiv.org/abs/2506.23874)|null|
-|**2025-06-30**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
+|**2025-07-03**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
 |**2025-06-30**|**Transition Matching: Scalable and Flexible Generative Modeling**|Neta Shaul et.al.|[2506.23589](http://arxiv.org/abs/2506.23589)|null|
 |**2025-06-30**|**Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution**|Luigi Sigillo et.al.|[2506.23566](http://arxiv.org/abs/2506.23566)|null|
 |**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484](http://arxiv.org/abs/2506.23484)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -260,7 +260,7 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Compression
 
@@ -269,7 +269,7 @@
 |**2025-07-02**|**Perception-Oriented Latent Coding for High-Performance Compressed Domain Semantic Inference**|Xu Zhang et.al.|[2507.01608](http://arxiv.org/abs/2507.01608)|null|
 |**2025-07-01**|**LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression**|Haotian Wu et.al.|[2507.01204](http://arxiv.org/abs/2507.01204)|null|
 |**2025-07-01**|**Tensor network methods for the Gross-Pitaevskii equation on fine grids**|Ryan J. J. Connor et.al.|[2507.01149](http://arxiv.org/abs/2507.01149)|null|
-|**2025-07-02**|**Customizable ROI-Based Deep Image Compression**|Jian Jin et.al.|[2507.00373](http://arxiv.org/abs/2507.00373)|null|
+|**2025-07-03**|**Customizable ROI-Based Deep Image Compression**|Jian Jin et.al.|[2507.00373](http://arxiv.org/abs/2507.00373)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
 |**2025-06-29**|**SIEDD: Shared-Implicit Encoder with Discrete Decoders**|Vikram Rangarajan et.al.|[2506.23382](http://arxiv.org/abs/2506.23382)|null|
 |**2025-06-28**|**A Novel Adaptive Low-Rank Matrix Approximation Method for Image Compression and Reconstruction**|Weiwei Xu et.al.|[2506.22713](http://arxiv.org/abs/2506.22713)|null|
@@ -1286,7 +1286,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -1300,7 +1300,7 @@
 |**2025-07-01**|**Empirical Analysis Of Heuristic and Approximation Algorithms for the The Mutual-Visibility Problem**|Vanja Stojanović et.al.|[2507.01076](http://arxiv.org/abs/2507.01076)|null|
 |**2025-07-01**|**Diffusion Classifier Guidance for Non-robust Classifiers**|Philipp Vaeth et.al.|[2507.00687](http://arxiv.org/abs/2507.00687)|null|
 |**2025-07-01**|**Mind the Detail: Uncovering Clinically Relevant Image Details in Accelerated MRI with Semantically Diverse Reconstructions**|Jan Nikolas Morshuis et.al.|[2507.00670](http://arxiv.org/abs/2507.00670)|null|
-|**2025-07-01**|**MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentationin 4D Ultrasound**|Rusi Chen et.al.|[2507.00660](http://arxiv.org/abs/2507.00660)|null|
+|**2025-07-03**|**MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentationin 4D Ultrasound**|Rusi Chen et.al.|[2507.00660](http://arxiv.org/abs/2507.00660)|null|
 |**2025-07-01**|**Integration of quantum random number generators with post-quantum cryptography algorithms**|Paula Alonso Blanco et.al.|[2507.00658](http://arxiv.org/abs/2507.00658)|null|
 |**2025-07-01**|**Physics-Informed Neural ODEs for Temporal Dynamics Modeling in Cardiac T1 Mapping**|Nuno Capitão et.al.|[2507.00613](http://arxiv.org/abs/2507.00613)|null|
 |**2025-07-01**|**Latent Posterior-Mean Rectified Flow for Higher-Fidelity Perceptual Face Restoration**|Xin Luo et.al.|[2507.00447](http://arxiv.org/abs/2507.00447)|null|
@@ -1311,7 +1311,7 @@
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
 |**2025-06-30**|**URGENT-PK: Perceptually-Aligned Ranking Model Designed for Speech Enhancement Competition**|Jiahe Wang et.al.|[2506.23874](http://arxiv.org/abs/2506.23874)|null|
-|**2025-06-30**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
+|**2025-07-03**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
 |**2025-06-30**|**Transition Matching: Scalable and Flexible Generative Modeling**|Neta Shaul et.al.|[2506.23589](http://arxiv.org/abs/2506.23589)|null|
 |**2025-06-30**|**Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution**|Luigi Sigillo et.al.|[2506.23566](http://arxiv.org/abs/2506.23566)|null|
 |**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484](http://arxiv.org/abs/2506.23484)|null|
@@ -4378,7 +4378,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -5660,7 +5660,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -7224,7 +7224,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

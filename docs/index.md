@@ -257,6 +257,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-29**|**Closed-Form Robustness Bounds for Second-Order Pruning of Neural Controller Policies**|Maksym Shamrai et.al.|[2507.02953](http://arxiv.org/abs/2507.02953)|null|
 |**2025-07-02**|**Generative Latent Diffusion for Efficient Spatiotemporal Data Reduction**|Xiao Li et.al.|[2507.02129](http://arxiv.org/abs/2507.02129)|null|
 |**2025-07-02**|**Perception-Oriented Latent Coding for High-Performance Compressed Domain Semantic Inference**|Xu Zhang et.al.|[2507.01608](http://arxiv.org/abs/2507.01608)|null|
 |**2025-07-01**|**LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression**|Haotian Wu et.al.|[2507.01204](http://arxiv.org/abs/2507.01204)|null|
@@ -1282,6 +1283,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**SegmentDreamer: Towards High-fidelity Text-to-3D Synthesis with Segmented Consistency Trajectory Distillation**|Jiahao Zhu et.al.|[2507.05256](http://arxiv.org/abs/2507.05256)|null|
+|**2025-07-07**|**In-Context Learning as an Effective Estimator of Functional Correctness of LLM-Generated Code**|Susmita Das et.al.|[2507.05200](http://arxiv.org/abs/2507.05200)|null|
+|**2025-07-07**|**SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**|Chun Xie et.al.|[2507.05148](http://arxiv.org/abs/2507.05148)|null|
+|**2025-07-07**|**Taming the Tri-Space Tension: ARC-Guided Hallucination Modeling and Control for Text-to-Image Generation**|Jianjiang Yang et.al.|[2507.04946](http://arxiv.org/abs/2507.04946)|null|
+|**2025-07-07**|**HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding**|Yuxuan Cai et.al.|[2507.04909](http://arxiv.org/abs/2507.04909)|null|
+|**2025-07-07**|**Efficacy of Image Similarity as a Metric for Augmenting Small Dataset Retinal Image Segmentation**|Thomas Wallace et.al.|[2507.04862](http://arxiv.org/abs/2507.04862)|null|
+|**2025-07-07**|**Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations**|Yuji Wang et.al.|[2507.04705](http://arxiv.org/abs/2507.04705)|null|
+|**2025-07-07**|**Quantitative Single-particle Profiling of Extracellular Vesicles via Fluorescent Nanoparticle Tracking Analysis**|Yiting Liu et.al.|[2507.04655](http://arxiv.org/abs/2507.04655)|null|
+|**2025-07-07**|**Introduction to the China Space Station Telescope (CSST)**|CSST Collaboration et.al.|[2507.04618](http://arxiv.org/abs/2507.04618)|null|
+|**2025-07-06**|**TeleSim: A Network-Aware Testbed and Benchmark Dataset for Telerobotic Applications**|Zexin Deng et.al.|[2507.04425](http://arxiv.org/abs/2507.04425)|null|
+|**2025-07-06**|**DMAT: An End-to-End Framework for Joint Atmospheric Turbulence Mitigation and Object Detection**|Paul Hill et.al.|[2507.04323](http://arxiv.org/abs/2507.04323)|null|
+|**2025-07-06**|**Towards Lightest Low-Light Image Enhancement Architecture for Mobile Devices**|Guangrui Bai et.al.|[2507.04277](http://arxiv.org/abs/2507.04277)|null|
+|**2025-07-06**|**Siberian radioheliograph image classification using ensemble of CLIP, EfficientNet and CatBoost models**|Yaroslav Egorov et.al.|[2507.04211](http://arxiv.org/abs/2507.04211)|null|
+|**2025-07-05**|**Towards Spatially-Varying Gain and Binning**|Anqi Yang et.al.|[2507.04190](http://arxiv.org/abs/2507.04190)|null|
+|**2025-07-05**|**A3FR: Agile 3D Gaussian Splatting with Incremental Gaze Tracked Foveated Rendering in Virtual Reality**|Shuo Xin et.al.|[2507.04147](http://arxiv.org/abs/2507.04147)|null|
+|**2025-07-05**|**MMMOS: Multi-domain Multi-axis Audio Quality Assessment**|Yi-Cheng Lin et.al.|[2507.04094](http://arxiv.org/abs/2507.04094)|null|
+|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
+|**2025-07-05**|**LEHA-CVQAD: Dataset To Enable Generalized Video Quality Assessment of Compression Artifacts**|Aleksandr Gushchin et.al.|[2507.03990](http://arxiv.org/abs/2507.03990)|null|
+|**2025-07-04**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
+|**2025-07-04**|**TACOS: Open Tagging and Comparative Scoring for Instruction Fine-Tuning Data Selection**|Xixiang He et.al.|[2507.03673](http://arxiv.org/abs/2507.03673)|null|
 |**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
 |**2025-07-03**|**CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation**|Xiangyang Luo et.al.|[2507.02691](http://arxiv.org/abs/2507.02691)|null|
 |**2025-07-03**|**Medical Data Pecking: A Context-Aware Approach for Automated Quality Evaluation of Structured Medical Data**|Irena Girshovitz et.al.|[2507.02628](http://arxiv.org/abs/2507.02628)|null|
@@ -4379,6 +4400,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**RainShift: A Benchmark for Precipitation Downscaling Across Geographies**|Paula Harder et.al.|[2507.04930](http://arxiv.org/abs/2507.04930)|null|
+|**2025-07-06**|**Quick Bypass Mechanism of Zero-Shot Diffusion-Based Image Restoration**|Yu-Shan Tai et.al.|[2507.04207](http://arxiv.org/abs/2507.04207)|null|
+|**2025-07-05**|**PromptSR: Cascade Prompting for Lightweight Image Super-Resolution**|Wenyang Liu et.al.|[2507.04118](http://arxiv.org/abs/2507.04118)|null|
+|**2025-07-05**|**Atmospheric Turbulence-Resilient Long-Range Fourier Ptychography**|Junhao Zhang et.al.|[2507.03943](http://arxiv.org/abs/2507.03943)|null|
+|**2025-07-04**|**F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding**|Jianxin Sun et.al.|[2507.03836](http://arxiv.org/abs/2507.03836)|null|
+|**2025-07-04**|**Super-resolution of turbulent velocity fields in two-way coupled particle-laden flows**|Ali Shamooni et.al.|[2507.03567](http://arxiv.org/abs/2507.03567)|null|
 |**2025-07-02**|**Efficient Kilometer-Scale Precipitation Downscaling with Conditional Wavelet Diffusion**|Chugang Yi et.al.|[2507.01354](http://arxiv.org/abs/2507.01354)|null|
 |**2025-07-01**|**DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution**|Zhe Kong et.al.|[2507.01012](http://arxiv.org/abs/2507.01012)|null|
 |**2025-07-01**|**Guided Unconditional and Conditional Generative Models for Super-Resolution and Inference of Quasi-Geostrophic Turbulence**|Anantha Narayanan Suresh Babu et.al.|[2507.00719](http://arxiv.org/abs/2507.00719)|null|
@@ -5659,6 +5686,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189](http://arxiv.org/abs/2507.05189)|null|
+|**2025-07-07**|**Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing**|Colin Laganier et.al.|[2507.04842](http://arxiv.org/abs/2507.04842)|null|
+|**2025-07-07**|**ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing**|Zhenghui Zhao et.al.|[2507.04678](http://arxiv.org/abs/2507.04678)|null|
+|**2025-07-07**|**VectorLLM: Human-like Extraction of Structured Building Contours vis Multimodal LLMs**|Tao Zhang et.al.|[2507.04664](http://arxiv.org/abs/2507.04664)|null|
+|**2025-07-07**|**Comprehensive Modeling of Camera Spectral and Color Behavior**|Sanush K Abeysekera et.al.|[2507.04617](http://arxiv.org/abs/2507.04617)|null|
+|**2025-07-06**|**Dynamic Frequency Feature Fusion Network for Multi-Source Remote Sensing Data Classification**|Yikang Zhao et.al.|[2507.04510](http://arxiv.org/abs/2507.04510)|null|
+|**2025-07-06**|**MVNet: Hyperspectral Remote Sensing Image Classification Based on Hybrid Mamba-Transformer Vision Backbone Architecture**|Guandong Li et.al.|[2507.04409](http://arxiv.org/abs/2507.04409)|null|
+|**2025-07-06**|**RegistrationMamba: A Mamba-based Registration Framework Integrating Multi-Expert Feature Learning for Cross-Modal Remote Sensing Images**|Wei Wang et.al.|[2507.04397](http://arxiv.org/abs/2507.04397)|null|
+|**2025-07-06**|**Time2Agri: Temporal Pretext Tasks for Agricultural Monitoring**|Moti Rattan Gupta et.al.|[2507.04366](http://arxiv.org/abs/2507.04366)|null|
+|**2025-07-05**|**Habitat Classification from Ground-Level Imagery Using Deep Neural Networks**|Hongrui Shi et.al.|[2507.04017](http://arxiv.org/abs/2507.04017)|null|
+|**2025-07-04**|**Detecting alien living worlds and photosynthetic life using imaging polarimetry with the HWO coronagraph**|Svetlana Berdyugina et.al.|[2507.03819](http://arxiv.org/abs/2507.03819)|null|
+|**2025-07-04**|**Information-Bottleneck Driven Binary Neural Network for Change Detection**|Kaijie Yin et.al.|[2507.03504](http://arxiv.org/abs/2507.03504)|null|
+|**2025-07-04**|**Be the Change You Want to See: Revisiting Remote Sensing Change Detection Practices**|Blaž Rolih et.al.|[2507.03367](http://arxiv.org/abs/2507.03367)|null|
 |**2025-07-03**|**ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation**|Hanbo Bi et.al.|[2507.02294](http://arxiv.org/abs/2507.02294)|null|
 |**2025-07-03**|**Cross-domain Hyperspectral Image Classification based on Bi-directional Domain Adaptation**|Yuxiang Zhang et.al.|[2507.02268](http://arxiv.org/abs/2507.02268)|null|
 |**2025-07-02**|**SSL4SAR: Self-Supervised Learning for Glacier Calving Front Extraction from SAR Imagery**|Nora Gourmelon et.al.|[2507.01747](http://arxiv.org/abs/2507.01747)|null|

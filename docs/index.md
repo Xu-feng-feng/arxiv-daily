@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1300,8 +1300,8 @@ layout: default
 |**2025-07-05**|**A3FR: Agile 3D Gaussian Splatting with Incremental Gaze Tracked Foveated Rendering in Virtual Reality**|Shuo Xin et.al.|[2507.04147](http://arxiv.org/abs/2507.04147)|null|
 |**2025-07-05**|**MMMOS: Multi-domain Multi-axis Audio Quality Assessment**|Yi-Cheng Lin et.al.|[2507.04094](http://arxiv.org/abs/2507.04094)|null|
 |**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
-|**2025-07-05**|**LEHA-CVQAD: Dataset To Enable Generalized Video Quality Assessment of Compression Artifacts**|Aleksandr Gushchin et.al.|[2507.03990](http://arxiv.org/abs/2507.03990)|null|
-|**2025-07-04**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
+|**2025-07-08**|**LEHA-CVQAD: Dataset To Enable Generalized Video Quality Assessment of Compression Artifacts**|Aleksandr Gushchin et.al.|[2507.03990](http://arxiv.org/abs/2507.03990)|null|
+|**2025-07-08**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
 |**2025-07-04**|**TACOS: Open Tagging and Comparative Scoring for Instruction Fine-Tuning Data Selection**|Xixiang He et.al.|[2507.03673](http://arxiv.org/abs/2507.03673)|null|
 |**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
 |**2025-07-03**|**CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation**|Xiangyang Luo et.al.|[2507.02691](http://arxiv.org/abs/2507.02691)|null|
@@ -4411,7 +4411,7 @@ layout: default
 |**2025-07-01**|**Guided Unconditional and Conditional Generative Models for Super-Resolution and Inference of Quasi-Geostrophic Turbulence**|Anantha Narayanan Suresh Babu et.al.|[2507.00719](http://arxiv.org/abs/2507.00719)|null|
 |**2025-07-01**|**Design of meta-surface lens integrated with pupil filter**|Runhui Zhong et.al.|[2507.00381](http://arxiv.org/abs/2507.00381)|null|
 |**2025-06-30**|**A High-Fidelity Speech Super Resolution Network using a Complex Global Attention Module with Spectro-Temporal Loss**|Tarikul Islam Tamiti et.al.|[2507.00229](http://arxiv.org/abs/2507.00229)|null|
-|**2025-06-30**|**SurgiSR4K: A High-Resolution Endoscopic Video Dataset for Robotic-Assisted Minimally Invasive Procedures**|Fengyi Jiang et.al.|[2507.00209](http://arxiv.org/abs/2507.00209)|null|
+|**2025-07-07**|**SurgiSR4K: A High-Resolution Endoscopic Video Dataset for Robotic-Assisted Minimally Invasive Procedures**|Fengyi Jiang et.al.|[2507.00209](http://arxiv.org/abs/2507.00209)|null|
 |**2025-06-30**|**Simultaneous Super-Resolution of Spatial and Spectral Imaging with a Camera Array and Notch Filters**|Peng Lin et.al.|[2506.24014](http://arxiv.org/abs/2506.24014)|null|
 |**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801](http://arxiv.org/abs/2506.23801)|null|
 |**2025-06-30**|**TurboVSR: Fantastic Video Upscalers and Where to Find Them**|Zhongdao Wang et.al.|[2506.23618](http://arxiv.org/abs/2506.23618)|null|

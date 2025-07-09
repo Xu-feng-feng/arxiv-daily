@@ -266,6 +266,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Error Exponents for Quantum Packing Problems via An Operator Layer Cake Theorem**|Hao-Chung Cheng et.al.|[2507.06232](http://arxiv.org/abs/2507.06232)|null|
+|**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
 |**2025-06-29**|**Closed-Form Robustness Bounds for Second-Order Pruning of Neural Controller Policies**|Maksym Shamrai et.al.|[2507.02953](http://arxiv.org/abs/2507.02953)|null|
 |**2025-07-02**|**Generative Latent Diffusion for Efficient Spatiotemporal Data Reduction**|Xiao Li et.al.|[2507.02129](http://arxiv.org/abs/2507.02129)|null|
 |**2025-07-02**|**Perception-Oriented Latent Coding for High-Performance Compressed Domain Semantic Inference**|Xu Zhang et.al.|[2507.01608](http://arxiv.org/abs/2507.01608)|null|
@@ -1294,6 +1296,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
+|**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
+|**2025-07-08**|**Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**|Xintong Hu et.al.|[2507.06116](http://arxiv.org/abs/2507.06116)|null|
+|**2025-07-08**|**ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models**|Chihan Huang et.al.|[2507.06078](http://arxiv.org/abs/2507.06078)|null|
+|**2025-07-08**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion and End-To-End Registration**|Maximilian Tschuchnig et.al.|[2507.06067](http://arxiv.org/abs/2507.06067)|null|
+|**2025-07-08**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
+|**2025-07-08**|**Semantic Certainty Assessment in Vector Retrieval Systems: A Novel Framework for Embedding Quality Evaluation**|Y. Du et.al.|[2507.05933](http://arxiv.org/abs/2507.05933)|null|
+|**2025-07-08**|**Diffusion Dataset Condensation: Training Your Diffusion Model Faster with Less Data**|Rui Huang et.al.|[2507.05914](http://arxiv.org/abs/2507.05914)|null|
+|**2025-07-08**|**D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos**|Wenkang Zhang et.al.|[2507.05859](http://arxiv.org/abs/2507.05859)|null|
+|**2025-07-08**|**TalkFashion: Intelligent Virtual Try-On Assistant Based on Multimodal Large Language Model**|Yujie Hu et.al.|[2507.05790](http://arxiv.org/abs/2507.05790)|null|
+|**2025-07-08**|**Text-Guided Token Communication for Wireless Image Transmission**|Bole Liu et.al.|[2507.05781](http://arxiv.org/abs/2507.05781)|null|
+|**2025-07-08**|**MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos**|Rongsheng Wang et.al.|[2507.05675](http://arxiv.org/abs/2507.05675)|null|
+|**2025-07-08**|**Diffusion-Based Limited-Angle CT Reconstruction under Noisy Conditions**|Jiaqi Guo et.al.|[2507.05647](http://arxiv.org/abs/2507.05647)|null|
+|**2025-07-08**|**AdaptaGen: Domain-Specific Image Generation through Hierarchical Semantic Optimization Framework**|Suoxiang Zhang et.al.|[2507.05621](http://arxiv.org/abs/2507.05621)|null|
+|**2025-07-07**|**Conversational Education at Scale: A Multi-LLM Agent Workflow for Procedural Learning and Pedagogic Quality Assessment**|Jiahuan Pei et.al.|[2507.05528](http://arxiv.org/abs/2507.05528)|null|
+|**2025-07-07**|**LoomNet: Enhancing Multi-View Image Generation via Latent Space Weaving**|Giulio Federico et.al.|[2507.05499](http://arxiv.org/abs/2507.05499)|null|
+|**2025-07-07**|**Self-supervised Deep Learning for Denoising in Ultrasound Microvascular Imaging**|Lijie Huang et.al.|[2507.05451](http://arxiv.org/abs/2507.05451)|null|
+|**2025-07-07**|**Enhancing Underwater Images Using Deep Learning with Subjective Image Quality Integration**|Jose M. Montero et.al.|[2507.05393](http://arxiv.org/abs/2507.05393)|null|
 |**2025-07-07**|**SegmentDreamer: Towards High-fidelity Text-to-3D Synthesis with Segmented Consistency Trajectory Distillation**|Jiahao Zhu et.al.|[2507.05256](http://arxiv.org/abs/2507.05256)|null|
 |**2025-07-07**|**In-Context Learning as an Effective Estimator of Functional Correctness of LLM-Generated Code**|Susmita Das et.al.|[2507.05200](http://arxiv.org/abs/2507.05200)|null|
 |**2025-07-07**|**SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**|Chun Xie et.al.|[2507.05148](http://arxiv.org/abs/2507.05148)|null|
@@ -4413,6 +4433,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Kernel Density Steering: Inference-Time Scaling via Mode Seeking for Image Restoration**|Yuyang Hu et.al.|[2507.05604](http://arxiv.org/abs/2507.05604)|null|
 |**2025-07-07**|**RainShift: A Benchmark for Precipitation Downscaling Across Geographies**|Paula Harder et.al.|[2507.04930](http://arxiv.org/abs/2507.04930)|null|
 |**2025-07-06**|**Quick Bypass Mechanism of Zero-Shot Diffusion-Based Image Restoration**|Yu-Shan Tai et.al.|[2507.04207](http://arxiv.org/abs/2507.04207)|null|
 |**2025-07-05**|**PromptSR: Cascade Prompting for Lightweight Image Super-Resolution**|Wenyang Liu et.al.|[2507.04118](http://arxiv.org/abs/2507.04118)|null|
@@ -5701,6 +5722,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2507.06231](http://arxiv.org/abs/2507.06231)|null|
+|**2025-07-08**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999](http://arxiv.org/abs/2507.05999)|null|
+|**2025-07-08**|**On the Effectiveness of Methods and Metrics for Explainable AI in Remote Sensing Image Scene Classification**|Jonas Klotz et.al.|[2507.05916](http://arxiv.org/abs/2507.05916)|null|
+|**2025-07-08**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Xianzhi Ma et.al.|[2507.05887](http://arxiv.org/abs/2507.05887)|null|
+|**2025-07-08**|**DFYP: A Dynamic Fusion Framework with Spectral Channel Attention and Adaptive Operator learning for Crop Yield Prediction**|Juli Zhang et.al.|[2507.05849](http://arxiv.org/abs/2507.05849)|null|
+|**2025-07-07**|**From General to Specialized: The Need for Foundational Models in Agriculture**|Vishal Nedungadi et.al.|[2507.05390](http://arxiv.org/abs/2507.05390)|null|
 |**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189](http://arxiv.org/abs/2507.05189)|null|
 |**2025-07-07**|**Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing**|Colin Laganier et.al.|[2507.04842](http://arxiv.org/abs/2507.04842)|null|
 |**2025-07-07**|**ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing**|Zhenghui Zhao et.al.|[2507.04678](http://arxiv.org/abs/2507.04678)|null|

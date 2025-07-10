@@ -257,6 +257,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Assessing Learned Models for Phase-only Hologram Compression**|Zicong Peng et.al.|[2507.06646](http://arxiv.org/abs/2507.06646)|null|
+|**2025-07-08**|**Optimization of Fractal Image Compression**|Nastaran Pourshab et.al.|[2507.06325](http://arxiv.org/abs/2507.06325)|null|
 |**2025-07-08**|**Error Exponents for Quantum Packing Problems via An Operator Layer Cake Theorem**|Hao-Chung Cheng et.al.|[2507.06232](http://arxiv.org/abs/2507.06232)|null|
 |**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
 |**2025-06-29**|**Closed-Form Robustness Bounds for Second-Order Pruning of Neural Controller Policies**|Maksym Shamrai et.al.|[2507.02953](http://arxiv.org/abs/2507.02953)|null|
@@ -1285,6 +1287,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
+|**2025-07-09**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
+|**2025-07-09**|**Musical Source Separation Bake-Off: Comparing Objective Metrics with Human Perception**|Noah Jaffe et.al.|[2507.06917](http://arxiv.org/abs/2507.06917)|null|
+|**2025-07-09**|**Speckle2Self: Self-Supervised Ultrasound Speckle Reduction Without Clean Data**|Xuesong Li et.al.|[2507.06828](http://arxiv.org/abs/2507.06828)|null|
+|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-09**|**Better frame rates or better visuals? An early report of Esports player practice in Dota 2**|Arjun Madhusudan et.al.|[2507.06790](http://arxiv.org/abs/2507.06790)|null|
+|**2025-07-08**|**Deprecating Benchmarks: Criteria and Framework**|Ayrton San Joaquin et.al.|[2507.06434](http://arxiv.org/abs/2507.06434)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
 |**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
 |**2025-07-08**|**Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**|Xintong Hu et.al.|[2507.06116](http://arxiv.org/abs/2507.06116)|null|
@@ -4420,6 +4429,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
+|**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
+|**2025-07-09**|**COS2A: Conversion from Sentinel-2 to AVIRIS Hyperspectral Data Using Interpretable Algorithm With Spectral-Spatial Duality**|Chia-Hsiang Lin et.al.|[2507.06575](http://arxiv.org/abs/2507.06575)|null|
 |**2025-07-08**|**Kernel Density Steering: Inference-Time Scaling via Mode Seeking for Image Restoration**|Yuyang Hu et.al.|[2507.05604](http://arxiv.org/abs/2507.05604)|null|
 |**2025-07-07**|**RainShift: A Benchmark for Precipitation Downscaling Across Geographies**|Paula Harder et.al.|[2507.04930](http://arxiv.org/abs/2507.04930)|null|
 |**2025-07-06**|**Quick Bypass Mechanism of Zero-Shot Diffusion-Based Image Restoration**|Yu-Shan Tai et.al.|[2507.04207](http://arxiv.org/abs/2507.04207)|null|
@@ -5707,6 +5719,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**GreenHyperSpectra: A multi-source hyperspectral dataset for global vegetation trait prediction**|Eya Cherif et.al.|[2507.06806](http://arxiv.org/abs/2507.06806)|null|
+|**2025-07-09**|**COS2A: Conversion from Sentinel-2 to AVIRIS Hyperspectral Data Using Interpretable Algorithm With Spectral-Spatial Duality**|Chia-Hsiang Lin et.al.|[2507.06575](http://arxiv.org/abs/2507.06575)|null|
 |**2025-07-08**|**RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2507.06231](http://arxiv.org/abs/2507.06231)|null|
 |**2025-07-09**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999](http://arxiv.org/abs/2507.05999)|null|
 |**2025-07-08**|**On the Effectiveness of Methods and Metrics for Explainable AI in Remote Sensing Image Scene Classification**|Jonas Klotz et.al.|[2507.05916](http://arxiv.org/abs/2507.05916)|null|

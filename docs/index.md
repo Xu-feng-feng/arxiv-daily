@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -257,7 +257,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-10**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633](http://arxiv.org/abs/2507.07633)|null|
+|**2025-07-11**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633](http://arxiv.org/abs/2507.07633)|null|
 |**2025-07-09**|**Assessing Learned Models for Phase-only Hologram Compression**|Zicong Peng et.al.|[2507.06646](http://arxiv.org/abs/2507.06646)|null|
 |**2025-07-08**|**Optimization of Fractal Image Compression**|Nastaran Pourshab et.al.|[2507.06325](http://arxiv.org/abs/2507.06325)|null|
 |**2025-07-08**|**Error Exponents for Quantum Packing Problems via An Operator Layer Cake Theorem**|Hao-Chung Cheng et.al.|[2507.06232](http://arxiv.org/abs/2507.06232)|null|

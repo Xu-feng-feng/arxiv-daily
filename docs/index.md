@@ -1288,6 +1288,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**LLMCup: Ranking-Enhanced Comment Updating with LLMs**|Hua Ge et.al.|[2507.08671](http://arxiv.org/abs/2507.08671)|null|
+|**2025-07-11**|**Refraction corrected specular beamforming applied to cortical bone enhances interface visibility of bone-soft tissues interfaces**|Amadou S. Dia et.al.|[2507.08497](http://arxiv.org/abs/2507.08497)|null|
+|**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422](http://arxiv.org/abs/2507.08422)|null|
+|**2025-07-11**|**Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal**|Modan Tailleur et.al.|[2507.08412](http://arxiv.org/abs/2507.08412)|null|
+|**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
+|**2025-07-11**|**Unsupervised Methods for Video Quality Improvement: A Survey of Restoration and Enhancement Techniques**|Alexandra Malyugina et.al.|[2507.08375](http://arxiv.org/abs/2507.08375)|null|
+|**2025-07-11**|**CoCo-Bot: Energy-based Composable Concept Bottlenecks for Interpretable Generative Models**|Sangwon Kim et.al.|[2507.08334](http://arxiv.org/abs/2507.08334)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-10**|**Assessing the Alignment of Audio Representations with Timbre Similarity Ratings**|Haokun Tian et.al.|[2507.07764](http://arxiv.org/abs/2507.07764)|null|
 |**2025-07-10**|**Energy Efficient p-Circuits for Generative Neural Networks**|Lakshmi A. Ghantasala et.al.|[2507.07763](http://arxiv.org/abs/2507.07763)|null|
@@ -4440,6 +4447,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**HNOSeg-XS: Extremely Small Hartley Neural Operator for Efficient and Resolution-Robust 3D Image Segmentation**|Ken C. L. Wong et.al.|[2507.08205](http://arxiv.org/abs/2507.08205)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
 |**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
 |**2025-07-09**|**COS2A: Conversion from Sentinel-2 to AVIRIS Hyperspectral Data Using Interpretable Algorithm With Spectral-Spatial Duality**|Chia-Hsiang Lin et.al.|[2507.06575](http://arxiv.org/abs/2507.06575)|null|
@@ -5730,6 +5738,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**HieraRS: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer**|Tianlong Ai et.al.|[2507.08741](http://arxiv.org/abs/2507.08741)|null|
+|**2025-07-11**|**MoSAiC: Multi-Modal Multi-Label Supervision-Aware Contrastive Learning for Remote Sensing**|Debashis Gupta et.al.|[2507.08683](http://arxiv.org/abs/2507.08683)|null|
+|**2025-07-11**|**Remote Sensing Reveals Adoption of Sustainable Rice Farming Practices Across Punjab, India**|Ando Shah et.al.|[2507.08605](http://arxiv.org/abs/2507.08605)|null|
+|**2025-07-11**|**Visual Semantic Description Generation with MLLMs for Image-Text Matching**|Junyu Chen et.al.|[2507.08590](http://arxiv.org/abs/2507.08590)|null|
+|**2025-07-11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|Zihang Song et.al.|[2507.08490](http://arxiv.org/abs/2507.08490)|null|
 |**2025-07-10**|**MAPEX: Modality-Aware Pruning of Experts for Remote Sensing Foundation Models**|Joelle Hanna et.al.|[2507.07527](http://arxiv.org/abs/2507.07527)|null|
 |**2025-07-10**|**GRIT: Graph Transformer For Internal Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2507.07388](http://arxiv.org/abs/2507.07388)|null|
 |**2025-07-09**|**Semi-fragile watermarking of remote sensing images using DWT, vector quantization and automatic tiling**|Jordi Serra-Ruiz et.al.|[2507.07250](http://arxiv.org/abs/2507.07250)|null|

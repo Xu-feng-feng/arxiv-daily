@@ -266,6 +266,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Online Training and Pruning of Deep Reinforcement Learning Networks**|Valentin Frank Ingmar Guenter et.al.|[2507.11975](http://arxiv.org/abs/2507.11975)|null|
+|**2025-07-16**|**CompressedVQA-HDR: Generalized Full-reference and No-reference Quality Assessment Models for Compressed High Dynamic Range Videos**|Wei Sun et.al.|[2507.11900](http://arxiv.org/abs/2507.11900)|null|
 |**2025-07-15**|**Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration**|Shixun Wu et.al.|[2507.11165](http://arxiv.org/abs/2507.11165)|null|
 |**2025-07-16**|**TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update**|Jeongyun Kim et.al.|[2507.11069](http://arxiv.org/abs/2507.11069)|null|
 |**2025-07-13**|**A Survey on Medical Image Compression: From Traditional to Learning-Based**|Guofeng Tong et.al.|[2507.10615](http://arxiv.org/abs/2507.10615)|null|
@@ -1303,6 +1305,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
+|**2025-07-16**|**Translationese-index: Using Likelihood Ratios for Graded and Generalizable Measurement of Translationese**|Yikang Liu et.al.|[2507.12260](http://arxiv.org/abs/2507.12260)|null|
+|**2025-07-16**|**MambaRate: Speech Quality Assessment Across Different Sampling Rates**|Panos Kakoulidis et.al.|[2507.12090](http://arxiv.org/abs/2507.12090)|null|
+|**2025-07-16**|**CompressedVQA-HDR: Generalized Full-reference and No-reference Quality Assessment Models for Compressed High Dynamic Range Videos**|Wei Sun et.al.|[2507.11900](http://arxiv.org/abs/2507.11900)|null|
+|**2025-07-15**|**JSQA: Speech Quality Assessment with Perceptually-Inspired Contrastive Pretraining Based on JND Audio Pairs**|Junyi Fan et.al.|[2507.11636](http://arxiv.org/abs/2507.11636)|null|
+|**2025-07-14**|**Expert Operational GANS: Towards Real-Color Underwater Image Restoration**|Ozer Can Devecioglu et.al.|[2507.11562](http://arxiv.org/abs/2507.11562)|null|
+|**2025-07-14**|**3D Wavelet Latent Diffusion Model for Whole-Body MR-to-CT Modality Translation**|Jiaxu Zheng et.al.|[2507.11557](http://arxiv.org/abs/2507.11557)|null|
 |**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
 |**2025-07-15**|**P.808 Multilingual Speech Enhancement Testing: Approach and Results of URGENT 2025 Challenge**|Marvin Sach et.al.|[2507.11306](http://arxiv.org/abs/2507.11306)|null|
 |**2025-07-15**|**Robust ID-Specific Face Restoration via Alignment Learning**|Yushun Fang et.al.|[2507.10943](http://arxiv.org/abs/2507.10943)|null|
@@ -4483,6 +4492,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision**|Arkaprabha Basu et.al.|[2507.12195](http://arxiv.org/abs/2507.12195)|null|
 |**2025-07-14**|**Nonlinear Spectral Fusion Super-Resolution Fluorescence Microscopy based on Progressively Saturated Upconversion Nanoparticles**|Yongtao Liu et.al.|[2507.10129](http://arxiv.org/abs/2507.10129)|null|
 |**2025-07-14**|**Quantum measurement of work in mesoscopic systems**|Anant Vijay Varma et.al.|[2507.09977](http://arxiv.org/abs/2507.09977)|null|
 |**2025-07-14**|**Compliance Minimization via Physics-Informed Gaussian Processes**|Xiangyu Sun et.al.|[2507.09968](http://arxiv.org/abs/2507.09968)|null|
@@ -5786,6 +5796,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](http://arxiv.org/abs/2507.12132)|null|
+|**2025-07-16**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
+|**2025-07-16**|**SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation**|Jun Yin et.al.|[2507.11994](http://arxiv.org/abs/2507.11994)|null|
 |**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523](http://arxiv.org/abs/2507.11523)|null|
 |**2025-07-15**|**Sensing Accuracy Optimization for Multi-UAV SAR Interferometry with Data Offloading**|Mohamed-Amine Lahmeri et.al.|[2507.11284](http://arxiv.org/abs/2507.11284)|null|
 |**2025-07-15**|**RMAU-NET: A Residual-Multihead-Attention U-Net Architecture for Landslide Segmentation and Detection from Remote Sensing Images**|Lam Pham et.al.|[2507.11143](http://arxiv.org/abs/2507.11143)|null|

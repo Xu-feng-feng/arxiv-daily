@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -260,14 +260,14 @@
 |**2017-10-10**|**Attribute Compression of 3D Point Clouds Using Laplacian Sparsity Optimized Graph Transform**|Yiting Shao et.al.|[1710.03532](http://arxiv.org/abs/1710.03532)|null|
 |**2017-03-08**|**Dynamic Polygon Clouds: Representation and Compression for VR/AR**|Philip A. Chou et.al.|[1610.00402](http://arxiv.org/abs/1610.00402)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-15**|**Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration**|Shixun Wu et.al.|[2507.11165](http://arxiv.org/abs/2507.11165)|null|
-|**2025-07-15**|**TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update**|Jeongyun Kim et.al.|[2507.11069](http://arxiv.org/abs/2507.11069)|null|
+|**2025-07-16**|**TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update**|Jeongyun Kim et.al.|[2507.11069](http://arxiv.org/abs/2507.11069)|null|
 |**2025-07-13**|**A Survey on Medical Image Compression: From Traditional to Learning-Based**|Guofeng Tong et.al.|[2507.10615](http://arxiv.org/abs/2507.10615)|null|
 |**2025-07-12**|**Geometric Generative Modeling with Noise-Conditioned Graph Networks**|Peter Pao-Huang et.al.|[2507.09391](http://arxiv.org/abs/2507.09391)|null|
 |**2025-07-11**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633](http://arxiv.org/abs/2507.07633)|null|
@@ -1297,7 +1297,7 @@
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Quality Assessment
 
@@ -1308,7 +1308,7 @@
 |**2025-07-15**|**Robust ID-Specific Face Restoration via Alignment Learning**|Yushun Fang et.al.|[2507.10943](http://arxiv.org/abs/2507.10943)|null|
 |**2025-07-15**|**Evaluating Generated Commit Messages with Large Language Models**|Qunhong Zeng et.al.|[2507.10906](http://arxiv.org/abs/2507.10906)|null|
 |**2025-07-15**|**Digital defocus aberration interference for automated optical microscopy**|Haowen Zhou et.al.|[2507.10867](http://arxiv.org/abs/2507.10867)|null|
-|**2025-07-15**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
+|**2025-07-16**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
 |**2025-07-14**|**Spatial Lifting for Dense Prediction**|Mingzhi Xu et.al.|[2507.10222](http://arxiv.org/abs/2507.10222)|null|
 |**2025-07-14**|**Nonlinear Spectral Fusion Super-Resolution Fluorescence Microscopy based on Progressively Saturated Upconversion Nanoparticles**|Yongtao Liu et.al.|[2507.10129](http://arxiv.org/abs/2507.10129)|null|
 |**2025-07-15**|**Graph-based Multi-Modal Interaction Lightweight Network for Brain Tumor Segmentation (GMLN-BTS) in Edge Iterative MRI Lesion Localization System (EdgeIMLocSys)**|Guohao Huo et.al.|[2507.09995](http://arxiv.org/abs/2507.09995)|null|
@@ -4477,7 +4477,7 @@
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Generalized Portrait Quality Assessment**|Nicolas Chahine et.al.|[2402.09178](http://arxiv.org/abs/2402.09178)|**[link](https://github.com/dxomark-research/piq2023)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Super Resolution
 
@@ -4486,7 +4486,7 @@
 |**2025-07-14**|**Nonlinear Spectral Fusion Super-Resolution Fluorescence Microscopy based on Progressively Saturated Upconversion Nanoparticles**|Yongtao Liu et.al.|[2507.10129](http://arxiv.org/abs/2507.10129)|null|
 |**2025-07-14**|**Quantum measurement of work in mesoscopic systems**|Anant Vijay Varma et.al.|[2507.09977](http://arxiv.org/abs/2507.09977)|null|
 |**2025-07-14**|**Compliance Minimization via Physics-Informed Gaussian Processes**|Xiangyu Sun et.al.|[2507.09968](http://arxiv.org/abs/2507.09968)|null|
-|**2025-07-14**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
+|**2025-07-16**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
 |**2025-07-15**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
 |**2025-07-13**|**Prompt2DEM: High-Resolution DEMs for Urban and Open Environments from Global Prompts Using a Monocular Foundation Model**|Osher Rafaeli et.al.|[2507.09681](http://arxiv.org/abs/2507.09681)|null|
 |**2025-07-13**|**Physics-informed machine learning surrogate for scalable simulation of thermal histories during wire-arc directed energy deposition**|Michael Ryan et.al.|[2507.09591](http://arxiv.org/abs/2507.09591)|null|
@@ -5780,7 +5780,7 @@
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385](http://arxiv.org/abs/2312.04385)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Remote Sensing
 
@@ -5795,7 +5795,7 @@
 |**2025-07-14**|**Improving Remote Sensing Classification using Topological Data Analysis and Convolutional Neural Networks**|Aaryam Sharma et.al.|[2507.10381](http://arxiv.org/abs/2507.10381)|null|
 |**2025-07-14**|**FTCFormer: Fuzzy Token Clustering Transformer for Image Classification**|Muyi Bao et.al.|[2507.10283](http://arxiv.org/abs/2507.10283)|null|
 |**2025-07-14**|**A Transfer Learning-Based Method for Water Body Segmentation in Remote Sensing Imagery: A Case Study of the Zhada Tulin Area**|Haonan Chen et.al.|[2507.10084](http://arxiv.org/abs/2507.10084)|null|
-|**2025-07-14**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
+|**2025-07-16**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
 |**2025-07-13**|**Continental scale habitat modelling with artificial intelligence and multimodal earth observation**|Sara Si-Moussi et.al.|[2507.09732](http://arxiv.org/abs/2507.09732)|null|
 |**2025-07-13**|**Prompt Engineering in Segment Anything Model: Methodologies, Applications, and Emerging Challenges**|Yidong Jiang et.al.|[2507.09562](http://arxiv.org/abs/2507.09562)|null|
 |**2025-07-13**|**DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection**|Zihao Xiong et.al.|[2507.09541](http://arxiv.org/abs/2507.09541)|null|
@@ -7390,7 +7390,7 @@
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -4483,7 +4483,7 @@ layout: default
 |**2025-07-14**|**Nonlinear Spectral Fusion Super-Resolution Fluorescence Microscopy based on Progressively Saturated Upconversion Nanoparticles**|Yongtao Liu et.al.|[2507.10129](http://arxiv.org/abs/2507.10129)|null|
 |**2025-07-14**|**Quantum measurement of work in mesoscopic systems**|Anant Vijay Varma et.al.|[2507.09977](http://arxiv.org/abs/2507.09977)|null|
 |**2025-07-14**|**Compliance Minimization via Physics-Informed Gaussian Processes**|Xiangyu Sun et.al.|[2507.09968](http://arxiv.org/abs/2507.09968)|null|
-|**2025-07-16**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
+|**2025-07-17**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
 |**2025-07-15**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
 |**2025-07-13**|**Prompt2DEM: High-Resolution DEMs for Urban and Open Environments from Global Prompts Using a Monocular Foundation Model**|Osher Rafaeli et.al.|[2507.09681](http://arxiv.org/abs/2507.09681)|null|
 |**2025-07-13**|**Physics-informed machine learning surrogate for scalable simulation of thermal histories during wire-arc directed energy deposition**|Michael Ryan et.al.|[2507.09591](http://arxiv.org/abs/2507.09591)|null|
@@ -5793,7 +5793,7 @@ layout: default
 |**2025-07-14**|**Improving Remote Sensing Classification using Topological Data Analysis and Convolutional Neural Networks**|Aaryam Sharma et.al.|[2507.10381](http://arxiv.org/abs/2507.10381)|null|
 |**2025-07-14**|**FTCFormer: Fuzzy Token Clustering Transformer for Image Classification**|Muyi Bao et.al.|[2507.10283](http://arxiv.org/abs/2507.10283)|null|
 |**2025-07-14**|**A Transfer Learning-Based Method for Water Body Segmentation in Remote Sensing Imagery: A Case Study of the Zhada Tulin Area**|Haonan Chen et.al.|[2507.10084](http://arxiv.org/abs/2507.10084)|null|
-|**2025-07-16**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
+|**2025-07-17**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
 |**2025-07-13**|**Continental scale habitat modelling with artificial intelligence and multimodal earth observation**|Sara Si-Moussi et.al.|[2507.09732](http://arxiv.org/abs/2507.09732)|null|
 |**2025-07-13**|**Prompt Engineering in Segment Anything Model: Methodologies, Applications, and Emerging Challenges**|Yidong Jiang et.al.|[2507.09562](http://arxiv.org/abs/2507.09562)|null|
 |**2025-07-13**|**DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection**|Zihao Xiong et.al.|[2507.09541](http://arxiv.org/abs/2507.09541)|null|

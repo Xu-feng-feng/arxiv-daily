@@ -1294,6 +1294,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
+|**2025-07-17**|**Label-Consistent Dataset Distillation with Detector-Guided Refinement**|Yawen Zou et.al.|[2507.13074](http://arxiv.org/abs/2507.13074)|null|
+|**2025-07-17**|**Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes**|Zhou Feng et.al.|[2507.12932](http://arxiv.org/abs/2507.12932)|null|
+|**2025-07-17**|**DeQA-Doc: Adapting DeQA-Score to Document Image Quality Assessment**|Junjie Gao et.al.|[2507.12796](http://arxiv.org/abs/2507.12796)|null|
+|**2025-07-17**|**Local Representative Token Guided Merging for Text-to-Image Generation**|Min-Jeong Lee et.al.|[2507.12771](http://arxiv.org/abs/2507.12771)|null|
+|**2025-07-17**|**HairShifter: Consistent and High-Fidelity Video Hair Transfer via Anchor-Guided Animation**|Wangzheng Shi et.al.|[2507.12758](http://arxiv.org/abs/2507.12758)|null|
+|**2025-07-17**|**Pixel Perfect MegaMed: A Megapixel-Scale Vision-Language Foundation Model for Generating High Resolution Medical Images**|Zahra TehraniNasab et.al.|[2507.12698](http://arxiv.org/abs/2507.12698)|null|
+|**2025-07-16**|**TRIQA: Image Quality Assessment by Contrastive Pretraining on Ordered Distortion Triplets**|Rajesh Sureddi et.al.|[2507.12687](http://arxiv.org/abs/2507.12687)|null|
+|**2025-07-16**|**InSight: AI Mobile Screening Tool for Multiple Eye Disease Detection using Multimodal Fusion**|Ananya Raghu et.al.|[2507.12669](http://arxiv.org/abs/2507.12669)|null|
+|**2025-07-16**|**Pathology-Guided Virtual Staining Metric for Evaluation and Training**|Qiankai Wang et.al.|[2507.12624](http://arxiv.org/abs/2507.12624)|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
 |**2025-07-16**|**Translationese-index: Using Likelihood Ratios for Graded and Generalizable Measurement of Translationese**|Yikang Liu et.al.|[2507.12260](http://arxiv.org/abs/2507.12260)|null|
 |**2025-07-16**|**MambaRate: Speech Quality Assessment Across Different Sampling Rates**|Panos Kakoulidis et.al.|[2507.12090](http://arxiv.org/abs/2507.12090)|null|
@@ -4479,6 +4489,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|[2507.13339](http://arxiv.org/abs/2507.13339)|null|
+|**2025-07-17**|**RONOM: Reduced-Order Neural Operator Modeling**|Sven Dummer et.al.|[2507.12814](http://arxiv.org/abs/2507.12814)|null|
 |**2025-07-16**|**Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision**|Arkaprabha Basu et.al.|[2507.12195](http://arxiv.org/abs/2507.12195)|null|
 |**2025-07-14**|**Nonlinear Spectral Fusion Super-Resolution Fluorescence Microscopy based on Progressively Saturated Upconversion Nanoparticles**|Yongtao Liu et.al.|[2507.10129](http://arxiv.org/abs/2507.10129)|null|
 |**2025-07-14**|**Quantum measurement of work in mesoscopic systems**|Anant Vijay Varma et.al.|[2507.09977](http://arxiv.org/abs/2507.09977)|null|
@@ -5781,6 +5793,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|[2507.13339](http://arxiv.org/abs/2507.13339)|null|
+|**2025-07-17**|**RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images**|Xiaozheng Jiang et.al.|[2507.13120](http://arxiv.org/abs/2507.13120)|null|
+|**2025-07-17**|**A Deep-Learning Framework for Land-Sliding Classification from Remote Sensing Image**|Hieu Tang et.al.|[2507.12939](http://arxiv.org/abs/2507.12939)|null|
+|**2025-07-17**|**SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2507.12857](http://arxiv.org/abs/2507.12857)|null|
+|**2025-07-17**|**SEMT: Static-Expansion-Mesh Transformer Network Architecture for Remote Sensing Image Captioning**|Khang Truong et.al.|[2507.12845](http://arxiv.org/abs/2507.12845)|null|
+|**2025-07-16**|**Best Practices for Large-Scale, Pixel-Wise Crop Mapping and Transfer Learning Workflows**|Judy Long et.al.|[2507.12590](http://arxiv.org/abs/2507.12590)|null|
 |**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](http://arxiv.org/abs/2507.12132)|null|
 |**2025-07-16**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
 |**2025-07-16**|**SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation**|Jun Yin et.al.|[2507.11994](http://arxiv.org/abs/2507.11994)|null|

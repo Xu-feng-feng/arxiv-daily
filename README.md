@@ -266,6 +266,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Pass-efficient Randomized Algorithms for Low-rank Approximation of Quaternion Matrices**|Salman Ahmadi-Asl et.al.|[2507.13731](http://arxiv.org/abs/2507.13731)|null|
 |**2025-07-16**|**Online Training and Pruning of Deep Reinforcement Learning Networks**|Valentin Frank Ingmar Guenter et.al.|[2507.11975](http://arxiv.org/abs/2507.11975)|null|
 |**2025-07-16**|**CompressedVQA-HDR: Generalized Full-reference and No-reference Quality Assessment Models for Compressed High Dynamic Range Videos**|Wei Sun et.al.|[2507.11900](http://arxiv.org/abs/2507.11900)|null|
 |**2025-07-15**|**Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration**|Shixun Wu et.al.|[2507.11165](http://arxiv.org/abs/2507.11165)|null|
@@ -1305,6 +1306,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track**|Brian Ondov et.al.|[2507.14096](http://arxiv.org/abs/2507.14096)|null|
+|**2025-07-18**|**D2IP: Deep Dynamic Image Prior for 3D Time-sequence Pulmonary Impedance Imaging**|Hao Fang et.al.|[2507.14046](http://arxiv.org/abs/2507.14046)|null|
+|**2025-07-18**|**Converting T1-weighted MRI from 3T to 7T quality using deep learning**|Malo Gicquel et.al.|[2507.13782](http://arxiv.org/abs/2507.13782)|null|
+|**2025-07-18**|**Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis**|Tongtong Su et.al.|[2507.13753](http://arxiv.org/abs/2507.13753)|null|
+|**2025-07-18**|**ATRO: A Fast Solver-Free Algorithm for Topology and Routing Optimization of Reconfigurable Datacenter Networks**|Yingming Mao et.al.|[2507.13717](http://arxiv.org/abs/2507.13717)|null|
+|**2025-07-18**|**Global Modeling Matters: A Fast, Lightweight and Effective Baseline for Efficient Image Restoration**|Xingyu Jiang et.al.|[2507.13663](http://arxiv.org/abs/2507.13663)|null|
+|**2025-07-18**|**Isotropic Remeshing with Inter-Angle Optimization**|Hanbing Zheng et.al.|[2507.13641](http://arxiv.org/abs/2507.13641)|null|
+|**2025-07-18**|**Unifying Listener Scoring Scales: Comparison Learning Framework for Speech Quality Assessment and Continuous Speech Emotion Recognition**|Cheng-Hung Hu et.al.|[2507.13626](http://arxiv.org/abs/2507.13626)|null|
+|**2025-07-18**|**Efficient Burst Super-Resolution with One-step Diffusion**|Kento Kawai et.al.|[2507.13607](http://arxiv.org/abs/2507.13607)|null|
+|**2025-07-18**|**TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting**|Kaiyuan Tang et.al.|[2507.13586](http://arxiv.org/abs/2507.13586)|null|
+|**2025-07-17**|**$\nabla$ NABLA: Neighborhood Adaptive Block-Level Attention**|Dmitrii Mikhailov et.al.|[2507.13546](http://arxiv.org/abs/2507.13546)|null|
+|**2025-07-17**|**IConMark: Robust Interpretable Concept-Based Watermark For AI Images**|Vinu Sankar Sadasivan et.al.|[2507.13407](http://arxiv.org/abs/2507.13407)|null|
 |**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
 |**2025-07-17**|**Label-Consistent Dataset Distillation with Detector-Guided Refinement**|Yawen Zou et.al.|[2507.13074](http://arxiv.org/abs/2507.13074)|null|
 |**2025-07-17**|**Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes**|Zhou Feng et.al.|[2507.12932](http://arxiv.org/abs/2507.12932)|null|
@@ -4502,6 +4515,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Blind Super Resolution with Reference Images and Implicit Degradation Representation**|Huu-Phu Do et.al.|[2507.13915](http://arxiv.org/abs/2507.13915)|null|
+|**2025-07-18**|**Localized FNO for Spatiotemporal Hemodynamic Upsampling in Aneurysm MRI**|Kyriakos Flouris et.al.|[2507.13789](http://arxiv.org/abs/2507.13789)|null|
+|**2025-07-18**|**Pass-efficient Randomized Algorithms for Low-rank Approximation of Quaternion Matrices**|Salman Ahmadi-Asl et.al.|[2507.13731](http://arxiv.org/abs/2507.13731)|null|
+|**2025-07-18**|**Gaussian kernel-based motion measurement**|Hongyi Liu et.al.|[2507.13693](http://arxiv.org/abs/2507.13693)|null|
+|**2025-07-18**|**Global Modeling Matters: A Fast, Lightweight and Effective Baseline for Efficient Image Restoration**|Xingyu Jiang et.al.|[2507.13663](http://arxiv.org/abs/2507.13663)|null|
+|**2025-07-18**|**Efficient Burst Super-Resolution with One-step Diffusion**|Kento Kawai et.al.|[2507.13607](http://arxiv.org/abs/2507.13607)|null|
 |**2025-07-17**|**SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|[2507.13339](http://arxiv.org/abs/2507.13339)|null|
 |**2025-07-17**|**RONOM: Reduced-Order Neural Operator Modeling**|Sven Dummer et.al.|[2507.12814](http://arxiv.org/abs/2507.12814)|null|
 |**2025-07-16**|**Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision**|Arkaprabha Basu et.al.|[2507.12195](http://arxiv.org/abs/2507.12195)|null|
@@ -5808,6 +5827,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**A Quantum-assisted Attention U-Net for Building Segmentation over Tunis using Sentinel-1 Data**|Luigi Russo et.al.|[2507.13852](http://arxiv.org/abs/2507.13852)|null|
+|**2025-07-18**|**Exploiting scattering-based point spread functions for snapshot 5D and modality-switchable lensless imaging**|Ze Zheng et.al.|[2507.13813](http://arxiv.org/abs/2507.13813)|null|
+|**2025-07-18**|**SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing**|Yingying Zhang et.al.|[2507.13812](http://arxiv.org/abs/2507.13812)|null|
+|**2025-07-17**|**Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation**|Debao Huang et.al.|[2507.13486](http://arxiv.org/abs/2507.13486)|null|
+|**2025-07-15**|**Using Multiple Input Modalities Can Improve Data-Efficiency and O.O.D. Generalization for ML with Satellite Imagery**|Arjun Rao et.al.|[2507.13385](http://arxiv.org/abs/2507.13385)|null|
 |**2025-07-17**|**SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|[2507.13339](http://arxiv.org/abs/2507.13339)|null|
 |**2025-07-17**|**RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images**|Xiaozheng Jiang et.al.|[2507.13120](http://arxiv.org/abs/2507.13120)|null|
 |**2025-07-17**|**A Deep-Learning Framework for Land-Sliding Classification from Remote Sensing Image**|Hieu Tang et.al.|[2507.12939](http://arxiv.org/abs/2507.12939)|null|

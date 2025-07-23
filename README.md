@@ -267,6 +267,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**DASPack: Controlled Data Compression for Distributed Acoustic Sensing**|Aleix Segui et.al.|[2507.16390](http://arxiv.org/abs/2507.16390)|null|
+|**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144](http://arxiv.org/abs/2507.16144)|null|
 |**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578](http://arxiv.org/abs/2507.15578)|null|
 |**2025-07-21**|**Conditional Video Generation for High-Efficiency Video Compression**|Fangqiu Yi et.al.|[2507.15269](http://arxiv.org/abs/2507.15269)|null|
 |**2025-07-20**|**Rate-Distortion-Perception Trade-off with Strong Realism Constraints: Role of Side Information and Common Randomness**|Yassine Hamdi et.al.|[2507.14825](http://arxiv.org/abs/2507.14825)|null|
@@ -1312,6 +1314,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications**|Tolga Çukur et.al.|[2507.16715](http://arxiv.org/abs/2507.16715)|null|
+|**2025-07-22**|**Introducing Quality Estimation to Machine Translation Post-editing Workflow: An Empirical Study on Its Usefulness**|Siqi Liu et.al.|[2507.16515](http://arxiv.org/abs/2507.16515)|null|
+|**2025-07-22**|**DenseSR: Image Shadow Removal as Dense Prediction**|Yu-Fan Lin et.al.|[2507.16472](http://arxiv.org/abs/2507.16472)|null|
+|**2025-07-22**|**Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**|Mingtao Guo et.al.|[2507.16341](http://arxiv.org/abs/2507.16341)|null|
+|**2025-07-22**|**LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs**|Zitong Xu et.al.|[2507.16193](http://arxiv.org/abs/2507.16193)|null|
+|**2025-07-22**|**LSSGen: Leveraging Latent Space Scaling in Flow and Diffusion for Efficient Text to Image Generation**|Jyun-Ze Tang et.al.|[2507.16154](http://arxiv.org/abs/2507.16154)|null|
+|**2025-07-21**|**Improving Personalized Image Generation through Social Context Feedback**|Parul Gupta et.al.|[2507.16095](http://arxiv.org/abs/2507.16095)|null|
+|**2025-07-21**|**"Just a strange pic": Evaluating 'safety' in GenAI Image safety annotation tasks from diverse annotators' perspectives**|Ding Wang et.al.|[2507.16033](http://arxiv.org/abs/2507.16033)|null|
+|**2025-07-21**|**From Logic to Language: A Trust Index for Problem Solving with LLMs**|Tehseen Rug et.al.|[2507.16028](http://arxiv.org/abs/2507.16028)|null|
+|**2025-07-21**|**Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars**|Marcel C. Bühler et.al.|[2507.15979](http://arxiv.org/abs/2507.15979)|null|
+|**2025-07-21**|**A Lightweight Face Quality Assessment Framework to Improve Face Verification Performance in Real-Time Screening Applications**|Ahmed Aman Ibrahim et.al.|[2507.15961](http://arxiv.org/abs/2507.15961)|null|
 |**2025-07-21**|**Efficient Face Image Quality Assessment via Self-training and Knowledge Distillation**|Wei Sun et.al.|[2507.15709](http://arxiv.org/abs/2507.15709)|null|
 |**2025-07-22**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
 |**2025-07-21**|**SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models**|Giordano d'Aloisio et.al.|[2507.15663](http://arxiv.org/abs/2507.15663)|null|
@@ -4538,6 +4551,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**High-throughput Super-Resolution Imaging Chip based on Miniaturized Full-frequency Encoded-illumination**|Xiaoyu Yang et.al.|[2507.16693](http://arxiv.org/abs/2507.16693)|null|
+|**2025-07-22**|**STAR: A Benchmark for Astronomical Star Fields Super-Resolution**|Kuo-Cheng Wu et.al.|[2507.16385](http://arxiv.org/abs/2507.16385)|null|
+|**2025-07-22**|**An AI super-resolution field emulator for cosmological hydrodynamics: the Lyman-α forest**|Fatemeh Hafezianzadeh et.al.|[2507.16189](http://arxiv.org/abs/2507.16189)|null|
 |**2025-07-21**|**Super-resolution AWGs based on the Moirè effect**|Gabriella Cincotti et.al.|[2507.15674](http://arxiv.org/abs/2507.15674)|null|
 |**2025-07-21**|**MedSR-Impact: Transformer-Based Super-Resolution for Lung CT Segmentation, Radiomics, Classification, and Prognosis**|Marc Boubnovski Martell et.al.|[2507.15340](http://arxiv.org/abs/2507.15340)|null|
 |**2025-07-19**|**Label free sub-diffraction imaging using non-linear photon avalanche backlight**|Suresh Karmegam et.al.|[2507.14667](http://arxiv.org/abs/2507.14667)|null|
@@ -5854,6 +5870,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation**|Yiguo He et.al.|[2507.16716](http://arxiv.org/abs/2507.16716)|null|
+|**2025-07-22**|**Synthetic Data Matters: Re-training with Geo-typical Synthetic Labels for Building Detection**|Shuang Song et.al.|[2507.16657](http://arxiv.org/abs/2507.16657)|null|
+|**2025-07-22**|**HoliTracer: Holistic Vectorization of Geographic Objects from Large-Size Remote Sensing Imagery**|Yu Wang et.al.|[2507.16251](http://arxiv.org/abs/2507.16251)|null|
+|**2025-07-22**|**MONITRS: Multimodal Observations of Natural Incidents Through Remote Sensing**|Shreelekha Revankar et.al.|[2507.16228](http://arxiv.org/abs/2507.16228)|null|
+|**2025-07-22**|**AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection**|Tao Wang et.al.|[2507.16172](http://arxiv.org/abs/2507.16172)|null|
+|**2025-07-22**|**AMMNet: An Asymmetric Multi-Modal Network for Remote Sensing Semantic Segmentation**|Hui Ye et.al.|[2507.16158](http://arxiv.org/abs/2507.16158)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
 |**2025-07-21**|**Prospects of detecting rotational flatness of exoplanets from space-based photometry**|Sz. Kálmán et.al.|[2507.15359](http://arxiv.org/abs/2507.15359)|null|
 |**2025-07-19**|**GTPBD: A Fine-Grained Global Terraced Parcel and Boundary Dataset**|Zhiwei Zhang et.al.|[2507.14697](http://arxiv.org/abs/2507.14697)|null|

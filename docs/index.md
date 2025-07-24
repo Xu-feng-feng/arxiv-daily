@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -1315,12 +1315,12 @@ layout: default
 |**2025-07-21**|**Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars**|Marcel C. Bühler et.al.|[2507.15979](http://arxiv.org/abs/2507.15979)|null|
 |**2025-07-21**|**A Lightweight Face Quality Assessment Framework to Improve Face Verification Performance in Real-Time Screening Applications**|Ahmed Aman Ibrahim et.al.|[2507.15961](http://arxiv.org/abs/2507.15961)|null|
 |**2025-07-21**|**Efficient Face Image Quality Assessment via Self-training and Knowledge Distillation**|Wei Sun et.al.|[2507.15709](http://arxiv.org/abs/2507.15709)|null|
-|**2025-07-22**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-23**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
 |**2025-07-21**|**SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models**|Giordano d'Aloisio et.al.|[2507.15663](http://arxiv.org/abs/2507.15663)|null|
 |**2025-07-21**|**tiDAS: a time invariant approximation of the Delay and Sum algorithm for biomedical ultrasound PSF reconstructions**|Chiara Razzetta et.al.|[2507.15464](http://arxiv.org/abs/2507.15464)|null|
 |**2025-07-21**|**Neuro-MSBG: An End-to-End Neural Model for Hearing Loss Simulation**|Hui-Guan Yuan et.al.|[2507.15396](http://arxiv.org/abs/2507.15396)|null|
 |**2025-07-21**|**BEAM-Net: A Deep Learning Framework with Bone Enhancement Attention Mechanism for High Resolution High Frame Rate Ultrasound Beamforming**|Midhila Madhusoodanan et.al.|[2507.15306](http://arxiv.org/abs/2507.15306)|null|
-|**2025-07-22**|**EndoControlMag: Robust Endoscopic Vascular Motion Magnification with Periodic Reference Resetting and Hierarchical Tissue-aware Dual-Mask Contro**|An Wanga et.al.|[2507.15292](http://arxiv.org/abs/2507.15292)|null|
+|**2025-07-23**|**EndoControlMag: Robust Endoscopic Vascular Motion Magnification with Periodic Reference Resetting and Hierarchical Tissue-aware Dual-Mask Contro**|An Wang et.al.|[2507.15292](http://arxiv.org/abs/2507.15292)|null|
 |**2025-07-21**|**Conditional Video Generation for High-Efficiency Video Compression**|Fangqiu Yi et.al.|[2507.15269](http://arxiv.org/abs/2507.15269)|null|
 |**2025-07-20**|**RefCritic: Training Long Chain-of-Thought Critic Models with Refinement Feedback**|Qiaoyu Tang et.al.|[2507.15024](http://arxiv.org/abs/2507.15024)|null|
 |**2025-07-20**|**FastSmoothSAM: A Fast Smooth Method For Segment Anything Model**|Jiasheng Xu et.al.|[2507.15008](http://arxiv.org/abs/2507.15008)|null|

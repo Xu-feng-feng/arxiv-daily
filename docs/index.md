@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving**|Chuang Chen et.al.|[2507.17479](http://arxiv.org/abs/2507.17479)|null|
 |**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686](http://arxiv.org/abs/2507.15686)|null|
 |**2025-07-02**|**Robust Multi-generation Learned Compression of Point Cloud Attribute**|Xiangzuo Liu et.al.|[2507.01320](http://arxiv.org/abs/2507.01320)|null|
 |**2025-06-28**|**Point Cloud Compression and Objective Quality Assessment: A Survey**|Yiling Xu et.al.|[2506.22902](http://arxiv.org/abs/2506.22902)|null|
@@ -258,6 +259,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility**|Melih Barsbey et.al.|[2507.17748](http://arxiv.org/abs/2507.17748)|null|
+|**2025-07-23**|**Dataset Distillation as Data Compression: A Rate-Utility Perspective**|Youneng Bao et.al.|[2507.17221](http://arxiv.org/abs/2507.17221)|null|
 |**2025-07-22**|**DASPack: Controlled Data Compression for Distributed Acoustic Sensing**|Aleix Segui et.al.|[2507.16390](http://arxiv.org/abs/2507.16390)|null|
 |**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144](http://arxiv.org/abs/2507.16144)|null|
 |**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578](http://arxiv.org/abs/2507.15578)|null|
@@ -1303,6 +1306,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744](http://arxiv.org/abs/2507.17744)|null|
+|**2025-07-23**|**STQE: Spatial-Temporal Quality Enhancement for G-PCC Compressed Dynamic Point Clouds**|Tian Guo et.al.|[2507.17522](http://arxiv.org/abs/2507.17522)|null|
+|**2025-07-23**|**Unfolding Data Quality Dimensions in Practice: A Survey**|Vasileios Papastergios et.al.|[2507.17507](http://arxiv.org/abs/2507.17507)|null|
+|**2025-07-23**|**DFDNet: Dynamic Frequency-Guided De-Flare Network**|Minglong Xue et.al.|[2507.17489](http://arxiv.org/abs/2507.17489)|null|
+|**2025-07-23**|**Development of a Standardized Testing Environment for QRNGs based on Semiconductor Laser Phase Noise**|Matthias Ostner et.al.|[2507.17471](http://arxiv.org/abs/2507.17471)|null|
+|**2025-07-23**|**Parametric Integration with Neural Integral Operators**|Christoph Schied et.al.|[2507.17440](http://arxiv.org/abs/2507.17440)|null|
+|**2025-07-23**|**CAPRI-CT: Causal Analysis and Predictive Reasoning for Image Quality Optimization in Computed Tomography**|Sneha George Gnanakalavathy et.al.|[2507.17420](http://arxiv.org/abs/2507.17420)|null|
+|**2025-07-23**|**Perceptual Classifiers: Detecting Generative Images using Perceptual Features**|Krishna Srikar Durbha et.al.|[2507.17240](http://arxiv.org/abs/2507.17240)|null|
+|**2025-07-23**|**Hierarchical Fusion and Joint Aggregation: A Multi-Level Feature Representation Method for AIGC Image Quality Assessment**|Linghe Meng et.al.|[2507.17182](http://arxiv.org/abs/2507.17182)|null|
+|**2025-07-23**|**UNICE: Training A Universal Image Contrast Enhancer**|Ruodai Cui et.al.|[2507.17157](http://arxiv.org/abs/2507.17157)|null|
 |**2025-07-22**|**A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications**|Tolga Çukur et.al.|[2507.16715](http://arxiv.org/abs/2507.16715)|null|
 |**2025-07-22**|**Introducing Quality Estimation to Machine Translation Post-editing Workflow: An Empirical Study on Its Usefulness**|Siqi Liu et.al.|[2507.16515](http://arxiv.org/abs/2507.16515)|null|
 |**2025-07-22**|**DenseSR: Image Shadow Removal as Dense Prediction**|Yu-Fan Lin et.al.|[2507.16472](http://arxiv.org/abs/2507.16472)|null|
@@ -4538,6 +4551,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving**|Chuang Chen et.al.|[2507.17479](http://arxiv.org/abs/2507.17479)|null|
 |**2025-07-22**|**High-throughput Super-Resolution Imaging Chip based on Miniaturized Full-frequency Encoded-illumination**|Xiaoyu Yang et.al.|[2507.16693](http://arxiv.org/abs/2507.16693)|null|
 |**2025-07-22**|**STAR: A Benchmark for Astronomical Star Fields Super-Resolution**|Kuo-Cheng Wu et.al.|[2507.16385](http://arxiv.org/abs/2507.16385)|null|
 |**2025-07-22**|**An AI super-resolution field emulator for cosmological hydrodynamics: the Lyman-α forest**|Fatemeh Hafezianzadeh et.al.|[2507.16189](http://arxiv.org/abs/2507.16189)|null|
@@ -5855,6 +5869,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Pictorial and Documentary Guide for Research, Teaching, and Education through Astronomy, Physics, and Mathematics Pursued under the Umbrella of the United Nations (1974-2024)**|Hans J. Haubold et.al.|[2507.17283](http://arxiv.org/abs/2507.17283)|null|
+|**2025-07-21**|**Post-Disaster Affected Area Segmentation with a Vision Transformer (ViT)-based EVAP Model using Sentinel-2 and Formosat-5 Imagery**|Yi-Shan Chu et.al.|[2507.16849](http://arxiv.org/abs/2507.16849)|null|
 |**2025-07-22**|**Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation**|Yiguo He et.al.|[2507.16716](http://arxiv.org/abs/2507.16716)|null|
 |**2025-07-22**|**Synthetic Data Matters: Re-training with Geo-typical Synthetic Labels for Building Detection**|Shuang Song et.al.|[2507.16657](http://arxiv.org/abs/2507.16657)|null|
 |**2025-07-22**|**HoliTracer: Holistic Vectorization of Geographic Objects from Large-Size Remote Sensing Imagery**|Yu Wang et.al.|[2507.16251](http://arxiv.org/abs/2507.16251)|null|

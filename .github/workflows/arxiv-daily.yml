@@ -1,59 +1,61 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Run Arxiv Papers Daily
 
-# Controls when the workflow will run
 on:
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 0/12 * * *"  #'*/60 * * * *'
-  # Triggers the workflow on push or pull request events but only for the main branch
-#   push:
-#     branches:
-#     - main
+    - cron: "0 */12 * * *"   # 等价于每天 00:00/12:00 UTC（JST=09:00/21:00）
 
-env:
+# 让 token 具备写入内容的权限，便于回推更改
+permissions:
+  contents: write
 
-  GITHUB_USER_NAME: Xu-feng-feng
-  GITHUB_USER_EMAIL: 1324287818@qq.com
-  
-  
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
     name: update
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    
-    # Steps represent a sequence of tasks that will be executed as part of the job
+
+    # 防并发（同一分支上一次还在跑就取消）
+    concurrency:
+      group: arxiv-daily-${{ github.ref }}
+      cancel-in-progress: true
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Set up Python Env
-        uses: actions/setup-python@v4
+        uses: actions/checkout@v4   # 或 @v5（若你已验证）
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          #architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+          cache: 'pip'              # 缓存 pip 依赖
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install arxiv
-          pip install requests
-          pip install pyyaml
-          
-      - name: Run daily arxiv 
+          pip install --upgrade arxiv requests pyyaml
+
+      - name: Run daily arxiv
+        env:
+          # 建议：你的脚本里使用自定义 UA 访问 arXiv
+          ARXIV_USER_AGENT: "arxiv-daily (+https://github.com/Xu-feng-feng/arxiv-daily)"
         run: |
           python daily_arxiv.py
-          
-      - name: Push new arxiv-daily.md
+
+      - name: Commit & push updates
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update Interested Arxiv Papers"
-          files: README.md docs/arxiv-daily.json docs/arxiv-daily-web.json docs/index.md docs/arxiv-daily-wechat.json docs/wechat.md
+          push-branch: 'main'   # 🔴 关键：指定你的默认分支
+          commit-message: "Github Action: Automatic Update Interested Arxiv Papers"
+          files: |
+            README.md
+            docs/arxiv-daily.json
+            docs/arxiv-daily-web.json
+            docs/index.md
+            docs/arxiv-daily-wechat.json
+            docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

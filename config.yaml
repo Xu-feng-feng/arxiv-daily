@@ -1,15 +1,21 @@
-# TODO: add papers by configuration file
-base_url: "http://export.arxiv.org/api/query!"
+base_url: "https://export.arxiv.org/api/query"
 user_name: "Xu-feng-feng"
 repo_name: "arxiv-daily"
-show_authors: True
-show_links: True
-show_badge: True
+
+show_authors: true
+show_links: true
+show_badge: true
 max_results: 20
 
-publish_readme: True
-publish_gitpage: True
-publish_wechat: False #
+publish_readme: true
+publish_gitpage: true
+publish_wechat: false
+
+# 可选：下发到脚本用于请求参数与礼貌访问（若脚本支持）
+sort_by: "submittedDate"         # or: relevance | lastUpdatedDate
+sort_order: "descending"         # or: ascending
+user_agent: "arxiv-daily (+https://github.com/Xu-feng-feng/arxiv-daily)"
+request_delay_seconds: 3         # 建议对 export.arxiv.org 做小延时
 
 # file paths
 json_readme_path: './docs/arxiv-daily.json'
@@ -21,44 +27,48 @@ md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
 # keywords to search
-# topics: task/technique/dataset...
 keywords:
-    "Point Cloud Compression": 
-        filters: ["Point Cloud Compression", 
-                  "Point Cloud Coding", 
-                  "Point Cloud Upsampling", 
-                  "Point Cloud Geometry Compression",
-                  "Point Cloud Geometry Coding",
-                  "Point Cloud Super Resolution",
-                  "Point Cloud Interpolation",
-                  "Point Cloud Attribute Compression",
-                  "Point Cloud Attribute Coding"]
-    "Compression":
-        filters: ["Compression", 
-                  "Image Compression",
-                  "Video Compression",
-                  "Data Compression",
-                  "Neural Compression",
-                  "Network Compression",
-                  "Image Coding",
-                  "Video Coding"]
-    "Quality Assessment":
-        filters: ["Perceptual Quality",
-                  "Quality Assessment",
-                  "Visual Quality",
-                  "Image Quality",
-                  "Video Quality",
-                  "Quality Evaluation",
-                  "Quality Estimation",
-                  "Quality Measurement"]
-    "Super Resolution":
-        filters: ["Super Resolution", 
-                  "Super-Resolution",
-                  "Upsampling",
-                  "Interpolation"]
-    "Remote Sensing":
-        filters: ["Remote Sensing", 
-                  "Hyperspectral", 
-                  "Multispectral", 
-                  "LiDAR",
-                  "Satellite"]
+  "Point Cloud Compression":
+    filters:
+      - "Point Cloud Compression"
+      - "Point Cloud Coding"
+      - "Point Cloud Upsampling"
+      - "Point Cloud Geometry Compression"
+      - "Point Cloud Geometry Coding"
+      - "Point Cloud Super Resolution"
+      - "Point Cloud Interpolation"
+      - "Point Cloud Attribute Compression"
+      - "Point Cloud Attribute Coding"
+  "Compression":
+    filters:
+      - "Compression"
+      - "Image Compression"
+      - "Video Compression"
+      - "Data Compression"
+      - "Neural Compression"
+      - "Network Compression"
+      - "Image Coding"
+      - "Video Coding"
+  "Quality Assessment":
+    filters:
+      - "Perceptual Quality"
+      - "Quality Assessment"
+      - "Visual Quality"
+      - "Image Quality"
+      - "Video Quality"
+      - "Quality Evaluation"
+      - "Quality Estimation"
+      - "Quality Measurement"
+  "Super Resolution":
+    filters:
+      - "Super Resolution"
+      - "Super-Resolution"
+      - "Upsampling"
+      - "Interpolation"
+  "Remote Sensing":
+    filters:
+      - "Remote Sensing"
+      - "Hyperspectral"
+      - "Multispectral"
+      - "LiDAR"
+      - "Satellite"

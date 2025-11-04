@@ -1,5 +1,5 @@
 # TODO: add papers by configuration file
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+base_url: "http://export.arxiv.org/api/query!"
 user_name: "Xu-feng-feng"
 repo_name: "arxiv-daily"
 show_authors: True

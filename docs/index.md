@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.26
+## Updated on 2026.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression

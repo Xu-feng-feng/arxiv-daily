@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import time
 import arxiv
 import yaml
 import logging
@@ -84,7 +85,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic, query="slam", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -99,7 +100,24 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    # Use a client with higher delay and retries to avoid HTTP 429 rate limiting
+    client = arxiv.Client(page_size=min(max_results, 100), delay_seconds=5.0, num_retries=5)
+
+    max_attempts = 5
+    for attempt in range(max_attempts):
+        try:
+            results = list(client.results(search_engine))
+            break
+        except arxiv.HTTPError as e:
+            if e.status == 429 and attempt < max_attempts - 1:
+                wait_time = 30 * (2 ** attempt)
+                logging.warning(f"HTTP 429 rate limit hit for topic '{topic}'. Waiting {wait_time}s before retry {attempt + 1}/{max_attempts}...")
+                time.sleep(wait_time)
+            else:
+                logging.error(f"Failed to fetch results for topic '{topic}' after {attempt + 1} attempts: {e}")
+                return {topic: content}, {topic: content_to_web}
+
+    for result in results:
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -390,6 +408,7 @@ def demo(**config):
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
+            time.sleep(3)  # short pause between topic queries to respect rate limits
         logging.info(f"GET daily papers end")
 
     # 1. update README.md file

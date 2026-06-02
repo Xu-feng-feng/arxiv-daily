@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+env:
+  GITHUB_USER_NAME: Xu-feng-feng
+  GITHUB_USER_EMAIL: 1324287818@qq.com
+
 jobs:
   build:
     name: update
@@ -44,6 +48,7 @@ jobs:
           python daily_arxiv.py
 
       - name: Commit & push updates
+        if: success()
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}

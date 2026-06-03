@@ -34,7 +34,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --upgrade arxiv requests pyyaml
+          pip install "arxiv==1.4.8" requests pyyaml
 
       - name: Run daily arxiv
         env:
